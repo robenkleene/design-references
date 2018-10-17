@@ -15,4 +15,5 @@
 
 ## Export
 
-* Use `Make Exportable` in the lower right to export anything simply.
+- Use `Make Exportable` in the lower right to export anything simply.
+- To change the export format, with the art board selected, there should be export presets on the right.
