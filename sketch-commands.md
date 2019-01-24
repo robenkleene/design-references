@@ -4,6 +4,10 @@
 - `⌃⌥⌘↓` / `⌃⌥⌘↑`: Move to back/front
 - `⌥⌘↓` / `⌥⌘↑`: Send backward/forward
 
+## Kerning
+
+- `⌃⌥L` / `⌃⌥T`: Loosen / tighten kerning (put the cursor between two characters)
+
 ## Vector Tool
 
 - `v`: Activate the vector tool
