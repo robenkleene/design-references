@@ -1,4 +1,4 @@
 # Photoshop
 
 - `⌘~`: Switch tabs
-- `⌃⌤`: Switch tabs
+- `⌃⇥`: Switch tabs
