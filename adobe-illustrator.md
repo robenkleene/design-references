@@ -2,3 +2,7 @@
 
 - `⌘'`: Toggle grid
 - `⇧⌘`: Toggle snap to grid
+
+## Tools
+
+- `⌥Click`: Get to tool settings (e.g., change number of vertices in the polygon tool)
