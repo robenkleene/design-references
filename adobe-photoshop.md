@@ -13,3 +13,7 @@
 - Set everything to pixels in "Preferences" -> "Units & Rules"
 - In the right sidebar, drag out most of the tabs, just leave swatches and layers
 - Under "Edit" -> "Color Settings", set color settings to `sRBG`, for a conflict, ask when opening or pasting
+
+## Tools
+
+- `z`: Zoom tool, to drag a marquee, unselect "Scrubby Zoom"
