@@ -48,3 +48,27 @@ Manual focus is best when you want to refine your focus, usually to get a blurre
 
 Shoot within an hour of sunrise or sunset for great light.
 
+## White Balance
+
+White balance is about making your photos look as natural and neutral as possible.
+
+White balance is to adjust temperature. Exposure is how light and dark a photo is, white balance is the color "cast" of the photo.
+
+Auto white balance works great outdoors, but it struggles with mixed lighting, indoor lighting, and high-contrast lighting.
+
+Here's how the white balance settings map to color temperature:
+
+- 1000K Candlelight
+- 2000K Incandescent
+- 3000K Sunrise/Sunset
+- 4000K Fluorescent (White)
+- 5000K Daylight
+- 6000K Flash
+- 7000K Cloudy
+- 8000K Shade
+
+Essentially what this means is the lower the white balance setting, the more blue will be added to the photo, and the higher, the more red. (But the goal should be to make the shot as neutral and natural as possible.)
+
+### Temperature
+
+Temperature is in Kelvin. Warm colors (lower temperature 1000K) are toward the red part of the spectrum, cold colors (higher temperature 8000K) are towards the blue part of the spectrum.
