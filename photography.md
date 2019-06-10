@@ -12,9 +12,21 @@ Three factors affect every exposure:
 
 An example of when to use manual exposure: If you're shooting a shot with a white background, the camera is going to overcompensate and make the photo to dark.
 
+The iPhone defaults to low ISO and high shutter speed. As you need more light, the shutter speeds gets low until around 1/8, then the ISO increases.
+
+It seems that the only reason to manipulate shutter speed and ISO separately is to create blur effects?
+
 ## ISO
 
 Light sensitivity, the lower the number, the less sensitive the camera is to light, so reduce the number on bright sunny days. Low ISO mean slow noise, high ISO means high noise.
+
+It's just like amplifying sound, if you amplify light you also amplify the noise.
+
+Essentially the trade off is less stability and clear image (fast shutter speed and low ISO) versus more stability with noisy image (low shutter speed and high ISO).
+
+The less noisy you want your image, the more stable you have to hold it. So to get higher quality images, increase stability.
+
+The iPhone's ISO range is 25 to 2000.
 
 ### ISO Ranges
 
@@ -68,6 +80,8 @@ Here's how the white balance settings map to color temperature:
 - 8000K Shade
 
 Essentially what this means is the lower the white balance setting, the more blue will be added to the photo, and the higher, the more red. (But the goal should be to make the shot as neutral and natural as possible.)
+
+Use AWB in sunlight, or well lit areas. "Warm" the shot up when shooting in shade.
 
 ### Temperature
 
