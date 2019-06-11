@@ -21,3 +21,13 @@ Turn on "View" -> "Show Corner Widget" then hover near a corner with the "Direct
 ## Transparency & Effects
 
 Effects, as well as setting transparency, is done in the "Appearance" panel, under "View" -> "Appearance"
+
+## Resizing
+
+The easiest way to resizes is by dragging the bounding box, you may need to show it with "View" -> "Show Bounding Box"
+
+## Patterns
+
+To create a pattern, drag the selected objects to the Swatches panel
+
+To edit a pattern, double click it
