@@ -8,6 +8,11 @@
 - `\`: Toggle showing original (unedited) photo
 - `j`: Show clipping
 
+### Brushes
+
+- `h`: Healing brush
+- `[` / `]`: Decrease/increase brush size
+
 ## Mobile
 
 - Tap to compare to original photo
