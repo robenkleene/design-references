@@ -22,6 +22,8 @@ Turn on "View" -> "Show Corner Widget" then hover near a corner with the "Direct
 
 Effects, as well as setting transparency, is done in the "Appearance" panel, under "View" -> "Appearance"
 
+The appearance panel can be shown with the ellipses in the bottom right of the "Properties" panel
+
 ## Resizing
 
 The easiest way to resizes is by dragging the bounding box, you may need to show it with "View" -> "Show Bounding Box"
@@ -31,3 +33,7 @@ The easiest way to resizes is by dragging the bounding box, you may need to show
 To create a pattern, drag the selected objects to the Swatches panel
 
 To edit a pattern, double click it
+
+## Artboard
+
+- Edit the artboard either by selecting "File" -> "Document Setup..." or just by clicking "Edit Artboard" in the "Properties" panel
