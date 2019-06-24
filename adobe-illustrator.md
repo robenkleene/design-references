@@ -14,6 +14,10 @@ To preview color, select "Edit" -> "Edit Colors" -> "Recolor Artwork..." (the co
 
 You can also preview a color by using a global swatch, double click a swatch and make sure the "Global" checkbox is checked. Then use the swatch as a color (e.g., by dragging it to the stroke box), then when the "Preview" box is checked, the color can be previewed live.
 
+## Swatches
+
+To delete all swatches, use the swatches contextual menu "Select All Unused" and then type the delete key.
+
 ## Rounded Rectangles
 
 Turn on "View" -> "Show Corner Widget" then hover near a corner with the "Direct Selection Tool" (`A`), a circle should appear that can be dragged to change the corner radius.

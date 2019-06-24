@@ -17,3 +17,7 @@
 ## Tools
 
 - `z`: Zoom tool, to drag a marquee, unselect "Scrubby Zoom"
+
+## Swatches
+
+To delete all swatches, just go to the "Preset Manager" and delete all from there.
