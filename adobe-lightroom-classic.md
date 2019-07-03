@@ -9,10 +9,14 @@
 
 Also move any files in the Lightroom `Mobile Downloads.lrdata` directory here (this is where photos synced from Lightroom Mobile are added to)
 
-## Desktop
+## Shortcuts
 
 Edits are made in the develop module.
 
 - `d`: Go to develop module
 - `e`: Go to loupe view
 - `g`: Go to grid view (tap again to toggle between types of grid
+
+### Develop Module
+
+- `\`: Toggle between edited/unedited
