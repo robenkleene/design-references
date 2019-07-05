@@ -17,6 +17,11 @@ Edits are made in the develop module.
 - `e`: Go to loupe view
 - `g`: Go to grid view (tap again to toggle between types of grid
 
-### Develop Module
+## Develop Module
 
 - `\`: Toggle between edited/unedited
+- `⌥⌘o`: Toggle grid (after showing it under "View" -> "Loupe Overview" -> "Grid")
+
+### Alignment
+
+- Use the transform panel (under "Window" -> "Panels" -> "Transform") and just select "auto".
