@@ -8,6 +8,10 @@
 
 - `⌥Click`: Get to tool settings (e.g., change number of vertices in the polygon tool)
 
+### Shape Tools
+
+- Use `⌥` to draw a shape from the center as opposed to the edge, this can be combined with `⇧` to constrain proportions.
+
 ## Previewing Colors
 
 To preview color, select "Edit" -> "Edit Colors" -> "Recolor Artwork..." (the colors can then be adjusted live with the sliders, although the color picker still won't live preview from here).

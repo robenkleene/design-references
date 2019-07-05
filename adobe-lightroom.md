@@ -18,6 +18,10 @@
 - Tap to compare to original photo
 - Undo and redo arrows are near the top on iPad
 
+## Creative Cloud Sync
+
+If you delete a photo from Lightroom CC, it won't delete it from Lightroom Classic (because Lightroom Classic considers its library the source of truth).
+
 ## Cyberpunk
 
 1. Use "Color" -> "Temperature" tool, click on something white (the eye dropper sets the white balance based on choosing something in the photo that's a neutral color)
