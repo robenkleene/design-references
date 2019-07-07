@@ -21,6 +21,16 @@ Edits are made in the develop module.
 
 - `\`: Toggle between edited/unedited
 - `⌥⌘o`: Toggle grid (after showing it under "View" -> "Loupe Overview" -> "Grid")
+- `r`: Crop tool
+- `k`: Adjustment brush
+- `⇧`: Move sliders by larger increments
+
+### Adjustment Brush
+
+- `⌥`: Switch to eraser
+- when the adjustment brush is active, the bar below the photo will have a done button.
+- The brush head can be edited in the "brush" section.
+- Use "Auto Mask" checkbox to isolate the brush to similar parts of the photo (e.g., to capture just the subject, a bit like Photoshop's "Magic Wand" tool).
 
 ### Alignment
 
