@@ -32,6 +32,16 @@ Edits are made in the develop module.
 - The brush head can be edited in the "brush" section.
 - Use "Auto Mask" checkbox to isolate the brush to similar parts of the photo (e.g., to capture just the subject, a bit like Photoshop's "Magic Wand" tool).
 
+### Spot Removal
+
+- Click once and it will try to automatically remove the object.
+- The Spot Removal tool is also a brush, so you can click and drag to affect a non-circular area.
+
+#### Options
+
+- `Heal`: Intelligently remove object
+- `Clone`: Exactly remove object
+
 ### Alignment
 
 - Use the transform panel (under "Window" -> "Panels" -> "Transform") and just select "auto".
