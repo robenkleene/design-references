@@ -22,6 +22,12 @@ You can also preview a color by using a global swatch, double click a swatch and
 
 To delete all swatches, use the swatches contextual menu "Select All Unused" and then type the delete key.
 
+## End Caps
+
+Open the "Appearance" panel and click on "Stroke".
+
+Or click on "Stroke" in the "Properties" panel with the object selected.
+
 ## Rounded Rectangles
 
 Turn on "View" -> "Show Corner Widget" then hover near a corner with the "Direct Selection Tool" (`A`), a circle should appear that can be dragged to change the corner radius.
