@@ -24,16 +24,19 @@ Edits are made in the develop module.
 - `r`: Crop tool
 - `k`: Adjustment brush
 - `⇧`: Move sliders by larger increments
+- `h`: Hide UI of whatever tool is being used
 
 ### Adjustment Brush
 
 - `⌥`: Switch to eraser
+- `o`: Toggle showing the adjustment brush area
 - when the adjustment brush is active, the bar below the photo will have a done button.
 - The brush head can be edited in the "brush" section.
 - Use "Auto Mask" checkbox to isolate the brush to similar parts of the photo (e.g., to capture just the subject, a bit like Photoshop's "Magic Wand" tool).
 
 ### Spot Removal
 
+- `h`: Hide the UI making it easy to layer spot removals
 - Click once and it will try to automatically remove the object.
 - The Spot Removal tool is also a brush, so you can click and drag to affect a non-circular area.
 
