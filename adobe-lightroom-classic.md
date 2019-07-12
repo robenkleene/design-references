@@ -9,6 +9,10 @@
 
 Also move any files in the Lightroom `Mobile Downloads.lrdata` directory here (this is where photos synced from Lightroom Mobile are added to)
 
+## Edit in Photoshop
+
+Use `⌘E` to edit in Photoshop. After saving, a new PSD file will be created in Lightroom (the original file won't be overwritten).
+
 ## Shortcuts
 
 Edits are made in the develop module.

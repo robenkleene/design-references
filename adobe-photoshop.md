@@ -6,6 +6,7 @@
 ## Selection
 
 - Hold shift to transform without scaling.
+- `q`: Highlight (color red) selection
 
 ## Settings
 
