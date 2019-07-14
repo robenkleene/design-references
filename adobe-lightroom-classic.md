@@ -17,6 +17,7 @@ Use `⌘E` to edit in Photoshop. After saving, a new PSD file will be created in
 
 Edits are made in the develop module.
 
+- `⇥`: Toggle sidebars
 - `d`: Go to develop module
 - `e`: Go to loupe view
 - `g`: Go to grid view (tap again to toggle between types of grid
@@ -34,6 +35,7 @@ Edits are made in the develop module.
 
 - `⌥`: Switch to eraser
 - `o`: Toggle showing the adjustment brush area
+- `⇧o`: Change color of adjustment area
 - when the adjustment brush is active, the bar below the photo will have a done button.
 - The brush head can be edited in the "brush" section.
 - Use "Auto Mask" checkbox to isolate the brush to similar parts of the photo (e.g., to capture just the subject, a bit like Photoshop's "Magic Wand" tool).
@@ -43,6 +45,16 @@ Edits are made in the develop module.
 - `h`: Hide the UI making it easy to layer spot removals
 - Click once and it will try to automatically remove the object.
 - The Spot Removal tool is also a brush, so you can click and drag to affect a non-circular area.
+
+### Gradient Filter
+
+- Click the bottom line to move the filter
+- Click the center lien to rotate the filter
+- To remove the color, just move the slide all the way to the left
+
+### Split Toning
+
+- Hold `⌥`: To turn up the saturation to 100% temporarily when using the "hue" slider
 
 #### Options
 
