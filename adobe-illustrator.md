@@ -12,6 +12,10 @@
 
 - Use `⌥` to draw a shape from the center as opposed to the edge, this can be combined with `⇧` to constrain proportions.
 
+### Pen Tool
+
+- To remove an anchor point, click it with the pen tool.
+
 ## Previewing Colors
 
 To preview color, select "Edit" -> "Edit Colors" -> "Recolor Artwork..." (the colors can then be adjusted live with the sliders, although the color picker still won't live preview from here).
