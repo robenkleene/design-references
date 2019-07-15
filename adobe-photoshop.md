@@ -22,3 +22,8 @@
 ## Swatches
 
 To delete all swatches, just go to the "Preset Manager" and delete all from there.
+
+## Removing Large Objects
+
+1. Select with the polygonal lasso
+2. Use "Edit" -> "Fill...", with `Contents: Content-Aware`

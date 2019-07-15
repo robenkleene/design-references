@@ -31,6 +31,11 @@ Edits are made in the develop module.
 - `⇧`: Move sliders by larger increments
 - `h`: Hide UI of whatever tool is being used
 
+### Tips
+
+- Always use "Lens Correction" "Enable Profile Corrections" to use built-in corrections for your camera.
+- Split toning is a great way to emphasize color separation
+
 ### Adjustment Brush
 
 - `⌥`: Switch to eraser
