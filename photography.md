@@ -86,3 +86,10 @@ Use AWB in sunlight, or well lit areas. "Warm" the shot up when shooting in shad
 ### Temperature
 
 Temperature is in Kelvin. Warm colors (lower temperature 1000K) are toward the red part of the spectrum, cold colors (higher temperature 8000K) are towards the blue part of the spectrum.
+
+## Times of Day
+
+Blue hour and golden hour are both longer the farther you are from the equator.
+
+- **Blue Hour**: Short period before sunrise and after sunset. It's named after the color of the sky. It takes about 20 minutes in New York in March.
+- **Golden Hour**: After sunrise and before sunset. The sun at the horizon gives light a golden color. It's about one hour in New York in March.
