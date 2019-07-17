@@ -57,6 +57,10 @@ Edits are made in the develop module.
 - Click the center lien to rotate the filter
 - To remove the color, just move the slide all the way to the left
 
+### Guided Upright
+
+- Hold `⌥⌘` to pan the photo
+
 ### Split Toning
 
 - Hold `⌥`: To turn up the saturation to 100% temporarily when using the "hue" slider
