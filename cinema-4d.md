@@ -14,3 +14,7 @@ The three icons in the upper right of the main view do orbit, pan, and zoom.
 ## Materials
 
 - Double-click to create a new material
+
+## Image Viewer
+
+You can open a reference image by going to "Window" -> "Picture Viewer", using the folder icon to open an image, and then dragging the grid icon in the upper left of the window into the sidebar.
