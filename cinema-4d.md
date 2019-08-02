@@ -11,6 +11,12 @@
 
 The three icons in the upper right of the main view do orbit, pan, and zoom.
 
+## Tools
+
+### Move
+
+- If the yellow scaling handles are missing, select "Tools" -> "Modes" -> "Model"
+
 ## Materials
 
 - Double-click to create a new material
