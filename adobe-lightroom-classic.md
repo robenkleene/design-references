@@ -38,12 +38,15 @@ Edits are made in the develop module.
 
 ### Adjustment Brush
 
+Note the adjustment brush adjusts *over* the global settings, if it's not working this way, it's probably because the adjustment brush has starting settings (double click the "Effect:" label to reset).
+
 - `⌥`: Switch to eraser
 - `o`: Toggle showing the adjustment brush area
 - `⇧o`: Change color of adjustment area
 - when the adjustment brush is active, the bar below the photo will have a done button.
 - The brush head can be edited in the "brush" section.
 - Use "Auto Mask" checkbox to isolate the brush to similar parts of the photo (e.g., to capture just the subject, a bit like Photoshop's "Magic Wand" tool).
+- Double-click the "Effect:" label to reset the settings
 
 ### Spot Removal
 
