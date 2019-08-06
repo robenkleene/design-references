@@ -1,5 +1,9 @@
 # Adobe After Effects
 
+- `u`: Reveal properties for selected composition
+- `r`: Reveal rotation
+- `⌥⌘→` `HOME` / `⌥⌘←` `END`: Go to the beginning or end of composition
+
 ## Trapcode Form
 
 In Trapcode Form, hit `c` to change the 3D camera tool (switch from orbit to pan or zoom).
