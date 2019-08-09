@@ -4,6 +4,22 @@
 - `r`: Reveal rotation
 - `⌥⌘→` `HOME` / `⌥⌘←` `END`: Go to the beginning or end of composition
 
+## Solid
+
+- `⌘Y`: Add solid, such as for a background
+
+## Effects
+
+You can copy and paste effects with `⌘C` and `⌘V`.
+
+## Expressions
+
+- `⌥-click` the stopwatch to immediately enter an expression
+
+### Expression Examples
+
+- Rotation `time * 5` makes an object rotate
+
 ## Trapcode Form
 
 In Trapcode Form, hit `c` to change the 3D camera tool (switch from orbit to pan or zoom).
