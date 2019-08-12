@@ -48,6 +48,10 @@ Note the adjustment brush adjusts *over* the global settings, if it's not workin
 - Use "Auto Mask" checkbox to isolate the brush to similar parts of the photo (e.g., to capture just the subject, a bit like Photoshop's "Magic Wand" tool).
 - Double-click the "Effect:" label to reset the settings
 
+#### Part of an Image
+
+- You can use "Range Mask: Color" to just target part of an adjustment brush selection.
+
 ### Spot Removal
 
 - `q`: Spot removal tool
