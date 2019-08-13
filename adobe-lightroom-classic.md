@@ -81,3 +81,9 @@ Note the adjustment brush adjusts *over* the global settings, if it's not workin
 ### Alignment
 
 - Use the transform panel (under "Window" -> "Panels" -> "Transform") and just select "auto".
+
+## Noise
+
+In the "Develop" module, under "Detail" -> "Noise Reduction" hold `⌥` while dragging the sliders to see the image in black and white (this makes the noise easier to see).
+
+As a general approach, for the "Luminance", "Detail", and "Contrast" sliders, move them all the way to the left, and then increase them until you see the noise again.
