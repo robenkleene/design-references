@@ -1,8 +1,13 @@
 # Adobe After Effects
 
-- `u`: Reveal properties for selected composition
-- `r`: Reveal rotation
 - `⌥⌘→` `HOME` / `⌥⌘←` `END`: Go to the beginning or end of composition
+- `⇧F3`: Toggle graph editor
+
+## Timeline
+
+- `u`: Reveal properties for selected composition
+- `r`: Reveal rotation for selected composition
+- `a`: Reveal all properties for selected composition
 
 ## Solid
 
@@ -36,4 +41,11 @@ To open Cinema 4D from After Effects, go to "File" -> "New" -> "MAXON CINEMA 4D 
 ### Shortcuts
 
 - `⌘E`: Edit original Cinema 4D file
+
+## Previews & RAM
+
+The green line is the RAM preview. The blue line is the disk cache. You can adjust the preview resolution under the preview, e.g., change "Full" to "Half" or "Quarter".
+
+- `⌃⌫` / "Edit" -> "Purge" -> "All Memory": Delete the RAM cache
+
 
