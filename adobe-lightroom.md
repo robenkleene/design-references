@@ -12,6 +12,7 @@
 
 - `h`: Healing brush
 - `[` / `]`: Decrease/increase brush size
+- The "Auto Mask" checkbox makes the brush try to automatically detect boundaries, a bit like the "Magic Wand" tool in Photoshop.
 
 ## Mobile
 
