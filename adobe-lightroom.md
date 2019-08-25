@@ -14,6 +14,10 @@
 - `[` / `]`: Decrease/increase brush size
 - The "Auto Mask" checkbox makes the brush try to automatically detect boundaries, a bit like the "Magic Wand" tool in Photoshop.
 
+### Eyedropper
+
+To sample a color from your photo, hold the mouse button down in side the color overlay and then drag out of the overlay onto the photo.
+
 ## Mobile
 
 - Tap to compare to original photo
