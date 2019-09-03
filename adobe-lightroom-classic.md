@@ -13,6 +13,10 @@ Also move any files in the Lightroom `Mobile Downloads.lrdata` directory here (t
 
 Use `⌘E` to edit in Photoshop. After saving, a new PSD file will be created in Lightroom (the original file won't be overwritten).
 
+## Deleting Photos
+
+Just use the `⌫` key, but if you're viewing the photo in a collection, first select "Go To Folder in Library" from the right-click menu, then hit the `⌫` key.
+
 ## Shortcuts
 
 Edits are made in the develop module.
