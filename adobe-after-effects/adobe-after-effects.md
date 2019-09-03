@@ -3,6 +3,7 @@
 - `⌥⌘→` `HOME` / `⌥⌘←` `END`: Go to the beginning or end of composition
 - `⇧F3`: Toggle graph editor
 - Double-click the composition section to import an asset
+- Hold `⌘` when dragging values to make finer adjustments
 
 ## Timeline
 
