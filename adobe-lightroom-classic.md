@@ -62,6 +62,7 @@ Note the adjustment brush adjusts *over* the global settings, if it's not workin
 - `h`: Hide the UI making it easy to layer spot removals
 - Click once and it will try to automatically remove the object.
 - The Spot Removal tool is also a brush, so you can click and drag to affect a non-circular area.
+- Use "Visualize Spots"
 
 ### Gradient Filter
 
