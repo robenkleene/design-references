@@ -37,6 +37,8 @@ Splitting is a very useful feature to have simultaneous zoomed out and zoomed in
 1. Open a second view of the image by selecting "Window" -> "Arrange" -> "New Window for <filename>"
 2. Align the windows with "Window" -> "Arrange" -> "2-Up Vertical" (or horizontal)
 
+(Make sure "Zoom All Windows" is unchecked for this to be useful.)
+
 Also turning on "Window" -> "Application Frame" makes it easier to work in small spaces because you can zoom out without re-centering the image which makes it easier to use tools that are partially outside of the window frame.
 
 ## Straightening
