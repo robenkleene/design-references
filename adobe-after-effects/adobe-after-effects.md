@@ -5,6 +5,10 @@
 - Double-click the composition section to import an asset
 - Hold `⌘` when dragging values to make finer adjustments
 
+## Color
+
+Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
+
 ## Timeline
 
 - `u`: Reveal properties for selected composition
