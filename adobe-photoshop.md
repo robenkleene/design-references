@@ -30,6 +30,15 @@ To delete all swatches, just go to the "Preset Manager" and delete all from ther
 1. Select with the polygonal lasso
 2. Use "Edit" -> "Fill...", with `Contents: Content-Aware`
 
+## Splitting Images
+
+Splitting is a very useful feature to have simultaneous zoomed out and zoomed in view of one image. To split an image:
+
+1. Open a second view of the image by selecting "Window" -> "Arrange" -> "New Window for <filename>"
+2. Align the windows with "Window" -> "Arrange" -> "2-Up Vertical" (or horizontal)
+
+Also turning on "Window" -> "Application Frame" makes it easier to work in small spaces because you can zoom out without re-centering the image which makes it easier to use tools that are partially outside of the window frame.
+
 ## Straightening
 
 ### Objects
