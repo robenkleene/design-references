@@ -36,3 +36,8 @@ You can copy and paste effects with `⌘C` and `⌘V`.
 The green line is the RAM preview. The blue line is the disk cache. You can adjust the preview resolution under the preview, e.g., change "Full" to "Half" or "Quarter".
 
 - `⌃⌫` / "Edit" -> "Purge" -> "All Memory": Delete the RAM cache
+
+## Export
+
+1. `⌃⌘M`: "Composition" -> "Add to Render Queue"
+2. Click "Render"
