@@ -9,6 +9,12 @@
 
 Also move any files in the Lightroom `Mobile Downloads.lrdata` directory here (this is where photos synced from Lightroom Mobile are added to)
 
+## Starting Editing
+
+1. Turn on "Lens Correction"
+2. Pick a color profile
+3. Choose a preset
+
 ## Edit in Photoshop
 
 Use `⌘E` to edit in Photoshop. After saving, a new PSD file will be created in Lightroom (the original file won't be overwritten).
