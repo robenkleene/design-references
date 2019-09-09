@@ -41,3 +41,7 @@ The green line is the RAM preview. The blue line is the disk cache. You can adju
 
 1. `⌃⌘M`: "Composition" -> "Add to Render Queue"
 2. Click "Render"
+
+## Bodymovin
+
+- Make sure "After Effects" -> "Preferences" -> "Scripting & Expressions" -> "Allow Scripts to Write Files and Access Network" is checked
