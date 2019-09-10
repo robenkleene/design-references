@@ -11,9 +11,10 @@ Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
 
 ## Timeline
 
-- `u`: Reveal properties for selected composition
-- `r`: Reveal rotation for selected composition
-- `a`: Reveal all properties for selected composition
+- `u`: Show/hide properties with a key frame
+- `uu`: Show/hide all modified properties
+- `r`: Show/hide rotation for selected composition
+- `a`: Show/hide anchor point or position
 
 ## Solid
 
