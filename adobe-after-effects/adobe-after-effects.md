@@ -15,6 +15,7 @@ Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
 - `uu`: Show/hide all modified properties
 - `r`: Show/hide rotation for selected composition
 - `a`: Show/hide anchor point or position
+- `⌘D`: Duplicate
 
 ## Solid
 
