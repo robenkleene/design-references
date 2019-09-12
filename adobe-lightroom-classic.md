@@ -62,6 +62,10 @@ Note the adjustment brush adjusts *over* the global settings, if it's not workin
 
 - You can use "Range Mask: Color" to just target part of an adjustment brush selection.
 
+### Tone Curve
+
+You can adjust the tone curve using separate sliders for highlights, lights, darks, and shadows, by clicking the stop editing icon.
+
 ### Spot Removal
 
 - `q`: Spot removal tool

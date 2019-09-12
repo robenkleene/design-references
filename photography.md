@@ -1,5 +1,9 @@
 # Photography
 
+## Tone Curve
+
+The tone curve, from left to right, maps to "Shadows", "Darks", "Lights", and "Highlights".
+
 ## Exposure
 
 Process of letting light through the lens to the sensor.
