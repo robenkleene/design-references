@@ -4,6 +4,7 @@
 - `⇧F3`: Toggle graph editor
 - Double-click the composition section to import an asset
 - Hold `⌘` when dragging values to make finer adjustments
+- The crosshairs is the anchor point (the point around which an object will be rotated)
 
 ## Color
 
