@@ -6,6 +6,10 @@
 - Hold `⌘` when dragging values to make finer adjustments
 - The crosshairs is the anchor point (the point around which an object will be rotated)
 
+## Layers
+
+To change a layers size (as opposed to scaling it), go to "Layer" -> "Layer Settings"
+
 ## Color
 
 Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
