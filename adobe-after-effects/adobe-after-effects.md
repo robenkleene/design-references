@@ -52,3 +52,7 @@ The green line is the RAM preview. The blue line is the disk cache. You can adju
 ## Bodymovin
 
 - Make sure "After Effects" -> "Preferences" -> "Scripting & Expressions" -> "Allow Scripts to Write Files and Access Network" is checked
+
+## Gradient Fill
+
+To rotate a gradient fill, select one of its properties in the timeline (like "Start Point"). You'll then be able to move the start and end points of the gradient.
