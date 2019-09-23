@@ -5,6 +5,11 @@
 - `⌘R`: Toggle rulers
 - `⌘'`: Toggle grid
 
+## Fill
+
+- `⌘⌫`: Fill with background color
+- `⌥⌫`: Fill with foreground color
+
 ## Selection
 
 - Hold shift to transform without scaling.
