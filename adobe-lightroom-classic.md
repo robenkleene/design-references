@@ -41,6 +41,12 @@ Edits are made in the develop module.
 - `⇧`: Move sliders by larger increments
 - `h`: Hide UI of whatever tool is being used
 
+## Collections
+
+- The easiest way to add to a collection is just by dragging.
+- If you need to add a bunch of photos to a collection, you can right click the collection and select "Set as Target Collection", then the `B` shortcut will add to that collection instead of the default "Quick Collection".
+- To remove from a collection, right click and select "Remove from Collection".
+
 ### Tips
 
 - Always use "Lens Correction" "Enable Profile Corrections" to use built-in corrections for your camera.
