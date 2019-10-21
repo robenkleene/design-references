@@ -22,6 +22,10 @@ Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
 - `a`: Show/hide anchor point or position
 - `⌘D`: Duplicate
 
+## Composition View
+
+- `c`: Cycle through various camera tools
+
 ## Solid
 
 - `⌘Y`: Add solid, such as for a background
