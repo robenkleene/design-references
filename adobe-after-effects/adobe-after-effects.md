@@ -30,6 +30,10 @@ Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
 
 - `⌘Y`: Add solid, such as for a background
 
+## Shape Layers
+
+- Shape layers can be resized simply via their properties.
+
 ## Effects
 
 You can copy and paste effects with `⌘C` and `⌘V`.
