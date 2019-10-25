@@ -64,3 +64,7 @@ The green line is the RAM preview. The blue line is the disk cache. You can adju
 ## Gradient Fill
 
 To rotate a gradient fill, select one of its properties in the timeline (like "Start Point"). You'll then be able to move the start and end points of the gradient.
+
+## Lights & Cameras
+
+When using lights and cameras, turn on the "Adaptive Resolution" preview preference so you can see what you are doing as you make changes.
