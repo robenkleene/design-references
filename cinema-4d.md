@@ -1,6 +1,9 @@
 # Cinema 4D
 
+What feels the most natural are two-finger drag to zoom, and `⌥drag` to orbit.
+
 - `⌥drag`: Rotate (orbit) the camera around a point
+- Two-finger drag up and down: Zoom in and out
 - `Hold 1 + click-and-drag`: Pan
 - `Hold 2 + click-and-drag`: Zoom
 - `Hold 3 + click-and-drag`: Orbit
