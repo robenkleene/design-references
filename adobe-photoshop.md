@@ -26,6 +26,10 @@
 
 - `z`: Zoom tool, to drag a marquee, unselect "Scrubby Zoom"
 
+### Polygonal Lasso
+
+- `⌫`: Delete most recent segment
+
 ## Swatches
 
 To delete all swatches, just go to the "Preset Manager" and delete all from there.
