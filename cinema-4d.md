@@ -14,6 +14,11 @@ What feels the most natural are two-finger drag to pan, `⌥drag` to orbit, and 
 
 The three icons in the upper right of the main view do orbit, pan, and zoom.
 
+## Trackpad
+
+- `⌥-2-finger` to orbit
+- `⌥-3-finger` to pan
+
 ## Tools
 
 ### Move
