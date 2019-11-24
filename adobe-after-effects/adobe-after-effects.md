@@ -5,6 +5,9 @@
 - Double-click the composition section to import an asset
 - Hold `⌘` when dragging values to make finer adjustments
 - The crosshairs is the anchor point (the point around which an object will be rotated)
+- `←` / `→`: Forward or backward one frame
+- `⇧⌘←` / `⇧⌘→`: Forward or backward ten frames
+- `HOME` / `END`: Go to beginning or end
 
 ## Layers
 
@@ -68,3 +71,7 @@ To rotate a gradient fill, select one of its properties in the timeline (like "S
 ## Lights & Cameras
 
 When using lights and cameras, turn on the "Adaptive Resolution" preview preference so you can see what you are doing as you make changes.
+
+## Preferences
+
+- `⌘⌥` ("Edit" -> "Keyboard Shortcuts"): Edit keyboard shortcuts
