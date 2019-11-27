@@ -32,3 +32,7 @@ The three icons in the upper right of the main view do orbit, pan, and zoom.
 ## Image Viewer
 
 You can open a reference image by going to "Window" -> "Picture Viewer", using the folder icon to open an image, and then dragging the grid icon in the upper left of the window into the sidebar.
+
+## Refractions
+
+- **Refraction**: How fast light moves through a vacuum and how fast it moves through a material and an object. So `1.5` means light is going to move `1.5` times slower through the material than it would normally.
