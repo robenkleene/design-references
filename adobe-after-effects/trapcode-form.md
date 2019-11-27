@@ -12,3 +12,23 @@ In Trapcode Form, hit `c` to change the 3D camera tool (switch from orbit to pan
 
 There's no longer a blend mode option under "Rendering", so instead make a separate layer and change the blend mode of the new layer.
 
+## Fractal Field
+
+To make a nice fractal field as a starting point.
+
+### Fractal Field
+
+- **Affect Size:** 3
+- **Displace:** 230
+
+Then to go further:
+
+### Particle
+
+- **Size XYZ:** 80
+- **Set Color:** Over X, choose a nice gradient
+
+### Sphere 1
+
+- **Strength:** 100
+- **Radius:** 300
