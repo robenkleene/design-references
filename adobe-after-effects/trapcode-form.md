@@ -8,6 +8,10 @@ In Trapcode Form, hit `c` to change the 3D camera tool (switch from orbit to pan
 2. Right-click in timeline panel and choose "New" -> "Solid", and click "Make Comp Size"
 3. Right-click the solid and add the Trapcode Form affect to it
 
+## Gradients
+
+- To remove a gradient stop, just drag it off, to add one double-click on the gradient.
+
 ## Blend Mode
 
 There's no longer a blend mode option under "Rendering", so instead make a separate layer and change the blend mode of the new layer.
