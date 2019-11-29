@@ -8,6 +8,11 @@ In Trapcode Form, hit `c` to change the 3D camera tool (switch from orbit to pan
 2. Right-click in timeline panel and choose "New" -> "Solid", and click "Make Comp Size"
 3. Right-click the solid and add the Trapcode Form affect to it
 
+## Tips
+
+- Using blend mode "Add" overlapping particles brighten
+- Fractal Field Affect Size is good for smoothing out pixels, especially when also using a high number of particles
+
 ## Gradients
 
 - To remove a gradient stop, just drag it off, to add one double-click on the gradient.
