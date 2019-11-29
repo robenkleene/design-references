@@ -14,6 +14,28 @@ What feels the most natural are two-finger drag to pan, `⌥drag` to orbit, and 
 
 The three icons in the upper right of the main view do orbit, pan, and zoom.
 
+## Rendering
+
+- `⌘b`: Render settings, including size
+- For an image, select "Frame Range": "Current Frame"
+- Cinema 4D Lite cannot render directly to a file or video, it has to go through After Effects.
+
+### Rendering in After Effects
+
+1. If it's not already in your project, draft the Cinema 4D `.c4d` file into After Effects
+2. Right-click the Cinema 4D file in the project and select "New Comp from Selection"
+3. To preview in the CINEWARE panel, choose "Renderer: Standard (Final)"
+4. With the Cinema 4D composition selected, hit `⌘⌥s` or "Composition" -> "Save Frame As" -> "File..." to add an image to the render queue
+5. In the Render Queue, select "Output Module" -> "Custom", and choose a file format
+6. Click "Render"
+
+#### Backgrounds
+
+After Effects defaults to a transparent background, to use the background from the Cinema 4D file:
+
+1. Right-click the Cinema 4D file in the Project and select "Interpret Footage" -> "Main" or use `⌘⌥g`
+2. To import with the background from Cinema 4D, choose "Alpha: Ignore"
+
 ## Trackpad
 
 - `⌥-2-finger` to orbit
