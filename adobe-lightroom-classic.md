@@ -34,6 +34,8 @@ Edits are made in the develop module.
 
 ## Develop Module
 
+- `,` / `.`: Focus next / previous slider
+- `-` / `+`: Adjust currently focused slider (hold `⇧` for larger increment
 - `\`: Toggle between edited/unedited
 - `⌥⌘o`: Toggle grid (after showing it under "View" -> "Loupe Overview" -> "Grid")
 - `r`: Crop tool
