@@ -6,6 +6,12 @@
 - `x`: Delete object
 - `⌘click`: Select object
 
+## Movement
+
+- `two-finger-drag` or `⌥-drag`: To orbit (or drag on the multi-colored gizmo in the upper right of the work area)
+- `⇧-two-finger-drag` or `⇧-⌥-drag`: To pan (or drag on the hand it the upper right of the work area)
+- `⌃-two-finger-drag` or `⌃-⌥-drag`: zoom (or drag on the magnifying glass in the upper right of the work area)
+
 ## Modes
 
 - `⇧␣`: Bring up mode selector
