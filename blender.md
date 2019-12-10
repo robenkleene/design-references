@@ -59,3 +59,8 @@ Hold `⌃` for snap mode.
 
 - **Manipulator**: The controls to manipulate objects.
 - **3D Cursor**: The 3D crosshairs.
+
+## Focus
+
+- `numpad .` / `View > Frame Selected`: Focus the selected object
+- `backtick` Also has a way to "View Selected", with an `s` key shortcut
