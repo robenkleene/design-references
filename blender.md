@@ -12,6 +12,14 @@
 - `⇧-two-finger-drag` or `⇧-⌥-drag`: To pan (or drag on the hand it the upper right of the work area)
 - `⌃-two-finger-drag` or `⌃-⌥-drag`: zoom (or drag on the magnifying glass in the upper right of the work area)
 
+### Strategy
+
+Use `⇧`, `⌃`, and unmodified two-finger drag to pan, zoom, and orbit.
+
+### Scroll Direction
+
+Blender doesn't play nice with the "Scroll direction: natural" enabled, so turn it off when using Blender. With it off and "Natural Trackpad Direction" enabled in Blender, scrolling works naturally: Panning left moves left, zooming up zooms in, and orbiting up flies up.
+
 ## Modes
 
 - `⇧␣`: Bring up mode selector
