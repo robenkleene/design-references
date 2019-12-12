@@ -5,6 +5,7 @@
 - `S`: Snap menu, primarily works with the 3D cursor
 - `x`: Delete object
 - `⌘click`: Select object
+- `F3`: Bring up search menu
 
 ## Movement
 
