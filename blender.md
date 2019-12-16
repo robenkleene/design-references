@@ -6,6 +6,7 @@
 - `x`: Delete object
 - `⌘click`: Select object
 - `F3`: Bring up search menu
+- `o`: Toggle proportional editing
 
 ## Movement
 
