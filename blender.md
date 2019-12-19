@@ -74,3 +74,7 @@ Hold `⌃` for snap mode.
 
 - `numpad .` / `View > Frame Selected`: Focus the selected object
 - `backtick` Also has a way to "View Selected", with an `s` key shortcut
+
+## Node Editor
+
+- Show the node editor by dragging the timeline view up from the bottom of the main scene view. Then clicking the clock to switch from the "Timeline" to the "Texture Node Editor".
