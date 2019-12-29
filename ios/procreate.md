@@ -1,5 +1,10 @@
 # Procreate
 
+## Canvas
+
+- Turn on "Drawing Guide" to see graph paper
+- Use "Edit Drawing Guide" -> "Symmetry" to make symmetrical patterns
+
 ## Quickshape
 
 - To draw a straight line, dry a line and don't lift your finger until the line straightens.
