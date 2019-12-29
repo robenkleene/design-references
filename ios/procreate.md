@@ -1,0 +1,13 @@
+# Procreate
+
+## Quickshape
+
+- To draw a straight line, dry a line and don't lift your finger until the line straightens.
+- You can use this same technique to draw shapes like squares and circles.
+- After creating a shape, you can tap "Edit Shape" to adjust it.
+- Under "Gesture Control", in the gear menu, you can configure an option for re-editing the last quick shape.
+
+## Animation
+
+- Each layer is a frame
+- "Animation Assist" can be turned on under the gear menu
