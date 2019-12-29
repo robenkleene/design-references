@@ -1,5 +1,8 @@
 # Procreate
 
+- Glow effect: Make a new layer, overlay blend style, use new color that's more saturated, airbrush what you want to glow
+- Touch and hold to get the eyedropper
+
 ## Canvas
 
 - Turn on "Drawing Guide" to see graph paper
