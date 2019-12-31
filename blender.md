@@ -10,9 +10,10 @@
 
 ## Movement
 
-- `two-finger-drag` or `⌥-drag`: To orbit (or drag on the multi-colored gizmo in the upper right of the work area)
-- `⇧-two-finger-drag` or `⇧-⌥-drag`: To pan (or drag on the hand it the upper right of the work area)
-- `⌃-two-finger-drag` or `⌃-⌥-drag`: zoom (or drag on the magnifying glass in the upper right of the work area)
+### Two Finger
+- `two-finger-drag` or `⌥-three-finger-drag`: To orbit (or drag on the multi-colored gizmo in the upper right of the work area)
+- `⇧-two-finger-drag` or `⇧-⌥-three-finger-drag`: To pan (or drag on the hand it the upper right of the work area)
+- `^-two-finger-drag` `⌘-two-finger-drag` or `⌃-⌥-three-finger-drag`: zoom (or drag on the magnifying glass in the upper right of the work area)
 
 ### Strategy
 
@@ -77,4 +78,6 @@ Hold `⌃` for snap mode.
 
 ## Node Editor
 
+
 - Show the node editor by dragging the timeline view up from the bottom of the main scene view. Then clicking the clock to switch from the "Timeline" to the "Texture Node Editor".
+- `^-two-finger-drag` `⌘-two-finger-drag` or `⌃-⌥-three-finger-drag`to zoom also works in the node editor.
