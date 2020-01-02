@@ -1,7 +1,12 @@
 # Procreate
 
-- Glow effect: Make a new layer, overlay blend style, use new color that's more saturated, airbrush what you want to glow
 - Touch and hold to get the eyedropper
+
+## Layers
+
+- To create a layer mask, tap the layer in the layers menu and select "Mask".
+- To create a glow effect: Make a new layer, overlay blend style, use new color that's more saturated, reduce the opacity, and airbrush what you want to glow.
+- To move a layer, select the layer and then tap the cursor icon in the upper-right (the transform) button, and then drag the selection box that appears to move the layer.
 
 ## Canvas
 
