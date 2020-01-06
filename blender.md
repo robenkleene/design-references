@@ -76,8 +76,12 @@ Hold `⌃` for snap mode.
 - `numpad .` / `View > Frame Selected`: Focus the selected object
 - `backtick` Also has a way to "View Selected", with an `s` key shortcut
 
-## Node Editor
+## Splits
 
+- You can split from the right or left by moving your cursor to one of the corners until you see a `+` shaped cursor, and drag the split out.
+- To close a split, hover the perpendicular intersection until you see the `+` shaped cursor, then drag in the direction of the window you want to close (the cursor should change to an arrow pointing in the direction of the split that will close).
+
+## Node Editor
 
 - Show the node editor by dragging the timeline view up from the bottom of the main scene view. Then clicking the clock to switch from the "Timeline" to the "Texture Node Editor".
 - `^-two-finger-drag` `⌘-two-finger-drag` or `⌃-⌥-three-finger-drag`to zoom also works in the node editor.
