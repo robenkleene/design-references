@@ -22,7 +22,11 @@
 - In the right sidebar, drag out most of the tabs, just leave swatches and layers
 - Under "Edit" -> "Color Settings", set color settings to `sRBG`, for a conflict, ask when opening or pasting
 
-## Tools
+## Toolbar
+
+If any tools are missing you might have to drag them back into the toolbar under "Edit > Toolbar...".
+
+### Tools
 
 - `z`: Zoom tool, to drag a marquee, unselect "Scrubby Zoom"
 
