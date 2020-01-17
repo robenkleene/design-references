@@ -7,6 +7,11 @@
 - `⌘click`: Select object
 - `F3`: Bring up search menu
 - `o`: Toggle proportional editing
+- `0`: View through camera
+
+## Numpad
+
+- With `Emulate Numpad` on, the regular number keys work like the numpad.
 
 ## Movement
 

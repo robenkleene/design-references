@@ -4,6 +4,7 @@
 - `⌃⇥`: Switch tabs
 - `⌘R`: Toggle rulers
 - `⌘'`: Toggle grid
+- `⌘J`: Duplicate layer
 
 ## Fill
 

@@ -38,7 +38,7 @@ Edits are made in the develop module.
 - `-` / `+`: Adjust currently focused slider (hold `⇧` for larger increment
 - `\`: Toggle between edited/unedited
 - `⌥⌘o`: Toggle grid (after showing it under "View" -> "Loupe Overview" -> "Grid")
-- `r`: Crop tool
+- `r`: Crop tool (`o` while using the crop tool rotates through the grid options, for the rule of thirds for example)
 - `k`: Adjustment brush
 - `⇧`: Move sliders by larger increments
 - `h`: Hide UI of whatever tool is being used
