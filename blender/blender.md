@@ -90,3 +90,11 @@ Hold `⌃` for snap mode.
 
 - Show the node editor by dragging the timeline view up from the bottom of the main scene view. Then clicking the clock to switch from the "Timeline" to the "Texture Node Editor".
 - `^-two-finger-drag` `⌘-two-finger-drag` or `⌃-⌥-three-finger-drag`to zoom also works in the node editor.
+
+## Camera
+
+To "Lock Camera to View", hit `n` with the main view focused to bring up a side panel with additional options, then select the "View" panel, and click "Lock Camera to View".
+
+## Render
+
+Go to "Render" > "Render Image".
