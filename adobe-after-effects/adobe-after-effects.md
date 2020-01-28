@@ -9,6 +9,11 @@
 - `⇧⌘←` / `⇧⌘→`: Forward or backward ten frames
 - `HOME` / `END`: Go to beginning or end
 
+## Grid
+
+- A grid can be configured in "Preferences" > "Grids & Guides..."
+- The "Snap to Grid" option seems to only work when drawing layers, e.g., not resizing.
+
 ## Layers
 
 To change a layers size (as opposed to scaling it), go to "Layer" -> "Layer Settings"
@@ -75,3 +80,11 @@ When using lights and cameras, turn on the "Adaptive Resolution" preview prefere
 ## Preferences
 
 - `⌘⌥` ("Edit" -> "Keyboard Shortcuts"): Edit keyboard shortcuts
+
+## Glossary
+
+- For some reason toggling the disclosure indicators is called "Twirling".
+
+## Tips & Tricks
+
+- To edit properties on multiple layers at once: Use the search field above the properties list and search for the property you want to change, then select each one and change the value.

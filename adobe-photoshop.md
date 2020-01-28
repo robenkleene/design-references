@@ -23,6 +23,10 @@
 - In the right sidebar, drag out most of the tabs, just leave swatches and layers
 - Under "Edit" -> "Color Settings", set color settings to `sRBG`, for a conflict, ask when opening or pasting
 
+## Layers
+
+- The feature where you can create a single reference copy of an object and then edit all instances of it, is called "Smart Objects".
+
 ## Toolbar
 
 If any tools are missing you might have to drag them back into the toolbar under "Edit > Toolbar...".
