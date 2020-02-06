@@ -11,6 +11,7 @@
 ### Brushes
 
 - To access the adjustment brush: Tap "Selective" (icon looks like a sunflower), then tap the plus sign and select brush.
+- Tap the diamond to hide and show the overlay color.
 - `h`: Healing brush
 - `[` / `]`: Decrease/increase brush size
 - The "Auto Mask" checkbox makes the brush try to automatically detect boundaries, a bit like the "Magic Wand" tool in Photoshop.
