@@ -98,3 +98,7 @@ To "Lock Camera to View", hit `n` with the main view focused to bring up a side 
 ## Render
 
 Go to "Render" > "Render Image".
+
+## Tips
+
+- Panels, e.g., for add (`A`), have letters that can be typed to select menu items (e.g., `A` then `s` to quickly search).

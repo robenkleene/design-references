@@ -10,4 +10,8 @@
 
 Create the following chain:
 
-    Texture Coordinate: Window > Vector: Mapping: Vector > Vector: Gardient Texture: Color > Fac: ColorRamp: Color > Color: Background: Background > Surface: World Output
+    **Texture Coordinate**: Window > Vector: **Mapping**: Vector > Vector: **Gardient Texture**: Color > Fac: **ColorRamp**: Color > Color: **Background**: Background > Surface: **World Output**
+
+## Notes
+
+- To change to a radial gradient, select "Spherical" in the "Gradient Texture" node.
