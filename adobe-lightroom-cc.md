@@ -29,10 +29,14 @@ To sample a color from your photo, hold the mouse button down in side the color 
 
 If you delete a photo from Lightroom CC, it won't delete it from Lightroom Classic (because Lightroom Classic considers its library the source of truth).
 
+## Tips
+
+- Split Toning is under "Effects" -> "Split Toning".
+
 ## Cyberpunk
 
 1. Use "Color" -> "Temperature" tool, click on something white (the eye dropper sets the white balance based on choosing something in the photo that's a neutral color)
-2. Use "Effects" -> "Split Tone", change the highlights in the photo to something blue, and the shadows to violet
+2. Use "Effects" -> "Split Toning", change the highlights in the photo to something blue, and the shadows to violet
 3. Decrease the highlights, increase the shadows
 4. Increase the whites
 5. Decrease the blacks
