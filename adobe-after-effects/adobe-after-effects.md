@@ -85,6 +85,7 @@ When using lights and cameras, turn on the "Adaptive Resolution" preview prefere
 
 - For some reason toggling the disclosure indicators is called "Twirling".
 
-## Tips & Tricks
+## Tips
 
 - To edit properties on multiple layers at once: Use the search field above the properties list and search for the property you want to change, then select each one and change the value.
+- If you encounter an error trying to import `mov` files, try changing the extension to `mp4`.
