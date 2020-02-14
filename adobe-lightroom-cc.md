@@ -32,6 +32,7 @@ If you delete a photo from Lightroom CC, it won't delete it from Lightroom Class
 ## Tips
 
 - Split Toning is under "Effects" -> "Split Toning".
+- To edit in Photoshop, go to share, "Open In", "Copy to Photoshop", after finishing editing, tap "Publish and Export" and select Lightroom.
 
 ## Cyberpunk
 
