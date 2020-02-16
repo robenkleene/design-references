@@ -19,5 +19,7 @@
 9. Hit `n` to bring up the side panel menu, select the "Modifiers" tab, select "Add Modifier" and select "Cycles" to make the animation repeat infinitely, but goes from `0` to `60` over and over again.
 10. To fix the rotation so it doesn't go back to `0`, under "Cycles", for "Before" select "No Cycles", and for "After" select "Repeat with Offset".
 
-Select the second key frame and drag it to adjust the speed.
+### Tips
 
+- Select the second key frame and drag it to adjust the speed.
+- Hit `HOME` in the Graph Editor to fit the graph to the frame.
