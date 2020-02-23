@@ -8,6 +8,7 @@
 - `F3`: Bring up search menu
 - `o`: Toggle proportional editing
 - `0`: View through camera
+- `z`: Bring up options for switching between rendered preview and wireframe
 
 ## Numpad
 
