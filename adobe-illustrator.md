@@ -5,6 +5,10 @@
 - `⌥drag`: To zoom
 - `⌘⇧B`: Hide bounding box
 
+## Tips
+
+- If importing an image messes up it's colors, just open and export that image from Photoshop and that should fix it.
+
 ## Pen Tool
 
 - `⇧C`: Add handles
