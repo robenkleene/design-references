@@ -5,6 +5,10 @@
 - `⌥drag`: To zoom
 - `⌘⇧B`: Hide bounding box
 
+## Pen Tool
+
+- `⇧C`: Add handles
+
 ## Tools
 
 - `⌥Click`: Get to tool settings (e.g., change number of vertices in the polygon tool)
