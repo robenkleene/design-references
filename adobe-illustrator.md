@@ -3,6 +3,7 @@
 - `⌘'`: Toggle grid
 - `⇧⌘`: Toggle snap to grid
 - `⌥drag`: To zoom
+- `⌘⇧B`: Hide bounding box
 
 ## Tools
 
