@@ -12,6 +12,8 @@
 ## Pen Tool
 
 - `⇧C`: Add handles
+- `A`: Select a point
+- `V`: Select the whole shape
 
 ## Tools
 
