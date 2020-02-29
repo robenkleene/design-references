@@ -13,4 +13,4 @@
 11. Connect the "Value" output socket of the "Math" node to the "IOR" input socket of the top "Glass BSDF" node (red).
 12. Repeat steps 9-11, but set the "Math" node to subtract, and connect the output socket to the "IOR" input socket of the blue "Glass BSDF".
 
-After this is setup, exit the Node Group and play with the IOR and Dispersion settings of the Node Group's node.
+After this is setup, exit the Node Group and play with the IOR and Dispersion settings of the Node Group's node. IOR of `1.450` and Dispersion of `0.050` is good.
