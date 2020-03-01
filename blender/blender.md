@@ -98,7 +98,8 @@ To "Lock Camera to View", hit `n` with the main view focused to bring up a side 
 
 ## Render
 
-Go to "Render" > "Render Image".
+1. Go to "Render" > "Render Image".
+2. Type `S` to save the image
 
 ## Tips
 
