@@ -89,8 +89,13 @@ When using lights and cameras, turn on the "Adaptive Resolution" preview prefere
 
 - To edit properties on multiple layers at once: Use the search field above the properties list and search for the property you want to change, then select each one and change the value.
 - If you encounter an error trying to import `mov` files, try changing the extension to `mp4`.
+- Hold `⌘` to disable snapping
 
-### Composition Duration
+### Resizing the Composition
+
+- Click the little box icon below the viewport for "Region of Interest" and draw a region of interest, then select "Composition > Crop Comp to Region of Interest".
+
+### Changing Composition Duration
 
 1. Get to your new start point and hit `b`
 2. Go to your endpoint and hit `n`
