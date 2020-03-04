@@ -89,3 +89,9 @@ When using lights and cameras, turn on the "Adaptive Resolution" preview prefere
 
 - To edit properties on multiple layers at once: Use the search field above the properties list and search for the property you want to change, then select each one and change the value.
 - If you encounter an error trying to import `mov` files, try changing the extension to `mp4`.
+
+### Composition Duration
+
+1. Get to your new start point and hit `b`
+2. Go to your endpoint and hit `n`
+3. Select "Composition > Trim Composition to Work Area" (`⇧⌘X`)
