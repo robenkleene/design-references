@@ -21,7 +21,13 @@ To scale something from the bottom right corner: Switch to the "Pan Behind (Anch
 
 ## Layers
 
-To change a layers size (as opposed to scaling it), go to "Layer" -> "Layer Settings"
+- To change a layers size (as opposed to scaling it), go to "Layer" -> "Layer Settings"
+
+### Fitting a Layer to a Composition
+
+- "Layer > Transform > Fit to Comp" / `⌥⌘F`
+- "Layer > Transform > Fit to Comp Width" / `⌥⇧⌘H`
+- "Layer > Transform > Fit to Comp Height" / `⌥⇧⌘G`
 
 ## Color
 
