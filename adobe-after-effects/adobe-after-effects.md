@@ -14,6 +14,10 @@
 - A grid can be configured in "Preferences" > "Grids & Guides..."
 - The "Snap to Grid" option seems to only work when drawing layers, e.g., not resizing.
 
+## Scaling
+
+To scale something from the bottom right corner: Switch to the "Pan Behind (Anchor Point) Tool" (`Y`) and move the anchor point to the upper left corner, then switch to the "Selection Tool" (`V`) and drag from the lower right corner. After resizing, it's probably a good idea to move the anchor point back to the center.
+
 ## Layers
 
 To change a layers size (as opposed to scaling it), go to "Layer" -> "Layer Settings"
