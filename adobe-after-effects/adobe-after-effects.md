@@ -29,6 +29,7 @@ Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
 - `r`: Show/hide rotation for selected composition
 - `a`: Show/hide anchor point or position
 - `⌘D`: Duplicate
+- `[` / `]`: Move the current layers in or out point to the playhead
 
 ## Composition View
 
