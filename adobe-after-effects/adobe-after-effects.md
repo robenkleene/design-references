@@ -8,6 +8,7 @@
 - `←` / `→`: Forward or backward one frame
 - `⇧⌘←` / `⇧⌘→`: Forward or backward ten frames
 - `HOME` / `END`: Go to beginning or end
+- `⇧/`: Re-center composition view
 
 ## Grid
 
