@@ -52,6 +52,7 @@ Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
 ## Layers
 
 - `[` / `]`: Move a layer to the start or end at the playhead
+- `⌥[` / `⌥]`: Clip a layer so it starts or ends at the playhead
 - `i` / `o`: Move the playhead to the start or end of a layer
 
 ### Tips
