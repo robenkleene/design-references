@@ -37,10 +37,25 @@ Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
 
 - `u`: Show/hide properties with a key frame
 - `uu`: Show/hide all modified properties
-- `r`: Show/hide rotation for selected composition
-- `a`: Show/hide anchor point or position
 - `⌘D`: Duplicate
 - `[` / `]`: Move the current layers in or out point to the playhead
+
+## Transform Properties
+
+- `a`: Show/hide anchor point or position
+- `p`: Position
+- `r`: Show/hide rotation for selected composition
+- `s`: Scale
+- `t`: Opacity
+
+### Modifiers
+
+- Hold `⇧` and any of the above properties to see them at the same time.
+- Hold `⌥` and any of the above properties to add a key frame.
+
+## Layers
+
+- `[` / `]`: Move a layer to the start or end at the playhead
 
 ## Composition View
 
