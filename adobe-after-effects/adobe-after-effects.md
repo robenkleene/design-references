@@ -19,10 +19,6 @@
 
 To scale something from the bottom right corner: Switch to the "Pan Behind (Anchor Point) Tool" (`Y`) and move the anchor point to the upper left corner, then switch to the "Selection Tool" (`V`) and drag from the lower right corner. After resizing, it's probably a good idea to move the anchor point back to the center.
 
-## Layers
-
-- To change a layers size (as opposed to scaling it), go to "Layer" -> "Layer Settings"
-
 ### Fitting a Layer to a Composition
 
 - "Layer > Transform > Fit to Comp" / `⌥⌘F`
@@ -57,6 +53,14 @@ Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
 
 - `[` / `]`: Move a layer to the start or end at the playhead
 - `i` / `o`: Move the playhead to the start or end of a layer
+
+### Tips
+
+- To change a layers size (as opposed to scaling it), go to "Layer" -> "Layer Settings"
+
+## Key Frames
+
+- `j` / `k`: Move to previous / next key frame
 
 ## Composition View
 
