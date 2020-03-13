@@ -27,6 +27,10 @@
 
 - The feature where you can create a single reference copy of an object and then edit all instances of it, is called "Smart Objects".
 
+## Text
+
+- "Type > Convert to Paragraph Text"
+
 ## Toolbar
 
 If any tools are missing you might have to drag them back into the toolbar under "Edit > Toolbar...".
