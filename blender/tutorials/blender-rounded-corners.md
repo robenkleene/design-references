@@ -1,6 +1,4 @@
-# Blender Tutorials
-
-## Rounded Corners
+# Blender Rounded Corners
 
 To add rounded corners to a cube:
 
