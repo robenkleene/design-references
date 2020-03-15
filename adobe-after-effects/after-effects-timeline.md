@@ -33,10 +33,6 @@
 
 - For some reason toggling the disclosure indicators is called "Twirling".
 
-## Tips
-
-- To edit properties on multiple layers at once: Use the search field above the properties list and search for the property you want to change, then select each one and change the value.
-
 ## Expressions
 
 E.g., rotation `time * 5`
@@ -46,4 +42,9 @@ E.g., rotation `time * 5`
 ## Effects
 
 You can copy and paste effects with `⌘C` and `⌘V`.
+
+## Tips
+
+- To edit properties on multiple layers at once: Use the search field above the properties list and search for the property you want to change, then select each one and change the value.
+- To edit the numerical value of the duration for a layer, right-click the column title (e.g., on "Source Name"), and show the "Duration" column.
 
