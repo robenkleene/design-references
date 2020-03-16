@@ -6,6 +6,10 @@ The green line is the RAM preview. The blue line is the disk cache. You can adju
 
 - `⌃⌫` / "Edit" -> "Purge" -> "All Memory": Delete the RAM cache
 
+## Units
+
+After Effects uses Society of Motion Picture and Television Engineers (SMPTE) by default, which means "hours, minutes, seconds, and frames".
+
 ## Export
 
 1. `⌃⌘M`: "Composition" -> "Add to Render Queue"

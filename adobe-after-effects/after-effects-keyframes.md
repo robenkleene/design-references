@@ -6,7 +6,7 @@
 
 Select layers, right-click "Keyframe Assistant > Sequence Layers..."
 
-- **Duration**: The duration of the transition. E.g., to have a layer show for a second, and transition for half a second, start with the layers showing for two seconds, then set the duration to half a second (`30`).
+- **Duration**: The duration of the transition. E.g., to have a layer show for a second, and transition for half a second, start with the layers showing for two seconds, then set the duration to half a second (this means the last number in the time code should be frames per second `/ 2`).
 
 #### Transition
 
