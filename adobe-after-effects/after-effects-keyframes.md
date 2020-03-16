@@ -6,7 +6,7 @@
 
 Select layers, right-click "Keyframe Assistant > Sequence Layers..."
 
-- **Overlap**:
+- **Duration**: The duration of the transition. E.g., to have a layer show for a second, and transition for half a second, start with the layers showing for two seconds, then set the duration to half a second.
 
 #### Transition
 
