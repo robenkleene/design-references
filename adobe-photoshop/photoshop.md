@@ -22,6 +22,7 @@
 - Set everything to pixels in "Preferences" -> "Units & Rules"
 - In the right sidebar, drag out most of the tabs, just leave swatches and layers
 - Under "Edit" -> "Color Settings", set color settings to `sRBG`, for a conflict, ask when opening or pasting
+- Set the `N` shortcut to "Foreground Color Picker" in "Edit > Keyboard Shortcuts..."
 
 ## Layers
 
