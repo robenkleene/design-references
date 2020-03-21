@@ -28,4 +28,4 @@
 
 ## Symmetry
 
-Symmetry is turned on under the wrench icon "Canvas > Drawing Guide" (which needs to be turned on), then "Canvas > Edit Drawing Guide" to configure it. Select "Symmetry", and choose from "Vertical", "Horizontal", Quadrant", and "Radial", and turn on "Assisted Drawing". "Assisted Drawing" needs to be toggled per layer, which can be toggled in the menu that pops up when you tap a layers icon.
+Symmetry is turned on under the wrench icon "Canvas > Drawing Guide" (which needs to be turned on), then "Canvas > Edit Drawing Guide" to configure it. Select "Symmetry", and choose from "Vertical", "Horizontal", Quadrant", and "Radial", and turn on "Assisted Drawing". "Assisted Drawing" needs to be toggled per layer, which can be toggled in the menu that pops up when you tap a layer's icon.
