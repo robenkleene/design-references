@@ -4,6 +4,10 @@
 - `two-finger scroll`: Zoom
 - `⌥-right-click-drag`: Pan
 
+## Navigation
+
+- `u`: Go up a level in the network editor.
+
 ## Modeling
 
 - `t`: Transform
