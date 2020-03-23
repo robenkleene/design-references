@@ -1,8 +1,9 @@
 # Houdini
 
-- `⌥-drag`: Orbit
+- `drag`: Orbit
 - `two-finger scroll`: Zoom
-- `⌥-right-click-drag`: Pan
+- `right-click-drag`: Pan
+- `⌃-drag`: Rotate
 
 ## Navigation
 
