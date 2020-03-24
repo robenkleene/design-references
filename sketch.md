@@ -17,6 +17,12 @@
 
 - Click on a line to add a point
 
+## Grids
+
+### Layout Grid
+
+"View > Canvas > Layout Settings..."
+
 ## Export
 
 - Use `Make Exportable` in the lower right to export anything simply.
