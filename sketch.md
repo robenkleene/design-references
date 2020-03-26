@@ -21,6 +21,8 @@
 
 ### Layout Grid
 
+- `^l`: Toggle grid visibility
+
 "View > Canvas > Layout Settings..."
 
 ## Export
