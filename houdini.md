@@ -5,6 +5,12 @@
 - `right-click-drag`: Pan
 - `⌃-drag`: Rotate
 
+## Viewport
+
+- `w`: Toggle wireframe
+- `l`: Re-layout network
+- `h`: Home in on nodes (zoom to fit)
+
 ## Navigation
 
 - `u`: Go up a level in the network editor.
