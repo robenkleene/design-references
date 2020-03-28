@@ -5,6 +5,10 @@
 - `right-click-drag`: Pan
 - `⌃-drag`: Rotate
 
+## Tools
+
+- `s`: Switch to select tool
+
 ## Viewport
 
 - `w`: Toggle wireframe
