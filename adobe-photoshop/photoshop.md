@@ -40,6 +40,8 @@ If any tools are missing you might have to drag them back into the toolbar under
 ### Tools
 
 - `z`: Zoom tool, to drag a marquee, unselect "Scrubby Zoom"
+- `U`: Shape Tool
+- `⇧U`: Next shape tool
 
 ### Polygonal Lasso
 
