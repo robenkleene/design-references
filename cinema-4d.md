@@ -1,5 +1,7 @@
 # Cinema 4D
 
+## Navigation
+
 What feels the most natural are two-finger drag to pan, `⌥-drag` to orbit (three-finger drag), and `pinch` to zoom.
 
 - `Two-Finger Drag`: Pan
@@ -8,12 +10,19 @@ What feels the most natural are two-finger drag to pan, `⌥-drag` to orbit (thr
 - `Hold 1 + click-and-drag`: Pan
 - `Hold 2 + click-and-drag`: Zoom
 - `Hold 3 + click-and-drag`: Orbit
-- `e`: Move
-- `r`: Rotate
-- `t`: Scale
 - Hold shift to move snapped increments
 
 The three icons in the upper right of the main view do orbit, pan, and zoom.
+
+### Rotating
+
+- If the viewport angle is offset, hold `⇧` with `⌥-drag` to snap back to a straight horizon.
+
+## Modeling
+
+- `e`: Move
+- `r`: Rotate
+- `t`: Scale
 
 ## Rendering
 
