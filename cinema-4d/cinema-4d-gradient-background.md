@@ -9,4 +9,3 @@
 7. Edit the gradient
 8. Apply the material to both the floor and the background
 9. With the material selected next to the floor, in the bottom right panel select "Tag", and select "Projection: Frontal" (The background should be set the same way).
-
