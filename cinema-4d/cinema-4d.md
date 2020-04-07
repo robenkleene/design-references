@@ -12,7 +12,10 @@ What feels the most natural are two-finger drag to pan, `⌥-drag` to orbit (thr
 - `Hold 3 + click-and-drag`: Orbit
 - Hold shift to move snapped increments
 
-The three icons in the upper right of the main view do orbit, pan, and zoom.
+### Notes
+
+- The three icons in the upper right of the main view do orbit, pan, and zoom.
+- Orbit always rotates around the selected object
 
 ### Rotating
 
