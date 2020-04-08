@@ -37,6 +37,10 @@
 
 If any tools are missing you might have to drag them back into the toolbar under "Edit > Toolbar...".
 
+## New From Clipboard
+
+Just do "File > New..." and select the "Clipboard" template then paste.
+
 ### Tools
 
 - `z`: Zoom tool, to drag a marquee, unselect "Scrubby Zoom"
