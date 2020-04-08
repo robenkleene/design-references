@@ -74,6 +74,9 @@ Note the adjustment brush adjusts *over* the global settings, if it's not workin
 
 You can adjust the tone curve using separate sliders for highlights, lights, darks, and shadows, by clicking the stop editing icon.
 
+To be able to select the "RGB" channels individually, turn on the "Point Curve" in the lower right.
+
+
 ### Spot Removal
 
 - `q`: Spot removal tool
