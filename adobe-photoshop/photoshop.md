@@ -6,7 +6,12 @@
 - `⌘'`: Toggle grid
 - `⌘J`: Duplicate layer
 
-## Fill
+## Editing
+
+- `⇧⌘N`: New layer
+- `⇧⌘⌥N`: New layer with default name
+
+### Fill
 
 - `⌘⌫`: Fill with background color
 - `⌥⌫`: Fill with foreground color
