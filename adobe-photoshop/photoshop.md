@@ -94,3 +94,7 @@ After fixing the perspective the edges of the changed section will be off, one w
 1. Select the part to change the perspective of
 2. Hit `⌘J` to copy it to a new layer
 3. Use "Perspective" -> "Warp" to straighten the line
+
+## Tips
+
+- To resize a layer to the size of the canvas, just turn on snap with `⇧⌘;`.
