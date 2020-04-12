@@ -70,3 +70,7 @@ You can open a reference image by going to "Window" -> "Picture Viewer", using t
 - By default the camera uses the current viewport view
 - While the little box icon to the right of the camera is selected, any movement you make will change the perspective of the camera. To move without changing the perspective of the camera, toggle off the little box icon.
 - If a camera isn't selected, you're using the perspective view camera, which is used to navigate the scene.
+
+## Spline Pen
+
+- `⌘Z`: Redo last point
