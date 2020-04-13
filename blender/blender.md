@@ -17,6 +17,7 @@
 ## Movement
 
 ### Two Finger
+
 - `two-finger-drag` or `⌥-three-finger-drag`: To orbit (or drag on the multi-colored gizmo in the upper right of the work area)
 - `⇧-two-finger-drag` or `⇧-⌥-three-finger-drag`: To pan (or drag on the hand it the upper right of the work area)
 - `^-two-finger-drag` `⌘-two-finger-drag` or `⌃-⌥-three-finger-drag`: zoom (or drag on the magnifying glass in the upper right of the work area)
