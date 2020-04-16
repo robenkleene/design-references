@@ -3,6 +3,11 @@
 - `⌥drag`: To zoom
 - `⌘⇧B`: Hide bounding box
 
+## Panels
+
+- `F6`: Toggle Color Panel
+- `⇧F6`: Toggle Appearance Panel
+
 ## Tools
 
 - `M`: Rectangle Tool
