@@ -3,6 +3,11 @@
 - `⌥drag`: To zoom
 - `⌘⇧B`: Hide bounding box
 
+## Tools
+
+- `M`: Rectangle Tool
+- `L`: Ellipse Tool
+
 ## Fill
 
 - `/`: Transparent
@@ -83,7 +88,6 @@ To edit a pattern, double click it
 ## Opacity Mask
 
 - Make a gradient layer on top of the layer to mask, then go to "Window" -> "Transparency" and cut and paste the gradient in.
-
 
 ## Artboard
 
