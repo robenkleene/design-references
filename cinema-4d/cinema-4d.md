@@ -1,5 +1,13 @@
 # Cinema 4D
 
+- `⇧C`: Show the commander to type commands
+
+## Transport
+
+- `F8`: Play/pause animation
+- `⇧F`: Go to start animation
+- `⇧G`: Go to end animation
+
 ## Navigation
 
 What feels the most natural are two-finger drag to pan, `⌥-drag` to orbit (three-finger drag), and `pinch` to zoom.
@@ -14,6 +22,7 @@ What feels the most natural are two-finger drag to pan, `⌥-drag` to orbit (thr
 
 ### Notes
 
+- Shortcuts are under "Window > Customization > Customize Commands..."
 - The three icons in the upper right of the main view do orbit, pan, and zoom.
 - Orbit always rotates around the selected object
 
