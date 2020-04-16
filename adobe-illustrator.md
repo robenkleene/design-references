@@ -1,9 +1,13 @@
 # Adobe Illustrator
 
-- `⌘'`: Toggle grid
-- `⇧⌘`: Toggle snap to grid
 - `⌥drag`: To zoom
 - `⌘⇧B`: Hide bounding box
+
+## Grid
+
+- `⌘'`: Toggle grid
+- `⇧⌘`: Toggle snap to grid
+- "Settings > Guides & Grid": Configure the grid
 
 ## Tips
 
