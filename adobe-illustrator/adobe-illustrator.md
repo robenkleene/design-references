@@ -10,6 +10,7 @@
 - `>`: Gradient
 - `x`: Swap fill and stroke
 - `d`: Default fill and stroke
+- `X`: Toggle fill and stroke colors
 
 ## Grid
 
