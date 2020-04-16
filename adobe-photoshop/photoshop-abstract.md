@@ -9,7 +9,11 @@
 ### Variations
 
 - Use "Render > Fibers..." instead of drawing lines
+- Use "Render > Clouds..." instead of drawing lines
 
+### Colors
+
+- Select from the layers panel "Adjustment Layer > Gradient Map..." to map the different colors to the design.
 
 ## Shapes
 
