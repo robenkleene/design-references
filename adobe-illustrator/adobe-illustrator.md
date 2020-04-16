@@ -3,6 +3,14 @@
 - `⌥drag`: To zoom
 - `⌘⇧B`: Hide bounding box
 
+## Fill
+
+- `/`: Transparent
+- `<`: Fill
+- `>`: Gradient
+- `x`: Swap fill and stroke
+- `d`: Default fill and stroke
+
 ## Grid
 
 - `⌘'`: Toggle grid
