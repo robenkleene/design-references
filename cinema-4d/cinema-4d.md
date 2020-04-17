@@ -1,6 +1,7 @@
 # Cinema 4D
 
 - `⇧C`: Show the commander to type commands
+- `v`: Bring up radial menu, including an option to switch between open projects
 
 ## Transport
 
