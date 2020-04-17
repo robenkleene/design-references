@@ -5,6 +5,7 @@
 - `⌘R`: Toggle rulers
 - `⌘'`: Toggle grid
 - `⌘J`: Duplicate layer
+- `⌘F`: Search, Photoshop's Command Palette
 
 ## Editing
 
