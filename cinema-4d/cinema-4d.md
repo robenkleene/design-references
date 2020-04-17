@@ -26,6 +26,10 @@ What feels the most natural are two-finger drag to pan, `⌥-drag` to orbit (thr
 - The three icons in the upper right of the main view do orbit, pan, and zoom.
 - Orbit always rotates around the selected object
 
+### More
+
+- `o`: Overview, fill an object in the frame
+
 ### Rotating
 
 - If the viewport angle is offset, hold `⇧` with `⌥-drag` to snap back to a straight horizon.
