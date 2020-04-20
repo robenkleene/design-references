@@ -10,9 +10,9 @@
 - `0`: View through camera
 - `z`: Bring up options for switching between rendered preview and wireframe
 
-## Numpad
+## Numeric Keypad
 
-- With `Emulate Numpad` on, the regular number keys work like the numpad.
+- With `Emulate Numpad` on, the regular number keys work like the numeric keypad.
 
 ## Movement
 
