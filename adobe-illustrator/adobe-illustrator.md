@@ -99,3 +99,7 @@ To edit a pattern, double click it
 ## Artboard
 
 - Edit the artboard either by selecting "File" -> "Document Setup..." or just by clicking "Edit Artboard" in the "Properties" panel
+
+## Type
+
+- The equivalent of "Type > Convert to Paragraph Text" is "Convert to Area Type" and "Convert to Point Type". You can toggle it by double-clicking the lollipop indicator that appears when you select text.
