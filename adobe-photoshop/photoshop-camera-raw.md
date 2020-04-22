@@ -4,6 +4,7 @@
 - In the guided upright tool, hit `⇧G` to toggle the grid
 - `z`: Zoom tool
 - `hold␣`: Move tool
+- To Apply the "Camera Raw Filter..." as an effect that can be re-edited, first convert the Photoshop layer to a Smart Object.
 
 ## Lens Correction
 
