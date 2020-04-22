@@ -10,11 +10,9 @@
 - `0`: View through camera
 - `z`: Bring up options for switching between rendered preview and wireframe
 
-## Numeric Keypad
+## View
 
-- With `Emulate Numpad` on, the regular number keys work like the numeric keypad.
-
-## Movement
+- `1`: View from the top
 
 ### Two Finger
 
@@ -29,6 +27,10 @@ Use `⇧`, `⌃`, and unmodified two-finger drag to pan, zoom, and orbit.
 ### Scroll Direction
 
 Blender doesn't play nice with the "Scroll direction: natural" enabled, so turn it off when using Blender. With it off and "Natural Trackpad Direction" enabled in Blender, scrolling works naturally: Panning left moves left, zooming up zooms in, and orbiting up flies up.
+
+## Numeric Keypad
+
+- With `Emulate Numpad` on, the regular number keys work like the numeric keypad.
 
 ## Modes
 
