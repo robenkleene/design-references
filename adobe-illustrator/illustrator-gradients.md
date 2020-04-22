@@ -1,0 +1,11 @@
+# Illustrator Gradients
+
+If the gradient tool is unusable, that's probably because it's in Stroke mode, bring up the Gradient window with "Window > Gradient" (`⌘F9`), then click the fill to bring it forward.
+
+## Complex Sets of Objects 
+
+To apply a gradient to a complex set objects that includes strokes and text, those objects first need to be expanded:
+
+1. "Object > Expand Appearance"
+2. "Object > Expand"
+3. "Window > Pathfinder" (`⇧⌘F9`) "Pathfinder: Merge"
