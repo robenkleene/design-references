@@ -96,4 +96,8 @@ To edit a pattern, double click it
 
 ## Type
 
+- `⌘⇧>` / `⌘⇧>`: Increase / decrease font size
+
+### Notes
+
 - The equivalent of "Type > Convert to Paragraph Text" is "Convert to Area Type" and "Convert to Point Type". You can toggle it by double-clicking the lollipop indicator that appears when you select text.
