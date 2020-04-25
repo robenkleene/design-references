@@ -2,6 +2,7 @@
 
 ## Transport
 
+- `␣`: Play / Pause
 - `⌥⌘→` `HOME` / `⌥⌘←` `END`: Go to the beginning or end of composition
 - `←` / `→`: Forward or backward one frame
 - `⇧⌘←` / `⇧⌘→`: Forward or backward ten frames
