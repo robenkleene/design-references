@@ -25,6 +25,12 @@
 - `s`: Scale
 - `t`: Opacity
 
+### Work Area
+
+- `b`: Set the beginning of the work area
+- `n`: Set the end of the work area
+- `⇧⌘X`: Trim the composition to the work area
+
 #### Modifiers
 
 - Hold `⇧` and any of the above properties to see them at the same time.
