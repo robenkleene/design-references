@@ -1,5 +1,11 @@
 # After Effects Video
 
+## Cutting Footage
+
+1. "Edit > Split Layer" (`⇧⌘D`), at the beginning of the section to remove
+2. "Edit > Split Layer" (`⇧⌘D`), at the end of the section to remove
+3. "Edit > Clear" (`⌫`), with the layer to delete selected
+
 ## Freeze Frame
 
 ### Quick
