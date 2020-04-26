@@ -12,7 +12,7 @@ After Effects uses Society of Motion Picture and Television Engineers (SMPTE) by
 
 ## Export
 
-1. `⌃⌘M`: "Composition" -> "Add to Render Queue"
+1. `⌘M`: "Composition" -> "Add to Render Queue"
 2. Click "Render"
 
 ## Preferences
