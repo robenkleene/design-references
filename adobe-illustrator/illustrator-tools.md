@@ -18,7 +18,7 @@
 
 ## Type
 
-- `⌘⇧>` / `⌘⇧>`: Increase / decrease font size
+- `⇧⌘>` / `⇧⌘>`: Increase / decrease font size
 
 ### Notes
 
