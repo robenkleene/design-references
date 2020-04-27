@@ -23,3 +23,4 @@ After Effects uses Society of Motion Picture and Television Engineers (SMPTE) by
 
 - If you encounter an error trying to import `mov` files, try changing the extension to `mp4`.
 - Hold `⌘` to disable snapping
+- To fix a broken file reference, e.g., if a file has been moved or renamed, right-click and select "Replace Footage > File..."
