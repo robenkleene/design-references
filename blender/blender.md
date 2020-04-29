@@ -67,13 +67,16 @@ With "Edit" > "Preferences" > "Input" > "Emulate 3 Button Mouse" enabled, hold `
 
 - `S`: Provides the snap menu, where you can do actions like moving the 3D cursor to the origin, and moving the object to the 3D cursor.
 
-## Transformations
+## Modeling
 
 - `g`: Move
 - `s`: Scale
 - `r`: Rotate
 
-Hold `⌃` for snap mode.
+### Notes
+
+- Hold `⌃` for snap mode.
+- Hitting any of these keys and then a number will perform the transformation relative to it's size, so `s` then `3` will scale an object to three times its size.
 
 ## Glossary
 
