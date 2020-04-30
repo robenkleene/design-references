@@ -42,6 +42,10 @@
 
 - Create a camera by clicking the "New Camera" in the camera pull-down menu in the upper right of the viewport. If the lock icon on the right is selected, then changing your perspective will also change the perspective of the camera.
 
+## Update
+
+- Click on the lower right to switch between "Auto Update" and "Manual", with Manual selected, the view only updates with the cycle arrows symbol is clicked.
+
 ## Rendering
 
 Select the "Render View" tab and click "Render"
