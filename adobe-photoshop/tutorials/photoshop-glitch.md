@@ -16,3 +16,19 @@
 
 1. Create a number of marquee selections
 2. Use "Filter > Distort > Wave"
+3. Change the "Type:" to "Square"
+
+### Settings
+
+- "Number of Generators": Amount of detail
+- "Scale": Amount of movement in horizontal and vertical directions
+- "Amplitude": Size
+
+## Lines
+
+- Make a new white layer
+- "Filter > Filter Gallery..."
+- Select "Sketch > Halftone Pattern"
+- Select "Pattern Type" as "Line"
+- Click "Ok" and change the blend mode to "Soft Light"
+- Lower the opacity
