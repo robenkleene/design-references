@@ -5,6 +5,20 @@
 - `right-click-drag`: Pan
 - `⌃-drag`: Rotate
 
+## Window Management
+
+Splits can also be accessed by clicking the disclosure arrow to the top right above the viewport (next to the white box to maximize).
+
+- `⌘B`: Toggle maximize current pane
+- `⌥[`: Split horizontal
+- `⌥]`: Split vertical
+
+In the bottom center of the window there are three small buttons: the left maximizes left/top pane, the center swaps the two panes, and the right maximizes the right/bottom pane.
+
+The "pin" icon above a panes viewport is to associate panes.
+
+Desktops can be saved under "Save Current Desktop As...", by default to the path `~/Library/Preferences/houdini/18.0/desktop/`.
+
 ## Tools
 
 - `s`: Switch to select tool

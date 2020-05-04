@@ -32,3 +32,10 @@
 - Select "Pattern Type" as "Line"
 - Click "Ok" and change the blend mode to "Soft Light"
 - Lower the opacity
+
+## Channels
+
+- Open the "Channels" panel
+- Select the "Red" color ("RGB" will be automatically hidden, unhide it by clicking the "Eye" icon to the left of "RGB")
+- Click and drag to move the red color
+- Repeat with "Green" and "Blue"
