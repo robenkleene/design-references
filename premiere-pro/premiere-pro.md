@@ -3,12 +3,22 @@
 ## Timeline
 
 - `←` / `→`: Move backward / forward by one frame
+- `⇧←` / `⇧→`: Move backward / forward by five frames
 - `↩`: Play from the beginning
 - `␣`: Play/pause
 - `⌃-click-and-drag` the edge of a clip to increase its duration.
+- `j` / `l`: Move forward or backward
+- `k`: Pause
+
+## Editing
+
+- `⌘K`: Split clip
+
+## Attributes
+
+To copy and paste attributes between clips, right-click the clip and choose attributes, then right-click the destination clip and choose "Paste Attributes".
 
 ## Notes 
-
 
 - Zoom is under "Effect Controls" add keyframes like After Effects
 - You set the aspect ratio by right-clicking a sequence and selecting "Sequence Settings.."
