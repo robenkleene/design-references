@@ -49,3 +49,7 @@
 ## Rendering
 
 Select the "Render View" tab and click "Render"
+
+## Projects
+
+If a "File > New Project..." is created, then the `$JOB` variable in the save dialog will be set to that path, making it easy to save all the files related to one project together.
