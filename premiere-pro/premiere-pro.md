@@ -2,6 +2,9 @@
 
 ## Timeline
 
+- `←` / `→`: Move backward / forward by one frame
+- `↩`: Play from the beginning
+- `␣`: Play/pause
 - `⌃-click-and-drag` the edge of a clip to increase its duration.
 
 ## Notes 
