@@ -19,6 +19,10 @@ The "pin" icon above a panes viewport is to associate panes.
 
 Desktops can be saved under "Save Current Desktop As...", by default to the path `~/Library/Preferences/houdini/18.0/desktop/`.
 
+### Panes
+
+Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
+
 ## Tools
 
 - `s`: Switch to select tool
@@ -65,6 +69,8 @@ Desktops can be saved under "Save Current Desktop As...", by default to the path
 Select the "Render View" tab and click "Render"
 
 ## Projects
+
+Projects are designed to help manage projects that have more than one scene file (`.hip`).
 
 If a "File > New Project..." is created, then the `$JOB` variable in the save dialog will be set to that path, making it easy to save all the files related to one project together.
 
