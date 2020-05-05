@@ -26,16 +26,21 @@
 
 ## Lines
 
-- Make a new white layer
-- "Filter > Filter Gallery..."
-- Select "Sketch > Halftone Pattern"
-- Select "Pattern Type" as "Line"
-- Click "Ok" and change the blend mode to "Soft Light"
-- Lower the opacity
+1. Make a new white layer
+2. "Filter > Filter Gallery..."
+3. Select "Sketch > Halftone Pattern"
+4. Select "Pattern Type" as "Line"
+5. Click "Ok" and change the blend mode to "Soft Light"
+6. Lower the opacity
 
 ## Channels
 
-- Open the "Channels" panel
-- Select the "Red" color ("RGB" will be automatically hidden, unhide it by clicking the "Eye" icon to the left of "RGB")
-- Click and drag to move the red color
-- Repeat with "Green" and "Blue"
+1. Open the "Channels" panel
+2. Select the "Red" color ("RGB" will be automatically hidden, unhide it by clicking the "Eye" icon to the left of "RGB")
+3. Click and drag to move the red color
+4. Repeat with "Green" and "Blue"
+
+## Offset
+
+1. Select sections of an image with the marquee tool
+2. Offset those selections by moving them either with the keyboard or mouse while holding the `⌘` key
