@@ -35,7 +35,7 @@ Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
 
 ## Navigation
 
-- `u`: Go up a level in the network editor.
+- `u` / `i`: Go out ("up") / into ("in") a node
 
 ## Modeling
 
