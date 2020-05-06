@@ -75,3 +75,8 @@ Projects are designed to help manage projects that have more than one scene file
 If a "File > New Project..." is created, then the `$JOB` variable in the save dialog will be set to that path, making it easy to save all the files related to one project together.
 
 You can see what these values are set to under "Edit > Aliases and Variables...".
+
+By default, desktops are saved to:
+
+	~/Library/Preferences/houdini/18.0/desktop
+
