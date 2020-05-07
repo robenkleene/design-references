@@ -5,6 +5,10 @@
 - `right-click-drag`: Pan
 - `⌃-drag`: Rotate
 
+## Mouse
+
+- right-click "Show Node Information..." is similar to middle-click and hold.
+
 ## Window Management
 
 Splits can also be accessed by clicking the disclosure arrow to the top right above the viewport (next to the white box to maximize).
@@ -51,6 +55,10 @@ Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
 
 - `⇥`: Add a node
 - You can drag out a connection and then click `⇥` to add an object already connected
+
+## Cameras
+
+The lock icon in the "Display options" (toolbar to the right of the "3D Scene View") locks the view port to the camera.
 
 ### Tips
 
