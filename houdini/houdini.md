@@ -5,6 +5,10 @@
 - `right-click-drag`: Pan
 - `⌃-drag`: Rotate
 
+## Transport
+
+- `↓` / `↑`: Toggle backwards / forwards playback (tap again to pause)
+
 ## Mouse
 
 - right-click "Show Node Information..." is similar to middle-click and hold.
