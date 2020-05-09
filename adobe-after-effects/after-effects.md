@@ -1,5 +1,7 @@
 # Adobe After Effects
 
+- `⌘Y`: Make new solid layer
+
 ## Previews & RAM
 
 The green line is the RAM preview. The blue line is the disk cache. You can adjust the preview resolution under the preview, e.g., change "Full" to "Half" or "Quarter".
