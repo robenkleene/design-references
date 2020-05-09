@@ -15,6 +15,10 @@ Also move any files in the Lightroom `Mobile Downloads.lrdata` directory here (t
 2. Pick a color profile
 3. Choose a preset
 
+## Search
+
+To find Photos by name, in the grid view, just click "Text" in the "Library Filter" above the grid view.
+
 ## Edit in Photoshop
 
 Use `⌘E` to edit in Photoshop. After saving, a new PSD file will be created in Lightroom (the original file won't be overwritten).
