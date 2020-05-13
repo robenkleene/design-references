@@ -12,3 +12,4 @@
 - **SOP**: "Surface Operators", construct and modify geometry.
 - **DOP**: "Dynamic Operators", construct simulations, read geometry from SOPs
 - **POP**: "Particle Operators", these are DOPs now.
+- **VEX**: A language for writing shaders and custom nodes.
