@@ -1,4 +1,4 @@
-# Blender Animation
+# Blender Timeline
 
 - `i`: Insert key frame (if you're hovering over a parameter, add a keyframe for that parameter)
 
