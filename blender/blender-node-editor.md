@@ -1,6 +1,7 @@
 # Blender Node Editor
 
 - `⇧D`: Duplicate a node
+- `⌃drag` an output to move it to another socket
 
 ## Sockets
 
