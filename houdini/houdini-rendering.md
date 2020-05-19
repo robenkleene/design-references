@@ -15,3 +15,9 @@ To do a high quality render:
 ## Exporting
 
 Once an image is loaded in MPlay, you can save it with "File > Save Frame As..."
+
+## Manual
+
+There's no way to switch between "Auto Update" and "Manual", but this can be automated with a script.
+
+There's also no built-in hotkey to trigger a manual render, but this can be configured as a hotkey.
