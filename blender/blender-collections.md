@@ -1,4 +1,5 @@
 # Blender Collections
 
-- `m`: Make new collection
-- `1`, `2`, etc...: Switch to first, second, etc... collection
+- `m`: Bring up collections menu (including the "New Collection" option)
+- `1`, `2`...: Only show the first, second, etc... collection
+- `⇧1`, `⇧2`...: Toggle the first, second, etc... collection
