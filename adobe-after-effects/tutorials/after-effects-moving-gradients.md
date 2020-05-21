@@ -33,4 +33,4 @@ Do this as many times to taste, it will generally look better if adjacent layers
 3. Change the color
 4. Change the random seed
 
-## Use Gradient Ramps
+## Adding a Gradient Ramp
