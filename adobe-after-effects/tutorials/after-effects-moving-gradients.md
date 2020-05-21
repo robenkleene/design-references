@@ -19,3 +19,18 @@
 2. Change the fill color to yellow under "Effect Controls" "Fill Mask".
 3. Move the second layer behind the first with `⌘[`.
 4. Select the first layer with the pen tool (`G`) and move some individual points of the mask down so that both layers are visible (the red should be on top with some of the yellow visible above).
+
+## Adjust the Animation
+
+1. For the second layer, go into "Effect Controls > Turbulence Displace > Evolution Options" and choose a different "Random Seed". This makes the two layers animate more independently.
+
+## Make More Layers
+
+Do this as many times to taste, it will generally look better if adjacent layers are adjacent colors on the color wheel.
+
+1. Duplicate a layer
+2. Adjust the mask
+3. Change the color
+4. Change the random seed
+
+## Use Gradient Ramps
