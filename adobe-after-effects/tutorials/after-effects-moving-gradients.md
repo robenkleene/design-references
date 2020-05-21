@@ -34,3 +34,7 @@ Do this as many times to taste, it will generally look better if adjacent layers
 4. Change the random seed
 
 ## Adding a Gradient Ramp
+
+## City States
+
+To become a cities Suzerian (which means you can cross their borders, improve their tiles, and they follow you into war), you need to send them at least three envoys, and have more envoys than any other Civ.
