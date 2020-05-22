@@ -34,3 +34,8 @@ Do this as many times to taste, it will generally look better if adjacent layers
 4. Change the random seed
 
 ## Adding a Gradient Ramp
+
+To add a gradient within a gradient to one of the layers:
+
+1. Add a "Gradient Ramp" effect to one of the layers
+2. Under "Effect Controls > Gradient Ramp", click the target next to "Start of Ramp" to change where the gradient starts, and "End of Ramp" to change where it ends, and set the start and end colors.
