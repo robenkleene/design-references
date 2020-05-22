@@ -3,7 +3,7 @@
 ## Make Particle & Emitter
 
 1. Add an icosphere (`A`, "Mesh > icosphere"), this will be the emitter.
-2. Scale down (`gs`) the icosphere to about `0.82`.
+2. Scale down (`gs`) the icosphere to about `0.365`.
 3. Add second icosphere on this one in the lower left new object panel, change the subdivisions to `1`. This will be the particle.
 4. Move the second icosphere to the left (`gx`) to about `10`, and scale it down (`gs`) to abut `0.25`.
 5. Put the second icosphere in a new collection called "Particle" (`m` "New Collection").
@@ -18,3 +18,9 @@
 	3. Change the "Lifetime" to `100`.
 	4. Change "Render As" to "Object".
 	5. Set the "Instance Object" to the second (smaller) icosphere.
+	6. Under "Render", set the "Size" to `0.02` and the "Scale" to `0.750`
+	7. Under "Field Weights", set "Gravity" to `0`
+
+## Add Turbulence
+
+1. Add "Turbulence" with `A` "Force Field > Turbulence".
