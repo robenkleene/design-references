@@ -24,3 +24,5 @@
 ## Add Turbulence
 
 1. Add "Turbulence" with `A` "Force Field > Turbulence".
+2. Select the force field ("Field" in the "Scene Collection").
+3. Under "Physics Properties > Settings", change the "Strength" to "13" and the "Flow" to "4". (The flow setting makes the particles move together along a flow path, rather than entirely randomly.)
