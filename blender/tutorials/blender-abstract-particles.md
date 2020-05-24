@@ -26,3 +26,15 @@
 1. Add "Turbulence" with `A` "Force Field > Turbulence".
 2. Select the force field ("Field" in the "Scene Collection").
 3. Under "Physics Properties > Settings", change the "Strength" to "13" and the "Flow" to "4". (The flow setting makes the particles move together along a flow path, rather than entirely randomly.)
+
+## Particle Material
+
+1. Open a new split to the right
+2. Switch it to the shader editor (`⇧F3`)
+3. Hit the "New" button in the upper-right to add a new material
+4. Delete the "Principled BSDF" (`x`)
+5. Add an "Emission" shader, (`A`, "Shader > Emission")
+6. Plug the "Emission" output into the "Surface" input
+7. Add a "Particle Input" node, (`A`, "Input > Particle Input")
+8. Add a "Color Ramp" node, (`A`, "Convertor > Color Ramp")
+9. Add a "Math" node, (`A`, "Convertor > Math")
