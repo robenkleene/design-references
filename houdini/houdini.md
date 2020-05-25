@@ -3,7 +3,6 @@
 - `drag`: Orbit
 - `two-finger scroll`: Zoom
 - `right-click-drag`: Pan
-- `⌃-drag`: Rotate
 
 ## Mouse
 
