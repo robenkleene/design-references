@@ -36,5 +36,9 @@
 5. Add an "Emission" shader, (`A`, "Shader > Emission")
 6. Plug the "Emission" output into the "Surface" input
 7. Add a "Particle Input" node, (`A`, "Input > Particle Input")
-8. Add a "Color Ramp" node, (`A`, "Convertor > Color Ramp")
-9. Add a "Math" node, (`A`, "Convertor > Math")
+8. Add a "ColorRamp" node, (`A`, "Convertor > Color Ramp")
+9. Add a "Math" node, (`A`, "Convertor > Math"), set it's type to "Divide", and plug "Particle Info > Age" into the top "Value" (the numerator), and "Particle Info > Lifetime" into the bottom input
+10. Plug the "Value" output of the Divide node into the "Fac" input of the color ramp
+11. Plug the ColorRamp "Color" output into the "Emission > Color" input, and set the "Emission > Strength" to `10`
+12. Make the starting color in the ColorRamp blue, and the ending color pink
+13. In the main Viewport, switch to "Viewport Shading: Rendered" (`z`) to preview your colors
