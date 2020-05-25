@@ -56,3 +56,4 @@ To add a gradient within a gradient to one of the layers:
 2. Enable keyframes for all of the parameters by clicking the stopwatch (click one, and then drag over the others)
 3. Move to 2 seconds
 4. With the layer selected, the Preview window will show four different dots representing the four points (the inner points, not the outer boundary points) of the 4-Color Gradient. Take those points in move them further inward by various amounts.
+5. Make a couple of different keyframes where the positions and colors change.
