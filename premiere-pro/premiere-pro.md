@@ -9,6 +9,7 @@
 - `⌃-click-and-drag` the edge of a clip to increase its duration.
 - `j` / `l`: Move forward or backward
 - `k`: Pause
+- "Project Panel > Reveal Project in Finder..."
 
 ## Editing
 
