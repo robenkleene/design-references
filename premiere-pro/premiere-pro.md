@@ -1,11 +1,5 @@
 # Premiere Pro
 
-## Timeline
-
-- `←` / `→`: Move backward / forward by one frame
-- `⇧←` / `⇧→`: Move backward / forward by five frames
-- `↩`: Play from the beginning
-- `␣`: Play/pause
 - `⌃-click-and-drag` the edge of a clip to increase its duration.
 - `j` / `l`: Move forward or backward
 - `k`: Pause

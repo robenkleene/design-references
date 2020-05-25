@@ -4,3 +4,7 @@
 2. Select the text tool
 3. Click where you want the text to appear
 4. Set the font under "Effect Controls > Text"
+
+## Centering
+
+Center controls are on the right sidebar, "Essential Graphics > Align and Transform".
