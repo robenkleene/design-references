@@ -8,6 +8,11 @@
 
 - right-click "Show Node Information..." is similar to middle-click and hold.
 
+## Tips
+
+- If an object keeps vanishing, try hitting `a` ("Home on Geometry") on the keyboard.
+- If you can't orbit or pan (and right-click brings up a menu), you probably have "Show Handle" (`↩`) on, switch it off with `esc` ("View"). These options are in the left sidebar. 
+
 ## Window Management
 
 Splits can also be accessed by clicking the disclosure arrow to the top right above the viewport (next to the white box to maximize).
@@ -57,15 +62,12 @@ Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
 
 ## Cameras
 
-The lock icon in the "Display options" (toolbar to the right of the "3D Scene View") locks the view port to the camera.
+- Create a camera by clicking the "New Camera" in the camera pull-down menu in the upper right of the viewport. If the lock icon on the right is selected, then changing your perspective will also change the perspective of the camera.
+- The lock icon in the "Display options" (toolbar to the right of the "3D Scene View") locks the view port to the camera.
 
 ### Tips
 
 - On a node, the green bar on the left toggles whether that object is selectable, the bar on the right toggles whether it's visible. The radial menu with the matching colors does the same thing. The `i` shows an info panel.
-
-## Cameras
-
-- Create a camera by clicking the "New Camera" in the camera pull-down menu in the upper right of the viewport. If the lock icon on the right is selected, then changing your perspective will also change the perspective of the camera.
 
 ## Update
 
