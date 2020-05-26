@@ -42,3 +42,4 @@
 11. Plug the ColorRamp "Color" output into the "Emission > Color" input, and set the "Emission > Strength" to `10`
 12. Make the starting color in the ColorRamp blue, and the ending color pink
 13. In the main Viewport, switch to "Viewport Shading: Rendered" (`z`) to preview your colors
+14. Eevee does not currently support the "Particle Info" node, so in "Render Properties", change the renderer to "Cycles"

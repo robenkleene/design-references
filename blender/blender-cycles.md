@@ -1,5 +1,7 @@
 # Blender Cycles
 
+In "Render Properties", change the renderer to "Cycles".
+
 ## Noise
 
 ### Clamping
