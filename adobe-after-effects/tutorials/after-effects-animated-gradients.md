@@ -1,4 +1,4 @@
-# After Effects Moving Gradients
+# After Effects Animated Gradients
 
 ## Technique 1: Paths
 
