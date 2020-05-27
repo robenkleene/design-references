@@ -43,3 +43,10 @@
 12. Make the starting color in the ColorRamp blue, and the ending color pink
 13. In the main Viewport, switch to "Viewport Shading: Rendered" (`z`) to preview your colors
 14. Eevee does not currently support the "Particle Info" node, so in "Render Properties", change the renderer to "Cycles"
+
+## Improving the Scene
+
+1. Set the "World Properties > Color" to black.
+2. Delete the light by right-clicking it in the "Scene Collection"
+3. In the "ColorRamp" node, switch from "Linear" to "Ease"
+4. To make particles near the end of their lifetime transparent, in the node editor add a "Shader > Mix Shader" and attach it from the Emission output to the first "Shader" input, attach the "Shader" output to the "Material Output" "Surface" input (if you drag the new "Mix Shader" between the "Emission" and "Material Output" it will automatically be inserted into this spot). Create a "Transparent BSDF" and attach its "BSDF" output to the bottom "Shader" input of the "Mix Shader".
