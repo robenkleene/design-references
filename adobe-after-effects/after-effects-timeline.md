@@ -7,6 +7,7 @@
 - `⌘←` / `⌘→`: Forward or backward one frame
 - `⇧⌘←` / `⇧⌘→`: Forward or backward ten frames
 - `HOME` / `END`: Go to beginning or end
+- Hold `⇧` when dragging the playhead to snap to keyframes
 
 ## Properties
 
