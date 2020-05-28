@@ -68,6 +68,7 @@ Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
 ### Tips
 
 - On a node, the green bar on the left toggles whether that object is selectable, the bar on the right toggles whether it's visible. The radial menu with the matching colors does the same thing. The `i` shows an info panel.
+- An environment light cannot be moved.
 
 ## Update
 
