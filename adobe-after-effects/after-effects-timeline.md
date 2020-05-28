@@ -1,5 +1,7 @@
 # After Effects Timeline
 
+- `⇧⌥J`: Go to time
+
 ## Transport
 
 - `␣`: Play / Pause
