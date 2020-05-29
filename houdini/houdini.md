@@ -65,6 +65,10 @@ Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
 - Create a camera by clicking the "New Camera" in the camera pull-down menu in the upper right of the viewport. If the lock icon on the right is selected, then changing your perspective will also change the perspective of the camera.
 - The lock icon in the "Display options" (toolbar to the right of the "3D Scene View") locks the view port to the camera.
 
+## Lighting
+
+- To hide an image background in a Environment Light, uncheck "Enable Light in Background"
+
 ### Tips
 
 - On a node, the green bar on the left toggles whether that object is selectable, the bar on the right toggles whether it's visible. The radial menu with the matching colors does the same thing. The `i` shows an info panel.
