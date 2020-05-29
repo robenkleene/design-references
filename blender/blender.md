@@ -13,6 +13,7 @@
 ## View
 
 - `1`: View from the top
+- `⌘⌥Z`: Toggle overlays
 
 ### Two Finger
 
