@@ -1,5 +1,9 @@
 # Houdini Rendering
 
+- `⌥9`: Render view (Switch back to scene view with `⌥1`)
+
+## Tips
+
 - Use "Render Region" on the left to quickly drag out a box to preview a render
 - To render click the "Render View" tab, by default this will only be a preview quality renderer
 
