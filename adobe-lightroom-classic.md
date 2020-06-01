@@ -1,5 +1,13 @@
 # Adobe Lightroom Classic
 
+- `Z`: Toggle zoom view
+- `⌘I` ("View > Loupe Info > Show Info Overlay"): Show metadata (e.g., filename)
+
+
+## Filename
+
+- Toggle showing the info overlay with `⌘I`, the filename can also be copied from the Metadata in the right sidebar.
+
 ## Import Workflow
 
 1. Export from Photos as Unmodified Originals, then delete the JPGs

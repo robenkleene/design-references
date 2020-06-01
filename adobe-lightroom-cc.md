@@ -1,4 +1,4 @@
-# Adobe Lightroom
+# Adobe Lightroom CC
 
 ## Desktop
 
