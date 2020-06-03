@@ -3,6 +3,10 @@
 - `⌥`-click the stopwatch for a property to bring up the expression window.
 - `enter` to finish editing an expression (`fn`-return on a MacBook)
 
+## Tips
+
+- The "Pick Whip" (spiral icon to the right of properties in the timeline)
+
 ## Loops
 
 - `loopOut();`: This loops everything until the last keyframe (this is the easiest way to quickly create a loop).
@@ -10,3 +14,8 @@
 - `loopOut("pingpong");`: Alternate between forward and backward playback
 - `loopOut("continue");`: When the loop ends, continue with momentum
 - `loopOut("offset");`: Adds values to the end of the last keyframe
+
+## Copying Expressions
+
+1. Right-click property name in the Timeline that has the expression to copy and select "Copy Expression Only"
+2. Select each other layer that the expression should apply too, and then paste (`⌘V`)
