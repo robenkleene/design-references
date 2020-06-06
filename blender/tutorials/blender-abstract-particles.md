@@ -13,13 +13,13 @@
 1. Select the first (larger) icosphere.
 2. Go to the "Particle Properties".
 3. Hit the `+` for "Add Particle System Slot", for the new "ParticleSettings":
-	1. Change the "Number" (of particles) to `50,000`.
-	2. Change the "End" to `100`.
-	3. Change the "Lifetime" to `100`.
-	4. Change "Render As" to "Object".
-	5. Set the "Instance Object" to the second (smaller) icosphere.
-	6. Under "Render", set the "Size" to `0.02` and the "Scale" to `0.750`
-	7. Under "Field Weights", set "Gravity" to `0`
+   1. Change the "Number" (of particles) to `50,000`.
+   2. Change the "End" to `100`.
+   3. Change the "Lifetime" to `100`.
+   4. Change "Render As" to "Object".
+   5. Set the "Instance Object" to the second (smaller) icosphere.
+   6. Under "Render", set the "Size" to `0.02` and the "Scale" to `0.750`
+   7. Under "Field Weights", set "Gravity" to `0`
 
 ## Add Turbulence
 
@@ -60,3 +60,8 @@ This gives the particles farthest from the center some translucency.
 ## Clean Up
 
 1. Stop rendering the emitter by toggling off "Particle Properties > Render > Show Emitter"
+
+## Add a Focal Length
+
+1. With the camera selected (`0` selects the camera), go to "Object Data Properties > Depth of Field", click the eyedropper tool and select the emitter icosphere.
+2. In "Object Data Properties > Depth of Field > Aperture", set "F-Stop" to `0.4`.

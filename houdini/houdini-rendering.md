@@ -2,6 +2,10 @@
 
 - `⌥9`: Render view (Switch back to scene view with `⌥1`)
 
+## Rendering
+
+Select the "Render View" tab (`⌥9`) and click "Render" (saving with `⌘S` appears to also trigger a render)
+
 ## Tips
 
 - Use "Render Region" on the left to quickly drag out a box to preview a render

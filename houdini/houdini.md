@@ -80,10 +80,6 @@ Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
 
 - Click on the lower right to switch between "Auto Update" and "Manual", with Manual selected, the view only updates with the cycle arrows symbol is clicked.
 
-## Rendering
-
-Select the "Render View" tab and click "Render"
-
 ## Projects
 
 Projects are designed to help manage projects that have more than one scene file (`.hip`).
