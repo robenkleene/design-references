@@ -4,7 +4,7 @@
 
 ## Rendering
 
-Select the "Render View" tab (`⌥9`) and click "Render" (saving with `⌘S` appears to also trigger a render)
+Select the "Render View" tab (`⌥9`) and click "Render" (after performing a single render, saving again with `⌘S` renders again).
 
 ## Tips
 
