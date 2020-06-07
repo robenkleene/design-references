@@ -3,9 +3,9 @@
 - `⌥`-click the stopwatch for a property to bring up the expression window.
 - `enter` to finish editing an expression (`fn`-return on a MacBook)
 
-## Tips
+## Linking Properties
 
-- The "Pick Whip" (spiral icon to the right of properties in the timeline) is used to link properties (have a property change the value of another property). To use it, drag from the Pick Whip icon of the property to change, to the property to link to. This will create an expression on the property to change.
+The "Pick Whip" (the spiral icon to the right of properties in the timeline) is used to "link" properties, i.e., to have a property change the value of another property. To use it, drag from the Pick Whip icon of the property to change, to the property to link to. This will create an expression on the property to change.
 
 ## Loops
 
