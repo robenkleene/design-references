@@ -99,11 +99,6 @@ With "Edit" > "Preferences" > "Input" > "Emulate 3 Button Mouse" enabled, hold `
 - Show the node editor by dragging the timeline view up from the bottom of the main scene view. Then clicking the clock to switch from the "Timeline" to the "Texture Node Editor".
 - `^-two-finger-drag` `⌘-two-finger-drag` or `⌃-⌥-three-finger-drag`to zoom also works in the node editor.
 
-## Render
-
-1. Go to "Render" > "Render Image" (`F12`).
-2. Type `S` to save the image
-
 ## Tips
 
 - Panels, e.g., for add (`A`), have letters that can be typed to select menu items (e.g., `A` then `s` to quickly search).
