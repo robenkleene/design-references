@@ -6,6 +6,10 @@
 
 Select the "Render View" tab (`⌥9`) and click "Render" (after performing a single render, saving again with `⌘S` renders again).
 
+## Node
+
+To get to the `mantra1` node, in the "Network View" (usually the bottom-right pane), click "obj" and instead select "out".
+
 ## Tips
 
 - Use "Render Region" on the left to quickly drag out a box to preview a render
