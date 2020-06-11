@@ -1,6 +1,7 @@
 # After Effects Timeline
 
 - `⇧⌥J`: Go to time
+- `⌘F`: Search for properties
 
 ## Transport
 
