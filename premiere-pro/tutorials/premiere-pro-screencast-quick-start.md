@@ -5,7 +5,7 @@
 3. Move the assets (e.g., video) next to the project file
 4. Drag the video into the bin
 5. Drag the video from the bin into the timeline, this creates a sequence
-6. Right-click the sequence and select "Sequence Settings..."
+6. Right-click the sequence and select "Sequence Settings..." (clips have a film strip icon, sequences have a timeline icon)
 7. Choose `1080x768` as the aspect ratio
 8. Select "Effect Controls > Motion" and zoom out in the view panel to about `50%` to see the resizing controls. Resize appropriately.
 
