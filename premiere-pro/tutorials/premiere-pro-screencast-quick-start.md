@@ -12,5 +12,5 @@
 ## Export
 
 1. `#M` / "File > Export > Media..."
-2. Select settings and hit enter
-3. This opens "Adobe Media Encoder", hit enter in AME to render
+2. Select settings and hit return, this will open "Adobe Media Encoder"
+3. Hit return again when Adobe Media Encoder has started to start the rendering queue
