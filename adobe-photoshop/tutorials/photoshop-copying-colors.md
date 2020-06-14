@@ -1,6 +1,6 @@
 # Photoshop Copying Colors
 
-## Swatches
+## Grabbing Swatches
 
 Get color swatches from an image.
 
@@ -18,3 +18,8 @@ Apply a gradient map using the color swatches.
 3. Add a stop for each color by doing the following: Double-click a gradient stop (click in an empty area below the gradient to create one), use the eye dropper tool to select a color from the swatch, note the brightness of the color, and set the "Location" for the gradient stop to the brightness value.
 4. Change the blend mode to "Soft Light" (other blend modes that sometimes work well are "Normal" and "Overlay")
 5. Adjust the opacity of the Gradient Map layer to taste
+
+## Grabbing Darkest Point, Lightest Point & Midpoint
+
+1. Use the eye dropper tool to sample the darkest point, and the lightest point, and save their hex colors somewhere.
+2. 
