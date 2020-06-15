@@ -56,9 +56,12 @@ The following can also just be hit directly to immediately start doing the corre
 - `s`: Scale
 - `b`: Select
 
-Once one of the above actions is attached, tapping the corresponding axis letter, e.g., `z`, `x`, or `y` will lock the movement into that axis.
+#### Tips
 
-Right-click or `ESC` cancels any of the above actions.
+- Once one of the above actions is attached, tapping the corresponding axis letter, e.g., `z`, `x`, or `y` will lock the movement into that axis.
+- To transform by a factor, hit the transform key then a number, e.g., `s10↩` will scale up `10x`
+- `↩` accepts the operation
+- Right-click or `ESC` cancels any of the above actions.
 
 ### Middle Mouse Button
 
@@ -94,6 +97,10 @@ With "Edit" > "Preferences" > "Input" > "Emulate 3 Button Mouse" enabled, hold `
 
 - `numpad .` / `View > Frame Selected`: Focus the selected object
 - `backtick` Also has a way to "View Selected", with an `s` key shortcut
+
+## Subdividing
+
+To subdivide, switch to edit mode `⇥`, then right-click and select "Subdivide".
 
 ## Splits
 
