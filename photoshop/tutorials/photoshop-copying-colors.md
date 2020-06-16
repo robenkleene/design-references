@@ -27,3 +27,10 @@ Apply a gradient map using the color swatches.
 4. Make a selection from the layer (`⌘-click` the layer in the layers palette).
 5. Select "Filter > Blur > Average".
 6. Disable the selection (`⌘D`), hide the background, and then use the Eyedropper tool to sample the color.
+
+## Curves Adjustment Layer
+
+1. Create a "Curves..." Adjustment Layer
+2. Select the curves adjustment not the mask, by clicking the symbol to the left of the mask in the Layers Palette
+3. Edit the curve (double-click the symbol if you're not already on the Properties Palette). The three eyedroppers to the left of the curves are for choosing the white point, gray point, and black point of the image, set them to the brightest point, midpoint, and darkest point colors respectively (double-click the eyedropper).
+4. Once the colors are set in the curves, click each eyedropper tool and then click respectively a part of the image for the white point, black point, and gray point.
