@@ -1,6 +1,9 @@
 # Photoshop Shapes
 
-To hide that blue box around shape layers, "View > Show > Target Path" (`⇧⌘H`).
+## Tips
+
+- To hide that blue box around shape layers, "View > Show > Target Path" (`⇧⌘H`).
+- To select points on a shape path, use the "Direct Selection Tool" (`A`), and hold `⌘` while dragging a selection box around the points to select.
 
 ## Rounded Rectangles
 
