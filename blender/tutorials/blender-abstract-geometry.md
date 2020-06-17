@@ -13,3 +13,4 @@
 3. Set `Midlev` to `0`
 4. Add a texture by clicking "New +"
 5. Click the "Show texture in texture tab" button (looks like a couple of sliders on top of each other)
+6. In "Texture Properties", change the type to "Distorted Noise"
