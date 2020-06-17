@@ -34,3 +34,9 @@ Apply a gradient map using the color swatches.
 2. Select the curves adjustment not the mask, by clicking the symbol to the left of the mask in the Layers Palette
 3. Edit the curve (double-click the symbol if you're not already on the Properties Palette). The three eyedroppers to the left of the curves are for choosing the white point, gray point, and black point of the image, set them to the brightest point, midpoint, and darkest point colors respectively (double-click the eyedropper).
 4. Once the colors are set in the curves, click each eyedropper tool and then click respectively a part of the image for the white point, black point, and gray point.
+
+## Correcting Colors
+
+How to add lost detail after adding a black point, which can make some parts of an image so dark that details are lost.
+
+1. Double-click the Curves Adjustment Layer icon, select "RGB", and adjust the two endpoints of the graph.
