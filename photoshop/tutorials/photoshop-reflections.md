@@ -17,4 +17,7 @@ To create a water reflection:
 5. Goto the "Channels" palette, select the `red` channel (and then click the eye next to another channel, so all channels are still visible)
 6. Add a emboss filter to the red channel ("Filter > Stylize > Emboss..."), set the "Angle" to `180`, the "Height" to `1`, and the "Amount" to the maximum.
 7. Select the `green` channel and add an emboss filter to it to, with the Angle set to `90` and the other settings the same.
-8. Switch back to the Layers palette.
+8. Switch back to the Layers palette, select "Edit > Transform > Perspective" and drag the bottom right corner to the right to create perspective. Drag it really far, like 90 degrees, the idea here is to add variation in the noise to make it look like ripples you'd see looking out over a body of water.
+9. The last step will make the file size gigantic, so then select "Layer > Flatten Image" before saving.
+10. Go to "File > Save As…" and save the displacement map as a `PSD` file
+11. Close the displacement map file
