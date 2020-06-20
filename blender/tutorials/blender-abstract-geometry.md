@@ -8,14 +8,24 @@
 
 ## Add a Texture Modifier
 
-1. Select "Modifier Properties" from the sidebar
-2. Select "Add Modifier > Deform > Displace"
-3. Set `Midlev` to `0`, and the `Strength` to `0.1`
-4. Add a texture by clicking "New +"
-5. Click the "Show texture in texture tab" button (looks like a couple of sliders on top of each other)
-6. In "Texture Properties", change the type to "Distorted Noise"
+1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Displace"
+2. Set `Midlev` to `0`, and the `Strength` to `0.1`
+3. Add a texture by clicking "New +"
+4. Click the "Show texture in texture tab" button (looks like a couple of sliders on top of each other)
+5. In "Texture Properties", change the type to "Distorted Noise"
 
 ## Add a Smooth Modifier
 
-1. Select "Modifier Properties" from the sidebar
-2. Select "Add Modifier > Deform > Smooth"
+1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Smooth"
+3. Right-click the plane and select "Share Smooth"
+
+## Add a Decimate Modifier
+
+1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Decimate"
+2. In the Decimate modifier, select "Planar" (turn on "Overlays > Wireframe" in the viewport to see what it's doing). It turns flat areas into single polygons and keeps varied parts as separate polygons.
+3. Change the "Angle Limit" to control the threshold for merging polygons.
+4. Clean up by clicking the disclosure triangle next to each modifier to collapse it
+
+## Add a Wireframe Modifier
+
+1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Wireframe"
