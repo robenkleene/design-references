@@ -34,12 +34,28 @@
 
 Things to experiment with:
 
-### Wireframe Modifier
+### Modifier Properties
+
+#### Wireframe Modifier
 
 - Turn off "Even Thickness"
 - Turn on "Relative Thickness" (the longer the edge the thicker it is)
 - Change the thickness
 
-### Decimate
+#### Decimate
 
 - Change the "Angle Limit"
+
+#### Smooth
+
+- Change the "Repeat"
+
+### Texture Properties
+
+#### Distorted Noise
+
+- Change the "Distortion"
+
+#### Colors
+
+- Change the "Contrast"
