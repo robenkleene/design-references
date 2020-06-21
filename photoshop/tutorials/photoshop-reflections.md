@@ -21,3 +21,8 @@ To create a water reflection:
 9. The last step will make the file size gigantic, so then select "Layer > Flatten Image" before saving.
 10. Go to "File > Save As…" and save the displacement map as a `PSD` file
 11. Close the displacement map file
+
+## Applying the Displacement Map
+
+1. In the original image file, select the reflection layer
+2. Select "Filter > Distort > Displace...", set "Horizontal Scale" to `10` and "Vertical Scale" to `40`, turn on "Stretch to Fit" and "Repeat Edge Pixels", click "Ok" and then select the displacement map file from the file chooser.
