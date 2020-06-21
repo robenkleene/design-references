@@ -29,3 +29,17 @@
 ## Add a Wireframe Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Wireframe"
+
+## Customization
+
+Things to experiment with:
+
+### Wireframe Modifier
+
+- Turn off "Even Thickness"
+- Turn on "Relative Thickness" (the longer the edge the thicker it is)
+- Change the thickness
+
+### Decimate
+
+- Change the "Angle Limit"
