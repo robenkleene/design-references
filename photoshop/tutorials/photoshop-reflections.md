@@ -26,3 +26,4 @@ To create a water reflection:
 
 1. In the original image file, select the reflection layer
 2. Select "Filter > Distort > Displace...", set "Horizontal Scale" to `10` and "Vertical Scale" to `40`, turn on "Stretch to Fit" and "Repeat Edge Pixels", click "Ok" and then select the displacement map file from the file chooser.
+3. Change the amount of ripple distortion, "Displace" filter's "Vertical Scale" (increase for more distortion)

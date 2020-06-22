@@ -14,8 +14,9 @@
 
 ## Properties
 
-- `u`: Show/hide properties with a key frame
-- `uu`: Show/hide all modified properties
+- `u`: Show/hide properties with keyframes for the selected layer, or all layers if none are selected
+- `uu`: Show/hide all modified properties for the selected layer, or all layers if none are selected
+- ``⌘```: Show all properties for the selected layer, or all layers if none are selected
 - `⌘D`: Duplicate
 - `[` / `]`: Move the current layers in or out point to the playhead
 - `⇧F3`: Toggle graph editor

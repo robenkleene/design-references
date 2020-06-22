@@ -17,7 +17,7 @@
 ## Add a Smooth Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Smooth"
-3. Right-click the plane and select "Share Smooth"
+2. Right-click the plane and select "Share Smooth"
 
 ## Add a Decimate Modifier
 
@@ -29,6 +29,20 @@
 ## Add a Wireframe Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Wireframe"
+
+## (Optional) Add a Second Smooth Modifier
+
+1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Smooth"
+2. Increase the "Repeat" to around `7`
+3. In the "Wireframe" modifier, increase the thickness
+
+## (Optional) Add an Array Modifier
+
+1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Array"
+2. Move the array into the first modifier slot
+3. Uncheck "Relative Offset"
+4. Check "Constant Offset"
+5. Add an offset in the "Z" Axis (start with `1m`)
 
 ## Customization
 
