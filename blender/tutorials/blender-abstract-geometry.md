@@ -42,7 +42,19 @@
 2. Move the array into the first modifier slot
 3. Uncheck "Relative Offset"
 4. Check "Constant Offset"
-5. Add an offset in the "Z" Axis (start with `1m`)
+5. Add an offset in the "Z" Axis (start with `0.1m`)
+6. Increase the "Count" to around `5` (note that since the "Array" is before the "Displace", the pattern for each layer is different)
+
+## Add a Subdivision Surface Modifier
+
+This will make the render a bit smoother.
+
+1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Subdivision Surface"
+2. Set "Render" to `1` and "Viewport" to `0`
+
+## Change the Pattern
+
+1. Select "Texture Properties" in the sidebar, and under "Distorted Noise" experiment with the "Noise Basis" and "Distortion" choices.
 
 ## Customization
 
