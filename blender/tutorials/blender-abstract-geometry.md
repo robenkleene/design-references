@@ -1,12 +1,14 @@
 # Blender Abstract Geometry
 
-## Create a Plane
+## Alien
+
+### Create a Plane
 
 1. Add a plane (`A`, select plane)
 2. Scale the plane up by a factor of `10` (select the plane, then `s10↩`)
 3. Subdivide the plane by `49` (`⇥` to switch to edit mode, right-click and select "Subdivide")
 
-## Add a Texture Modifier
+### Add a Texture Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Displace"
 2. Set `Midlev` to `0`, and the `Strength` to `0.1`
@@ -14,29 +16,29 @@
 4. Click the "Show texture in texture tab" button (looks like a couple of sliders on top of each other)
 5. In "Texture Properties", change the type to "Distorted Noise"
 
-## Add a Smooth Modifier
+### Add a Smooth Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Smooth"
 2. Right-click the plane and select "Share Smooth"
 
-## Add a Decimate Modifier
+### Add a Decimate Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Decimate"
 2. In the Decimate modifier, select "Planar" (turn on "Overlays > Wireframe" in the viewport to see what it's doing). It turns flat areas into single polygons and keeps varied parts as separate polygons.
 3. Change the "Angle Limit" to control the threshold for merging polygons.
 4. Clean up by clicking the disclosure triangle next to each modifier to collapse it
 
-## Add a Wireframe Modifier
+### Add a Wireframe Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Wireframe"
 
-## (Optional) Add a Second Smooth Modifier
+### (Optional) Add a Second Smooth Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Smooth"
 2. Increase the "Repeat" to around `7`
 3. In the "Wireframe" modifier, increase the thickness
 
-## (Optional) Add an Array Modifier
+### (Optional) Add an Array Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Array"
 2. Move the array into the first modifier slot
@@ -45,43 +47,46 @@
 5. Add an offset in the "Z" Axis (start with `0.1m`)
 6. Increase the "Count" to around `5` (note that since the "Array" is before the "Displace", the pattern for each layer is different)
 
-## Add a Subdivision Surface Modifier
+### Add a Subdivision Surface Modifier
 
 This will make the render a bit smoother.
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Subdivision Surface"
 2. Set "Render" to `1` and "Viewport" to `0`
 
-## Change the Pattern
+### Change the Pattern
 
 1. Select "Texture Properties" in the sidebar, and under "Distorted Noise" experiment with the "Noise Basis" and "Distortion" choices.
 
-## Customization
+### Customization
 
 Things to experiment with:
 
-### Modifier Properties
+#### Modifier Properties
 
-#### Wireframe Modifier
+##### Wireframe Modifier
 
 - Turn off "Even Thickness"
 - Turn on "Relative Thickness" (the longer the edge the thicker it is)
 - Change the thickness
 
-#### Decimate
+##### Decimate
 
 - Change the "Angle Limit"
 
-#### Smooth
+##### Smooth
 
 - Change the "Repeat"
 
-### Texture Properties
+#### Texture Properties
 
-#### Distorted Noise
+##### Distorted Noise
 
 - Change the "Distortion"
 
-#### Colors
+##### Colors
 
 - Change the "Contrast"
+
+## Abstract 2
+
