@@ -88,5 +88,8 @@ Things to experiment with:
 
 - Change the "Contrast"
 
-## Abstract 2
+## Geometric
 
+1. Create a cube (or use the starting cube)
+2. Make `31` subdivisions by using switching to "Edit Mode" (`⇥`) and right-clicking the cube and selecting "Subdivide". Set the  number of subdivisions in the menu in the lower left.
+3. Exit "Edit Mode" (`⇥`) and select "Modifier Properties", and add a "Displace Modifier" ("Add Modifier > Deform > Displace"). Set the "Midlev" to `0` and the "Strength" to `-0.75`.
