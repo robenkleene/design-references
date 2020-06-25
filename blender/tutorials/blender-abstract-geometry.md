@@ -93,3 +93,6 @@ Things to experiment with:
 1. Create a cube (or use the starting cube)
 2. Make `31` subdivisions by using switching to "Edit Mode" (`⇥`) and right-clicking the cube and selecting "Subdivide". Set the  number of subdivisions in the menu in the lower left.
 3. Exit "Edit Mode" (`⇥`) and select "Modifier Properties", and add a "Displace Modifier" ("Add Modifier > Deform > Displace"). Set the "Midlev" to `0` and the "Strength" to `-0.75`.
+4. Under the "Displace Modifier", select "Texture > New", then click the button to go to the Texture Properties" (looks like two bars over each other).
+5. Under the "Texture Properties", choose "Type: Distorted Noise", "Noise Basis: Cell Noise", and "Distortion: Cell Noise".
+6. Set "Size: 1"
