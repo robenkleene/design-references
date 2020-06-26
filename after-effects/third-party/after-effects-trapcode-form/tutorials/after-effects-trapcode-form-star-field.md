@@ -9,3 +9,6 @@
 7. Select "Particle (Master) > Particle Type: Star (No DOF)"
 8. Select under "Base Form (Master)", "Particles in X: 22", "Particles in Y: 30", "Particles in Z: 1"
 9. Set the "Particle (Master) > Color" to `#EED686`
+10. Under "Glow" set "Size %: 294", "Opacity %: 40", "Feather %: 100"
+11. Set "Size Random %: 99", and "Opacity Random: 100"
+12. Under "Rotation", set "Rotate Z: 0x+30.0", "Rotation Speed Z: 2.0", "Random Speed Rotation: 19.0"

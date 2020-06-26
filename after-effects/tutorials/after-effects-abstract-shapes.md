@@ -10,4 +10,4 @@
 8. Add a second repeater, set "Copies: 9", "Offset: -4"
 9. Under "Transform: Repeater 2", set "Position: 0.0, 100.0", 
 10. Click the "Fill" color in the toolbar and select white `#FFFFFF`
-11. Add a "Polar Coordinates" effect, right-click the shape layer ("Shape Layer 1") and select "Effect > Distort > Polar Coordinates"
+11. Add a "Polar Coordinates" effect, right-click the shape layer ("Shape Layer 1") and select "Effect > Distort > Polar Coordinates".
