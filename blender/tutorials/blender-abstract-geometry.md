@@ -2,13 +2,13 @@
 
 ## Alien
 
-### Create a Plane
+### Setup (Plane)
 
 1. Add a plane (`A`, select plane)
 2. Scale the plane up by a factor of `10` (select the plane, then `s10↩`)
 3. Subdivide the plane by `49` (`⇥` to switch to edit mode, right-click and select "Subdivide")
 
-### Add a Texture Modifier
+### Texture Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Displace"
 2. Set `Midlev` to `0`, and the `Strength` to `0.1`
@@ -16,29 +16,29 @@
 4. Click the "Show texture in texture tab" button (looks like a couple of sliders on top of each other)
 5. In "Texture Properties", change the type to "Distorted Noise"
 
-### Add a Smooth Modifier
+### Smooth Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Smooth"
 2. Right-click the plane and select "Share Smooth"
 
-### Add a Decimate Modifier
+### Decimate Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Decimate"
 2. In the Decimate modifier, select "Planar" (turn on "Overlays > Wireframe" in the viewport to see what it's doing). It turns flat areas into single polygons and keeps varied parts as separate polygons.
 3. Change the "Angle Limit" to control the threshold for merging polygons.
 4. Clean up by clicking the disclosure triangle next to each modifier to collapse it
 
-### Add a Wireframe Modifier
+### Wireframe Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Wireframe"
 
-### (Optional) Add a Second Smooth Modifier
+### (Optional) Second Smooth Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Deform > Smooth"
 2. Increase the "Repeat" to around `7`
 3. In the "Wireframe" modifier, increase the thickness
 
-### (Optional) Add an Array Modifier
+### (Optional) Array Modifier
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Array"
 2. Move the array into the first modifier slot
@@ -47,7 +47,7 @@
 5. Add an offset in the "Z" Axis (start with `0.1m`)
 6. Increase the "Count" to around `5` (note that since the "Array" is before the "Displace", the pattern for each layer is different)
 
-### Add a Subdivision Surface Modifier
+### Subdivision Surface Modifier
 
 This will make the render a bit smoother.
 
@@ -90,9 +90,24 @@ Things to experiment with:
 
 ## Geometric
 
+### Setup (Cube)
+
 1. Create a cube (or use the starting cube)
 2. Make `31` subdivisions by using switching to "Edit Mode" (`⇥`) and right-clicking the cube and selecting "Subdivide". Set the  number of subdivisions in the menu in the lower left.
-3. Exit "Edit Mode" (`⇥`) and select "Modifier Properties", and add a "Displace Modifier" ("Add Modifier > Deform > Displace"). Set the "Midlev" to `0` and the "Strength" to `-0.75`.
-4. Under the "Displace Modifier", select "Texture > New", then click the button to go to the Texture Properties" (looks like two bars over each other).
-5. Under the "Texture Properties", choose "Type: Distorted Noise", "Noise Basis: Cell Noise", and "Distortion: Cell Noise".
-6. Set "Size: 1"
+
+### Displace Modifier
+
+1. Exit "Edit Mode" (`⇥`) and select "Modifier Properties", and add a "Displace Modifier" ("Add Modifier > Deform > Displace"). Set the "Midlev" to `0` and the "Strength" to `-0.75`.
+2. Under the "Displace Modifier", select "Texture > New", then click the button to go to the Texture Properties" (looks like two bars over each other).
+3. Under the "Texture Properties", choose "Type: Distorted Noise", "Noise Basis: Cell Noise", and "Distortion: Cell Noise".
+4. Set "Size: 0.65"
+
+### Remesh Modifier
+
+1. Add a Remesh Modifier (under "Modifier Properties", "Add Modifier > Generate > Remesh"). The remesh modifier tries to maintain right angles.
+2. Set the "Mode" to "Blocks"
+3. The "Octree Dep" controls the amount of edges. Set the "Octree Dep" to `7`.
+
+### Decimate Modifier
+
+1. Add a "Decimate" modifier (Under "Modifier Properties", select "Add Modifier > Generate > Decimate")
