@@ -12,23 +12,11 @@
 - `HOME` / `END`: Go to beginning or end
 - Hold `⇧` when dragging the playhead to snap to keyframes
 
-## Properties
+## Layers
 
-- `u`: Show/hide properties with keyframes for the selected layer, or all layers if none are selected
-- `uu`: Show/hide all modified properties for the selected layer, or all layers if none are selected
-- ``⌘```: Show all properties for the selected layer, or all layers if none are selected
-- `⌘D`: Duplicate
 - `[` / `]`: Move the current layers in or out point to the playhead
 - `⇧F3`: Toggle graph editor
 - `j` / `k`: Move to previous / next key frame
-
-### Transform Properties
-
-- `a`: Show/hide anchor point or position
-- `p`: Position
-- `r`: Show/hide rotation for selected composition
-- `s`: Scale
-- `t`: Opacity
 
 ### Work Area
 

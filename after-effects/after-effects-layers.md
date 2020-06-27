@@ -6,6 +6,21 @@
 - `i` / `o`: Move the playhead to the start or end of a layer
 - `⌘Y`: Add solid, e.g., for a background
 
+## Properties
+
+- `u`: Show/hide properties with keyframes for the selected layer, or all layers if none are selected
+- `uu`: Show/hide all modified properties for the selected layer, or all layers if none are selected
+- ``⌘```: Show all properties for the selected layer, or all layers if none are selected
+- `⌘D`: Duplicate
+
+### Transform Properties
+
+- `a`: Show/hide anchor point or position
+- `p`: Position
+- `r`: Show/hide rotation for selected composition
+- `s`: Scale
+- `t`: Opacity
+
 ## Scaling
 
 To scale something from the bottom right corner: Switch to the "Pan Behind (Anchor Point) Tool" (`Y`) and move the anchor point to the upper left corner, then switch to the "Selection Tool" (`V`) and drag from the lower right corner. After resizing, it's probably a good idea to move the anchor point back to the center.
