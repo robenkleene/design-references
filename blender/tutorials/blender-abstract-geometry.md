@@ -111,3 +111,15 @@ Things to experiment with:
 ### Decimate Modifier
 
 1. Add a "Decimate" modifier (Under "Modifier Properties", select "Add Modifier > Generate > Decimate")
+
+### Duplicate Object
+
+Duplicate the object and convert it to a mesh (and delete the original) for performance reasons.
+
+1. Duplicate the cube (`⌘C ⌘V`), and hide the original by clicking the eye icon.
+2. Convert to copied cube to a mesh by hitting `F3` typing "convert" and selecting "Object: Convert To", then selecting "Mesh from Curv/Meta/Surf/Text"
+
+### Wireframe Modifier
+
+1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Wireframe"
+
