@@ -1,5 +1,6 @@
 # After Effects Layers
 
+- `⌘↓` / `⌘↑`: Select next or previous layer
 - `⌘[` / `⌘]`: Move a layer forward / backward (in front or behind other layers)
 - `[` / `]`: Move a layer to the start or end at the playhead
 - `⌥[` / `⌥]`: Clip a layer so it starts or ends at the playhead
@@ -20,6 +21,8 @@
 - `r`: Show/hide rotation for selected composition
 - `s`: Scale
 - `t`: Opacity
+
+Holding shift, and then hitting multiple of these keys in succession will reveal all of those properties.
 
 ## Scaling
 
