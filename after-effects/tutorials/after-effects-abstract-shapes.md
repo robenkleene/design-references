@@ -21,4 +21,4 @@
 ## Animate Parameters
 
 1. In the layers panel, at the first frame, turn on keyframes for "Repeater 1 > Transform: Repeater 1 > Rotation", and the same for "Repeater 2".
-2. Move the playhead to `05:00`
+2. Move the playhead to `05:00`, set "Repeater 1 > Transform: Repeater 1 > Rotation: `0x+60`" and set "Repeater 2 > Transform: Repeater 2 > Rotation: `0x-40`".
