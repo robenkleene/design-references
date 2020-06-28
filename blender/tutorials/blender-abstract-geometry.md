@@ -123,3 +123,12 @@ Duplicate the object and convert it to a mesh (and delete the original) for perf
 
 1. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Wireframe"
 
+### Variations
+
+In the "Wireframe" modifier:
+
+1. Turning off "Even Thickness", this will make it less angular.
+2. Turning on "Relative Thickness", makes longer lines thicker and shorter lines thinner.
+3. Turning on "Relative Thickness", try changing the thickness.
+4. Turning on "Boundary" will close and open polygons
+
