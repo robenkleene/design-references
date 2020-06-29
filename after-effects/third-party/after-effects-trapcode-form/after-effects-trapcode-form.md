@@ -19,7 +19,8 @@ In Trapcode Form, hit `c` to change the 3D camera tool (switch from orbit to pan
 
 ## Blend Mode
 
-There's no longer a blend mode option under "Rendering", so instead make a separate layer and change the blend mode of the new layer.
+- There's no longer a blend mode option under "Rendering", so instead make a separate layer and change the blend mode of the new layer.
+- To set a blend mode, right-click a layer and select it under "Blending Mode". 
 
 ## Fractal Field
 

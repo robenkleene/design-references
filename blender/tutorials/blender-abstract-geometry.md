@@ -132,3 +132,9 @@ In the "Wireframe" modifier:
 3. Turning on "Relative Thickness", try changing the thickness.
 4. Turning on "Boundary" will close and open polygons
 
+## Speakers
+
+1. Replace the initial cube with a plane (`x` to delete, `A` "Mesh > Plane" to add)
+2. Subdivide the plane (`⇥` to switch to "Edit Mode", right-click and select "Subdivide"), in the lower-left post-action panel, set "Number of Cuts: `19`". Switch back to "Object Mode" after (`⇥`).
+3. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Array"
+4. In the "Array" modifier, uncheck "Relative Offset" and check "Constant Offset"
