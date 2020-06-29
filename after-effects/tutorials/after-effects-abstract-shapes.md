@@ -23,4 +23,4 @@
 1. In the layers panel, at the first frame, turn on keyframes for "Repeater 1 > Transform: Repeater 1 > Rotation", and the same for "Repeater 2".
 2. Move the playhead to `05:00`, set "Repeater 1 > Transform: Repeater 1 > Rotation: `0x+60`" and set "Repeater 2 > Transform: Repeater 2 > Rotation: `0x-40`".
 3. In "Repeater 1 > Transform: Repeater 1" add an expression for scale `wiggle(0.5, 60);` (`⌥-click` the stopwatch icon)
-4. At `05:00`
+4. At `05:00`, 

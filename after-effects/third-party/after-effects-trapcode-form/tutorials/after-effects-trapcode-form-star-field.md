@@ -19,4 +19,4 @@
 ## Adding Stars
 
 1. Since Trapcode Form no longer has built-in blend modes, we need to add make second layer. Duplicate the `Form` layer (`⌘D`)
-2. Rename to new form layer to `Form 2`, and set its blend mode to "Add" (right-click a layer "Blending Mode > Add")
+2. Rename to new form layer to `Form 2`, and set its blend mode to "Add" (right-click a layer "Blending Mode > Normal")
