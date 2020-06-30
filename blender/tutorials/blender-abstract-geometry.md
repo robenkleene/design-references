@@ -136,5 +136,7 @@ In the "Wireframe" modifier:
 
 1. Replace the initial cube with a plane (`x` to delete, `A` "Mesh > Plane" to add)
 2. Subdivide the plane (`⇥` to switch to "Edit Mode", right-click and select "Subdivide"), in the lower-left post-action panel, set "Number of Cuts: `19`". Switch back to "Object Mode" after (`⇥`).
-3. In "Modifier Properties" in the sidebar, select "Add Modifier > Generate > Array"
-4. In the "Array" modifier, uncheck "Relative Offset" and check "Constant Offset"
+3. In the sidebar, select "Modifier Properties > Add Modifier > Generate > Array", uncheck "Relative Offset" and check "Constant Offset", set "Constant Offset > Z: `0.1m`", and "Count: `10`"
+4. In the sidebar, select "Modifier Properties > Add Modifier > Modify > Vertex Weight Edit", this allows you to use textures in the modifier stack to populate a vertex group.
+5. In the sidebar, select "Object Data Properties", add a "Vertex Group" using the "+" button, rename it to `mask`.
+6. In the "Vertex Weight Edit", set "Vertex Group: `mask`", toggle on "Group Add" and "Group Remove", set "Falloff Type: `Custom Curve`"
