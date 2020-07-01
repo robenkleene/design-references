@@ -27,3 +27,10 @@
 7. For operation 1: Set "Source Volume: `density`", "Target Field: `density`" 
 8. For operation 2: Set "Source Volume: `density`", "Target Field: `temperature`", "Scale: `-1`", Uncheck "Clamped to Active Region"
 9. For operation 3: Set "Source Volume: `v`", "Target Field: `vel`", set "Field Rank: `Vector`"
+
+## Scatter
+
+1. Add a "Scatter" node
+2. In `scatter1`, uncheck "Scatter > Options > Relax Iterations". This makes the points more random.
+3. Add a "POP Network" node, and connect the output of `scatter1` to the first input of `popnet`
+4. Inside `popnet`, 
