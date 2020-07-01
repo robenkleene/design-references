@@ -140,3 +140,6 @@ In the "Wireframe" modifier:
 4. In the sidebar, select "Modifier Properties > Add Modifier > Modify > Vertex Weight Edit", this allows you to use textures in the modifier stack to populate a vertex group.
 5. In the sidebar, select "Object Data Properties", add a "Vertex Group" using the "+" button, rename it to `mask`.
 6. In the "Vertex Weight Edit", set "Vertex Group: `mask`", toggle on "Group Add" and "Group Remove", set "Falloff Type: `Custom Curve`"
+7. Inver the custom curve by dragging the leftmost point to the top, and the rightmost point to the bottom.
+8. In the "Vertex Modifier", below the "Custom Curve", create a new texture mask (click the "New" button). Name it "Mask".
+9.  Go to properties by clicking the properties button (looks like two sliders on top of each other), this brings us to "Texture Properties" in the right sidebar. Change the "Type: `Distorted Noise`".
