@@ -35,4 +35,4 @@
 3. Add a "POP Network" node, and connect the output of `scatter1` to the first input of `popnet`
 4. Inside the `popnet`, in the top-right there should be an `source_first_input` node, move that one up and add a "POP Advect by Volume" node between it and `wire_pops_into_here`.
 5. At the `Particle_Advection` level of your network (the same level as `scatter1` and `Pyro_Sim`), add a "DOP Import Fields" node.
-6. In the `dopimportfield1`, in "DOP Network", click the "Open floating operator chooer" button on the right and choose the `Pyro_Sim` node.
+6. In the `dopimportfield1`, in "DOP Network", click the "Open floating operator chooser" button on the right and choose the `Pyro_Sim` node.

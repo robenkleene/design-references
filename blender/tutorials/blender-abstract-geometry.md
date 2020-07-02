@@ -143,3 +143,4 @@ In the "Wireframe" modifier:
 7. Inver the custom curve by dragging the leftmost point to the top, and the rightmost point to the bottom.
 8. In the "Vertex Modifier", below the "Custom Curve", create a new texture mask (click the "New" button). Name it "Mask".
 9.  Go to properties by clicking the properties button (looks like two sliders on top of each other), this brings us to "Texture Properties" in the right sidebar. Change the "Type: `Distorted Noise`".
+10. In the "Distorted Noise" texture, set "Size: `1`"

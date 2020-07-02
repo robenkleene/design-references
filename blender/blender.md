@@ -1,7 +1,8 @@
 # Blender
 
 - `A`: Add object
-- `TAB`: Swap between object and edit modes
+- `⇥`: Swap between object and edit modes
+- `^⇥`: Show radial menu to choose mode
 - `S`: Snap menu, primarily works with the 3D cursor
 - `x`: Delete object
 - `⌘click`: Select object
@@ -39,13 +40,13 @@ Blender doesn't play nice with the "Scroll direction: natural" enabled, so turn 
 
 - With `Emulate Numpad` on, the regular number keys work like the numeric keypad.
 
-## Modes
+## Operations
 
-- `⇧␣`: Bring up mode selector
+- `⇧␣`: Operation menu
 
-### Switching Modes
+### Switching Operations
 
-When the mode selector is visible, use these shortcuts to change modes.
+When the mode menu is visible, use these shortcuts to change modes.
 
 - `␣`: Cursor
 
