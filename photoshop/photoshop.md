@@ -14,6 +14,7 @@
 
 - Hold shift to transform without scaling.
 - `q`: Highlight (color red) selection
+- Expand or contract a selection under "Select > Modify".
 
 ### Selecting Objects
 

@@ -1,5 +1,7 @@
 # After Effects Compositions
 
+To create a composition from an asset, first import that asset by dragging it to the Project panel, then right-click the asset and select "New Comp From Selection".
+
 ## Resizing
 
 - Click the little box icon below the viewport for "Region of Interest" and draw a region of interest, then select "Composition > Crop Comp to Region of Interest".
