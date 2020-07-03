@@ -134,13 +134,23 @@ In the "Wireframe" modifier:
 
 ## Speakers
 
+## Setup
+
 1. Replace the initial cube with a plane (`x` to delete, `A` "Mesh > Plane" to add)
 2. Subdivide the plane (`⇥` to switch to "Edit Mode", right-click and select "Subdivide"), in the lower-left post-action panel, set "Number of Cuts: `19`". Switch back to "Object Mode" after (`⇥`).
 3. In the sidebar, select "Modifier Properties > Add Modifier > Generate > Array", uncheck "Relative Offset" and check "Constant Offset", set "Constant Offset > Z: `0.1m`", and "Count: `10`"
-4. In the sidebar, select "Modifier Properties > Add Modifier > Modify > Vertex Weight Edit", this allows you to use textures in the modifier stack to populate a vertex group.
-5. In the sidebar, select "Object Data Properties", add a "Vertex Group" using the "+" button, rename it to `mask`.
-6. In the "Vertex Weight Edit", set "Vertex Group: `mask`", toggle on "Group Add" and "Group Remove", set "Falloff Type: `Custom Curve`"
-7. Inver the custom curve by dragging the leftmost point to the top, and the rightmost point to the bottom.
-8. In the "Vertex Modifier", below the "Custom Curve", create a new texture mask (click the "New" button). Name it "Mask".
-9.  Go to properties by clicking the properties button (looks like two sliders on top of each other), this brings us to "Texture Properties" in the right sidebar. Change the "Type: `Distorted Noise`".
-10. In the "Distorted Noise" texture, set "Size: `1`"
+
+## Vertex Modifier
+
+1. In the sidebar, select "Modifier Properties > Add Modifier > Modify > Vertex Weight Edit", this allows you to use textures in the modifier stack to populate a vertex group.
+2. In the sidebar, select "Object Data Properties", add a "Vertex Group" using the "+" button, rename it to `mask`.
+3. In the "Vertex Weight Edit", set "Vertex Group: `mask`", toggle on "Group Add" and "Group Remove", set "Falloff Type: `Custom Curve`"
+4. Inver the custom curve by dragging the leftmost point to the top, and the rightmost point to the bottom.
+5. In the "Vertex Modifier", below the "Custom Curve", create a new texture mask (click the "New" button). Name it "Mask".
+6.  Go to properties by clicking the properties button (looks like two sliders on top of each other), this brings us to "Texture Properties" in the right sidebar. Change the "Type: `Distorted Noise`".
+7. In the "Distorted Noise" texture, set "Size: `0.5`"
+
+## Smooth Modifier
+
+1. Add a Smooth Modifier, select "Modifier Properties > Add Modifier > Deform > Smooth", set "Vertex Group: `mask`".
+2. Enter Edit Mode (`⇥`), select the whole plane (`a`), hit `⌃e` and select "Edge Split".

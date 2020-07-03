@@ -1,15 +1,24 @@
 # Blender
 
-- `A`: Add object
+## Global
+
 - `⇥`: Swap between object and edit modes
 - `^⇥`: Show radial menu to choose mode
-- `S`: Snap menu, primarily works with the 3D cursor
-- `x`: Delete object
+- `z`: Bring up options for switching between rendered preview and wireframe
 - `⌘click`: Select object
 - `F3`: Bring up search menu
+
+## Object Mode
+
+- `A`: Add object
+- `S`: Snap menu, primarily works with the 3D cursor
+- `x`: Delete object
 - `o`: Toggle proportional editing
 - `0`: View through camera
-- `z`: Bring up options for switching between rendered preview and wireframe
+
+## Edit Mode
+
+- `a`: Select All
 
 ## View
 
