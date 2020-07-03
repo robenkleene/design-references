@@ -7,6 +7,10 @@
 - `$JOB`: The directory of the current Houdini project (e.g., "File > Set Project...")
 - `$F`: Frame number
 
+## Nodes
+
+- **Null**: Does nothing on its own. By convention, it's often used as the end of a node chain (and called `Out`) and then referenced elsewhere.
+
 ## Acronyms
 
 - **SOP**: "Surface Operators", construct and modify geometry.
