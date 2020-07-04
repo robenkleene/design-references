@@ -37,3 +37,7 @@
 5. At the `Particle_Advection` level of your network (the same level as `scatter1` and `Pyro_Sim`), add a "DOP Import Fields" node.
 6. In the `dopimportfield1`, in "DOP Network", click the "Open floating operator chooser" button on the right and choose the `Pyro_Sim` node. Set "Default Object: `smokeobject1`" (which is the name of the smoke object in `Pyro_Sim`). Increment "Fields to Import" to `1`, and set "Visualization: `Invisible`" and "Field: `vel`".
 7. Add a "Null" object, rename it to `Vel_OUT` and connect the output of `dopimportfield` to its input.
+8. Enter the "DOP Network" `popnet` by double-clicking it. Select the `popadvectbyvolumes1`. For the "SOP" parameter, select "Open floating operator chooser" and select the `Vel_OUT`.
+9. In the `popadvectbyvolumes1`, set "Advection Type: `Update Velocity`".
+10. In `source_first_input`, set "Emission Type: `All Points`", and toggle off "Show Guide Geometry" at the top.
+11. You should now be able to see a splash when running the animation.
