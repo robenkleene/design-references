@@ -154,3 +154,10 @@ In the "Wireframe" modifier:
 
 1. Add a Smooth Modifier, select "Modifier Properties > Add Modifier > Deform > Smooth", set "Vertex Group: `mask`".
 2. Enter Edit Mode (`⇥`), select the whole plane (`a`), hit `⌃e` and select "Edge Split".
+3. In the "Smooth Modifier" set "Repeat: `6`".
+
+## Empty Plane Axes
+
+1. Add an empty mesh (`A`, then select "Empty > Plane Axes")
+2. Select the `Plane` again and select "Modifier Properties", under the Vertex modifier, select "Texture Coordinates: `Object`", then "Object: `Empty`".
+3. Select the "Empty", then move it's origin outside of the plane (hit `g` for move, then move the origin), and scale it slightly (`s` then drag). (This isn't that important, but illustrates how moving the Empty changes varies the patterns.)
