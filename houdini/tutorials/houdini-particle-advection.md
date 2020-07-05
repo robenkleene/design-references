@@ -40,4 +40,8 @@
 8. Enter the "DOP Network" `popnet` by double-clicking it. Select the `popadvectbyvolumes1`. For the "SOP" parameter, select "Open floating operator chooser" and select the `Vel_OUT`.
 9. In the `popadvectbyvolumes1`, set "Advection Type: `Update Velocity`".
 10. In `source_first_input`, set "Emission Type: `All Points`", and toggle off "Show Guide Geometry" at the top.
-11. You should now be able to see a splash when running the animation.
+
+## Turning Off Particle Emission
+
+1. You should now be able to see a splash when running the animation. Under right-click "Show Node Information...", see that the number of points is going up over time in the animation. We want to only emit particles on the first frame.
+2. With `source_first_input` selected, set "Birth > Impulse Activation: `$F<2`". This means only emit particles is the current frame is `1`.
