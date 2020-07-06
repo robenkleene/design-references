@@ -161,3 +161,15 @@ In the "Wireframe" modifier:
 1. Add an empty mesh (`A`, then select "Empty > Plane Axes")
 2. Select the `Plane` again and select "Modifier Properties", under the Vertex modifier, select "Texture Coordinates: `Object`", then "Object: `Empty`".
 3. Select the "Empty", then move it's origin outside of the plane (hit `g` for move, then move the origin), and scale it slightly (`s` then drag). (This isn't that important, but illustrates how moving the Empty changes varies the patterns.)
+
+## Colors
+
+1. Select the `Plane`, set "Texture Properties > Color > Contrast: `0.5`"
+
+## Cube
+
+1. Add a cube (`A`, then "Mush > Cube")
+2. Set the cube's size to `0.1`
+3. Select the `Cube` and the `Plane`, and hit `^P` and select "Object" to parent the objects.
+4. Click "Object Properties > Instancing > Faces", turn on "Scale by Face Size" and "Render Instancer". Set "Factor: `10`"
+5. 
