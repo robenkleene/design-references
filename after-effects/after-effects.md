@@ -17,6 +17,11 @@ After Effects uses Society of Motion Picture and Television Engineers (SMPTE) by
 1. `⌘M`: "Composition" -> "Add to Render Queue"
 2. Click "Render"
 
+### Single Frame
+
+- Select "Composition > Save Frame As > File", this will add it to the Render Queue, then click Render.
+
+
 ## Preferences
 
 - `⌘⌥` ("Edit" -> "Keyboard Shortcuts"): Edit keyboard shortcuts
