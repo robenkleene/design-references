@@ -45,3 +45,8 @@
 
 1. You should now be able to see a splash when running the animation. Under right-click "Show Node Information...", see that the number of points is going up over time in the animation. We want to only emit particles on the first frame.
 2. With `source_first_input` selected, set "Birth > Impulse Activation: `$F<2`". This means only emit particles is the current frame is `1`.
+
+## Back to Scatter
+
+1. Go back to the `Particle_Advection` level and select the Scatter node `scatter`. Set "Force Total Count: `100000`".
+2. Go back into `popnet`, select `popadvectbyvolume1` and set "Velocity Blend: `1.0`"

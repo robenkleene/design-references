@@ -154,7 +154,7 @@ In the "Wireframe" modifier:
 
 1. Add a Smooth Modifier, select "Modifier Properties > Add Modifier > Deform > Smooth", set "Vertex Group: `mask`".
 2. Enter Edit Mode (`⇥`), select the whole plane (`a`), hit `⌃e` and select "Edge Split".
-3. In the "Smooth Modifier" set "Repeat: `6`".
+3. In the "Smooth Modifier" set "Repeat: `15`".
 
 ## Empty Plane Axes
 
@@ -171,5 +171,8 @@ In the "Wireframe" modifier:
 1. Add a cube (`A`, then "Mush > Cube")
 2. Set the cube's size to `0.1`
 3. Select the `Cube` and the `Plane`, and hit `^P` and select "Object" to parent the objects.
-4. Click "Object Properties > Instancing > Faces", turn on "Scale by Face Size" and "Render Instancer". Set "Factor: `10`"
-5. 
+4. Click "Object Properties > Instancing > Faces", turn on "Scale by Face Size" and "Render Instancer". Set "Factor: `10`". Toggle off "Display Instancer" and "Render Instancer" to turn off the original object based on the plane.
+5. Under the "Smooth" modifier, toggle off the "Axis Y" and "Axis Z" this will stop the cubes from rotating.
+6. Select "Cube" in the sidebar and add a "Wireframe" modifier to it "Modifier Properties > Add Modifier > Generate > Wireframe".
+7. In the Wireframe modifier, toggle off "Replace Original" and "Even Thickness".
+8. Add a "Subdivision Surface" modifier, "Modifier Properties > Add Modifier > Generate > Subdivision Surface".
