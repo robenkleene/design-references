@@ -18,12 +18,13 @@
 
 ## Adding Stars
 
-Add larger stars that have a traditional star shape.
+Add larger stars that have a star shape.
 
 1. Since Trapcode Form no longer has built-in blend modes, we need to add make second layer. Duplicate the `Form` layer (`⌘D`)
 2. Rename to new form layer to `Form 2`, and make sure it's Blend Mode is set to `Normal` (this is the default) (right-click a layer "Blending Mode > Normal")
 3. Set "Form 2 > Effect Controls Form", set "Base Form > Particles in X: `10`", set "Base Form > Particles in Y: `10`", "Particle > Particle Type: `Star (No DOF)` ("No DOF" means "No Depth of Field", because particle type does not support that feature), "Particle > Size: `2`.
 4. Change "Particle > Position (Z)" will move the stars closer or farther.
+5. Set "Particle > Rotation > Random Rotation: `100`" to add some rotation randomness.
 
 ## Adjustments
 
