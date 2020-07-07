@@ -175,4 +175,6 @@ In the "Wireframe" modifier:
 5. Under the "Smooth" modifier, toggle off the "Axis Y" and "Axis Z" this will stop the cubes from rotating.
 6. Select "Cube" in the sidebar and add a "Wireframe" modifier to it "Modifier Properties > Add Modifier > Generate > Wireframe".
 7. In the Wireframe modifier, toggle off "Replace Original" and "Even Thickness".
-8. Add a "Subdivision Surface" modifier, "Modifier Properties > Add Modifier > Generate > Subdivision Surface".
+8. Add a "Subdivision Surface" modifier, "Modifier Properties > Add Modifier > Generate > Subdivision Surface". Set "Render: `2`", "Viewport: `2`"
+9. With the cube selected, right-click and select "Shade Smooth".
+10 Under 

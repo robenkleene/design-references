@@ -50,3 +50,11 @@
 
 1. Go back to the `Particle_Advection` level and select the Scatter node `scatter`. Set "Force Total Count: `100000`".
 2. Go back into `popnet`, select `popadvectbyvolume1` and set "Velocity Blend: `1.0`"
+
+## Variations
+
+2. In `popnet > popadvectbyvolume1`, set "Velocity Scale: `-1.0`"
+
+## Camera
+
+1. Pick an angle you like and then select "New Camera" from the camera menu in the upper-right of the viewport. To make adjustments, click the lock icon to lock the view to the camera.
