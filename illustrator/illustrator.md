@@ -25,7 +25,7 @@
 ## Grid
 
 - `⌘'`: Toggle grid
-- `⇧⌘`: Toggle snap to grid
+- `⇧⌘'`: Toggle snap to grid
 - "Settings > Guides & Grid": Configure the grid
 
 ## Previewing Colors
