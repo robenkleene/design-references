@@ -58,3 +58,9 @@
 ## Camera
 
 1. Pick an angle you like and then select "New Camera" from the camera menu in the upper-right of the viewport. To make adjustments, click the lock icon to lock the view to the camera.
+
+## Rendering
+
+1. Go to the `Particle_Advection` level, and add a "Attribute VOP" below the `popnet`. Connect the output of the `popnet` to the farthest left input of the `attributevop1`.
+2. Double-click into the `attributevop1` and add a "Parameter". Set "Name: `particle_scale`, "Label: `Particle Scale`".
+3. Add a "Bind Export", connect the `particle_scale` output to the `input`.
