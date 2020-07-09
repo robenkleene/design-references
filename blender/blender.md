@@ -86,6 +86,8 @@ With "Edit" > "Preferences" > "Input" > "Emulate 3 Button Mouse" enabled, hold `
 ## 3D Cursor
 
 - `S`: Provides the snap menu, where you can do actions like moving the 3D cursor to the origin, and moving the object to the 3D cursor.
+- `⇧-right-click`: Move 3D cursor
+- `⇧C`: Clear cursor (move it to the origin)
 
 ## Modeling
 
