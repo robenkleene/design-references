@@ -61,10 +61,11 @@
 
 ## Rendering
 
-1. Go to the `Particle_Advection` level, and add a "Attribute VOP" below the `popnet`. Connect the output of the `popnet` to the farthest left input of the `attributevop1`.
+1. Go to the `Particle_Advection` level, and add a "Attribute VOP" below `popnet`. Connect the output of `popnet` to the farthest left input of the `attributevop1`.
 2. Double-click into the `attributevop1` and add a "Parameter". Set "Name: `particle_scale`, "Label: `Particle Scale`".
 3. Add a "Bind Export", connect the `particle_scale` output to the `input`.
 4. Select `bind1` and set the "Name: `pscale`".
-5. Go back to the `Particle_Advection` level, and rename `attribvop1` to `Particle_Scale`. Set "`Particle_Scale` > Particle Scale: `0.01`" (you may need to scroll in the parameters panel to get "Particle Scale" to be visible).
+5. Go back to the `Particle_Advection` level, and rename `attribvop1` to `Particle_Scale`. Set "`Particle_Scale` > Particle Scale: `0.001`" (you may need to scroll in the parameters panel to get "Particle Scale" to be visible).
 6. Select the "Materials" palette and drag "Utility > Constant" onto the `/mat` area.
 7. Go to the top level and select the `Particle_Advection` node, select the "Render" tab, click the "Open floating operator chooser", and select "/mat > Constant"
+8. At the `Particle_Advection` level, add another a "Attribute VOP" below `Particle_Scale`, and rename it to `Particle_Color`. Connect the output of `Particle_Scale` to the farthest left input of the `Particle_Color`.
