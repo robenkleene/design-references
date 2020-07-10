@@ -69,3 +69,6 @@
 6. Select the "Materials" palette and drag "Utility > Constant" onto the `/mat` area.
 7. Go to the top level and select the `Particle_Advection` node, select the "Render" tab, click the "Open floating operator chooser", and select "/mat > Constant"
 8. At the `Particle_Advection` level, add another a "Attribute VOP" below `Particle_Scale`, and rename it to `Particle_Color`. Connect the output of `Particle_Scale` to the farthest left input of the `Particle_Color`.
+9. Double-click into the `Particle_Color`.
+10. Add a "Ramp Parameter" and a "Divide".
+11. From `geometryvopglobal1`, attach the `p` to the first `divde1` input and `v` to the second input (divide position by velocity.)
