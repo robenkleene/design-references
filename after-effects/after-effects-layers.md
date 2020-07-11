@@ -38,7 +38,7 @@ Holding shift, and then hitting multiple of these keys in succession will reveal
 
 ### Transforming
 
-- `⌘⌥HOME`: Center the anchor point on a layer
+- `⌘⌥HOME`: Center the anchor point on a layer (if when you move a layer, it's also changing shape, then you probably need to do this)
 
 #### Fitting a Layer to a Composition
 
