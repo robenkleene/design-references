@@ -9,12 +9,14 @@
 
 ## Properties
 
+### Layers Panel
+
 - `u`: Show/hide properties with keyframes for the selected layer, or all layers if none are selected
 - `uu`: Show/hide all modified properties for the selected layer, or all layers if none are selected
 - ``⌘```: Show all properties for the selected layer, or all layers if none are selected
 - `⌘D`: Duplicate
 
-### Transform Properties
+#### Transform Properties
 
 - `a`: Show/hide anchor point or position
 - `p`: Position
@@ -24,23 +26,27 @@
 
 Holding shift, and then hitting multiple of these keys in succession will reveal all of those properties.
 
-## Resizing
+### Resizing
 
-### Scaling
+#### Scaling
 
 - To scale a layer from the bottom right corner: Switch to the "Pan Behind (Anchor Point) Tool" (`Y`) and move the anchor point to the upper left corner, then switch to the "Selection Tool" (`V`) and drag from the lower right corner. After resizing, it's probably a good idea to move the anchor point back to the center.
 
-### Resizing
+#### Resizing
 
 - A shape layer's dimensions can be changed in their properties, e.g., for a rectangle layer, it's under "Shape Layer > Contents > Rectnagle 1 > Rectangle Path 1 > Size". 
 
-### Fitting a Layer to a Composition
+### Transforming
+
+- `⌘⌥HOME`: Center the anchor point on a layer
+
+#### Fitting a Layer to a Composition
 
 - "Layer > Transform > Fit to Comp" / `⌥⌘F`
 - "Layer > Transform > Fit to Comp Width" / `⌥⇧⌘H`
 - "Layer > Transform > Fit to Comp Height" / `⌥⇧⌘G`
 
-## Color
+### Color
 
 Change color settings in "File" -> "Project Settings...", 8-bit is `0-255`
 

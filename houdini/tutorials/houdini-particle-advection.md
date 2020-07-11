@@ -61,14 +61,26 @@
 
 ## Rendering
 
+### Scale
+
 1. Go to the `Particle_Advection` level, and add a "Attribute VOP" below `popnet`. Connect the output of `popnet` to the farthest left input of the `attributevop1`.
 2. Double-click into the `attributevop1` and add a "Parameter". Set "Name: `particle_scale`, "Label: `Particle Scale`".
 3. Add a "Bind Export", connect the `particle_scale` output to the `input`.
 4. Select `bind1` and set the "Name: `pscale`".
-5. Go back to the `Particle_Advection` level, and rename `attribvop1` to `Particle_Scale`. Set "`Particle_Scale` > Particle Scale: `0.001`" (you may need to scroll in the parameters panel to get "Particle Scale" to be visible).
-6. Select the "Materials" palette and drag "Utility > Constant" onto the `/mat` area.
-7. Go to the top level and select the `Particle_Advection` node, select the "Render" tab, click the "Open floating operator chooser", and select "/mat > Constant"
-8. At the `Particle_Advection` level, add another a "Attribute VOP" below `Particle_Scale`, and rename it to `Particle_Color`. Connect the output of `Particle_Scale` to the farthest left input of the `Particle_Color`.
-9. Double-click into the `Particle_Color`.
-10. Add a "Ramp Parameter" and a "Divide".
-11. From `geometryvopglobal1`, attach the `p` to the first `divde1` input and `v` to the second input (divide position by velocity.)
+5. Go back to the `Particle_Advection` level, and rename `attribvop1` to `Particle_Scale`. Set "`Particle_Scale` > Particle Scale: `0.005`" (you may need to scroll in the parameters panel to get "Particle Scale" to be visible).
+
+### Color
+
+1. Select the "Materials" palette and drag "Utility > Constant" onto the `/mat` area.
+2. Go to the top level and select the `Particle_Advection` node, select the "Render" tab, click the "Open floating operator chooser", and select "/mat > Constant"
+3. At the `Particle_Advection` level, add another a "Attribute VOP" below `Particle_Scale`, and rename it to `Particle_Color`. Connect the output of `Particle_Scale` to the farthest left input of the `Particle_Color`.
+4. Double-click into the `Particle_Color`.
+5. Add a "Ramp Parameter" and a "Divide".
+6. From `geometryvopglobal1`, attach the `p` to the first `divde1` input and `v` to the second input (divide position by velocity).
+7. Connect the output of `divde1` to the input of `ramp1`. Connect the `ramp` output of `ramp1` to `Cd` input of `geometryvopoutput1`.
+
+### Color Rendering
+
+1. At the top level (`Particle_Advection`), select `Particle_Color` as the render node.
+2. Select the "Render View" and hit "Render"
+3. Change the gradient colors in the "ramp" property
