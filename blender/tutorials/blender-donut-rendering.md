@@ -6,3 +6,11 @@ Before doing this tutorial, there needs to be a camera and a light in the scene.
 2. Move a light source close to the subject so you can see the shading.
 3. Add a plane with (`⇧A`, "Mesh > Plane") that the subject can cast shadows onto
 4. Move the subject up so it's sitting on the plane (`g z` then move the mouse).
+
+## Light
+
+Settings for light can be adjusted under "Object Data Properties" with the light selected. E.g., you can change the "Color" and "Power".
+
+## Render Engine
+
+If you're rendering a scene, it's a good idea to switch the render engine to "Cycles" (under "Render Properties"). The default, Eevee, is more for longer animations (it's similar to a game rendering engine).
