@@ -42,7 +42,7 @@ To add a gradient within a gradient to one of the layers:
 1. Add a "Gradient Ramp" effect to one of the layers
 2. Under "Effect Controls > Gradient Ramp", click the target next to "Start of Ramp" to change where the gradient starts, and "End of Ramp" to change where it ends, and set the start and end colors.
 
-## Technique 2
+## Technique 2: 4-Color Gradient
 
 ### Create the Gradient
 
@@ -52,11 +52,10 @@ To add a gradient within a gradient to one of the layers:
 
 ### Animation
 
-1. Go to "Effect Controls > 4-Color Gradient > Positions & Colors"
-2. Enable keyframes for all of the parameters by clicking the stopwatch (click one, and then drag over the others)
-3. Move to `2s`
-4. With the layer selected, the Preview window will show four different dots representing the four points (the inner points, not the outer boundary points) of the 4-Color Gradient. Take those points in move them further inward by various amounts.
-5. Make a couple of different keyframes where the positions and colors change, probably at `4s` for an even interval
+1. Enable keyframes for all of the "Point" and "Color" parameters under "Effect Controls > 4-Color Gradient > Positions & Colors" (just click the top stopwatch and drag down over all the rest to select all of them quickly).
+2. Move to `2s`
+3. With the layer selected, the Preview window will show four different dots representing the four points (the inner points, not the outer boundary points) of the 4-Color Gradient. Take those points in move them further inward by various amounts.
+4. Make a couple of different keyframes where the positions and colors change, probably at `4s` for an even interval
 
 The 4-Color Gradient points in the viewport are only editable when "Effect Controls > 4-Color Gradient" is selected.
 
