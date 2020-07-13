@@ -5,9 +5,9 @@
 
 ## Aligning
 
-With the camera selected, you can then use:
+When you're viewing through the camera, you can then use:
 
-- `g`: Pan
+- `g`: Pan (based on grab)
 - `r`: Rotate
 
 ## Lock
