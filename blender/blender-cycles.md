@@ -2,6 +2,8 @@
 
 In "Render Properties", change the renderer to "Cycles".
 
+Cycles is an unbiased rendering engine.
+
 ## Noise
 
 ### Clamping
