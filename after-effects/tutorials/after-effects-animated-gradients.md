@@ -53,11 +53,11 @@ To add a gradient within a gradient to one of the layers:
 ### Animation
 
 1. Enable keyframes for all of the "Point" and "Color" parameters under "Effect Controls > 4-Color Gradient > Positions & Colors" (just click the top stopwatch and drag down over all the rest to select all of them quickly).
-2. Move to `2s`
-3. With the layer selected, the Preview window will show four different dots representing the four points (the inner points, not the outer boundary points) of the 4-Color Gradient. Take those points in move them further inward by various amounts.
+2. Move to `2s`, hit `u` in the layers panel to make all the properties with keyframes visible.
+3. In the layers panel, select "Solid 1 > 4-Color Gradient". The viewport will show the four points representing the center positions of each color in the gradient (these inner points in the layer, not points on the boundary). Move each point further inward by varying amounts.
 4. Make a couple of different keyframes where the positions and colors change, probably at `4s` for an even interval
 
-The 4-Color Gradient points in the viewport are only editable when "Effect Controls > 4-Color Gradient" is selected.
+(Note that the 4-Color Gradient points in the viewport are only editable when the "4-Color Gradient" is selected in either "Effect Controls" or the layer panel.)
 
 ### Blending
 

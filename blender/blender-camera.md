@@ -3,6 +3,14 @@
 - `⌃⌥0` / `⌘⌥0`: Align Camera to View (e.g., set the camera to this view)
 - `0`: View through the camera
 
+## Positioning
+
+There are three methods of positioning the camera:
+
+1. View through the camera (`0`), then using the special movement keys to position the camera.
+2. View through the camera (`0`), then "Lock Camera to View" and position the camera.
+3. Just move the viewport to where you want to the camera to be, then hit `⌃⌥0` to move the camera to that position.
+
 ## Aligning
 
 When you're viewing through the camera, you can then use:
