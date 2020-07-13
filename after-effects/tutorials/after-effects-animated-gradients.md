@@ -59,6 +59,10 @@ To add a gradient within a gradient to one of the layers:
 
 (Note that the 4-Color Gradient points in the viewport are only editable when the "4-Color Gradient" is selected in either "Effect Controls" or the layer panel.)
 
+### Looping
+
+To make the effect loop, cut and paste all of the starting keyframes to where you want the animation to end.
+
 ### Blending
 
 1. Move to first frame and add a keyframe for "Blend" (Blend should be set to `100`)
