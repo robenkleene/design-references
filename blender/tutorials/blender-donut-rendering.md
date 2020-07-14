@@ -14,3 +14,7 @@ Settings for light can be adjusted under "Object Data Properties" with the light
 ## Render Engine
 
 If you're rendering a scene, it's a good idea to switch the render engine to "Cycles" (under "Render Properties"). The default, Eevee, is more for longer animations (it's similar to a game rendering engine).
+
+## Camera
+
+Position the camera, the easiest way is to navigate to a view that looks good and then select hit `⌃⌥0` to lock the camera to that view. Make additional adjustments by accessing the sidebar menu with `N` and toggling on "Lock Camera to View".
