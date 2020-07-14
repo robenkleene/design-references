@@ -18,3 +18,11 @@ If you're rendering a scene, it's a good idea to switch the render engine to "Cy
 ## Camera
 
 Position the camera, the easiest way is to navigate to a view that looks good and then select hit `⌃⌥0` to lock the camera to that view. Make additional adjustments by accessing the sidebar menu with `N` and toggling on "Lock Camera to View".
+
+## Rendering
+
+Go to "Render > Render Image" or hit `F12`. The image can be saved by hitting `⌥S` or "Image > Save"
+
+## Materials
+
+1. Select the "Plane" and go to "Material Properties". Click "New" to create a new material. Change the "Base Color" to blue.
