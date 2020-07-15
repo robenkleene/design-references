@@ -4,6 +4,6 @@
 
 ## Steps
 
-1. `⌘M` / "File > Export > Media..."
+1. `⌘M` / "File > Export > Media..." (if this option does nothing, select the sequence, then try again)
 2. Select settings and hit return, this will open "Adobe Media Encoder"
 3. Hit return again when Adobe Media Encoder has started to start the rendering queue

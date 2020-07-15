@@ -11,6 +11,8 @@
 
 ## Export
 
+Note that the 
+
 1. `#M` / "File > Export > Media..."
-2. Select settings and hit return, this will open "Adobe Media Encoder"
+2. Set the export location, select settings, and hit return, this will open "Adobe Media Encoder"
 3. Hit return again when Adobe Media Encoder has started to start the rendering queue
