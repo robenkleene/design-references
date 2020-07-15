@@ -15,3 +15,5 @@
 ## Animate
 
 1. In the layers panel, "`Design` > Contents", click the "Add:" arrow icon and add "Trim Paths"
+2. Go to `0s` and add a keyframe for "Trim Paths 1 > End: `0`", then go to `2s` and add a keyframe for "Trim Paths 1 > End: `50`.
+3. Duplicate the `Design` layer, and for the second copy, set the "Trim Paths 1 > Offset: `0x+180`". This starts the shape being drawn from two points simultaneously, that then meet to finish the shape.
