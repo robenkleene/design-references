@@ -23,3 +23,7 @@
 4. Click the "Create spare parameters for each unique call of ch()" button to the right of the "VEXpression" text box.
 5. In the new parameters that appear below the text box, set "Radius: `1`" and "Pointamount: `10`".
 6. Set "Run Over: `Detail (only once)`"
+7. Create another "Attribute Wrangle", and set the "VEXpression" to:
+
+		float noise = noise(@P);
+		@P = set(cos(noise), sin(noise), 0);
