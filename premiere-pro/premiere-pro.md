@@ -2,7 +2,7 @@
 
 - `⌃-click-and-drag` the edge of a clip to increase its duration.
 - "Project Panel > Reveal Project in Finder..."
-- `backtick`: Quick (approximation of a) full-screen preview
+- `backtick`: View selected section full screen. (With the viewport selected, an easy way to get a quick approximation of a full-screen preview.)
 
 ## Attributes
 
