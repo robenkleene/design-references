@@ -25,4 +25,11 @@ Go to "Render > Render Image" or hit `F12`. The image can be saved by hitting `â
 
 ## Materials
 
+### Plane
+
 1. Select the "Plane" and go to "Material Properties". Click "New" to create a new material. Change the "Base Color" to blue.
+
+### Donut
+
+1. Select the "Torus" and go to "Material Properties". Click "New" to create a new material. Change the "Base Color" to an orangey yellow.
+2. Set "Subsurface: `0.1`", "Subsurface Radius: `0.1`, `0.1`, `0.1`"
