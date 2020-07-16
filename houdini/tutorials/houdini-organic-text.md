@@ -22,3 +22,4 @@
 
 4. Click the "Create spare parameters for each unique call of ch()" button to the right of the "VEXpression" text box.
 5. In the new parameters that appear below the text box, set "Radius: `1`" and "Pointamount: `10`".
+6. Set "Run Over: `Detail (only once)`"
