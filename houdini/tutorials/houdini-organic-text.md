@@ -21,9 +21,12 @@
 		}
 
 4. Click the "Create spare parameters for each unique call of ch()" button to the right of the "VEXpression" text box.
-5. In the new parameters that appear below the text box, set "Radius: `1`" and "Pointamount: `10`".
+5. In the new parameters that appear below the text box, set "Radius: `1`" and "Pointamount: `58`".
 6. Set "Run Over: `Detail (only once)`"
-7. Create another "Attribute Wrangle", and set the "VEXpression" to:
+7. Create another "Attribute Wrangle", set the output of `create_some_points_around_circle` to the first input of the new Attribute Wrangle.
+8. Set the "VEXpression" of the new "Attribute Wrangle" to:
 
 		float noise = noise(@P);
-		@P = set(cos(noise), sin(noise), 0);
+		@P += set(cos(noise), sin(noise), 0);
+9. Add a "Solver" and name it `accumulate_it`. Make `accumulate_it` replace the position of the new "Attribute Wrangle". i.e., have the output of `create_some_points_around_circle` go into its first input.
+10. Cut the new "Attribute Wrangle" and enter `accumulate_it` and paste it.
