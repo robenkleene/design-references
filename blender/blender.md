@@ -114,11 +114,6 @@ With "Edit" > "Preferences" > "Input" > "Emulate 3 Button Mouse" enabled, hold `
 
 To subdivide, switch to edit mode `⇥`, then right-click and select "Subdivide".
 
-## Splits
-
-- You can split from the right or left by moving your cursor to one of the corners until you see a `+` shaped cursor, and drag the split out.
-- To close a split, join the split you want to keep into the split you want to remove. To join splits, hover the cursor over a corner of the split you want to keep until you see the `+` and drag towards the split you want to close until the cursor turns into an `>` and then release. Note that joining will fail if it would involve joining more than two splits, e.g., you can't join a row with two vertical splits into a row with one horizontal split. To do so, first you need to join the two vertical splits, so that there are just two horizontal splits, then you can join the two horizontal splits.
-
 ## Node Editor
 
 - Show the node editor by dragging the timeline view up from the bottom of the main scene view. Then clicking the clock to switch from the "Timeline" to the "Texture Node Editor".
