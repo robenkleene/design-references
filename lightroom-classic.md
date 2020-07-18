@@ -3,7 +3,6 @@
 - `Z`: Toggle zoom view
 - `⌘I` ("View > Loupe Info > Show Info Overlay"): Show metadata (e.g., filename)
 
-
 ## Filename
 
 - Toggle showing the info overlay with `⌘I`, the filename can also be copied from the Metadata in the right sidebar.
@@ -42,7 +41,7 @@ There are three options when editing a file in Photoshop:
 The options are mostly self-explanatory, but have some unintuitive implications. This is the normal workflow:
 
 - If you're editing an image in Photoshop for the first time, you should normally always select "Edit a Copy With Lightroom Classic Adjustments". This creates a copy, because you don't want to overwrite the original file with destructive edits from Photoshop. Adding Lightroom adjustments forces the saved file to be added as a `psd`. (For some filetypes, like `jpg`, if you edit a copy without Lightroom adjustments, the resulting copy will be a `jpg` opened in Photoshop, and you will not be able to add a `psd` to Lightroom automatically, without making yet another copy with Lightroom adjustments.)
-- If you're editing an existing PSD again, you normally want to "Edit Original". The exception to this is if you've already done a bunch more editing in Lightroom to the existing `psd`, in that case you might want to make a new copy with Lightroom adjustments.
+- If you're editing an existing PSD again, you normally want to "Edit Original". (The exception to this is if you've already done a bunch more editing in Lightroom to the existing `psd`, in that case you might want to make a new copy with Lightroom adjustments.)
 
 ### RAW
 
