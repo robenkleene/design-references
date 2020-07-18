@@ -28,5 +28,12 @@
 
 		float noise = noise(@P);
 		@P += set(cos(noise), sin(noise), 0);
+
 9. Add a "Solver" and name it `accumulate_it`. Make `accumulate_it` replace the position of the new "Attribute Wrangle". i.e., have the output of `create_some_points_around_circle` go into its first input.
 10. Cut the new "Attribute Wrangle" and enter `accumulate_it` and paste it.
+11. Update the VEXpression of the "Attribute Wrangle" to:
+
+		TWO_PI = 2 * $PI;
+		float noise = noise(@P) * TWO_PI;
+		float randomNumber = @TimeInc;
+		@P += set(cos(noise) * randomNumber, sin(noise) * randomNumber, 0);

@@ -37,3 +37,8 @@ Go to "Render > Render Image" or hit `F12`. The image can be saved by hitting `â
 ### Light
 
 1. Select the "Light". Increase the "Size" to `0.45`. The larger the light the software the shadow becomes.
+2. To fix areas that might be overexposed, temporarily set "Render Properties > Color Management > View Transform: `False Color`". Any areas that are too bright white should be turned down by adjusting the light's power (with the `Light` selected, "Object Data Properties > Light > Power").
+
+## Denoise
+
+1. After rendering (`F12`), the 
