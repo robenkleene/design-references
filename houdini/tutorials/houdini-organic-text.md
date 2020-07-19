@@ -31,9 +31,22 @@
 
 9. Add a "Solver" and name it `accumulate_it`. Make `accumulate_it` replace the position of the new "Attribute Wrangle". i.e., have the output of `create_some_points_around_circle` go into its first input.
 10. Cut the new "Attribute Wrangle" and enter `accumulate_it` and paste it.
-11. Update the VEXpression of the "Attribute Wrangle" to:
+11. Update the VEXpression of the "Attribute Wrangle" to introduce noise overtime:
 
 		TWO_PI = 2 * $PI;
 		float noise = noise(@P) * TWO_PI;
 		float randomNumber = @TimeInc;
 		@P += set(cos(noise) * randomNumber, sin(noise) * randomNumber, 0);
+
+11. Update the VEXpression of the "Attribute Wrangle" to add a noise scale parameter:
+
+		float TWO_PI = 2 * $PI;
+		float noiseScale = ch("NoiseScale");
+		float noise = noise(@P) * TWO_PI * noiseScale;
+		float randomNumber = @TimeInc;
+
+		@P += set(cos(noise) * randomNumber, sin(noise) * randomNumber, 0);
+
+12. Click the "Creates spare parameters for each unique call of ch()" button to the right of VEXpression (looks like a slider) to add the parameter down below.
+13. Set "`Noisescale`: `4`"
+14. Go to the top level and select the `create_some_points_around_circle` node, set `Pointamount`: `150` and `Radius`: `2.5`.
