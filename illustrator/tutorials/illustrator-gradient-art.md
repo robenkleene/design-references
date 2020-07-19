@@ -15,4 +15,4 @@
 
 ## Tweak Design
 
-1. With the design select, go to "Window > Stroke" and set the "Weight: `0.5`".
+1. With the design selected, go to "Window > Stroke" and set the "Weight: `0.5`", and set the stroke color to white.

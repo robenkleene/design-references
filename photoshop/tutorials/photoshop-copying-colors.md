@@ -20,7 +20,7 @@ Apply a gradient map using the color swatches.
 
 ## Grabbing Darkest Point, Lightest Point & Midpoint
 
-1. Use the eye dropper tool to sample the darkest point, and the lightest point, and save their hex colors somewhere.
+1. Use the eye dropper tool to sample the darkest point, and the lightest point of the reference image, and save their hex colors somewhere.
 2. To get the midpoint, go to "Select > Color Range" and in the "Select" dropdown menu, select "Midtones". Set the "Fuzziness" to `0` and optionally expand the range, and then select "Ok".
 3. Make a new layer with the midtones selected (`⌘J`).
 4. Make a selection from the layer (`⌘-click` the layer in the layers palette).
