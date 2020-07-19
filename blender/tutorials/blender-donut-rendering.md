@@ -41,4 +41,5 @@ Go to "Render > Render Image" or hit `F12`. The image can be saved by hitting `â
 
 ## Denoise
 
-1. After rendering (`F12`), the 
+1. Toggle on "View Layer Properties > Passes > Data > Denoising Data". This turns on the Intel denoiser, which is applied after each render section to reduce noise.
+2. Increasing the number of samples for "Render Properties > Sampling > Render" also reduces noise.
