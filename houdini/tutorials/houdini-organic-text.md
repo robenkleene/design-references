@@ -50,3 +50,6 @@
 12. Click the "Creates spare parameters for each unique call of ch()" button to the right of VEXpression (looks like a slider) to add the parameter down below.
 13. Set "`Noisescale`: `4`"
 14. Go to the top level and select the `create_some_points_around_circle` node, set `Pointamount`: `150` and `Radius`: `2.5`.
+15. At the top level, add a "Trail" and connect the output of `accumulate_it` to its input.
+16. In `trail`, set "Trail Length: `$F`" (`$F` is current frame), set "Result Type: `Connect as Polygons`", and toggle off "Close rows".
+17. Add a "Circle" and "Copy Stamp", connect the output of `circle` into the left input of `copy1` and the output of `trail1` into the right input of `copy1`.
