@@ -43,3 +43,11 @@ Go to "Render > Render Image" or hit `F12`. The image can be saved by hitting `â
 
 1. Toggle on "View Layer Properties > Passes > Data > Denoising Data". This turns on the Intel denoiser, which is applied after each render section to reduce noise.
 2. Increasing the number of samples for "Render Properties > Sampling > Render" also reduces noise.
+
+## Compositing
+
+The compositing tabs is where you setup nodes where you define everything that happens to your image after a render is finished.
+
+1. Click the "Compositing" tab along the top, and toggle on "Use Nodes".
+2. Add a "Denoise" node (`A`, "Filter > Denoise")
+3. From "Render Layers", connect "Noisy Image", "Denoising Normal", and "Denoising Albedo" to "Image", "Normal", and "Albedo" on the "Denoise" respectively.
