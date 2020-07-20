@@ -50,4 +50,5 @@ The compositing tabs is where you setup nodes where you define everything that h
 
 1. Click the "Compositing" tab along the top, and toggle on "Use Nodes".
 2. Add a "Denoise" node (`A`, "Filter > Denoise")
-3. From "Render Layers", connect "Noisy Image", "Denoising Normal", and "Denoising Albedo" to "Image", "Normal", and "Albedo" on the "Denoise" respectively.
+3. From "Render Layers", connect "Noisy Image", "Denoising Normal", and "Denoising Albedo" to "Image", "Normal", and "Albedo" on the "Denoise" respectively. Connect the "Denoise" "Image" output to the "Composite" "Image" input.
+4. Changes in the Node Editor will not affect the already rendered image, *unless that image is visible in Blender*. So you can live update a rendered image by setting the bottom split to "Image Editor" (click the icon in the upper left representing the current view), set it to "Render Result" (click the icon in the center that looks like an image). If there's an existing render, you can trigger the change by disconnecting and reconnecting the "Image" connection in the Node Editor.

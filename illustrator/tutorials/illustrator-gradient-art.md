@@ -16,3 +16,8 @@
 ## Tweak Design
 
 1. With the design selected, go to "Window > Stroke" and set the "Weight: `0.5`", and set the stroke color to white.
+2. The design looks better if the spline has even spacing, tweak the spine curve to even out the spacing. An easy way to do this is to switch to the "Anchor Point Tool" (`⇧C`)` and adjust the curve's point.
+
+## Gradient
+
+1. Add a gradient to the original curve (not the spine). Select it in the layers panel (click the circle to the right), then select "Window > Gradient", click the stroke once to select it, then click the gradient color well once to apply it.
