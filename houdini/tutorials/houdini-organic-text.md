@@ -56,3 +56,5 @@
 18. Select `circle1`, and set "Uniform Scale: `0.32`"
 19. Add an "Attribute Randomize" between `trail1` and `copy1`. Set "Attribute Name: `pscale`", and set "Global Scale: `0.2`"
 20. Select `circle1`, and set "Uniform Scale: `0.05`"
+21. Add a "Merge" and attach the output of `copy1` and the output of `trail1`.
+22. Add a "Carve" between `trail1` and `attribrandomize1`, and set "Extract > Extract Type > `Extract Point(s)`". Toggle off "First U", toggle on "Second U" and set "Second U: `1`".
