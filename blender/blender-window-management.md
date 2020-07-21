@@ -1,5 +1,7 @@
 # Blender Window Management
 
+- `⌃␣`: Toggle maximize the view that your window is over
+
 ## Splits
 
 ### Splitting

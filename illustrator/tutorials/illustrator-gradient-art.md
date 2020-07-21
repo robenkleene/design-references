@@ -11,7 +11,7 @@
 
 ## Create a Background
 
-1. Add a rectangle behind the design that's the same size as the artboard, and set its color to a dark blue.
+1. Add a rectangle behind the design that's the same size as the artboard, and set its color to dark blue.
 
 ## Tweak Design
 
@@ -20,4 +20,5 @@
 
 ## Gradient
 
-1. Add a gradient to the original curve (not the spine). Select it in the layers panel (click the circle to the right), then select "Window > Gradient", click the stroke once to select it, then click the gradient color well once to apply it.
+1. Add a gradient to two non-spine curves (top and bottom curves). To add the gradient, select a curve in the Layers panel (click the circle to the right), then select "Window > Gradient", click the stroke once to select it, then click the gradient color well once to apply it.
+2. Use a different color for the top curve and the curve.
