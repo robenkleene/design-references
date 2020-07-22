@@ -42,10 +42,6 @@ To delete all swatches, use the swatches contextual menu "Select All Unused" and
 
 The easiest way to resizes is by dragging the bounding box, you may need to show it with "View" -> "Show Bounding Box"
 
-## Artboard
-
-- Edit the artboard either by selecting "File" -> "Document Setup..." or just by clicking "Edit Artboard" in the "Properties" panel
-
 ## Tips
 
 - If importing an image messes up it's colors, just open and export that image from Photoshop and that should fix it.
