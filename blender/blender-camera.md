@@ -1,6 +1,6 @@
 # Blender Camera
 
-- `⌃⌥0` / `⌘⌥0`: Align Camera to View (e.g., set the camera to this view)
+- `⌃⌥0` / `⌘⌥0` ("View > Active View > Align Active Camera to View"): Align Camera to View (e.g., set the camera to this view)
 - `0`: View through the camera
 
 ## Positioning

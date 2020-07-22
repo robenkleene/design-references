@@ -55,6 +55,11 @@
 18. Add a "Circle" and "Copy Stamp", connect the output of `circle` into the left input of `copy1` and the output of `trail1` into the right input of `copy1`.
 19. Select `circle1`, and set "Uniform Scale: `0.32`"
 20. Add an "Attribute Randomize" between `trail1` and `copy1`. Set "Attribute Name: `pscale`", and set "Global Scale: `0.2`"
-21. Select `circle1`, and set "Uniform Scale: `0.05`"
+21. Select `circle1`, and set "Uniform Scale: `0.113`"
 22. Add a "Merge" and attach the output of `copy1` and the output of `trail1`.
 23. Add a "Carve" between `trail1` and `attribrandomize1`, and set "Extract > Extract Type > `Extract Point(s)`". Toggle off "First U", toggle on "Second U" and set "Second U: `1`".
+24. Go into the `accumulate_it` and select `attribrangle1`, and set "`Noisescale`: `2`"
+
+## Adding Text
+
+1. Go back to the `geo1` level and change the name from `create_some_points_around_circle` to `circle_point`
