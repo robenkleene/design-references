@@ -20,27 +20,6 @@
 
 - `a`: Select All
 
-## View
-
-- `1`: View from the top
-- `⌘⌥Z`: Toggle overlays
-
-### Two Finger
-
-- `two-finger-drag` or `⌥-three-finger-drag`: To orbit (or drag on the multi-colored gizmo in the upper right of the work area)
-- `⇧-two-finger-drag` or `⇧-⌥-three-finger-drag`: To pan (or drag on the hand it the upper right of the work area)
-- `^-two-finger-drag` `⌘-two-finger-drag` or `⌃-⌥-three-finger-drag`: zoom (or drag on the magnifying glass in the upper right of the work area)
-
-##### Rolling
-
-Previous to `2.8`, there was a binding to roll the view port with `⇧⌃` and two-finger scroll, but there's no built-in binding for this in Blender 2.8. A binding can be added by targeting `view3d.view_roll`.
-
-There is a workaround if the intention is to roll to get a good camera view: Select the camera and hit `r`, then a single-finger drag will roll the camera's view.
-
-### Strategy
-
-Use `⇧`, `⌃`, and unmodified two-finger drag to pan, zoom, and orbit.
-
 ### Scroll Direction
 
 Blender doesn't play nice with the "Scroll direction: natural" enabled, so turn it off when using Blender. With it off and "Natural Trackpad Direction" enabled in Blender, scrolling works naturally: Panning left moves left, zooming up zooms in, and orbiting up flies up.
@@ -48,40 +27,6 @@ Blender doesn't play nice with the "Scroll direction: natural" enabled, so turn 
 ## Numeric Keypad
 
 - With `Emulate Numpad` on, the regular number keys work like the numeric keypad.
-
-## Operations
-
-- `⇧␣`: Operation menu
-
-### Switching Operations
-
-When the mode menu is visible, use these shortcuts to change modes.
-
-- `␣`: Cursor
-
-The following can also just be hit directly to immediately start doing the corresponding action:
-
-- `g`: Move ("grab")
-- `r`: Rotate
-- `s`: Scale
-- `b`: Select
-
-#### Tips
-
-- Once one of the above actions is attached, tapping the corresponding axis letter, e.g., `z`, `x`, or `y` will lock the movement into that axis.
-- To transform by a factor, hit the transform key then a number, e.g., `s10↩` will scale up `10x`
-- `↩` accepts the operation
-- Right-click or `ESC` cancels any of the above actions.
-
-### Middle Mouse Button
-
-A middle mouse button tap can be used to lock the manipulation into a particular action. The sequence looks like:
-
-1. Tap a manipulation shortcut, e.g., `g` to move
-2. Move the mouse slightly in the correct axis
-3. Hold `⌥` and tap to lock it into that axis
-
-With "Edit" > "Preferences" > "Input" > "Emulate 3 Button Mouse" enabled, hold `⌥` to emulate a three button mouse.
 
 ## 3D Cursor
 
