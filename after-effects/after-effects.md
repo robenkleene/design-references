@@ -2,6 +2,10 @@
 
 - `⌘Y`: Make new solid layer
 
+## Cache
+
+You can clear After Effects' Cache under "After Effects > Preferences > Media & Disk Cache...", "Empty Disk Cache..."
+
 ## Previews & RAM
 
 The green line is the RAM preview. The blue line is the disk cache. You can adjust the preview resolution under the preview, e.g., change "Full" to "Half" or "Quarter".
