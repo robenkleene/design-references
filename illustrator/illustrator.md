@@ -28,6 +28,10 @@
 - `⇧⌘'`: Toggle snap to grid
 - "Settings > Guides & Grid": Configure the grid
 
+## Snapping
+
+- To turn on snapping to objects, select "View > Smart Guides" (`⌘U`)
+
 ## Previewing Colors
 
 To preview color, select "Edit" -> "Edit Colors" -> "Recolor Artwork..." (the colors can then be adjusted live with the sliders, although the color picker still won't live preview from here).
