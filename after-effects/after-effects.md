@@ -2,6 +2,12 @@
 
 - `⌘Y`: Make new solid layer
 
+## Smart Objects
+
+Pre-compose (`⇧⌘C` or "Layer > Pre-Compose...") is After Effects' equivalent of Smart Objects.
+
+To reverse a pre-compose, just copy and paste the layers back into the main composition.
+
 ## Cache
 
 You can clear After Effects' Cache under "After Effects > Preferences > Media & Disk Cache...", "Empty Disk Cache..."

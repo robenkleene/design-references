@@ -71,4 +71,6 @@ To make the effect loop, cut and paste all of the starting keyframes to where yo
 
 ## Technique 3: Blurred Shapes
 
-1. 
+1. Add a solid background
+2. Create several colored circles on it
+3. Add a gaussian blue to each circle
