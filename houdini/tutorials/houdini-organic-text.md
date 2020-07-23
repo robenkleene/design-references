@@ -63,3 +63,9 @@
 ## Adding Text
 
 1. Go back to the `geo1` level and change the name from `create_some_points_around_circle` to `circle_point`
+2. Add a "Font" node to the right of `circle_point`. Set the value of the "Text" field to the letter `X`.
+3. Add a "Scatter" node and connect the output of `font1` to the input of `scatter1`.
+4. Add a "Merge" node, and connect the outputs of `circle_point` and `scatter1` to its inputs. Replace the input of `accumulate_it` with the output of `merge2`.
+5. Select the `font1` and set the "Font Size: `6.6`"
+6. Select the `circle_point`, and set "Radius: `3.7`"
+7. Select `font1` and set "Primitive Type: `Beziers Only`" (Now you should be able to see the outline of the letter).
