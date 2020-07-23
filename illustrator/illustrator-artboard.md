@@ -12,4 +12,10 @@ You can give an artboard a background color by going to "File > Document Setup..
 
 You can of course also just make a layer the same size as the artboard and use that to make a background. This approach has a couple of advantages:
 
-1. The preview updates live, rather than having to select a color 
+1. The background color can be previewed live, rather than after accepting a new color.
+2. A gradient can be used.
+
+To snap the size of the layer to the size of the artboard, there are two strategies that work:
+
+1. Turn on "View > Snap to Grid" (`⇧⌘'`), and then snap the artboard and the layer to the grid.
+2. Turn on "View > Smart Guides" (`⌘U`), and the layer should snap to the size of the artboard regardless of whether its on the grid.
