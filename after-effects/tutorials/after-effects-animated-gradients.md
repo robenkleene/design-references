@@ -68,3 +68,7 @@ To make the effect loop, cut and paste all of the starting keyframes to where yo
 1. Move to first frame and add a keyframe for "Blend" (Blend should be set to `100`)
 2. Move to `2s` and set the Blend to `500`
 3. Move to `4s` and set the Blend back to `100`
+
+## Technique 3: Blurred Shapes
+
+1. 
