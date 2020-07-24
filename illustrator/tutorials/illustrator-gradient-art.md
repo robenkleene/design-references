@@ -22,3 +22,5 @@
 
 1. Add a gradient to two non-spine curves (top and bottom curves). To add the gradient, select a curve in the Layers panel (click the circle to the right), then select "Window > Gradient", click the stroke once to select it, then click the gradient color well once to apply it.
 2. Use a different color for the top curve and the curve.
+
+![Illustrator Gradient Art 1](assets/illustrator-gradient-art-1.png)
