@@ -9,6 +9,11 @@
 
 - `j` / `l`: Move forward or backward
 - `k`: Pause
+- `i`: Mark in point 
+- `o`: Mark out point
+- `'`: Extract (ripple delete marked)
+
+Using a combination of `j` / `l`, `←` / `→`, and `i`, `o`, `,` to make quick fine-grained edits.
 
 ## Editing
 
