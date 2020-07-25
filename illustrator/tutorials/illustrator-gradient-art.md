@@ -25,8 +25,13 @@
 1. Add a gradient to two non-spine curves (top and bottom curves). To add the gradient, select a curve in the Layers panel (click the circle to the right), then select "Window > Gradient", click the stroke once to select it, then click the gradient color well once to apply it.
 2. Use a different color for the top curve and the curve.
 
-![Illustrator Gradient Art 1](assets/illustrator-gradient-art-1.png)
+![Gradient Art 1](assets/gradient-art-1.png)
 
 ## 2. Wavy Shape
 
 1. Make a dark background and draw a wavy shape with the Pen tool with the two end points ending up close to each other, but not closing the shape.
+2. Make a second wavy curve that intersects back on itself.
+
+    ![Wavy Lines](assets/wavy-lines.png)
+
+3. Make select both shapes, and select the Blend tool. Click the farthest left endpoint of the top curve, and the top endpoint of the bottom curve.

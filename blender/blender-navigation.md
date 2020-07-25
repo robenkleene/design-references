@@ -1,9 +1,16 @@
 # Blender Navigation
 
-- `1`: View from the top
 - `⌘⌥Z`: Toggle overlays
 - `Numpad .` ("View > Frame Selected"): Center the select object in the viewport
 - `Numpad 5` ("View > Perspective/Orthographic"): Switch between perspective and orthographic views. Perspective is the normal view, orthographic is a view where the the lines are more geometric. Orthographic removes perspective distortion.
+
+## Orthographic
+
+View from the top, front, or right.
+
+- `1`: Front orthographic
+- `3`: Right orthographic
+- `7`: Top orthographic
 
 ## Two Finger
 
