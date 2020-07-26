@@ -35,3 +35,8 @@
     ![Wavy Lines](assets/wavy-lines.png)
 
 3. Make select both shapes, and select the Blend tool. Click the farthest left endpoint of the top curve, and the top endpoint of the bottom curve.
+4. With the Selection tool (`V`), select all `⌘A`, then select "Object > Expand", and accept the default settings.
+5. Right-click the design an select "Ungroup". This will separate out each curve.
+6. Edit the new (middle) curve expand it some and remove any sharp corners.
+
+![Wavy Lines Two](assets/wavy-lines-2.png)

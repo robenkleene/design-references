@@ -19,6 +19,7 @@ Turn on "View" -> "Show Corner Widget" then hover near a corner with the "Direct
 ### Notes
 
 - To remove an anchor point, click it with the pen tool.
+- To reset the handles, use the Pen tool, and `⌥-click` the point, and drag to get straight, mirrored, handles again.
 
 ## Type
 
