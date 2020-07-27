@@ -46,3 +46,4 @@
     2. Middle curve left point
     3. Bottom curve right point
 8. Change the steps to `75` (double-click the Blend tool icon, select "Spacing: `Specified Steps` `75`")
+9. Change the Stroke size to `0.25` (under "Properties")
