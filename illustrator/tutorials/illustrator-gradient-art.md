@@ -39,4 +39,10 @@
 5. Right-click the design an select "Ungroup". This will separate out each curve.
 6. Edit the new (middle) curve expand it some and remove any sharp corners.
 
-![Wavy Lines Two](assets/wavy-lines-2.png)
+    ![Wavy Lines Two](assets/wavy-lines-2.png)
+
+7. Select all (`V` for the Selection tool, then `⌘A`), click in this order:
+    1. Top curve left point
+    2. Middle curve left point
+    3. Bottom curve right point
+8. Change the steps to `75` (double-click the Blend tool icon, select "Spacing: `Specified Steps` `75`")
