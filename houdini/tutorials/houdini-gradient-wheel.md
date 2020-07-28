@@ -11,3 +11,4 @@
 9. Add a "Fit Range" between `atan1` and `output1`. Set the expression langauge to "Hscript Expression Language" (select it from the "H" icon to the right of the node name). Set "Source Min: `-$PI`" and "Source Max: `$PI`".
 10. Add a "Ramp Parameter" between `fit1` and `output1`. Rename it to `colors`, and set "Label: `Colors`".
 11. Go up a level to `color_wheel`. With `vopcop2gen1` selected, a color wheel should be visible in the properties. Change the type to "Infra-Red" (select it by clicking the gear icon to the right).
+12. Go back into the `vopcop2gen1` and add a "Vector to Float" between `ramp1` and `output1`. Connect "fval1" to "R", "fval2" to "G", and "fval3" to "B".
