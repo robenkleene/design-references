@@ -25,7 +25,8 @@
 
 #### Transform Properties
 
-- `a`: Show/hide anchor point or position
+- `a`: Show / hide anchor point and position
+- `e`: Show / hide effects
 - `p`: Position
 - `r`: Show/hide rotation for selected composition
 - `s`: Scale
