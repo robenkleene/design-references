@@ -47,3 +47,6 @@
     3. Bottom curve right point
 8. Change the steps to `75` (double-click the Blend tool icon, select "Spacing: `Specified Steps` `75`")
 9. Change the Stroke size to `0.25` (under "Properties")
+10. Adjust the curves using the Direct Selection tool and clicking single points then moving them.
+11. Set the "Spacing: `Specified Steps` `182`" (`V` for Selection Tool, then `⌘A`, then double-click the Blend Tool).
+12. Select the top curve and add a gradient to the stroke (`⌘F9`, then click the stroke, then click the gradient icon). Choose colors for the gradient stops. Set the gradient rotation to `-90`.
