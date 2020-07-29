@@ -50,3 +50,6 @@
 10. Adjust the curves using the Direct Selection tool and clicking single points then moving them.
 11. Set the "Spacing: `Specified Steps` `182`" (`V` for Selection Tool, then `⌘A`, then double-click the Blend Tool).
 12. Select the top curve and add a gradient to the stroke (`⌘F9`, then click the stroke, then click the gradient icon). Choose colors for the gradient stops. Set the gradient rotation to `-90`.
+13. Select the middle curve, and apply the same gradient color.
+14. Select the bottom curve and apply the same gradient, but change both stops to the bottom color.
+15. Select each curve and reduce the stroke thickness to `0.1` (`⌘F10` to show the stroke panel)

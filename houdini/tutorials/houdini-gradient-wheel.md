@@ -12,3 +12,10 @@
 10. Add a "Ramp Parameter" between `fit1` and `output1`. Rename it to `colors`, and set "Label: `Colors`".
 11. Go up a level to `color_wheel`. With `vopcop2gen1` selected, a color wheel should be visible in the properties. Change the type to "Infra-Red" (select it by clicking the gear icon to the right).
 12. Go back into the `vopcop2gen1` and add a "Vector to Float" between `ramp1` and `output1`. Connect "fval1" to "R", "fval2" to "G", and "fval3" to "B".
+
+## Length
+
+1. Add a "Float to Vector" and connect the output of `subconst1` to `fval1` and the output of `subconst2` to `fval2`.
+2. Add a "Length" and connect the output of `floattovec1` to `length1`.
+3. Add a "Cosine" and connect the output of `atan1` to its input.
+4. Add a "Fit Range" and attach the output of `cosine1` to its input.
