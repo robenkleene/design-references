@@ -18,4 +18,9 @@
 1. Add a "Float to Vector" and connect the output of `subconst1` to `fval1` and the output of `subconst2` to `fval2`.
 2. Add a "Length" and connect the output of `floattovec1` to `length1`.
 3. Add a "Cosine" and connect the output of `atan1` to its input.
-4. Add a "Fit Range" and attach the output of `cosine1` to its input.
+4. Add a "Fit Range" and attach the output of `cosine1` to its input. Set "Source Min: `-1`" and "Source Max: `-1`".
+
+## Combining
+
+1. Add a "Color Mix" and attach the `ramp1` `colors` output to the `secondary` input. Attach the output of `colormix1` to `vectofloat1`.
+2. Go to the top level (`color_wheel`) and select `vopcop2gen1`. In the "Colors" section, set "Color" to white (click the color wheel to show RGB sliders, then click it again to show HSV sliders, then slide the saturation slider all the way to the left).

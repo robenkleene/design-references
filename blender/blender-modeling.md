@@ -17,7 +17,16 @@ The following can also just be hit directly to immediately start doing the corre
 - `s`: Scale
 - `b`: Select
 
-#### Tips
+## Meshes
+
+### Sphere
+
+The difference between sphere types is how they're modeled.
+
+- **UV Sphere**: Modeled vertical lines (similar to longitude and latitude lines).
+- **Icosphere**: Modeled like a polyhedron, with many faces.
+
+### Tips
 
 - Once one of the above actions is attached, tapping the corresponding axis letter, e.g., `z`, `x`, or `y` will lock the movement into that axis.
 - To transform by a factor, hit the transform key then a number, e.g., `s10↩` will scale up `10x`

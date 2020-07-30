@@ -22,4 +22,5 @@
 2. Add a HDRI background (under "World Properties", leave the default as "Surface: `Background`, and set "Color: `Environment Texture`". Click the folder icon to select your image.)
 3. Add a material to the sphere (select the "Sphere" then select "Material Properties" in the sidebar and click the "New" button)
 4. Delete the default "Principled BSDF" (select it, then `X`)
-5. Add a "Glass BSDF"
+5. Add a "Glass BSDF" and connect the "BSDF" output to the "Surface" input.
+6. 
