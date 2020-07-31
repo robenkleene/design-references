@@ -24,7 +24,7 @@ The following can also just be hit directly to immediately start doing the corre
 The difference between sphere types is how they're modeled.
 
 - **UV Sphere**: Modeled vertical lines (similar to longitude and latitude lines).
-- **Icosphere**: Modeled like a polyhedron, with many faces.
+- **Ico Sphere**: Modeled like a polyhedron, with many faces.
 
 ### Tips
 

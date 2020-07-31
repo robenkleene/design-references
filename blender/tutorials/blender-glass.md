@@ -18,7 +18,7 @@
 
 ## Cycles: Without Distortion 1
 
-1. Add a UV Sphere (`A` then "Mesh > UV Sphere")
+1. Add an Ico Sphere (`A` then "Mesh > Ico Sphere"), set "Radius: `10m`" and "Subdivisions: `6`"
 2. Add a HDRI background (under "World Properties", leave the default as "Surface: `Background`, and set "Color: `Environment Texture`". Click the folder icon to select your image.)
 3. Add a material to the sphere (select the "Sphere" then select "Material Properties" in the sidebar and click the "New" button)
 4. Delete the default "Principled BSDF" (select it, then `X`)
