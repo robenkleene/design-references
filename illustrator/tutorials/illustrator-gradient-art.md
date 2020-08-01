@@ -7,6 +7,9 @@
 1. Select the Pen tool (`P`), turn off the fill color and set the stroke color to black
 2. Draw a wavy line
 3. Draw a second wavy line down below, a bit smaller horizontally and with some intricate details like loops
+
+    ![Spine](assets/spine-1.png)
+
 4. Create a blend between the two curves: Select both curves using the selection tool (`V`), then switch to the Blend tool (`W`), and click on the farthest left starting point of the top curve, then the farthest left starting point of the bottom curve (the Blend tool cursor should have a "+"). This creates a blending object between the two curves.
 5. To increase the number of steps, double click the blending tool icon, change the spacing to "Specified Steps", set the steps to `106".
 6. To add some more variation: Use the Pen tool (`P`) to draw another curve to the left that looks a bit like a spiral. Select all the curves (`⌘A`), then select "Object > Blend > Replace Spine".
