@@ -24,3 +24,5 @@
 
 1. Add a "Color Mix" and attach the `ramp1` `colors` output to the `secondary` input. Attach the output of `colormix1` to `vectofloat1`.
 2. Go to the top level (`color_wheel`) and select `vopcop2gen1`. In the "Colors" section, set "Color" to white (click the color wheel to show RGB sliders, then click it again to show HSV sliders, then slide the saturation slider all the way to the left).
+3. Go back into `vopcop2gen1`, and connect the output of `length1` to the `bias` input of `colormix1`.
+4. Select `colormix1` then promote the "Primary Color" parameter" (choose "Promote Parameter" from the gear menu to the right of "Primary Color").
