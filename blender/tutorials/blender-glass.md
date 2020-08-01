@@ -23,4 +23,7 @@
 3. Add a material to the sphere (select the "Sphere" then select "Material Properties" in the sidebar and click the "New" button)
 4. Delete the default "Principled BSDF" (select it, then `X`)
 5. Add a "Glass BSDF" and connect the "BSDF" output to the "Surface" input.
-6. 
+
+### Removing Distortion
+
+1. Go to "Blender Properties" and toggle on "Film > Transparent", and "Transparent Glass". (Note that this removes the HDRI background, you will no longer see the background when rendering, instead you will only see reflections in the glass object).
