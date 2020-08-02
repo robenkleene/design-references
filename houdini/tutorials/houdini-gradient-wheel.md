@@ -27,3 +27,9 @@
 3. Go back into `vopcop2gen1`, and connect the output of `length1` to the `bias` input of `colormix1`.
 4. Select `colormix1` then promote the "Primary Color" parameter" (choose "Promote Parameter" from the gear menu to the right of "Primary Color").
 5. Go to the top level (`color_wheel`) and select `vopcop2gen1`. Set "Primary Color: `1` `1` `1`"
+6. Add a "Smooth" between `length1` and `colormix1`. Switch the input to `length1` from `min` to `amount`. In the properties, set "Range Bottom: `0.215`" and "Range Top: `0.22`".
+
+## Shape
+
+1. Add a another "Smooth", connect the output of `fit2` to the `rolloff` input of `smooth2`. Replace the `vec` input of `vectofloat1` with the `val` output of `smooth2`. Connect the `len` output of `length1` to the `amount` input of `smooth2`.
+2. In the properties of `smooth2`, set "Range Bottom: `0.336`" and "Range Top: `0.443`"
