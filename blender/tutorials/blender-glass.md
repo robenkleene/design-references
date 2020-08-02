@@ -27,7 +27,7 @@ Both of these methods use the same setup.
 
 ### Method 1
 
-1. Add a "Glass BSDF" and connect the "BSDF" output to the "Surface" input.
+1. Add a "Shader > Glass BSDF" and connect the "BSDF" output to the "Surface" input.
 
 ### Removing Distortion
 
@@ -35,3 +35,4 @@ Both of these methods use the same setup.
 
 ### Method 2
 
+1. Add a "Input > Light Path"
