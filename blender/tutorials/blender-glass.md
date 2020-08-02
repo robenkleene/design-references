@@ -35,4 +35,4 @@ Both of these methods use the same setup.
 
 ### Method 2
 
-1. Add a "Input > Light Path"
+1. Add an "Input > Light Path", add two "Converter > Math" nodes.
