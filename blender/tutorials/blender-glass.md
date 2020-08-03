@@ -37,3 +37,4 @@ Both of these methods use the same setup.
 
 1. Add an "Input > Light Path", add two "Converter > Math" nodes.
 2. Connect the output of "Light Path: `Is Shadow Ray`" to the first "Add: `Value`" and output of "Light Path: `Is Diffuse Ray`" to the second "Add: `Value`". Connect the "Add: `Value`" output to the bottom "Add: `Value`" input. Connect the "Light Path: `Is Glossy Ray`" output to the top "Add: `Value`" input.
+3. Add a "Shader > Glossy BSDF", a "Shader > Transparent BSDF", and a "Shader > Mix Shader". Connect the "Glossy BSDF: `BSDF`" to the top "Mix Shader: `Shader` input, and the "Transparent BSDF: `BSDF`" to the bottom "Mix Shader: `Shader` input.
