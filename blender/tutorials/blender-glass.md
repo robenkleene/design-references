@@ -29,10 +29,11 @@ Both of these methods use the same setup.
 
 1. Add a "Shader > Glass BSDF" and connect the "BSDF" output to the "Surface" input.
 
-### Removing Distortion
+#### Removing Distortion
 
 1. Go to "Blender Properties" and toggle on "Film > Transparent", and "Transparent Glass". (Note that this removes the HDRI background, you will no longer see the background when rendering, instead you will only see reflections in the glass object).
 
 ### Method 2
 
 1. Add an "Input > Light Path", add two "Converter > Math" nodes.
+2. Connect the output of "Light Path: `Is Shadow Ray`" to the first "Add: `Value`" and output of "Light Path: `Is Diffuse Ray`" to the second "Add: `Value`". Connect the "Add: `Value`" output to the bottom "Add: `Value`" input. Connect the "Light Path: `Is Glossy Ray`" output to the top "Add: `Value`" input.
