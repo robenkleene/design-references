@@ -60,11 +60,6 @@ Just do "File > New..." and select the "Clipboard" template then paste.
 
 To delete all swatches, just go to the "Preset Manager" and delete all from there.
 
-## Removing Large Objects
-
-1. Select with the polygonal lasso
-2. Use "Edit" -> "Fill...", with `Contents: Content-Aware`
-
 ## Splitting Images
 
 Splitting is a very useful feature to have simultaneous zoomed out and zoomed in view of one image. To split an image:
