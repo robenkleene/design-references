@@ -36,4 +36,10 @@
 3. In this state, there will be a bit of distortion at the bottom of the circle, this can be fixed by setting `fit2` "Source Min: -1.01`".
 4. Add a "Complement" between `smooth2` and `vectofloat1` to invert the colors.
 5. Add a "Multiply" and connect the `complem` output of `complement` to `input1` and the `val` output of `smooth1` to `input2`.
-6. Select `smooth2`, and set "Range Bottom: `0.209`" and "Range Top: `0.373`.
+6. Select `smooth2`, and set "Range Bottom: `0.209`" and "Range Top: `0.413`.
+7. Connect the "`multiply1`: `product`" output to the "`colormix1`: `bias`" input. Connect the "`colormix1`: `clr`" output to the "`vectofloat`: `vec`" input.
+
+## Clean Up
+
+1. Go to the top level `color_wheel`, with `vopcop2gen1` selected, in the "Colors" gradient, set the farthest left and right colors to the same color.
+2. Go back into `vopcop2gen1`, select `smooth1` and set "Range Bottom: `0.2`". Right-click "Range Bottom" and choose "Copy Parameter", right-click "Range Top" and choose "Paste Relative References"
