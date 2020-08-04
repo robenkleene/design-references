@@ -22,6 +22,6 @@ This technique has a problem because the Gaussian Blur increases the size of obj
 
 1. Duplicate the layer (`⌘J`)
 2. Use the Quick Selection tool (`W`) to select the water.
-3. Apply a Path Blue ("Filter > Blur Gallery > Path Blur...")
+3. Apply a Path Blur ("Filter > Blur Gallery > Path Blur...")
 4. Click "Centered Blur" to help with shadows
 5. In the top toolbar, set "Selection Bleed: `0%`"
