@@ -1,5 +1,7 @@
 # Photoshop Reflections
 
+![Reflections](assets/photoshop-reflections.jpeg)
+
 To create a water reflection:
 
 1. Select the part of the image to create the reflect from and copy and paste it to a new layer
