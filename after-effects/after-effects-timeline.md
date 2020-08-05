@@ -15,7 +15,7 @@
 ## Layers
 
 - `[` / `]`: Move the current layers in or out point to the playhead
-- `⇧F3`: Toggle graph editor
+- `⇧F3` (or click the graph icon above the layers list): Toggle graph editor
 - `j` / `k`: Move to previous / next key frame
 
 ### Work Area
