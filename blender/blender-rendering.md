@@ -16,7 +16,7 @@ The rendering engine is set under "Render Properties".
 
 Path tracing applies the Monte Carlo Method of using random samples to rendering by simulating rays of light hitting an object. Path tracing naturally simulates many effects that need to be separately added to other rendering methods, like ambient occlusion, caustics, depth of field, indirect lighting, motion blur, and soft shadows. While it doesn't perfectly render light because it uses averaging, but does result in the most accurate images in computer graphics. It's also slow.
 
-![Path Tracing](assets/path-tracing.gif)
+![Path Tracing](assets/blender-path-tracing.gif)
 
 #### Rasterization
 
