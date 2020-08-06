@@ -35,6 +35,8 @@ Illustrating how each sphere is modeled at various polygon counts. Note that the
 
 After applying a displacement modifier, the ico sphere on the left looks more organic, while the UV sphere on the right looks pixelated.
 
+[Source](https://blender.stackexchange.com/questions/72/what-is-the-difference-between-a-uv-sphere-and-an-icosphere)
+
 ### Polygons
 
 - **Quads**: Quads are slower, but handle many subdivisions more gracefully. So they're better when trying to represent smooth, curved, surfaces.
@@ -47,6 +49,8 @@ In this example, one cube has a single corner represented by triangles.
 When that cube is subdivided, in order to create smooth rounded corners, the resulting corner is messy and causes artifacts in the reflection. 
 
 ![Quads vs. Triangles](assets/blender-quads-vs-triangles-2.png)
+
+[Source](https://computergraphics.stackexchange.com/questions/5465/why-are-quads-used-in-filmmaking-and-triangle-in-gaming)
 
 ### Tips
 
