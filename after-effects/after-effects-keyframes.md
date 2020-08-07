@@ -1,5 +1,7 @@
 # After Effects Keyframes
 
+- `⌥P`: Add a position keyframe
+
 ## Keyframe Assistant
 
 ### Sequence Layers
