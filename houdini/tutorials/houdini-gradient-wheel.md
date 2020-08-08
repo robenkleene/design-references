@@ -46,3 +46,5 @@
 1. Go to the top level `color_wheel`, with `vopcop2gen1` selected, in the "Colors" gradient, set the farthest left and right colors to the same color.
 2. Go back into `vopcop2gen1`, select `smooth1` and set "Range Bottom: `0.2`". Right-click "Range Bottom" and choose "Copy Parameter", right-click "Range Top" and choose "Paste Relative References". Append ` + 0.002` to the value to it's `ch("min") + 0.002`.
 3. Select `smooth2` and click the gear icon to the right of "Range Top" and select "Promote Parameter".
+
+[![Gradient Whell Nodes](assets/houdini-gradient-wheel-nodes.png)](assets/houdini-gradient-wheel-nodes.png)

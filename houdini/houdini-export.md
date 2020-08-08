@@ -1,5 +1,9 @@
 # Houdini Export
 
+## Network Editor
+
+There's no way to easily export the Network Editor's view, but you can make it full screen easily in order to take a screenshot by selecting "Tear Off Pane Tab" from the upper-right triangle menu.
+
 ## Composite View
 
 To export an image from the 2D Composite View:
