@@ -14,16 +14,17 @@
 ### Adjusting the Camera
 
 1. Click `Numpad 0` to view through the camera
-1. Click `n` to show the camera options
+2. Click `n` to show the camera options
 
 ## Cycles
 
 Both of these methods use the same setup.
 
-1. Add an Ico Sphere (`A` then "Mesh > Ico Sphere"), set "Radius: `10m`" and "Subdivisions: `6`"
-2. Add a HDRI background (under "World Properties", leave the default as "Surface: `Background`, and set "Color: `Environment Texture`". Click the folder icon to select your image.)
-3. Add a material to the sphere (select the "Sphere" then select "Material Properties" in the sidebar and click the "New" button)
-4. Select the "Shading" tab on the top, in the "Shader Editor" (just be automatically set as the bottom split under the Shading tab), delete the default "Principled BSDF" (select it, then `X`).
+1. Set "Render Properties > Render Engine: `Cycles`".
+2. Add an Ico Sphere (`A` then "Mesh > Ico Sphere"), set "Radius: `10m`" and "Subdivisions: `6`"
+3. Add a HDRI background (under "World Properties", leave the default as "Surface: `Background`, and set "Color: `Environment Texture`". Click the folder icon to select your image.)
+4. Add a material to the sphere (select the "Sphere" then select "Material Properties" in the sidebar and click the "New" button)
+5. Select the "Shading" tab on the top, in the "Shader Editor" (just be automatically set as the bottom split under the Shading tab), delete the default "Principled BSDF" (select it, then `X`).
 
 ### Method 1
 
