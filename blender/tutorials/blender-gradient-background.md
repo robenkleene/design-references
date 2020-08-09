@@ -12,6 +12,8 @@ Create the following chain:
 
     **Texture Coordinate**: Window > Vector: **Mapping**: Vector > Vector: **Gardient Texture**: Color > Fac: **ColorRamp**: Color > Color: **Background**: Background > Surface: **World Output**
 
+[![Gradient Background Nodes](assets/blender-gradient-background-nodes.png)](assets/blender-gradient-background-nodes.png)
+
 ## Notes
 
 - To change to a radial gradient, select "Spherical" in the "Gradient Texture" node.
