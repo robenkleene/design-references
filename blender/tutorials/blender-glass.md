@@ -30,6 +30,8 @@ Both of these methods use the same setup.
 
 1. Add a "Shader > Glass BSDF" and connect the "BSDF" output to the "Surface" input.
 
+[![Glass 1 Nodes](assets/blender-glass-1-nodes.png)]((assets/blender-glass-1-nodes.png))
+
 #### Removing Distortion
 
 1. Go to "Blender Properties" and toggle on "Film > Transparent", and "Transparent Glass". (Note that this removes the HDRI background, you will no longer see the background when rendering, instead you will only see reflections in the glass object).
@@ -42,6 +44,8 @@ Both of these methods use the same setup.
 4. Add an "Input > Fresnel", connect the "Fresnel: `Fac`" output to the "Mix Shadow: `Fac`" input, and set "IOR: `40`".
 5. Add a "Shader > Mix Shader" and connect the first "Mix Shader: `Shader`" output to the top new "Mix Shader: `Shader`" input. Connect the "Transparent BSDF: `BSDF`" output to the bottom new "Mix Shader: `Shader`" input. Connect the second "Add: `Value`" output to the new "Mix Shader: `Fac`" input.
 6. Connect the new "Mix Shader: `Shader`" output to the "Material Output: `Surface`" input.
+
+[![Glass 2 Nodes](assets/blender-glass-2-nodes.png)]((assets/blender-glass-2-nodes.png))
 
 #### Clean Up
 
