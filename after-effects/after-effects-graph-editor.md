@@ -1,12 +1,19 @@
 # After Effects Graph Editor
 
+- `-`: Zoom out
+- `=`: Zoom in
+
 ## Tips
 
 - With some keyframes selected, you can choose an Easy Ease preset by choosing an option under "Animation > Keyframe Assistant".
 - There's a "Fit all graphs to view" button at the bottom to scale the view to fit the graphs.
 - The options icon (below the Graph Editor, it looks like a bulleted list) is where you switch between the value graph and speed graph.
 - There are preset buttons for Easy Ease, Easy Ease In, and Easy Ease Out below the Graph Editor.
+
+## Dimensions
+
 - Hover the cursor over a graph line to see what that line corresponds to (e.g., a position graph will have "X" and "Y" values).
+- To get separate graphs for each axis, right-click a property and select "Separate Dimensions".
 
 ## Types of Graphs
 
