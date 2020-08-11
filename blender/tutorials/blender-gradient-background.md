@@ -1,5 +1,7 @@
 # Blender Gradient Background
 
+![Gradient Background](assets/blender-gradient-background.png)
+
 ## Setup the Node Editor
 
 1. In "World Properties", make sure "Use Nodes" is selected.
