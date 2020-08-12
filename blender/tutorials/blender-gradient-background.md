@@ -4,9 +4,20 @@
 
 ## Setup the Node Editor
 
-1. In "World Properties", make sure "Use Nodes" is selected.
-2. Drag up the bottom split, and switch to the "Shader Editor".
-3. Select "World" in the upper left (from "object").
+### World
+
+To apply the gradient to the world:
+
+1. In "World Properties", make sure "Use Nodes" is selected (it should be blue).
+2. Drag up the bottom split, and switch to the "Shader Editor". Select "World" in the upper left (from "object").
+
+### Plane
+
+To apply the gradient to a plane:
+
+1. Add a plane (`⇧A`, "Mesh > Plane")
+2. Under "Material Properties", click "New", make sure "Use Nodes" is selected (it should be blue).
+3. Drag up the bottom split, and switch to the "Shader Editor". Select "Object" in the upper left (it's probably the default).
 
 ## Node Editor
 
