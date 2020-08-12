@@ -5,6 +5,7 @@
 
 ## Transport
 
+- `⌃0`: Quickly preview playback
 - `␣`: Play / Pause
 - `⌥⌘→` `HOME` / `⌥⌘←` `END`: Go to the beginning or end of composition
 - `⌘←` / `⌘→`: Forward or backward one frame
@@ -14,7 +15,8 @@
 
 ## Layers
 
-- `[` / `]`: Move the current layers in or out point to the playhead
+- `[` / `]`: Set the current layers in or out point to the playhead
+- `⌥[` / `⌥]`: Trim the current layers in or out point to the playhead (this will preserve keyframe positions)
 - `⇧F3` (or click the graph icon above the layers list): Toggle graph editor
 - `j` / `k`: Move to previous / next key frame
 
