@@ -43,6 +43,7 @@ Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
 - `w`: Toggle wireframe
 - `l`: Re-layout network
 - `h`: Home in on nodes (zoom to fit)
+- `␣f`: Frame currently selected object
 
 ## Navigation
 
