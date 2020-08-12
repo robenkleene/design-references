@@ -18,8 +18,12 @@ To apply the gradient to a plane:
 1. Add a plane (`⇧A`, "Mesh > Plane")
 2. Under "Material Properties", click "New", make sure "Use Nodes" is selected (it should be blue).
 3. Drag up the bottom split, and switch to the "Shader Editor". Select "Object" in the upper left (it's probably the default).
+4. Delete the "Principled BSDF" that's in the Shader Editor by default.
 
 ## Node Editor
+
+1. Add a "Texture Coordinator"
+2. Add a "Mapping"
 
 Create the following chain:
 
