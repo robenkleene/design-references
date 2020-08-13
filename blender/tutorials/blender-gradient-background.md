@@ -22,8 +22,10 @@ To apply the gradient to a plane:
 
 ## Node Editor
 
-1. Add a "Texture Coordinator"
-2. Add a "Mapping"
+1. Add a Texture Coordinator node
+2. Add a Mapping node, and connect the `Texture Coordinate > Window` output to the `Mapping > Vector` input.
+3. Add a Gradient Texture, and connect the `Mapping > Vector` output to the `Gradient Texture > Vector` input.
+4. Add a ColorRamp node, and connect the `Gradient Texture > Color` output to the `ColorRamp > Fac` input.
 
 Create the following chain:
 
