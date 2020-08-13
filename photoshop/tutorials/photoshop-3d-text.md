@@ -13,3 +13,7 @@
 3. In the 3D panel (you can always get the 3D panel back by double-clicking the 3D layer), select the camera ("Current View"). This will show a grid of converging lines, and a horizon line. Using the "Orbit the 3D camera" button in the lower left, adjust the horizon line for the 3D camera to match our horizon line guideline.
 4. To fine tune the grid placement, with the Current View (Camera icon) selected in the 3D, open the Properties panel then click the Coordinates icon to manually enter precise values.
 5. Show the 3D model again by toggling on the eye icon for the `3D` layer in the 3D panel.
+
+## Model
+
+1. You can move the model by selecting the `3D` layer in the 3D panel, and then using the arrows that appear on the model in the view port to move it. To quickly place the model on the ground, toggle Properties > Coordinates > Move To Ground
