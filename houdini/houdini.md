@@ -7,6 +7,13 @@
 - `⌘-Page Up` / `⌘-Page Down`: Next / Previous Tab
 - `I`: Toggle hover color info
 
+## Views
+
+- `␣1`: Perspective view
+- `␣2`: Top view
+- `␣3`: Front / back view
+- `␣4`: Side view
+
 ## Mouse
 
 - right-click "Show Node Information..." is similar to middle-click and hold.
