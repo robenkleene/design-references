@@ -6,6 +6,7 @@
 ## Tips
 
 - With some keyframes selected, you can choose an Easy Ease preset by choosing an option under "Animation > Keyframe Assistant".
+- It's easy to just cut a point and paste it where the playhead is.
 - There's a "Fit all graphs to view" button at the bottom to scale the view to fit the graphs.
 - The options icon (below the Graph Editor, it looks like a bulleted list) is where you switch between the value graph and speed graph.
 - There are preset buttons for Easy Ease, Easy Ease In, and Easy Ease Out below the Graph Editor.

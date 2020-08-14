@@ -16,4 +16,5 @@
 
 ## Model
 
-1. You can move the model by selecting the `3D` layer in the 3D panel, and then using the arrows that appear on the model in the view port to move it. To quickly place the model on the ground, toggle Properties > Coordinates > Move To Ground
+1. You can move the model by selecting the `3D` layer in the 3D panel, and then using the arrows that appear on the model in the view port to move it. To quickly place the model on the ground, toggle `Properties > Coordinates > Move To Ground`.
+2. When you have the model positioned nicely, save the view as `Final View` under `Properties` panel, `3D Camera`, `View:` drop-down
