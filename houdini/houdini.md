@@ -14,6 +14,8 @@
 - `␣3`: Front / back view
 - `␣4`: Side view
 
+The icon in the upper-right, `Viewport Layout`, has other options for splitting the viewport such as dividing it into fouk 
+
 ## Mouse
 
 - right-click "Show Node Information..." is similar to middle-click and hold.
