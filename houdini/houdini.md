@@ -14,7 +14,7 @@
 - `␣3`: Front / back view
 - `␣4`: Side view
 
-The icon in the upper-right, `Viewport Layout`, has other options for splitting the viewport such as dividing it into fouk 
+The icon in the upper-right, `Viewport Layout`, has other options for splitting the viewport such as dividing it into four quadrants showing it from different angles.
 
 ## Mouse
 

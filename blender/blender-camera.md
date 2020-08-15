@@ -1,7 +1,7 @@
 # Blender Camera
 
-- `⌘ Numpad 0` ("View > Set Active Object as Camera"): Make the active object the camera
 - ``⌘⌥ Numpad 0` ("View > Active View > Align Active Camera to View"): Move the camera to the current view
+- `⌘ Numpad 0` ("View > Set Active Object as Camera"): Make the active object the camera
 - `Numpad 0` ("View > Active Camera"): View through the camera
 
 The currently active camera is the value of the "Scene Properties > Scene > Camera" property.

@@ -1,10 +1,10 @@
 # Blender Gradient Background
 
-![Gradient Background](assets/blender-gradient-background.png)
-
 ## Setup the Node Editor
 
 ### World Setup
+
+![Gradient World](assets/blender-gradient-world.png)
 
 To apply the gradient to the world:
 
@@ -12,6 +12,8 @@ To apply the gradient to the world:
 2. Drag up the bottom split, and switch to the "Shader Editor". Select "World" in the upper left (from "object").
 
 ### Plane Setup
+
+![Gradient Plane](assets/blender-gradient-plane.png)
 
 To apply the gradient to a plane:
 
@@ -41,7 +43,7 @@ The `Object` should have an existing `Material Output.
 
 ## Nodes
 
-[![Gradient Background Nodes](assets/blender-gradient-background-nodes.png)](assets/blender-gradient-background-nodes.png)
+[![Gradient World Nodes](assets/blender-gradient-world-nodes.png)](assets/blender-gradient-world-nodes.png)
 
 ## Notes
 
