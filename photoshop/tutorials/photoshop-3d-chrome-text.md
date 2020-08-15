@@ -1,4 +1,4 @@
-# Photoshop 3D Text
+# Photoshop 3D Chrome Text
 
 ## Setup
 
@@ -18,3 +18,9 @@
 
 1. You can move the model by selecting the `3D` layer in the 3D panel, and then using the arrows that appear on the model in the view port to move it. To quickly place the model on the ground, toggle `Properties > Coordinates > Move To Ground`.
 2. When you have the model positioned nicely, save the view as `Final View` by choosing `Save...` from the `View:` pop-up menu under `Properties` panel with the `3D Camera` icon selected.
+3. Click the `3D` text in the `3D` panel, then under the `Properties` panel, choose `Inflate` as the `Shape Preset`.
+4. Choose a value for `Extrusion Depth` in the `3D` `Properties` panel. (This is a good opportunity to use the orbit controls in the lower-left of the viewport to get a top view of the model, to change the `Extrusion Depth`, then select the `Current Camera` from the `3D` panel and choose `View` `Final View` from the `Properties` panel to get the view back to normal.)
+
+## Material
+
+1. In the `3D` panel, click the disclosure triangle next to `3D`, this will reveal the materials (`3D Front Inflation Material`, etc...)
