@@ -2,6 +2,10 @@
 
 - `⌥P`: Add a position keyframe
 
+## Tips
+
+- Select all the keyframes and `⌥-drag` the first or last keyframe to scale them.
+
 ## Keyframe Assistant
 
 ### Sequence Layers
