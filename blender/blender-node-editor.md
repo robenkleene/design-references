@@ -1,5 +1,7 @@
 # Blender Node Editor
 
+- `⇧A`: Add a node
+- `⇧A s`: Quickly search for a node to add
 - `⇧D`: Duplicate a node
 - `⌃drag` an output to move it to another socket
 
