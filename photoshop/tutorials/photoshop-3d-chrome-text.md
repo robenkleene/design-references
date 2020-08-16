@@ -23,4 +23,6 @@
 
 ## Material
 
-1. In the `3D` panel, click the disclosure triangle next to `3D`, this will reveal the materials (`3D Front Inflation Material`, etc...). Select all five materials, then 
+1. In the `3D` panel, click the disclosure triangle next to `3D`, this will reveal the materials (`3D Front Inflation Material`, etc...). Select all five materials, then in the `Properties` panel, set `Base Color: 0.30 0.30 0.30`.
+2. In the `Layers` panel, select the background image, select all (`⌘A`) and copy it (`⌘C`). Double-click the `3D` layer to go back to the `3D` panel, and select `Environment`. Make sure `IBL` ("Image-Based Light") is turned on and click the image to the right of it and select `New Texture...`, and accept the default settings.
+3. The new `IBL` texture is all white. Edit it by clicking the image to the right of it again, and selecting `Edit Texture...`. Paste in the image from the clipboard, then use `Image > Trim...` and `Image > Reveal all` to make the canvas match the image. Save and close the texture.
