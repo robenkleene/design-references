@@ -28,6 +28,8 @@ Both of these methods use the same setup.
 
 ### Method 1
 
+![Glass 1](assets/blender-glass-1.png)
+
 1. Add a "Shader > Glass BSDF" and connect the "BSDF" output to the "Surface" input.
 
 [![Glass 1 Nodes](assets/blender-glass-1-nodes.png)]((assets/blender-glass-1-nodes.png))
