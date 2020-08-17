@@ -15,6 +15,6 @@ If there's just one node to assign a material to, there are a couple of quick wa
 
 ### Geometry Network
 
-If the material is being assigned to a more complex geometry netowrk, then the `Material` node can be used.
+If the material is being assigned to a more complex geometry network, then the `Material` node can be used.
 
 - Add a `Material` node in a geometry network, and select the material for the `Material` property (click the `Open floating operator chooser` to its right).

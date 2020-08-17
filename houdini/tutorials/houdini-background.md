@@ -16,3 +16,4 @@ Add a background using a plane.
 2. Add a `Classic Shader` and rename it to `BG`.
 3. Set the `BG > Reflect Base > Roughness` to `0.3`.
 4. Under `BG > Diffuse`, toggle off `Use Point Color`, and change the color to blue by setting `Base Color: 0.25 0.3 0.5`.
+5. Assign the material by selecting the `grid1` in the `obj` network and choosing the material under `Render > Material` (click the `Open floating operator chooser` to its right).
