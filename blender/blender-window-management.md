@@ -12,4 +12,8 @@
 ### Joining
 
 - You can join two splits by right-clicking a boundary and selecting "Join Areas". After selecting "Join Areas", your cursor will change and you can select which split to close.
-- To close a split, join the split you want to keep into the split you want to remove. To join splits, hover the cursor over a corner of the split you want to keep until you see the `+` and drag towards the split you want to close until the cursor turns into an `>` and then release. Note that joining will fail if it would involve joining more than two splits, e.g., you can't join a row with two vertical splits into a row with one horizontal split. To do so, first you need to join the two vertical splits, so that there are just two horizontal splits, then you can join the two horizontal splits.
+- To close a split, join the split you want to keep into the split you want to remove. To join splits, hover the cursor over a corner of the split you want to keep until you see the `+` and drag towards the split you want to close until the cursor turns into an `>` and then release.
+
+### Troubleshooting
+
+- If you none of the join methods are working, that's probably because you're trying to join two splits with one split (e.g., two vertical splits with one horizontal split). For the join operations are only work to join one split into another split, so you might have to first have to cleanup some smaller splits in order to do a larger join.
