@@ -15,4 +15,4 @@ Add a background using a plane.
 1. Switch to the material network, by choosing `mat` from the pop-up menu at the top of the network viewer.
 2. Add a `Classic Shader` and rename it to `BG`.
 3. Set the `BG > Reflect Base > Roughness` to `0.3`.
-4. Under `BG > Diffuse`, toggle off `Use Point Color`, and change the color to blue by setting `Base Color: 0.25 0.3 0.5`
+4. Under `BG > Diffuse`, toggle off `Use Point Color`, and change the color to blue by setting `Base Color: 0.25 0.3 0.5`.
