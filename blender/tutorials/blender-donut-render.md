@@ -1,6 +1,10 @@
-# Blender Donut Rendering
+# Blender Donut Render
 
-Before doing this tutorial, there needs to be a camera and a light in the scene.
+This tutorial describes how to setup a render of an object on a plane. It goes through the steps of adding a plane, applying materials, and setting up lighting and cameras.
+
+Before doing this tutorial, there should already be a camera and a light in the scene.
+
+## Adding a Plane
 
 1. Switch to render view mode (`z`, then select "Rendered" or click the farthest right "Viewport Shading" mode in the upper right of the viewport)
 2. Move a light source close to the subject so you can see the shading.

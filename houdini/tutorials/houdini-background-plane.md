@@ -1,4 +1,4 @@
-# Houdini Background
+# Houdini Background Plane
 
 Add a background using a plane.
 
