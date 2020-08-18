@@ -92,6 +92,7 @@ After fixing the perspective the edges of the changed section will be off, one w
 
 ## Tips
 
+- The `Image > Reveal All` command reveals all the full area of the images, include parts that are cropped by the canvas.
 - To resize a layer to the size of the canvas, just turn on snap with `⇧⌘;`.
 - To transfer a selection between files, just drag and drop the marquee between files.
 - Saved selections are stored as channels.
