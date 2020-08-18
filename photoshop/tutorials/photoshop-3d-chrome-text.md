@@ -26,5 +26,11 @@
 1. In the `3D` panel, click the disclosure triangle next to `3D`, this will reveal the materials (`3D Front Inflation Material`, etc...). Select all five materials, then in the `Properties` panel, set `Base Color: 0.30 0.30 0.30`.
 2. In the `Layers` panel, select the background image, select all (`⌘A`) and copy it (`⌘C`). Double-click the `3D` layer to go back to the `3D` panel, and select `Environment`. Make sure `IBL` ("Image-Based Light") is turned on and click the image to the right of it and select `New Texture...`, and accept the default settings.
 3. The new `IBL` texture is all white. Edit it by clicking the image to the right of it again, and selecting `Edit Texture...`. Paste in the image from the clipboard, then use `Image > Trim...` and `Image > Reveal all` to make the canvas match the image. Save and close the texture.
-4. To increase the reflectiveness of the material, select all of the materials in the `3D` panel, and in the `Properties` panel, increase `Metallic` to `100%`. If the reflections still aren't showing up, also increase the brightness of the `Base Color` until they're visible. The reflects are more visible in the rendered image, so you might want to decrease the brightness of the `Base Color` again before rendering.
-5. To adjust the angle of the `IBL` reflection, use the `Move Tool` (`V`) with `Environment` selected in the `3D` panel. Then adjust the sphere in the center of the viewport.
+4. To increase the reflectiveness of the material, select all of the materials in the `3D` panel, and in the `Properties` panel, increase `Metallic` to `100%`. If the reflections still aren't showing up, also increase the brightness of the `Base Color` until they're visible. The reflects are more visible in the rendered image, so you might want to increase the brightness of the `Base Color` again before rendering. (If changing the `Base Color` isn't sticking, make sure in the color picker that `Intensity` is set to `0`.)
+5. To adjust the angle of the `IBL` reflection, use the `Move Tool` (`V`) with `Environment` selected in the `3D` panel, then drag the sphere in the center of the viewport.
+6. Select all of the material rows in the `3D` panel, and set the `Roughness` to `0` in the `Properties` panel. To make reflective surfaces in Photoshop, use a high value for `Metallic` and a low value for `Roughness`.
+
+## Rendering
+
+1. Drag a selection around the 3D letters with the Marquee Tool (`M`), then click the `Render` icon in the upper right of the `3D` panel.
+2. After the preview starts to show, tweak the settings, especially the brightness. You can cancel the render with `⎋`.
