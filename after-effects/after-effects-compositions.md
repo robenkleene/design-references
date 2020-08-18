@@ -4,6 +4,7 @@
 
 - To create a composition from an asset, first import that asset by dragging it to the Project panel, then right-click the asset and select "New Comp From Selection".
 - The checker box icon at the bottom of the viewport toggles the visibility of the composition's background.
+- To change the composition's background color, right-click the composition and select `Composition Settings...`.
 
 ## Resizing
 

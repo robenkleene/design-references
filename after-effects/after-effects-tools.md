@@ -1,8 +1,8 @@
 # After Effects Tools
 
-## Eyedropper
+## Rectangle Tool
 
-- Hit enter to select a color from another application (clicking will bring that application forward)
+- Double-click the `Rectangle Tool` icon to fill the composition with a shape of that size.
 
 ## Pen Tool
 
@@ -12,3 +12,9 @@
 ### Selecting Multiple Points
 
 - With the layer selected in the timeline, using the Selection Tool (`V`), first click the entire path (the points should become highlighted), then click anywhere except the path to draw a marquee and select points.
+
+## Other
+
+### Eyedropper
+
+- Hit enter to select a color from another application (clicking will bring that application forward)
