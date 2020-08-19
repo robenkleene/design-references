@@ -21,5 +21,13 @@ This tutorial describes how to setup a render of an object on a plane. It goes t
 ## Add Camera & Light
 
 1. Add a camera by `⌃`-clicking the `Camera` icon, and click the lock icon in the sidebar to lock it to the view.
-2. Add a light by `⌘`-clicking the `Area Light` icon. Hit `⎋` to exit the manipulator controls.
-3. Adjust the camera and light by moving them around both locked.
+2. Add a light by `⌘`-clicking the `Area Light` icon. (Hit `⎋` to exit the manipulator controls.)
+3. Adjust the camera and light roughly by moving them around both locked. Then unlock them and zoom out of the scene to make further adjustments.
+4. Select `arealight1` and set `Area Size: 8x8`.
+5. Adjust the `arealight1` `Intensity` and `Exposure` to get the lighting right.
+
+## Rendering
+
+1. Go to the `Render View` and hit `Render`.
+2. After hitting the `Render` button, in the `out` network, there will be a `mantra_ipr` node to configure the render.
+3. Under `mantra_ipr > Rendering` set `Rendering Engine: Physically Based Rendering`.
