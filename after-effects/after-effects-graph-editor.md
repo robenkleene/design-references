@@ -1,6 +1,7 @@
 # After Effects Graph Editor
 
 - `⇧F3`: Toggle `Graph Editor`
+- `F9`: Apply easy ease to keyframes
 - `-`: Zoom out
 - `=`: Zoom in
 

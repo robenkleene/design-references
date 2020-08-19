@@ -34,3 +34,10 @@
 
 1. Drag a selection around the 3D letters with the Marquee Tool (`M`), then click the `Render` icon in the upper right of the `3D` panel.
 2. After the preview starts to show, tweak the settings, especially the brightness. You can cancel the render with `⎋`.
+
+## Lighting
+
+1. Select the `Infinite Light 1` in the 3D scene and drag it until the light matches the lighting of the scene.
+2. You can change the shape and size of the shadows by adjusting the `Color` and `Shadow` sliders in the `Properties` panel when `Infinite Light 1` is selected.
+3. You can change the color of the shadows by selecting `Environment` and changing the `Shadows` color in the `Properties` panel. A good strategy is to base the shadow color off of a dark color in your scene so that it matches better.
+4. You can also add reflections to the ground plane in the `Environment` properties. Change the `Reflections` `Opacity` and `Roughness`.
