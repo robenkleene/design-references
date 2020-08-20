@@ -48,7 +48,7 @@ Blender doesn't play nice with the "Scroll direction: natural" enabled, so turn 
 ## Glossary
 
 - **Manipulator**: The controls to manipulate objects.
-- **3D Cursor**: The 3D crosshairs.
+- **3D Cursor**: The 3D cross hair.
 
 ## Focus
 
@@ -66,4 +66,5 @@ To subdivide, switch to edit mode `⇥`, then right-click and select "Subdivide"
 
 ## Tips
 
+- To had the UI, e.g., to hide the outline of the selected object, click the `Show Overlays` button in the top-right of the viewport.
 - Panels, e.g., for add (`A`), have letters that can be typed to select menu items (e.g., `A` then `s` to quickly search).
