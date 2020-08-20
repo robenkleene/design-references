@@ -31,4 +31,4 @@ This tutorial describes how to setup a render of an object on a plane. It goes t
 1. Go to the `Render View` and hit `Render`.
 2. After hitting the `Render` button, in the `out` network, there will be a `mantra_ipr` node to configure the render.
 3. Under `mantra_ipr > Rendering` set `Rendering Engine: Physically Based Rendering`.
-4. Under `mantra_ipr > Rendering > Limits`, set `Diffuse Limit: 4`, `Reflect Limit: 6`, `Refract Limit: 6`.
+4. Under `mantra_ipr > Rendering > Limits`, set `Diffuse Limit: 4`, `Reflect Limit: 6`, `Refract Limit: 6`. (These changes are the brighten the image.)

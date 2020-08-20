@@ -28,6 +28,10 @@ To do a high quality render:
 
 Once an image is loaded in MPlay, you can save it with "File > Save Frame As..."
 
+## Snapshots
+
+Snapshots can be taken in order to compare the results of changes to a render. To take a snapshot, click the camera icon below the `Render View`. Snapshots do not persist between restarts unless they are saved.
+
 ## Manual
 
 There's no way to switch between "Auto Update" and "Manual", but this can be automated with a script.
