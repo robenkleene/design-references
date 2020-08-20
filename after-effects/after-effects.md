@@ -1,6 +1,7 @@
 # Adobe After Effects
 
 - `⌘Y`: Make new solid layer
+- `⇧⌘H`: Show / hide UI, e.g., selection boxes
 
 ## Smart Objects
 
