@@ -47,3 +47,11 @@
 1. With the `3D` layer selected in the `3D` panel, choose `3D > Split Extrusion` to divide the 3D text into two layers.
 2. For some reason the `D` might be moved somewhere, perhaps even offscreen, to move it back, select the `D` in the `3D` panel, and then move it back to the correct spot by using the manipulator (you might also have to zoom out to see the whole manipulate). These properties can also be edit manually under `Properties > Coordinates`, you should probably click the `Move To Ground` button there too.
 3. Rotate the letters so they're facing each other a bit, and adjust their size and positioning to taste.
+
+## Finishing Touches
+
+1. Render the entire scene (this may take awhile, like an hour)
+2. In the `Layers` panel, `⌥`-click the 3D layer to hide all the others. Select all (`⌘A`), `Edit > Copy Merged` (`⇧⌘C`), and `Edit > Paste Special > Paste in Place` (`⇧⌘V`).
+3. Add a `Layer Mask` to the 3D layer and using the brush tool with black as the foreground color to clean up the reflections and shadows (paint with the brush tool to remove).
+4. To adjust the brightness to match the scene, add a new `Levels...` adjustment layer. In the `Properties` panel for the adjustment layer, click the `The adjustment layer clips to the layer` icon at the bottom to only effect the layer below (the 3D text layer).
+5. Use the middle slider in the `Levels 1` adjustment layer to adjust the contrast. To make this easier, temporarily add a `Black & White` adjustment layer to make it easier to make the lilghting match.
