@@ -32,3 +32,10 @@ This tutorial describes how to setup a render of an object on a plane. It goes t
 2. After hitting the `Render` button, in the `out` network, there will be a `mantra_ipr` node to configure the render.
 3. Under `mantra_ipr > Rendering` set `Rendering Engine: Physically Based Rendering`.
 4. Under `mantra_ipr > Rendering > Limits`, set `Diffuse Limit: 4`, `Reflect Limit: 6`, `Refract Limit: 6`. (These changes are the brighten the image.)
+
+## Adding More Light
+
+1. Cut and paste `arealight1` creating `arealight2`
+2. From the camera pop-up in the upper right of the viewport, select `Look Through Light > arealight2` to view through the new light.
+3. Click the `Lock camera/light to view` icon in the sidebar on the right to move `arealight2`. Move the light somewhere that fills in the scene a bit more.
+4. Add a third light and do the same.
