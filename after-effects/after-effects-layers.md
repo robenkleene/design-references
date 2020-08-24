@@ -16,23 +16,25 @@
 - ``⌘```: Show all properties for the selected layer, or all layers if none are selected
 - `⌘D`: Duplicate
 
-### Tips
-
-- Oftent the fastest way to edit properties is to use the search field above the layers panel (`⌘F`). Here's what the workflow looks like:
-    1. Select the layers to edit
-    2. Hide all currently visible properties (`u`)
-    3. Search for the property to edit (`⌘F`)
-
 #### Transform Properties
 
-- `a`: Show / hide anchor point and position
-- `e`: Show / hide effects
+Show / hide specific properties:
+
+- `a`: Anchor point
+- `e`: Effects
 - `p`: Position
-- `r`: Show/hide rotation for selected composition
+- `r`: Rotation
 - `s`: Scale
 - `t`: Opacity
 
 Holding shift, and then hitting multiple of these keys in succession will reveal all of those properties.
+
+### Tips
+
+- Often the fastest way to edit properties is to use the search field above the layers panel (`⌘F`). Here's what the workflow looks like:
+    1. Select the layers to edit
+    2. Hide all currently visible properties (`u`)
+    3. Search for the property to edit (`⌘F`)
 
 ### Resizing
 
