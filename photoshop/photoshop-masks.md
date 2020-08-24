@@ -1,6 +1,10 @@
 # Photoshop Masks
 
-To mask a layer from a Photoshop layer, `⌘-drag` the shape layer on to the layer to mask.
+- `⌥⌘G`: Mask layer to the layer below
+
+## Shape Layers
+
+To mask a layer from a shape layer, `⌘-drag` the shape layer onto the layer to mask.
 
 ## Tips
 
