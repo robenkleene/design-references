@@ -55,3 +55,9 @@
 3. Add a `Layer Mask` to the 3D layer and using the brush tool with black as the foreground color to clean up the reflections and shadows (paint with the brush tool to remove).
 4. To adjust the brightness to match the scene, add a new `Levels...` adjustment layer. In the `Properties` panel for the adjustment layer, click the `The adjustment layer clips to the layer` icon at the bottom to only effect the layer below (the 3D text layer).
 5. Use the middle slider in the `Levels 1` adjustment layer to adjust the contrast. To make this easier, temporarily add a `Black & White` adjustment layer to make it easier to make the lilghting match.
+
+## Highlights
+
+1. Add a new layer (`⇧⌘N`), clip the layer to the layer below (`⌥⌘G`, the layer below should be `Levels 1`).
+2. Use the brush tool to paint somewhere you want a highlight to appear, choose an area that will make the lighting match better. The brush should have a low hardness.
+3. Enter the Blending Options (right-click to the right of the layer in the Layers panel), set the `Blend Mode: Color Dodge` and uncheck `Transparency Shapes Layer`. Adjust the `Fill Opacity` to taste.

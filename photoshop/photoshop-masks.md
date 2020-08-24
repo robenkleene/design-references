@@ -1,6 +1,6 @@
 # Photoshop Masks
 
-- `⌥⌘G`: Mask layer to the layer below
+- `⌥⌘G`: Clip layer to the layer below
 
 ## Shape Layers
 
