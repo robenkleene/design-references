@@ -1,5 +1,7 @@
 # Photoshop 3D Chrome Text
 
+![3D Chrome Text](assets/photoshop-3d-chrome-Text.jpg)
+
 ## Setup
 
 1. Start with an existing document with good ground perspective for placing 3D text on.
