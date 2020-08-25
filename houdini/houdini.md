@@ -6,6 +6,7 @@
 - `⌘T`: New Tab
 - `⌘-Page Up` / `⌘-Page Down`: Next / Previous Tab
 - `I`: Toggle hover color info
+- Hold `S` and click to select objects
 
 ## Views
 
