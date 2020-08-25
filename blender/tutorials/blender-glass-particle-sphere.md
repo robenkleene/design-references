@@ -13,3 +13,5 @@
 
 1. Switch `Viewport Shading` to `Material Preview`.
 2. Open the `Shading` pop-up menu to the right of `Viewport Shading`. Click the sphere and choose `Studiolight`.
+3. Rename `Sphere` to `Sphere Glass`.
+4. Go to `Material Properties` and click `New`. Name the new material `Sphere Glass`. Set `Surface: Glass BSDF`.
