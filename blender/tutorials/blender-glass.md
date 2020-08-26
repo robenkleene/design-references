@@ -1,20 +1,42 @@
 # Blender Glass
 
-## Eevee Method
+## Eevee
+
+### Method 1
 
 1. In "Object Mode", select the light source, and under "Object Data Properties" (the light bulb icon), select "sun", and set specular to `0`.
 2. Select the cube and create a new material under "Material Properties", set the "Roughness" to `0`, and "Transmission" to `1`, and turn on "Screen Space Refraction".
 3. Go to "Render Properties" and turn on "Screen Space Refractions", and under that, "Refraction".
 4. The object should now look transparent.
 
-### Adding the Background
+#### Adding the Background
 
 1. Under "World Properties" turn on "Use Nodes", then click the circle to the right of "Color" and select "Environment Texture". Click "Open" (the folder next to "Color).
 
-### Adjusting the Camera
+#### Adjusting the Camera
 
 1. Click `Numpad 0` to view through the camera
 2. Click `n` to show the camera options
+
+### Method 2
+
+1. Add a UV Sphere.
+2. Scale the sphere up by selecting it and typing `s4`.
+3. Add a subdivision modifier, and set `Render: 3`, `Viewport: 4`, `Quality: 3`
+4. Click `Apply` on the modifier
+5. Right-click and select `Shade Smooth`
+
+#### Material
+
+1. Switch `Viewport Shading` to `Material Preview`.
+2. Open the `Shading` pop-up menu to the right of `Viewport Shading`. Click the sphere and choose `Studiolight`.
+3. Rename `Sphere` to `Sphere Glass`.
+4. Go to `Material Properties` and click `New`. Name the new material `Sphere Glass`. Set `Surface: Glass BSDF`, `Roughtness: 0.233`, and `IOR: 1.39`. Toggle on `Backface Culling`, set `Blend Mode: Alpha Blend` and `Shadow Mode: None`. Toggle on `Screen Space Refraction`.
+
+#### Render Options
+
+1. Under `Render Properties`, toggle on `Bloom` and `Screen Space Reflections`.
+2. Under `Screen Space Reflections`, turn on `Refractions`, turn off `Half Res Trace`. Set `Trace Position` and `Max Roughness` to the maximum (`1`).
 
 ## Cycles
 

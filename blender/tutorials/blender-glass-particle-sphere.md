@@ -15,3 +15,8 @@
 2. Open the `Shading` pop-up menu to the right of `Viewport Shading`. Click the sphere and choose `Studiolight`.
 3. Rename `Sphere` to `Sphere Glass`.
 4. Go to `Material Properties` and click `New`. Name the new material `Sphere Glass`. Set `Surface: Glass BSDF`, `Roughtness: 0.233`, and `IOR: 1.39`. Toggle on `Backface Culling`, set `Blend Mode: Alpha Blend` and `Shadow Mode: None`. Toggle on `Screen Space Refraction`.
+
+## Render Options
+
+1. Under `Render Properties`, toggle on `Bloom` and `Screen Space Reflections`.
+2. Under `Screen Space Reflections`, turn on `Refractions`, turn off `Half Res Trace`. Set `Trace Position` and `Max Roughness` to the maximum (`1`).
