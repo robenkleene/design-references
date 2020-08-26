@@ -1,4 +1,4 @@
-# After Effects Animated Gradients
+# After Effects Gradient Background
 
 ## Technique 1: Paths
 
