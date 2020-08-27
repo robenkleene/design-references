@@ -1,5 +1,9 @@
 # Color
 
+## Primary
+
+Red, yellow, and blue are usually the primary colors in art ("RGB").
+
 ## Complementary
 
 ![Color Complementary](assets/color-complementary.png)
