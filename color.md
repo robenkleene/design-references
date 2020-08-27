@@ -8,7 +8,7 @@ Red, yellow, and blue are usually the primary colors in art ("RGB").
 
 ![Color Complementary](assets/color-complementary.png)
 
-Complementary colors are opposite on the color wheel.
+Complementary colors are opposite on the color wheel. Complementary colors are usually a cool color paired with a warm color. When positioned next to each other, they make each color appear more intense.
 
 ## Hex
 
