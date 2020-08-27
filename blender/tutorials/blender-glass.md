@@ -11,6 +11,8 @@
 
 ### Method 2
 
+![Glass 1](assets/blender-glass-eevee-1.png)
+
 1. Add a UV Sphere.
 2. Add a subdivision modifier, and set `Render: 3`, `Viewport: 4`, `Quality: 3`
 3. Click `Apply` on the modifier
@@ -18,15 +20,15 @@
 
 #### Material
 
-1. Switch `Viewport Shading` to `Material Preview`.
+1. Switch `Viewport Shading` to `Material Preview` (`Z`).
 2. Open the `Shading` pop-up menu to the right of `Viewport Shading`. Click the sphere and choose `Studiolight`.
-3. Rename `Sphere` to `Sphere Glass`.
-4. Go to `Material Properties` and click `New`. Name the new material `Sphere Glass`. Set `Surface: Glass BSDF`, `Roughtness: 0.233`, and `IOR: 1.39`. Toggle on `Backface Culling`, set `Blend Mode: Alpha Blend` and `Shadow Mode: None`. Toggle on `Screen Space Refraction`.
+3. Go to `Material Properties` and click `New`. Name the new material `Sphere Glass`. Under `Surface`, set `Surface: Glass BSDF`, `Roughtness: 0.233`, and `IOR: 1.39`.
+4. Under `Settings`, Toggle on `Backface Culling`, set `Blend Mode: Alpha Blend` and `Shadow Mode: None`. Toggle on `Screen Space Refraction`.
 
 #### Render Options
 
-1. Under `Render Properties`, toggle on `Bloom` and `Screen Space Reflections`.
-2. Under `Screen Space Reflections`, turn on `Refractions`, turn off `Half Res Trace`. Set `Trace Position` and `Max Roughness` to the maximum (`1`).
+1. Under `Render Properties`, toggle on `Bloom` and `Subsurface Scattering > Screen Space Reflections`.
+2. Under `Subsurface Scattering > Screen Space Reflections`, turn on `Refractions`, turn off `Half Res Trace`. Set `Trace Position` and `Max Roughness` to the maximum (`1`).
 
 ## Cycles
 
@@ -40,13 +42,13 @@ Both of these methods use the same setup.
 
 ### Method 1
 
-![Glass 1](assets/blender-glass-1.png)
+![Glass 1](assets/blender-glass-cycles-1.png)
 
 This method seems to work well with either an `Ico Sphere` or a `UV Sphere`.
 
 1. Add a "Shader > Glass BSDF" and connect the "BSDF" output to the "Surface" input.
 
-[![Glass 1 Nodes](assets/blender-glass-1-nodes.png)]((assets/blender-glass-1-nodes.png))
+[![Glass 1 Nodes](assets/blender-glass-cycles-1-nodes.png)]((assets/blender-glass-cycles-1-nodes.png))
 
 #### Removing Distortion
 
@@ -54,7 +56,7 @@ This method seems to work well with either an `Ico Sphere` or a `UV Sphere`.
 
 ### Method 2
 
-[![Glass 2 Nodes](assets/blender-glass-2.png)]((assets/blender-glass-1.png))
+[![Glass 2 Nodes](assets/blender-glass-cycles-2.png)]((assets/blender-glass-cycles-1.png))
 
 This method seems to work better wtih an `Ico Sphere`.
 
@@ -65,7 +67,7 @@ This method seems to work better wtih an `Ico Sphere`.
 5. Add a "Shader > Mix Shader" and connect the first "Mix Shader: `Shader`" output to the top new "Mix Shader: `Shader`" input. Connect the "Transparent BSDF: `BSDF`" output to the bottom new "Mix Shader: `Shader`" input. Connect the second "Add: `Value`" output to the new "Mix Shader: `Fac`" input.
 6. Connect the new "Mix Shader: `Shader`" output to the "Material Output: `Surface`" input.
 
-[![Glass 2 Nodes](assets/blender-glass-2-nodes.png)]((assets/blender-glass-2-nodes.png))
+[![Glass 2 Nodes](assets/blender-glass-cycles-2-nodes.png)]((assets/blender-glass-cycles-2-nodes.png))
 
 #### Clean Up
 
