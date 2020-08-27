@@ -9,22 +9,12 @@
 3. Go to "Render Properties" and turn on "Screen Space Refractions", and under that, "Refraction".
 4. The object should now look transparent.
 
-#### Adding the Background
-
-1. Under "World Properties" turn on "Use Nodes", then click the circle to the right of "Color" and select "Environment Texture". Click "Open" (the folder next to "Color).
-
-#### Adjusting the Camera
-
-1. Click `Numpad 0` to view through the camera
-2. Click `n` to show the camera options
-
 ### Method 2
 
 1. Add a UV Sphere.
-2. Scale the sphere up by selecting it and typing `s4`.
-3. Add a subdivision modifier, and set `Render: 3`, `Viewport: 4`, `Quality: 3`
-4. Click `Apply` on the modifier
-5. Right-click and select `Shade Smooth`
+2. Add a subdivision modifier, and set `Render: 3`, `Viewport: 4`, `Quality: 3`
+3. Click `Apply` on the modifier
+4. Right-click and select `Shade Smooth`
 
 #### Material
 
