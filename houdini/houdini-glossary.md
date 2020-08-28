@@ -1,5 +1,7 @@
 # Houdini Glossary
 
+- **IPR**: Interactive render preview
+
 ## Variables
 
 - `$HFS`: Houdini install location

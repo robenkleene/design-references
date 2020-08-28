@@ -6,7 +6,15 @@
 
 Select the "Render View" tab (`⌥9`) and click "Render" (after performing a single render, saving again with `⌘S` renders again).
 
-## Node
+## Mantra
+
+While Mantr ia rendering you can click-and-hold in the render preview to prioritize certain areas.
+
+You can also right-click and choose "Sticky Priority" and you can click and area to prioritize.
+
+Click outside of the image to go back to normal.
+
+### Node
 
 To get to the `mantra1` node, in the "Network View" (usually the bottom-right pane), click "obj" and instead select "out".
 
