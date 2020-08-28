@@ -20,3 +20,7 @@
 
 1. Under `Render Properties`, toggle on `Bloom` and `Subsurface Scattering > Screen Space Reflections`.
 2. Under `Subsurface Scattering > Screen Space Reflections`, turn on `Refractions`, turn off `Half Res Trace`. Set `Trace Position` and `Max Roughness` to the maximum (`1`).
+
+## Particles
+
+1. Add a UV Sphere (`⇧A`, then `Mesh > UV Sphere`)
