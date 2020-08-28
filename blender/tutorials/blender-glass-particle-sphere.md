@@ -25,3 +25,4 @@
 
 1. Add a UV Sphere (`⇧A`, then `Mesh > UV Sphere`), rename it to `Emitter`.
 2. Set `Object Properties > Transform > Scale: 0.1, 0.1, 0.1`.
+3. Add another UV Sphere (`⇧A`, then `Mesh > UV Sphere`) and drag it outside of the other spheres with `G`.
