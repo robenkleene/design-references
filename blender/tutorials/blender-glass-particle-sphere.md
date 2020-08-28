@@ -23,4 +23,5 @@
 
 ## Particles
 
-1. Add a UV Sphere (`⇧A`, then `Mesh > UV Sphere`)
+1. Add a UV Sphere (`⇧A`, then `Mesh > UV Sphere`), rename it to `Emitter`.
+2. Set `Object Properties > Transform > Scale: 0.1, 0.1, 0.1`.
