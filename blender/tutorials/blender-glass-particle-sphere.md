@@ -26,3 +26,5 @@
 1. Add a UV Sphere (`⇧A`, then `Mesh > UV Sphere`), rename it to `Emitter`.
 2. Set `Object Properties > Transform > Scale: 0.1, 0.1, 0.1`.
 3. Add another UV Sphere (`⇧A`, then `Mesh > UV Sphere`) and drag it outside of the other spheres with `G`.
+4. Duplicate the new sphere (`⇧D` then enter) two times, and move them out so there's three spheres in a row.
+5. Name the three spheres `Particle 1`, `Particle 2`, and `Particle 3`.
