@@ -13,6 +13,13 @@
 - `o`: Mark out point
 - `'`: Extract (ripple delete marked)
 
+### Clear
+
+- `⌥i`: Clear in point 
+- `⌥o`: Clear out point 
+- `⌥x`: Clear in and out point 
+
+
 Using a combination of `j` / `l`, `←` / `→`, and `i`, `o`, `,` to make quick fine-grained edits.
 
 ## Editing
