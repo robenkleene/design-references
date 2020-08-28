@@ -39,6 +39,7 @@ This tutorial describes how to setup a render of an object on a plane. It goes t
 2. From the camera pop-up in the upper right of the viewport, select `Look Through Light > arealight2` to view through the new light.
 3. Click the `Lock camera/light to view` icon in the sidebar on the right to move `arealight2`. Move the light somewhere that fills in the scene a bit more.
 4. Add a third light and do the same.
-5. For lights `arealight2` and `arealight3` (the side fill lights), set `Exposure: 1` and `Intensity: 5`. For `arealight1` (the main center light), set `Exposure: 1` and `Intensity: 10`
+5. For `arealight1` (the main center light), set `Exposure: 1` and `Intensity: 10`.
+6. For lights `arealight2` and `arealight3` (the two side lights), set `Exposure: 1`, `Intensity: 5`, and `Area Size: 12, 12`.
 
 ![Lighting](assets/houdini-donut-render-lighting.png)
