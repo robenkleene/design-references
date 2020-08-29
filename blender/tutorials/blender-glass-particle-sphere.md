@@ -23,8 +23,15 @@
 
 ## Particles
 
+### Creating
+
 1. Add a UV Sphere (`⇧A`, then `Mesh > UV Sphere`), rename it to `Emitter`.
 2. Set `Object Properties > Transform > Scale: 0.1, 0.1, 0.1`.
 3. Add another UV Sphere (`⇧A`, then `Mesh > UV Sphere`) and drag it outside of the other spheres with `G`.
 4. Duplicate the new sphere (`⇧D` then enter) two times, and move them out so there's three spheres in a row.
 5. Name the three spheres `Particle 1`, `Particle 2`, and `Particle 3`.
+
+### Materials
+
+1. Select `Particle 1`, create a new material and name it `Particle 1`. Choose `Surface: Emission`. Choose a green for `Color`. Set `Strength: 25`.
+2. Repeat the same for `Particle 2` and `Particle 3`: Create a material for each with their name, choose `Surface: Emission`, and set `Strength: 25`. Set the `Color` for `Particle 2` to white (the default), and blue for `Particle 3`.
