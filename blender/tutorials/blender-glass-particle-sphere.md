@@ -35,4 +35,14 @@
 
 1. Select `Particle 1`, create a new material and name it `Particle 1`. Choose `Surface: Emission`. Choose a green for `Color`. Set `Strength: 25`.
 2. Repeat the same for `Particle 2` and `Particle 3`: Create a material for each with their name, choose `Surface: Emission`, and set `Strength: 25`. Set the `Color` for `Particle 2` to white (the default), and blue for `Particle 3`.
-3. Select all three spheres, then with `G Z` move them high in the scene away from the main sphere so they're out of the scene.
+
+## Clean Up
+
+1. Select all three spheres, then with `G Z` move them high in the scene away from the main sphere so they're out of the scene.
+2. Make a collection called `Particles`, and move the three particle spheres into it.
+
+## Particles
+
+1. Click the `Emitter`, then under `Particle Properties`, click the plus button. Set `Emission > Number: 100`
+2. In the timeline, set `End: 300` for the number of frames.
+3. Set `Emission > Lifetime: 95`, to extend how long the particles will exist in the scene. Note that 

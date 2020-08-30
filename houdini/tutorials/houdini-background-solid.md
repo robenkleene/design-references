@@ -2,13 +2,18 @@
 
 Add a background using a plane.
 
-## Setup Objects
+## Setup
+
+### Subject
 
 1. If your scene doesn't already have a subject, add a cube (`box`)
-2. At the top `obj` level, add a `grid`.
-3. Switch to the `Move` tool (`T`), and lower the grid so it isn't intersecting the subject (hit `⎋` when finished).
-4. To make it bigger, set the `Uniform Scale` of `grid1` to `10`.
-5. Double-click `grid1` to enter it, and add a `Normal`, attach the output of `grid1` to the input of `normal1`.
+
+### Background
+
+1. At the top `obj` level, add a `grid`.
+2. Switch to the `Move` tool (`T`), and lower the grid so it isn't intersecting the subject (hit `⎋` when finished).
+3. To make it bigger, set the `Uniform Scale` of `grid1` to `10`.
+4. Double-click `grid1` to enter it, and add a `Normal`, attach the output of `grid1` to the input of `normal1`.
 
 ## Material
 
