@@ -45,4 +45,4 @@ You can copy and paste effects with `⌘C` and `⌘V`.
 
 - To edit properties on multiple layers at once: Use the search field above the properties list and search for the property you want to change, then select each one and change the value.
 - To edit the numerical value of the duration for a layer, right-click the column title (e.g., on "Source Name"), and show the "Duration" column.
-
+- To quickly trim the timeline to a particular length, move the playhead where you want the timeline to end and hit `N` to set the end of the work area, then `⇧⌘X` (`Composition > Trim Comp to Work Area`).

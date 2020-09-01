@@ -25,7 +25,8 @@
     - `Distribution: Gaussian`
     - `Monochromatic: On`
   
-## Brush
+## Add Logo
 
-1. Create a new layer
-2. Set the colors to the defaults swapped (`D X`, white should be the foreground color).
+1. Drag the logo into the document and make it all white by adding a color overlay to blending options.
+2. Choose `3D > New 3D Extrusion from Selected Layer`.
+3. Set `Extrusion Depth: 100`.
