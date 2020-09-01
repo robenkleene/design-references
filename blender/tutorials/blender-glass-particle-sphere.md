@@ -41,7 +41,7 @@
 1. Select all three spheres, then with `G Z` move them high in the scene away from the main sphere so they're out of the scene.
 2. Make a collection called `Particles`, and move the three particle spheres into it.
 
-## Particles
+## Emitter
 
 1. Click the `Emitter`, then under `Particle Properties`, click the plus button. Set `Emission > Number: 100`
 2. In the timeline, set `End: 300` for the number of frames.
@@ -49,3 +49,9 @@
 4. Set `Field Weights > Gravity: 0`, Toggle off `Render > Show Emitter` and `Viewport > Show Emitter`, choose `Render > Render As: Collection`, choose `Render > Collection > Instance Collection: Particles`, toggle on `Render > Collection > Pick Random`.
 5. You should now be able to see particles during playback, it looks better if you turn off overlays.
 6. Set `Particle Properties > Render > Scale: 0.3`
+
+## Shading
+
+1. Click the `Shading` tab along the top.
+2. In the bottom pane, select the shader data as `World`.
+3. Zoom out and pan until you find the default `Background` and `World Output` (there usually above your default position somewhere).
