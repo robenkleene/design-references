@@ -27,11 +27,6 @@
 - `n`: Set the end of the work area
 - `⇧⌘X`: Trim the composition to the work area
 
-#### Modifiers
-
-- Hold `⇧` and any of the above properties to see them at the same time.
-- Hold `⌥` and any of the above properties to add a key frame.
-
 ### Glossary
 
 - For some reason toggling the disclosure indicators is called "Twirling".

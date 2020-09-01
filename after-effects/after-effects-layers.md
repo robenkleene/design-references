@@ -27,7 +27,7 @@ Show / hide specific properties:
 - `s`: Scale
 - `t`: Opacity
 
-Holding shift, and then hitting multiple of these keys in succession will reveal all of those properties.
+Holding shift, and then hitting multiple of these keys in succession will reveal all of those properties (e.g., `⇧P ⇧R` will show position and velocity). Holding `⌥` will add a keyframe for that property.
 
 ### Tips
 
