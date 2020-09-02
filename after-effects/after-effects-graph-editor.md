@@ -24,6 +24,17 @@ There are two types of graphs, the value and speed graphs. The amount you adjust
 
 The options icon (below the Graph Editor, it looks like a bulleted list) is where you switch between the value graph and speed graph.
 
+### Speed
+
+The speed graph works a bit differently, the handle can't be rotated, so there's only two values:
+
+1. **Speed**: The height of the point.
+2. **Influence**: The length of the handle.
+
+#### Keyframe Velocity
+
+Speed and influence can also be set via a dialog box by choosing `Animation > Keyframe Velocity...` (`⇧⌘K`). This can also be used to change the speed graphs for several properties simultaneously.
+
 ## Curves
 
 ### Presets
