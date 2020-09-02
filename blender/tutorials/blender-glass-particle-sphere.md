@@ -58,3 +58,4 @@
 4. Add a `Shader > Background`, and connect the `Background: Background` output to the `World Ouput: Volumne` input.
 5. Add a `Mix Shader` between the first `Background` and `World Output`.
 6. Add a `Texture > Environmental Texture` and connect its `Color` output to the top `Background: Color` input.
+7. add a `Vector > Mapping` and connect the `Mapping: Vector` output to the `Environmental Texture: Vector` input.
