@@ -12,7 +12,7 @@
     - `Blend Mode: Multiply`
     - `Opacity: 20%`
     - White to Black
-    - Toggle on `Reverse` 
+    - Toggle on `Reverse`
     - `Style: Radial`
     - `Angle: 60`
     - `Scale: 150`
@@ -30,4 +30,10 @@
 1. Drag the logo into the document and make it all white by adding a color overlay to blending options.
 2. Choose `3D > New 3D Extrusion from Selected Layer`.
 3. With the logo's layer selected in the `3D` panel, in the `Properties` panel, with the `Mesh` icon selected, set `Extrusion Depth: 100`.
-4. Switch to `Cap` icon in the `Properties` panel.
+4. Switch to `Cap` icon in the `Properties` panel. Set `Width: 5%`, set `Sides: Front and Back`.
+
+## Material
+
+1. Select all five materials in the `3D` panel.
+2. Set:
+    - `Shine: 63%`
