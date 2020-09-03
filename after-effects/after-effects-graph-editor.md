@@ -20,7 +20,7 @@
 
 ## Graph Types
 
-There are two types of graphs, the value and speed graphs. The amount you adjust the handles is called "influence". 
+There are two ways to view the graph: the "Value Graph" and the "Speed Graph". These are the same data displayed differently, so changing one also changes the other. The amount you adjust the handles is called "influence". 
 
 The options icon (below the Graph Editor, it looks like a bulleted list) is where you switch between the value graph and speed graph.
 
@@ -34,6 +34,10 @@ The speed graph works a bit differently, the handle can't be rotated, so there's
 #### Keyframe Velocity
 
 Speed and influence can also be set via a dialog box by choosing `Animation > Keyframe Velocity...` (`⇧⌘K`). This can also be used to change the speed graphs for several properties simultaneously.
+
+The keyframe velocity is the same data and format as the speed graph, so changing the keyframe velocity also changes the speed graph (and the value graph).
+
+A good a way to duplicate graph data across properties is to draw it visually in the graph editor, and then copy the values from `Keyframe Velocity` to the other properties.
 
 ## Curves
 
