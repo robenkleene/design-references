@@ -12,9 +12,9 @@ Turn on "View" -> "Show Corner Widget" then hover near a corner with the "Direct
 
 ## Pen Tool
 
-- `⇧C`: Add handles
-- `A`: Select a point
-- `V`: Select the whole shape
+- `⇧C`: Anchor Point Tool, to add handles
+- `A`: Direct Selection Tool, to select a point
+- `V`: Selection Tool, to select the whole shape
 
 ### Notes
 
