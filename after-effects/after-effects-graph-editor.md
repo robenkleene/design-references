@@ -2,11 +2,13 @@
 
 - `⇧F3`: Toggle `Graph Editor`
 - `F9`: Apply easy ease to keyframes
+- `⌘`-click keyframe: Switch keyframe back to linear
 - `-`: Zoom out
 - `=`: Zoom in
 
 ## Tips
 
+- To clear graph editor changes, select the keyframes then enter the graph editor (`⇧F3`) and click the `Convert selected keyframes to Linear` button at the bottom.
 - You can select multiple properties (by `⇧`-clicking) and see their graphs in the Graph Editor simultaneously.
 - You can adjust a bunch of points at once by selecting them and then dragging the Bézier handles, all the points will be adjust simultaneously.
 - It's easy to just cut a point and paste it where the playhead is.

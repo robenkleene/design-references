@@ -68,6 +68,7 @@
 
 ![Nodes](assets/blender-glass-particle-sphere-nodes.png)
 
-## Layout
+## Camera
 
 1. Click the `Layout` tab along the top.
+2. Center the sphere nicely and choose `View > Align View > Align Active Camera to View` to align the camera.
