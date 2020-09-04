@@ -15,6 +15,40 @@
 - Click the `Fit all graphs to view` button below the `Graph Editor` to fit the graph to the view.
 - There are preset buttons for Easy Ease, Easy Ease In, and Easy Ease Out below the Graph Editor.
 
+## Easy Ease
+
+Using three keyframes.
+
+### Linear
+
+#### Speed
+
+![3 Keyframes Speed Linear](assets/after-effects-graph-editor-speed-3-keyframes-linear.png)
+
+#### Value
+
+![3 Keyframes Speed Linear](assets/after-effects-graph-editor-value-3-keyframes-linear.png)
+
+### One Keyframe Easy Ease
+
+#### Speed
+
+![1 Keyframe Speed Easy Ease](assets/after-effects-graph-editor-speed-3-keyframes-one-easy-ease.png)
+
+#### Value
+
+![1 Keyframe Speed Easy Ease](assets/after-effects-graph-editor-value-3-keyframes-one-easy-ease.png)
+
+### All Three Easy Ease
+
+#### Speed
+
+![3 Keyframes Speed Easy Ease](assets/after-effects-graph-editor-speed-3-keyframes-easy-ease.png)
+
+#### Value
+
+![3 Keyframes Speed Easy Ease](assets/after-effects-graph-editor-value-3-keyframes-easy-ease.png)
+
 ## Dimensions
 
 - Hover the cursor over a graph line to see what that line corresponds to (e.g., a position graph will have "X" and "Y" values).
