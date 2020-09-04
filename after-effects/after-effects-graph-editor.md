@@ -15,7 +15,7 @@
 - Click the `Fit all graphs to view` button below the `Graph Editor` to fit the graph to the view.
 - There are preset buttons for Easy Ease, Easy Ease In, and Easy Ease Out below the Graph Editor.
 
-## Easy Ease
+## 3 Keyframes Easy Ease
 
 Using three keyframes.
 
