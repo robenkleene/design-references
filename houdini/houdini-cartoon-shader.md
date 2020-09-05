@@ -18,3 +18,7 @@
 
 1. From the menu, choose `Render > Create Render Node > Mantra - PBR`.
 2. Go to the `obj` network, select the `MESH`, under `Render` properties, set `Material: /mat/cartoon` (click the icon to the right of `Material`).
+
+## Cartoon Shader
+
+1. At the top level of the `mat` network, select `cartoon`, and set `ramp > Interpolation: Constant`. Adjust the gradient sliders to the bar is half black and half white.
