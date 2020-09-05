@@ -37,3 +37,14 @@
 1. Select all five materials in the `3D` panel.
 2. Set:
     - `Shine: 63%`
+    - `Metallic: 15%`
+    - `Roughness: 3%`
+    - `Height: 2%`
+    - `Opacity: 10%`
+    - `Refraction: 1.6`
+
+## Position
+
+1. Rotate the logo around the X-axis and move it down so that it's laying flat.
+
+![Alignment](assets/photoshop-3d-frosted-glass-alignment.png)

@@ -72,3 +72,16 @@
 
 1. Click the `Layout` tab along the top.
 2. Center the sphere nicely and choose `View > Align View > Align Active Camera to View` to align the camera.
+3. Select the `Camera` and set it's rotation and position:
+    - `Location`
+        - `X: 2.2`
+        - `Y: -28`
+        - `Z: 7.3`
+    - `Position`
+        - `X: 75`
+        - `Y: 0.82`
+        - `Z: 4.98`
+
+## Background
+
+1. Add a `UV Sphere` (if it gets added to the `Particles` collection, then drag it to `Collection`). Rename it to `Sphere Background`.

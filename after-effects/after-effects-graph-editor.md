@@ -8,6 +8,7 @@
 
 ## Tips
 
+- To select all points in the Graph Editor, simply click the property name.
 - To clear graph editor changes, select the keyframes then enter the graph editor (`⇧F3`) and click the `Convert selected keyframes to Linear` button at the bottom.
 - You can select multiple properties (by `⇧`-clicking) and see their graphs in the Graph Editor simultaneously.
 - You can adjust a bunch of points at once by selecting them and then dragging the Bézier handles, all the points will be adjust simultaneously.
