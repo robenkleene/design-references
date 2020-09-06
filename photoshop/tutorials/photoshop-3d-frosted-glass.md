@@ -32,7 +32,7 @@
 3. With the logo's layer selected in the `3D` panel, in the `Properties` panel, with the `Mesh` icon selected, set `Extrusion Depth: 100`.
 4. Switch to `Cap` icon in the `Properties` panel. Set `Width: 5%`, set `Sides: Front and Back`.
 
-## Material
+## Logo Material
 
 1. Select all five materials in the `3D` panel.
 2. Set:
@@ -43,8 +43,17 @@
     - `Opacity: 10%`
     - `Refraction: 1.6`
 
-## Position
+## Logo Position
 
 1. Rotate the logo around the X-axis and move it down so that it's laying flat.
 
 ![Alignment](assets/photoshop-3d-frosted-glass-alignment.png)
+
+## Camera
+
+1. In the `3D` panel select the camera by choosing `Current View`, and using the orbit, pan, and dolly icons in the lower left, choose a camera position that looks good, aiming down at the icon.
+2. Save the view (`Properties > 3D Camera > View > Save...`).
+
+## Light
+
+1. In the `3D` panel, select `Infinite Light 1`, choose a nice angle for the light.

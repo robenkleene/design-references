@@ -5,6 +5,7 @@
 ## Tips
 
 - Select all the keyframes and `⌥-drag` the first or last keyframe to scale them.
+- To temporarily disable a keyframe, just add an expression by `⌥`-clicking the stopwatch.
 
 ## Keyframe Assistant
 
