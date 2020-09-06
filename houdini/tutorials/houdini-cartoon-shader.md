@@ -14,6 +14,8 @@
 4. Add a `Lambert` and a `Luminance`, attach the `lambert1: clr` output to the `luminance1: rgb` input.
 5. Add a `Ramp Parameter` and attach the `luminance1: lum` output to its `input` input. Attach its `ramp` output to the `bind1: input` input.
 
+![Cartoon Shader Nodes](assets/houdini-cartoon-shader-nodes.png)
+
 ## Render Node
 
 1. From the menu, choose `Render > Create Render Node > Mantra - PBR`.
