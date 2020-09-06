@@ -85,3 +85,5 @@
 ## Background
 
 1. Add a `UV Sphere` (if it gets added to the `Particles` collection, then drag it to `Collection`). Rename it to `Sphere Background`.
+2. Zoom out until you can see both the sphere and the camera, then scale up the `Sphere Background` until it contains the camera (`S` and then drag).
+3. Add a `Subdivision Surface` modifier to `Sphere Background`, with `Render: 3` and `Viewport: 3`. Then apply it (`Apply` button).

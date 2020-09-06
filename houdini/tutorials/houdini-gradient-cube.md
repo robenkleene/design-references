@@ -1,4 +1,4 @@
-# Houdini Cube Material
+# Houdini Gradient Cube
 
 1. Make a cube, by adding a "Box".
 2. Switch to the material network by choosing `mat` from the other networks dropdown menu.
