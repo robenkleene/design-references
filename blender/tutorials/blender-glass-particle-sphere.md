@@ -92,3 +92,4 @@
 ## Background Material
 
 1. Make a new material called `Sphere Background`
+2. Set the `Base Color` to black, `Roughness: 0.250`
