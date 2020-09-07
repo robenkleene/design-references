@@ -57,3 +57,8 @@
 ## Light
 
 1. In the `3D` panel, select `Infinite Light 1`, choose a nice angle for the light.
+2. Select `Environment` in the `3D` panel and adjust the opacity of the shadows in the `Properties` panel.
+
+## Frosted Glass
+
+1. Select the `Front Inflation Material` and `Back Inflation Material`, then click the folder icon next to `Height` in the `Properties` panel and choose `New Texture...`. Save the default (two dialogs will pop up, click save in both).
