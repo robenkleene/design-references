@@ -93,4 +93,8 @@
 
 1. Make a new material called `Sphere Background`
 2. Set the `Base Color` to black, `Roughness: 0.250`
-3. By going to the `Shading` tab and viewing through the camera (`Numpad 0`), you can then change the `Mapping > Rotation` to change the rotation of the HDRI which changes the colors in the sphere.
+
+## Variations
+
+1. By going to the `Shading` tab and viewing through the camera (`Numpad 0`), you can then change the `Mapping > Rotation` to change the rotation of the HDRI which changes the colors in the sphere.
+2. Select the `Emitter` and increase the number of particles `Emission > Number`.
