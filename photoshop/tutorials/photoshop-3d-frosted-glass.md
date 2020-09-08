@@ -62,3 +62,8 @@
 ## Frosted Glass
 
 1. Select the `Front Inflation Material` and `Back Inflation Material`, then click the folder icon next to `Height` in the `Properties` panel and choose `New Texture...`. Save the default (two dialogs will pop up, click save in both).
+2. For the `Front Inflation Material`, right-click the icon to the right of `Height` in the properties and choose `Edit Texture...`.
+3. When editing the texture, double-click the `Background` layer to convert it to a normal layer.
+4. Choose `Filter > Render > Clouds`.
+5. Choose `Filter > Filter Gallery...`, choose `Distort > Glass`, set `Distortion: 20`, `Smoothness: 2`, and `Scaling: 200`.
+6. Close the `Front Inflation Material` document.
