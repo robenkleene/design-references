@@ -1,5 +1,7 @@
 # Blender Glass Particle Sphere
 
+![Glass Particle Sphere](assets/blender-glass-particle-sphere.png)
+
 ## Sphere
 
 1. Create a new document and delete the starting cube and light.
