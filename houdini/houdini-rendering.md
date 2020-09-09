@@ -8,7 +8,7 @@ Select the "Render View" tab (`⌥9`) and click "Render" (after performing a sin
 
 ## Mantra
 
-While Mantr ia rendering you can click-and-hold in the render preview to prioritize certain areas.
+While Mantra is rendering you can click-and-hold in the render preview to prioritize certain areas.
 
 You can also right-click and choose "Sticky Priority" and you can click and area to prioritize.
 
@@ -31,10 +31,6 @@ To do a high quality render:
 2. Select the new renderer and set the "Camera" using the picker button on the far right.
 3. With the renderer selected, scroll down and choose the "Rendering" tab and up the "Pixel Samples" from `3` to `12` in both boxes.
 4. Uncheck "Override Camera Resolution" under the camera path (this will make it use the resolution set by the camera itself)
-
-## Exporting
-
-Once an image is loaded in MPlay, you can save it with "File > Save Frame As..."
 
 ## Snapshots
 

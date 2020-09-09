@@ -1,5 +1,7 @@
 # Houdini Gradient Cube
 
+![Gradient Cube](assets/houdini-gradient-cube.png)
+
 1. Make a cube, by adding a "Box".
 
 ## Material
@@ -9,6 +11,8 @@
 3. Add a `Bind Export`. Set `Name: Ce` (for "color emission"), and `Type: Vector (vector)`.
 4. Add a `Lambert` and a `Luminance`, attach the `lambert1: clr` output to the `luminance1: rgb` input.
 5. Add a `Ramp Parameter` and attach the `luminance1: lum` output to its `input` input. Attach its `ramp` output to the `bind1: input` input.
+
+![Gradient Cube Nodes](assets/houdini-gradient-cube-nodes.png)
 
 ## Assigning the Material
 
