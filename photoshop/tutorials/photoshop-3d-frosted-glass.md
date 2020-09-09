@@ -67,3 +67,4 @@
 4. Choose `Filter > Render > Clouds`.
 5. Choose `Filter > Filter Gallery...`, choose `Distort > Glass`, set `Distortion: 20`, `Smoothness: 2`, and `Scaling: 200`.
 6. Close the `Front Inflation Material` document.
+7. Do the same clouds and glass sequence to the `Back Inflation Material`
