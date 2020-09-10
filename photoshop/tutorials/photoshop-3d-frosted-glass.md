@@ -1,5 +1,7 @@
 # Photoshop 3D Frosted Glass
 
+![3D Frosted Glass](assets/photoshop-3d-frosted-glass.jpg)
+
 ## Setup
 
 1. Create a new `1920x1080` file.
