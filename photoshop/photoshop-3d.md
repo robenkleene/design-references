@@ -2,6 +2,10 @@
 
 - In 3D mode, the three icons in the lower right orbit, pan, and dolly (zoom).
 
+## Rendering
+
+Once you have acceptable quality, just hit the `⎋` key. The main thing keeping the render going will do is reduce the amount of noise.
+
 ## Views
 
 You can take a view of your model and save it under the `Properties` panel with the `3D Camera` icon selected. Choose `Save…` from the `View:` drop-down menu. This allows you to rotate your model and view it from other angles while always being able to return to a saved view.
