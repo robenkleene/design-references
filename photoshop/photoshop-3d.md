@@ -1,5 +1,9 @@
 # Photoshop 3D
 
+- `⇧⌥⌘R`: Render
+
+## Tips
+
 - In 3D mode, the three icons in the lower right orbit, pan, and dolly (zoom).
 
 ## Rendering
