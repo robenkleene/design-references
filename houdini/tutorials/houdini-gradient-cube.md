@@ -7,7 +7,7 @@
 ## Material
 
 1. Switch to the `mat` network and add a `Material Builder`.
-2. In `materialbuilder1`, delete the two displacement nodes, so only `surface_globals`, `surfice_output`, and `output_collect` remain.
+2. In `materialbuilder1`, delete the two displacement nodes, so only `surface_globals`, `surface_output`, and `output_collect` remain.
 3. Add a `Bind Export`. Set `Name: Ce` (for "color emission"), and `Type: Vector (vector)`.
 4. Add a `Lambert` and a `Luminance`, attach the `lambert1: clr` output to the `luminance1: rgb` input.
 5. Add a `Ramp Parameter` and attach the `luminance1: lum` output to its `input` input. Attach its `ramp` output to the `bind1: input` input.
