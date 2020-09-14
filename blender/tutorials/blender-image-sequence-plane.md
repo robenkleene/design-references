@@ -10,3 +10,5 @@
 8. Set `Frames:` to the number of different images in the image sequence.
 9. Switch back to the `Render` tab
 10. To remove the black background and display transparency, set `Material Properties > Settings > Blend Mode: Alpha Clip`
+
+![Image Sequence](assets/blender-image-sequence-nodes.png)
