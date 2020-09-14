@@ -1,5 +1,9 @@
 # Blender Image Sequence Plane
 
+<video controls>
+  <source src="assets/blender-image-sequence.mp4" type="video/mp4">
+</video>
+
 1. Make a plane.
 2. Switch to the `Shading` tab
 3. Click the `New` button in the bottom `Object` split to create a new material.
