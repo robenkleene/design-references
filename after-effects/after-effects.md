@@ -23,11 +23,6 @@ The green line is the RAM preview. The blue line is the disk cache. You can adju
 
 After Effects uses Society of Motion Picture and Television Engineers (SMPTE) by default, which means "hours, minutes, seconds, and frames".
 
-## Export
-
-1. `⌘M`: "Composition" -> "Add to Render Queue"
-2. Click "Render"
-
 ### Single Frame
 
 - Select "Composition > Save Frame As > File...", this will add it to the "Render Queue", then click "Render".
