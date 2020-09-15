@@ -1,7 +1,9 @@
 # Premiere Pro Timeline
 
-- `←` / `→`: Move backward / forward by one frame
-- `⇧←` / `⇧→`: Move backward / forward by five frames
+- `←` / `→`: Move the playhead backward / forward by one frame
+- `⇧←` / `⇧→`: Move the playhead backward / forward by five frames
+- `HOME` or `↑` / `END`  or `↓`: Move to the beginning / end of the video
+- `⇧HOME` / `⇧END`: Move the playhead to the beginning / end of the clip
 - `↩`: Play from the beginning
 - `␣`: Play/pause
 
@@ -11,14 +13,13 @@
 - `k`: Pause
 - `i`: Mark in point 
 - `o`: Mark out point
-- `'`: Extract (ripple delete marked)
+- `'` or `⇧⌦`: Extract (ripple delete marked)
 
 ### Clear
 
 - `⌥i`: Clear in point 
 - `⌥o`: Clear out point 
 - `⌥x`: Clear in and out point 
-
 
 Using a combination of `j` / `l`, `←` / `→`, and `i`, `o`, `,` to make quick fine-grained edits.
 
