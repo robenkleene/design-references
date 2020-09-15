@@ -19,3 +19,8 @@
 1. Go to the `obj` network and select `box1`, under `render` properties, click the `Open floating operator chooser` icon and select `materialbuilder1`.
 
 Note that this material will only show up in the `Render View`, and not the `Scene View`.
+
+## Render Node
+
+1. From the menu, choose `Render > Create Render Node > Mantra - PBR`.
+2. Under `out` delete any render nodes besides the newly created `mantra1`.
