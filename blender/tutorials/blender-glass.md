@@ -4,6 +4,8 @@
 
 ### Method 1
 
+Note that this method does not use the node editor at all.
+
 1. In "Object Mode", select the light source, and under "Object Data Properties" (the light bulb icon), select "sun", and set specular to `0`.
 2. Select the cube and create a new material under "Material Properties", set the "Roughness" to `0`, and "Transmission" to `1`, and turn on "Screen Space Refraction".
 3. Go to "Render Properties" and turn on "Screen Space Refractions", and under that, "Refraction".
@@ -12,6 +14,8 @@
 ### Method 2
 
 ![Glass 1](assets/blender-glass-eevee-1.png)
+
+Note that this method does not use the node editor at all.
 
 1. Add a UV Sphere.
 2. Add a subdivision modifier, and set `Render: 3`, `Viewport: 4`, `Quality: 3`
