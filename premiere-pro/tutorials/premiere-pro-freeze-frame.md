@@ -3,7 +3,7 @@
 Right-click the clip and select:
 
 - **Add Frame Hold**: Split the clip at the playhead and replaces the remainder of the clip with a freeze frame of the current frame.
-- **Insert Frame Segment**: Split the clip and insert a freeze frame between the two portions of the clip.
+- **Insert Frame Hold Segment**: Split the clip and insert a freeze frame between the two portions of the clip.
 - You can also click the camera icon to export a frame which can optionally also be automatically imported into the project panel.
 
 ## Freeze Frame End of Clip

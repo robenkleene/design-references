@@ -2,8 +2,8 @@
 
 - `←` / `→`: Move the playhead backward / forward by one frame
 - `⇧←` / `⇧→`: Move the playhead backward / forward by five frames
-- `HOME` or `↑` / `END`  or `↓`: Move to the beginning / end of the video
-- `⇧HOME` / `⇧END`: Move the playhead to the beginning / end of the clip
+- `HOME` or / `END` : Move to the beginning / end of the sequence (if a clip is selected, this will go to the beginning or end of the selected clip, unselect with `⎋`)
+- `⇧HOME` or `↑` / `⇧END` or `↓`: Move the playhead to the beginning / end of the clip
 - `↩`: Play from the beginning
 - `␣`: Play/pause
 
