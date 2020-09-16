@@ -18,9 +18,9 @@ Note that this method does not use the node editor at all.
 Note that this method does not use the node editor at all.
 
 1. Add a UV Sphere.
-2. Add a subdivision modifier, and set `Render: 3`, `Viewport: 4`, `Quality: 3`
-3. Click `Apply` on the modifier
-4. Right-click and select `Shade Smooth`
+2. Add a `Subdivision Surface` modifier, and set `Render: 3`, `Viewport: 3`, `Quality: 3`.
+3. Click `Apply` on the modifier.
+4. Right-click the sphere and select `Shade Smooth`.
 
 #### Material
 
