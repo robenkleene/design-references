@@ -1,4 +1,4 @@
-# Blender Glass
+# Blender Glass Sphere
 
 ## Eevee
 
