@@ -30,7 +30,7 @@ How shiny the surface geometry is. It can be set to a value between 0 and 1, or 
 
 ### Metallic
 
-The degree of metallic luster a surface has. It can be set to a value between 0 and 1, or can input a black and white image. When using an image, black areas will be non-metallic and white areas will be metallic. Metallic areas will tint reflections according to the Base Color, whereas non-metallic areas will not tint reflections.
+ The degree of metallic luster a surface has. It can be set to a value between 0 and 1, or can input a black and white image. When using an image, black areas will be non-metallic and white areas will be metallic. Metallic areas will tint reflections according to the Base Color, whereas non-metallic areas will not tint reflections.
 
 ![Metallic](assets/photoshop-3d-properties-metallic.gif)
 
