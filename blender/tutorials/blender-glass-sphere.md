@@ -25,7 +25,7 @@ Note that this method does not use the node editor at all.
 #### Material
 
 1. Switch `Viewport Shading` to `Material Preview` (`Z`).
-2. Open the `Shading` pop-up menu to the right of `Viewport Shading`. Click the sphere and choose `Studiolight`.
+2. To configure the preview, open the `Shading` pop-up menu to the right of `Viewport Shading` (`z Numpad-2`). To choose lighting, click the sphere in the `Shading` pop-up menu and choose `Studiolight` exampel (hover the example spheres to see their names).
 3. Go to `Material Properties` and click `New`. Name the new material `Sphere Glass`. Under `Surface`, set `Surface: Glass BSDF`, `Roughtness: 0.233`, and `IOR: 1.39`.
 4. Under `Settings`, Toggle on `Backface Culling`, set `Blend Mode: Alpha Blend` and `Shadow Mode: None`. Toggle on `Screen Space Refraction`.
 
