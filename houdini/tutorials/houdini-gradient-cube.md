@@ -23,4 +23,4 @@ Note that this material will only show up in the `Render View`, and not the `Sce
 ## Render Node
 
 1. From the menu, choose `Render > Create Render Node > Mantra - PBR`.
-2. Under `out` delete any render nodes besides the newly created `mantra1`.
+2. Under `out` delete any render nodes besides the newly created `mantra1`. (there's a `mantra_ipr` by default that can be deleted.)

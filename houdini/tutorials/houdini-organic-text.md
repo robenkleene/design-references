@@ -1,5 +1,7 @@
 # Houdini Organic Text
 
+![Oranic Text](assets/houdini-organic-text.png)
+
 1. Add a "Geometry" node, and double-click it to enter it
 2. Create an "Attribute Wrangle", and rename it to `create_some_points_around_circle`
 3. With the `create_some_points_around_circle` selected, right-click the "VEXpression" text box in the sidebar and select "Expression > Edit String", enter the following source code:
