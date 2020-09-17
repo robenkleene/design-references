@@ -6,7 +6,6 @@
 4. Add an `Image Texture` node, click the `Open` button and select the image. Connect the `Color` output to the `Principled BSDF > Base Color` input.
 5. Connect the `Alpha` output to the `Principled BSDF > Alpha` input.
 
-
 ## Transparency
 
 1. Switch back to the `Layout` tab
