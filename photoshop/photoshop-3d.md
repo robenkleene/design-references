@@ -2,6 +2,12 @@
 
 - `⇧⌥⌘R`: Render
 
+## Text
+
+To edit 3D text, select the text in the 3D panel and then click `Edit Source`.
+
+![Text Source](assets/photoshop-3d-text-source.png)
+
 ## Tips
 
 - In 3D mode, the three icons in the lower right orbit, pan, and dolly (zoom).
