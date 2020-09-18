@@ -5,7 +5,8 @@
 
 ## Tips
 
-- Hold `⌥` to move both margins at once.
+- Hold `⌥` to move opposite margins or padding at once.
+- Hold `⇧` to move all margins or padding at once.
 
 ## Dimensions
 
