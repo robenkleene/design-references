@@ -1,5 +1,10 @@
 # Webflow
 
+- `A`: Add Elements
+- `⌘↩`: Add class
+
+## Tips
+
 - Hold `⌥` to move both margins at once.
 
 ## Dimensions

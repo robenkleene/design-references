@@ -1,8 +1,8 @@
 # Blender Gradient Background
 
-## Setup the Node Editor
+There are different beginning and ending steps based on whether the gradient is applied to the world or to a plane.
 
-### World Setup
+## World Setup
 
 ![Gradient World](assets/blender-gradient-world.png)
 
@@ -11,18 +11,21 @@ To apply the gradient to the world:
 1. In "World Properties", make sure "Use Nodes" is selected (it should be blue).
 2. Drag up the bottom split, and switch to the "Shader Editor". Select "World" in the upper left (from "object").
 
-### Plane Setup
+## Plane Setup
 
 ![Gradient Plane](assets/blender-gradient-plane.png)
 
 To apply the gradient to a plane:
 
-1. Add a plane (`⇧A`, "Mesh > Plane")
-2. Under "Material Properties", click "New", make sure "Use Nodes" is selected (it should be blue).
-3. Drag up the bottom split, and switch to the "Shader Editor". Select "Object" in the upper left (it's probably the default).
-4. Delete the "Principled BSDF" that's in the Shader Editor by default.
+1. Add a plane (`⇧A`, `Mesh > Plane`)
+2. Under `Material Properties`, click `New`, make sure `Use Nodes` is selected (it should be blue).
+3. Switch to the `Shading` tab.
+4. Make sure `Object` is selected on the upper-right of the bottom pane.
+5. Delete the "Principled BSDF" that's in the Shader Editor by default.
 
 ## Node Editor
+
+These steps are the same for a plane or a world gradient.
 
 1. Add a `Texture Coordinator` node
 2. Add a `Mapping` node, and connect the `Texture Coordinate > Window` output to the `Mapping > Vector` input.
@@ -35,7 +38,7 @@ The `World` should have existing `Background` and `World Output` nodes, with the
 
 1. Attach the `Color` output of the `ColorRamp` into the `Color` input of the `Background`.
 
-## Plan Finish
+## Plane Finish
 
 The `Object` should have an existing `Material Output.
 
