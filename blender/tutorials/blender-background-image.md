@@ -2,7 +2,8 @@
 
 ## Eevee
 
-Under "World Properties" turn on "Use Nodes", then click the circle to the right of "Color: `Environment Texture`". Click "Open" (the folder next to "Color).
+1. Under `World Properties` turn on `Use Nodes`
+2. Click the circle to the right of `Color: Environment Texture`. Click `Open` (the folder next to `Color`).
 
 ## Cycles
 
