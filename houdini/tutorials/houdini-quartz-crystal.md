@@ -28,7 +28,7 @@
 2. Add a `Scatter`, connect the output of `convertline1` to its input. Set `Force Total Count: 120`, `Relax Iterations: Off`.
 3. Add a `Sphere`. Set `Primitive Type: Polygon`, `Uniform Scale: 0.007`.
 4. Add a `Copy to Points`, connect the output of `sphere1` to the left input and the output of `scatter1` to the right input.
-5. To introduce entropy, add an `Attribute Randomize` and set `Attribute Name: pscale`, `Dimensions: 1`.
+5. To introduce entropy, add an `Attribute Randomize` and set `Attribute Name: pscale`, `Dimensions: 1`. Connect the output of `scatter1` to the input of `attribrandomize1`, and the output of `attribrandomize1` to the input of `copytopoints1`.
 
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
