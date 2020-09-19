@@ -1,5 +1,7 @@
 # Blender
 
+Blender doesn't support opening multiple documents at the same time, but you can open multiple instances of Blender with `open -n -a Blender`.
+
 ## Global
 
 - `⇥`: Swap between object and edit modes
