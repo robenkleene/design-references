@@ -12,6 +12,16 @@
 
 - `100vh`: Entering this as a height will cause it to match the viewport height.
 
+## Typography
+
+- Adding a hyphen, e.g., `1.4-` makes the setting "Unit-less", which means it scales with the font size.
+
+### Base Font
+
+1. Select the `Body` element.
+2. In the class selector, choose `Body (All Pages)`.
+3. Then change the font.
+
 ## Notes
 
-- The eye dropper tool is part of the [Webflow Chrome Extension - Chrome Web Store](https://chrome.google.com/webstore/detail/webflow-chrome-extension/poomgojobmjpninodpbopbeedkgcgiap?hl=en)
+- The eye dropper tool requires a browser extension.
