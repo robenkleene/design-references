@@ -35,6 +35,6 @@
 
 ### Connecting Dents
 
-1. Add a `Boolean`. Connect the output of `boolean1` to the left input of `boolean2`, and the output of `mountain1` to the right input of `boolean2`.
+1. Add a `Boolean`. Connect the output of `boolean1` to the left input of `boolean2`, and the output of `mountain1` to the right input of `boolean2`. Make sure that `Operation: Subtract` to subtract the second input from the first input.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
