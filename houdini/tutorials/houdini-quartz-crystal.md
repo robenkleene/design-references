@@ -24,11 +24,17 @@
 
 ## Dents
 
+### Creating Dent Shapes
+
 1. Add a `Convert Line`, connect the output of `boolean1` to its input.
 2. Add a `Scatter`, connect the output of `convertline1` to its input. Set `Force Total Count: 120`, `Relax Iterations: Off`.
 3. Add a `Sphere`. Set `Primitive Type: Polygon`, `Uniform Scale: 0.007`.
 4. Add a `Copy to Points`, connect the output of `sphere1` to the left input and the output of `scatter1` to the right input.
 5. To introduce entropy, add an `Attribute Randomize` and set `Attribute Name: pscale`, `Dimensions: 1`. Connect the output of `scatter1` to the input of `attribrandomize1`, and the output of `attribrandomize1` to the input of `copytopoints1`.
 6. To add imperfections to the spheres by distorting them, add a `Mountain`, connect the output of `copytopoints1` to the input of `mountain1`. Set `Height: 0.03` and `Element Size: 0.01`.
+
+### Connecting Dents
+
+1. Add a `Boolean`. Connect the output of `boolean1` to the left input of `boolean2`, and the output of `mountain1` to the right input of `boolean2`.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
