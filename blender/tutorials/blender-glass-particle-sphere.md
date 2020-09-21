@@ -52,7 +52,7 @@
 5. You should now be able to see particles during playback, it looks better if you turn off overlays.
 6. Set `Particle Properties > Render > Scale: 0.3`
 
-## Shading
+## World Shading
 
 1. Click the `Shading` tab along the top.
 2. In the bottom pane, select the shader data as `World`.
@@ -68,7 +68,7 @@
 
 1. In the `Environment Texture` node, click `Open` and select an HDRI. (You can play with the `Mapping > Rotation` parameters here to change the rotation of the HDRI.)
 
-![Nodes](assets/blender-glass-particle-sphere-nodes.png)
+[![Nodes](assets/blender-glass-particle-sphere-nodes.png)](assets/blender-glass-particle-sphere-nodes.png)
 
 ## Camera
 

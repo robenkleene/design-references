@@ -37,4 +37,14 @@
 
 1. Add a `Boolean`. Connect the output of `boolean1` to the left input of `boolean2`, and the output of `mountain1` to the right input of `boolean2`. Make sure that `Operation: Subtract` to subtract the second input from the first input. Set `Collapse Tiny Seam-Adjacent Edges: Off`.
 
+## Fractures
+
+1. Add a `Bound` node, connect the output of `boolean1` to its input. Set `Lower Padding: 0.1 0.1 0.1` and `Upper Padding: 0.1 0.1 0.1`.
+2. Add a `VDB from Polygons`. connect the output from `bound1` to its left input. Set:
+    - `Voxel Size: 0.004`.
+    - `Fog VDB: On`
+    - `Fog VDB: Density`
+    - `Fill Interior: On`
+    - `Exterior Band Voxels: 1`
+
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
