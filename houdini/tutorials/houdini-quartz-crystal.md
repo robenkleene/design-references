@@ -47,4 +47,9 @@
     - `Fill Interior: On`
     - `Exterior Band Voxels: 1`
 
+### Noise
+
+1. Add a `Volume VOP` and connect the output of `vdbfrompolygons1` to its leftmost input.
+2. Go into the `volumevop1` and add a `Unified Noise`. Connect the `P` output of `volumevopglobal1` to the `pos` input of `unifiednoise1`, and connect the `noise` output of `unifiednoise1` to the `density` input of `volumevopoutput1`.
+
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
