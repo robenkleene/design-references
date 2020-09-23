@@ -1,9 +1,6 @@
 # After Effects Exporting
 
-## Export
-
-1. `⌃⌘M`: "Composition" -> "Add to Render Queue"
-2. Click "Render"
+- `⌃⌘M` / `Composition > Add to Render Queue`: Add to render queue
 
 ## Transparency
 
