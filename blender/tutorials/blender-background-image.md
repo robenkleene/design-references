@@ -15,6 +15,8 @@
 4. Click the `Open` folder on the `Image Texture` and select the image.
 5. Add a `Texture Coordinator` and attach the `Window` output to the `Vector` input of the `Mapping`.
 
+(If the image is repeating, you can switch `Image Texture: Repeat` to `Image Texture: Clip`.)
+
 ![Background Image Nodes](assets/blender-background-image-nodes.png)
 
 #### Dimension
