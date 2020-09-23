@@ -47,6 +47,10 @@ Blender doesn't play nice with the "Scroll direction: natural" enabled, so turn 
 - Hold `⌃` for snap mode.
 - Hitting any of these keys and then a number will perform the transformation relative to it's size, so `s` then `3` will scale an object to three times its size.
 
+## Viewport & Rendering
+
+The outline on the right has an eye icon next to each object, toggling the `Hide in Viewport` eye icon toggles whether the object is visible in the viewport. But an object hidden in the viewport might still be visible in the render. Toggle render visibility with the `Disable in Renders` camera icon. If the camera icon isn't visible, click the `Filter` icon in the upper right of the outline and toggle on the camera icon.
+
 ## Glossary
 
 - **Manipulator**: The controls to manipulate objects.
