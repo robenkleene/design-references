@@ -35,13 +35,13 @@
 
 ### 2. Materials
 
-1. Select `Particle 1`, create a new material and name it `Particle 1`. Choose `Surface: Emission`. Choose a green for `Color`. Set `Strength: 25`.
-2. Repeat the same for `Particle 2` and `Particle 3`: Create a material for each with their name, choose `Surface: Emission`, and set `Strength: 25`. Set the `Color` for `Particle 2` to white (the default), and blue for `Particle 3`.
+1. Select `Particle 1`, create a new material and name it `Particle 1`. Set `Surface: Emission`. Set green for `Color`. Set `Strength: 25`.
+2. Repeat the same for `Particle 2` and `Particle 3`: Create a material for each with their name, choose `Surface: Emission`, and set `Strength: 25`. Do the same for particles 2 and 3, but set the color for `Particle 2` to white (the default), and blue for `Particle 3`.
 
 ## 5. Clean Up
 
 1. Select all three spheres, then with `G Z` move them high in the scene away from the main sphere so they're out of the scene.
-2. Make a collection called `Particles`, and move the three particle spheres into it.
+2. Make a collection called `Particles` (right-click in the outline and choose `New Collection`), and move the three particle spheres into it.
 
 ## 6. Emitter
 

@@ -2,7 +2,7 @@
 
 ![Quartz Crystal](assets/houdini-quartz-crystal.jpg)
 
-## Basic Shape
+## 1. Basic Shape
 
 ![Basic Shape](assets/houdini-quartz-crystal-basic-shape.png)
 
@@ -22,9 +22,9 @@
     - `Rotate: 44.7 23.7 -22.11`
 7. Add a `Boolean` and set `Operation: Intersect`. Connect the output of `tube1` to the left input of `boolean1` and the output of `transform1` to the right input of `boolean1`.
 
-## Dents
+## 2. Dents
 
-### Creating Dent Shapes
+### 3. Creating Dent Shapes
 
 1. Add a `Convert Line`, connect the output of `boolean1` to its input.
 2. Add a `Scatter`, connect the output of `convertline1` to its input. Set `Force Total Count: 120`, `Relax Iterations: Off`.
@@ -33,11 +33,11 @@
 5. To introduce entropy, add an `Attribute Randomize` and set `Attribute Name: pscale`, `Dimensions: 1`. Connect the output of `scatter1` to the input of `attribrandomize1`, and the output of `attribrandomize1` to the input of `copytopoints1`.
 6. To add imperfections to the spheres by distorting them, add a `Mountain`, connect the output of `copytopoints1` to the input of `mountain1`. Set `Height: 0.03` and `Element Size: 0.01`.
 
-### Connecting Dents
+### 4. Connecting Dents
 
 1. Add a `Boolean`. Connect the output of `boolean1` to the left input of `boolean2`, and the output of `mountain1` to the right input of `boolean2`. Make sure that `Operation: Subtract` to subtract the second input from the first input. Set `Collapse Tiny Seam-Adjacent Edges: Off`.
 
-## Fractures
+## 3. Fractures
 
 1. Add a `Bound` node, connect the output of `boolean1` to its input. Set `Lower Padding: 0.1 0.1 0.1` and `Upper Padding: 0.1 0.1 0.1`.
 2. Add a `VDB from Polygons`. connect the output from `bound1` to its left input. Set:
@@ -47,7 +47,7 @@
     - `Fill Interior: On`
     - `Exterior Band Voxels: 1`
 
-### Noise
+### 1. Noise
 
 1. Add a `Volume VOP` and connect the output of `vdbfrompolygons1` to its leftmost input.
 2. Go into the `volumevop1` and add a `Unified Noise`. Connect the `P` output of `volumevopglobal1` to the `pos` input of `unifiednoise1`, and connect the `noise` output of `unifiednoise1` to the `density` input of `volumevopoutput1`.
@@ -62,5 +62,11 @@
 4. Go up a level to `geo1`, set the `volumevop1 > Fractal Type: Terrian`
 5. Add a `Convert VDB`, and connect the output of `volumevop1` to its the left most input. Set `Convert To: Polygons` and `Isovalue: 0.47`.
 6. Add a `Boolean` and connect the output of `convertvdb1` to its right input, and the output of `boolean2` to its left input. Set `Operation: Shatter`, `Correct Tiny Seam-Adjacent Edges: Off`.
+
+### 2. Increasing Entropy
+
+Drive the noise frequency by its position within the volume to increase realism.
+
+1. Go into `volumevop1`.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
