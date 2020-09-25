@@ -1,5 +1,9 @@
 # Color
 
+- *Hue*: Color
+- *Saturation*: Intensity or vividness
+- *Luma*: Brightness or shade
+
 ## Primary
 
 Red, yellow, and blue are usually the primary colors in art ("RGB").
