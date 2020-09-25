@@ -61,5 +61,6 @@
     - `offset`
 4. Go up a level to `geo1`, set the `volumevop1 > Fractal Type: Terrian`
 5. Add a `Convert VDB`, and connect the output of `volumevop1` to its the left most input. Set `Convert To: Polygons` and `Isovalue: 0.47`.
+6. Add a `Boolean` and connect the output of `convertvdb1` to its right input, and the output of `boolean2` to its left input.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
