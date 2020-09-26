@@ -3,6 +3,12 @@
 - Switch to the `Color` tab
 - To get other scopes, like a vectorscope, right-click the scope and toggle them on.
 
+## Workflow
+
+1. Correct exposure
+2. Fix white balance
+3. Adjust saturation
+
 ## Scopes
 
 ### Waveform
