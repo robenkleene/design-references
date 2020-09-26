@@ -67,6 +67,12 @@
 
 Drive the noise frequency by its position within the volume to increase realism.
 
-1. Go into `volumevop1`.
+1. Go into `volumevop1`. Add a `Vector to Float` and connect the `volumevopglobal1 > BB` output to its `vec` input.
+2. Add a `Multiply`, connect the `vectofloat1 > fval1` output to its `input1`.
+3. Add a `floattohvec1`, connect the `multiply1 > product` output to all four of its inputs.
+
+    ![Float to Vector](assets/houdini-quartz-crystal-float-to-vector.png)
+
+4. Connect the `floattohvec1` output to the `unifiednoise1 > freq` input
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
