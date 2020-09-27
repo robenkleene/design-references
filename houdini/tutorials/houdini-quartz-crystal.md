@@ -74,5 +74,6 @@ Drive the noise frequency by its position within the volume to increase realism.
     ![Float to Vector](assets/houdini-quartz-crystal-float-to-vector.png)
 
 4. Connect the `floattohvec1 > hvec` output to the `unifiednoise1 > freq` input.
+5. Go up a level to `geo1`, set `volumevop1 > Input Number 2: 40` (this is the second input on the `multiply` node.)
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)

@@ -9,6 +9,10 @@
 2. Fix white balance
 3. Adjust saturation
 
+## Controls
+
+In the `Lumetri Color` panel, the `Basic Correction` section has options like `Exposure`, `Contrast`, etc...
+
 ## Scopes
 
 ### Waveform
