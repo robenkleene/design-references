@@ -3,6 +3,11 @@
 - Switch to the `Color` tab
 - To get other scopes, like a vectorscope, right-click the scope and toggle them on.
 
+## Adjustment Layers
+
+- Add an adjustment layer to apply color effects to all of the layers below simultaneously.
+- In the project bin, right-click and select `New Item > Adjustment Layer...` (or click the `New Item` icon in the lower right and choose `Adjustment Layer...`). Drag the adjustment layer into the timeline, it effects all layers below it.
+
 ## Workflow
 
 1. Correct exposure

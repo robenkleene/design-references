@@ -65,7 +65,7 @@
 
 ### 2. Increasing Entropy
 
-Drive the noise frequency by its position within the volume to increase realism.
+To increase realism, drive the noise frequency by its position within the volume, so that there's more fractures at the top and the bottom and less in the middle.
 
 1. Go into `volumevop1`. Add a `Vector to Float` and connect the `volumevopglobal1 > BB` output to its `vec` input.
 2. Add a `Multiply`, connect the `vectofloat1 > fval2` output (the *second* output) to its `input1`.
@@ -75,5 +75,10 @@ Drive the noise frequency by its position within the volume to increase realism.
 
 4. Connect the `floattohvec1 > hvec` output to the `unifiednoise1 > freq` input.
 5. Go up a level to `geo1`, set `volumevop1 > Input Number 2: 40` (this is the second input on the `multiply` node.)
+
+### 3. Noise Tweaks
+
+1. Select the `convertvdb1` and set `Isovalue: 0.281`.
+2. Select the `volumevop1` and set `Noise Type: Worley/Cellular | F1`.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
