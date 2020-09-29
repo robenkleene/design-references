@@ -8,6 +8,13 @@
 
 To copy and paste attributes between clips, right-click the clip and choose attributes, then right-click the destination clip and choose "Paste Attributes".
 
+## Values
+
+When entering values, e.g., for a slider.
+
+- Hold `⇧`: Move by big increments
+- Hold `⌘`: Move by small increments
+
 ## Notes
 
 - Zoom is under "Effect Controls" add keyframes like After Effects
