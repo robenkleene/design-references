@@ -39,6 +39,8 @@
 
 ## 3. Fractures
 
+Create the fractures through intersection geometry.
+
 1. Add a `Bound` node, connect the output of `boolean1` to its input. Set `Lower Padding: 0.1 0.1 0.1` and `Upper Padding: 0.1 0.1 0.1`.
 2. Add a `VDB from Polygons`. connect the output from `bound1` to its left input. Set:
     - `Voxel Size: 0.004`.
@@ -80,5 +82,9 @@ To increase realism, drive the noise frequency by its position within the volume
 
 1. Select the `convertvdb1` and set `Isovalue: 0.281`.
 2. Select the `volumevop1` and set `Noise Type: Worley/Cellular | F1`.
+
+## 4. Inclusions
+
+1. Add a `VDB from Polygons`. Set `Voxel Size: 0.003`, `Exterior Band Voxels: 1`, `Fill Interior: On`. Connect the output of `boolean1` to its left input.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
