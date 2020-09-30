@@ -47,7 +47,7 @@
 1. Click the `Emitter`, then choose `Particle Properties` in the sidebar, click the plus button. Set `Emission > Number: 100`
 2. In the timeline, set `End: 300` for the number of frames.
 3. Set `Emission > Lifetime: 95`, to extend how long the particles will exist in the scene. (Note the faint red line in the timeline shows how long the particles will be visible in the scene).
-4. Set `Field Weights > Gravity: 0`, Toggle off `Render > Show Emitter` and `Viewport > Show Emitter`, choose `Render > Render As: Collection`, choose `Render > Collection > Instance Collection: Particles`, toggle on `Render > Collection > Pick Random`.
+4. Set `Field Weights > Gravity: 0`, Toggle off `Render > Show Emitter` and `Viewport Display > Show Emitter`, choose `Render > Render As: Collection`, choose `Render > Collection > Instance Collection: Particles`, toggle on `Render > Collection > Pick Random`.
 5. You should now be able to see particles during playback, it looks better if you turn off overlays by clicking the `Show Overlays` icon in the upper right of the viewport.
 6. Set `Particle Properties > Render > Scale: 0.3`
 
