@@ -88,5 +88,14 @@ To increase realism, drive the noise frequency by its position within the volume
 1. Add a `VDB from Polygons`. Set `Voxel Size: 0.003`, `Exterior Band Voxels: 1`, `Fill Interior: On`. Connect the output of `boolean1` to its left input.
 2. Add a `Volume VOP` and connect the output of `vdbfrompolygon2` to its left input.
 3. Go into the `volumevop2` and add a `Unified Noise`. Connect the existing `volumevopglobal1: P` output of to its `pos` input. Connect its `noise` output to the existing `volumevopoutput1: density` input.
+4. Middle-mouse-button click and select `Promote Parameter` for the same list of inputs as previously on the new `unifiednoise1` (with the addition of `period`):
+    - `fractal`
+    - `oct`
+    - `lac`
+    - `rough`
+    - `basis`
+    - `freq`
+    - `offset`
+    - `period`
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
