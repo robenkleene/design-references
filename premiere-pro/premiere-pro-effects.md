@@ -9,5 +9,8 @@
 
 ## Creative Effects
 
-- `Video Effects > Channel > Invert`
-    - Try changing `Effect Controls > Invert > Channel`
+- `Video Effects > Channel > Invert`, under `Effect Controls > Invert` try changing:
+    - `Channel`
+- `Video Effects > Generate > Paint Bucket`, under `Effect Controls > Paint Bucket` try changing:
+    - `Fill Point`
+    - `Tolerance`
