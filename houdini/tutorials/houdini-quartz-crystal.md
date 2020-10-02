@@ -97,5 +97,11 @@ To increase realism, drive the noise frequency by its position within the volume
     - `freq`
     - `offset`
     - `period`
+5. Go up a level to `geo1`, select `volumevop2` and set:    
+    - `Frequency: 20 20 20 10`
+    - `Fractale Type: Terrain`
+    - `Roughness: 1`
+    - `Noise Value: Value Noise | Alligator`
+5. Add a `Convert VDB`, and set `Convert To: Polygons`. Connect the output of `volumevop2` to its leftmost input. Set `isovalue: 0.65`.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
