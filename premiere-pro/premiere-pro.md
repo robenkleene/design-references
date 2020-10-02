@@ -3,6 +3,9 @@
 - `⌃-click-and-drag` the edge of a clip to increase its duration.
 - "Project Panel > Reveal Project in Finder..."
 - `backtick`: View selected section full screen. (With the viewport selected, an easy way to get a quick approximation of a full-screen preview.)
+- To add a track, just drag a clip to the area above the existing tracks in the timeline. (Or right-click the timeline and choose `Add Track`.)
+- There's no way to re-order tracks, the easiest method is to insert a track to use as a bucket and then re-order manually.
+- To duplicate a clip, `⌥`-drag it.
 
 ## Attributes
 
