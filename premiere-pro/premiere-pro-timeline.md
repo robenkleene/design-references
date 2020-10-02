@@ -11,12 +11,18 @@
 
 - `j` / `l`: Move forward or backward
 - `k`: Pause
-- `i`: Mark in point 
-- `o`: Mark out point
 - `'` or `⇧⌦`: Extract (ripple delete marked)
 
-### Clear
+### Delete
 
+- `Q`: Ripple delete before playhead
+- `W`: Ripple delete after playhead
+- `'` or `⇧⌦`: Extract (ripple delete marked)
+
+### In & Out Point
+
+- `i`: Mark in point 
+- `o`: Mark out point
 - `⌥i`: Clear in point 
 - `⌥o`: Clear out point 
 - `⌥x`: Clear in and out point 
