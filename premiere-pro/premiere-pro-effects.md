@@ -18,3 +18,4 @@
     - `Fill Point`
     - `Tolerance`
 - `Stylize > Emboss`
+    - An interesting way to use this effect: Duplicate the layer, then turn off `Emboss` on the lower clip, then change the `Effect Controls > Opacity > Blend Mode: Color`.
