@@ -45,7 +45,6 @@ Create the fractures through intersection geometry.
 2. Add a `VDB from Polygons`. connect the output from `bound1` to its left input. Set:
     - `Voxel Size: 0.004`.
     - `Fog VDB: On`
-    - `Fog VDB: Density`
     - `Fill Interior: On`
     - `Exterior Band Voxels: 1`
 
@@ -85,10 +84,14 @@ To increase realism, drive the noise frequency by its position within the volume
 
 ## 4. Inclusions
 
-1. Add a `VDB from Polygons`. Set `Voxel Size: 0.003`, `Exterior Band Voxels: 1`, `Fill Interior: On`. Connect the output of `boolean1` to its left input.
-2. Add a `Volume VOP` and connect the output of `vdbfrompolygon2` to its left input.
-3. Go into the `volumevop2` and add a `Unified Noise`. Connect the existing `volumevopglobal1: P` output of to its `pos` input. Connect its `noise` output to the existing `volumevopoutput1: density` input.
-4. Middle-mouse-button click and select `Promote Parameter` for the same list of inputs as previously on the new `unifiednoise1` (with the addition of `period`):
+1. Add a `VDB from Polygons`, and connect the output of `boolean1` to its left input. Set: 
+    - `Fog VDB: On`
+    - `Voxel Size: 0.003`
+    - `Exterior Band Voxels: 1`
+    - `Fill Interior: On`
+1. Add a `Volume VOP` and connect the output of `vdbfrompolygon2` to its left input.
+2. Go into the `volumevop2` and add a `Unified Noise`. Connect the existing `volumevopglobal1: P` output of to its `pos` input. Connect its `noise` output to the existing `volumevopoutput1: density` input.
+3. Middle-mouse-button click and select `Promote Parameter` for the same list of inputs as previously on the new `unifiednoise1` (with the addition of `period`):
     - `fractal`
     - `oct`
     - `lac`
@@ -97,9 +100,9 @@ To increase realism, drive the noise frequency by its position within the volume
     - `freq`
     - `offset`
     - `period`
-5. Go up a level to `geo1`, select `volumevop2` and set:    
+4. Go up a level to `geo1`, select `volumevop2` and set:    
     - `Frequency: 20 20 20 10`
-    - `Fractale Type: Terrain`
+    - `Fractal Type: Terrain`
     - `Roughness: 1`
     - `Noise Value: Value Noise | Alligator`
 5. Add a `Convert VDB`, and set `Convert To: Polygons`. Connect the output of `volumevop2` to its leftmost input. Set `isovalue: 0.65`.
