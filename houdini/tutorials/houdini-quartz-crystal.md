@@ -107,5 +107,12 @@ To increase realism, drive the noise frequency by its position within the volume
     - `Noise Value: Value Noise | Alligator`
 6. Add a `Convert VDB`, and set `Convert To: Polygons`. Connect the output of `volumevop2` to its leftmost input. Set `isovalue: 0.65`.
 7. Add a `Normal` and connect the output of `convertvdb2` to its input.
+8. Go up a level to `geo1`, add another `Normal` and connect the output of `boolean3` to its input.
+
+## 5. Materials
+
+1. Add a `Material` node and connect the output of `normal2` to its input.
+2. Add a `Material` node and connect the output of `normal3` to its input.
+3. Add a `Merge` node and connect the output of `material1` to its input, then connect the output of `material2` to its input.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
