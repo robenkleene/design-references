@@ -113,7 +113,16 @@ To increase realism, drive the noise frequency by its position within the volume
 
 1. Add a `Material` and connect the output of `normal2` to its input.
 2. Add a `Material` and connect the output of `normal3` to its input.
-3. Add a `Merge` and connect the output of `material1` to its input, then connect the output of `material2` to its input.
-4. Add an `Output` and connect the output of `merge1` to its input.
+3. 
+4. Add a `Merge` and connect the output of `material1` to its input, then connect the output of `material2` to its input.
+5. Add an `Output` and connect the output of `merge1` to its input.
+
+### 1. Material Network
+
+1. Add a `Material Network` and double-click into it.
+2. Add a `Classic Shader`, set `Surface > Diffuse > Enable Diffuse: Off`, and under `Surface > Refract`, set:
+    - `Enable Refractions: On`
+    - `Refraction Model: GGX`
+    - `Transmission > Dispersion: 0.1`
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
