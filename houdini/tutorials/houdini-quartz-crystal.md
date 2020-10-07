@@ -125,4 +125,13 @@ To increase realism, drive the noise frequency by its position within the volume
     - `Refraction Model: GGX`
     - `Transmission > Dispersion: 0.1`
 
+    Set `Surface > Subsurface > Scatter Distance: 0.0.25`, under `Displacement`, set:
+
+    - `General > True Displacement: Off`
+    - `Noise > Enable Noise Displacement: On`
+    - `Noise > Frequency: 10 300 10`
+    - `Offset > 7 11 -3`
+    - `Amplitude: .001`
+3. With `classicshader1` still selected, set `Surface > Subsurface > Enabled Subsurface Scattering: Off`.
+
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
