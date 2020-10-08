@@ -132,6 +132,11 @@ To increase realism, drive the noise frequency by its position within the volume
     - `Noise > Frequency: 10 300 10`
     - `Offset > 7 11 -3`
     - `Amplitude: .001`
-3. With `classicshader1` still selected, set `Surface > Subsurface > Enabled Subsurface Scattering: Off`.
+
+## 6. Lighting
+
+1. With `classicshader1` still selected, set `Surface > Subsurface > Enabled Subsurface Scattering: Off`.
+2. Go to the `obj` level, add an `Environment Light` and `Camera` by `⌃`-clicking on their corresponding icons in the toolbar.
+3. Select `envlight1`, and click the icon to the right of `Environment Map` to load an HDRI, set `Render Light Geometry: On`.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
