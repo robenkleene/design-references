@@ -56,7 +56,7 @@
 1. Click the `Shading` tab along the top.
 2. In the bottom pane, select the shader data as `World`.
 3. Zoom out and pan until you find the default `Background` and `World Output` (there usually above your default position somewhere).
-4. Add a `Shader > Background`, and connect the its `Background` output to the `World Ouput: Volume` input (leave the existing `Background` in place).
+4. Add a `Shader > Background`, and connect the its `Background` output to the `World Output: Volume` input (leave the existing `Background` in place).
 5. Add a `Mix Shader` between the first `Background` and `World Output`. (This connects the `Background > Background` output to the top `Mix Shader > Shader` input.)
 6. Add a `Texture > Environmental Texture` and connect its `Color` output to the starting `Background: Color` input.
 7. add a `Vector > Mapping` and connect the `Mapping: Vector` output to the `Environmental Texture: Vector` input.
