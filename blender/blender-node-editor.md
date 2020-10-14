@@ -17,3 +17,7 @@
 4. `TAB`: Edit out of the group
 
 To edit a node group again, select the group's node and hit tab.
+
+## Notes
+
+- You can split a connection by adding a `Reroute` (`A`, then `Layout > Reroute`).
