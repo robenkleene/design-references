@@ -4,7 +4,7 @@
 - `⌘ Numpad 0` (`View > Cameras > Set Active Object as Camera`): Make the active object the camera
 - `Numpad 0` (`View > Cameras > Active Camera`): View through the camera
 
-The currently active camera is the value of the "Scene Properties > Scene > Camera" property.
+The currently active camera is the value of the `Scene Properties > Scene > Camera` property.
 
 ## Positioning
 
