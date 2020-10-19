@@ -4,9 +4,18 @@
 
 Three main nodes for working with coordinates:
 
-- Texture coordinates tell Blender where to position colors on the mesh.
-- Coordinates are position information, and therefore vectors (a vector is an X, Y, and Z value representing coordinates in 3D space).
-
 1. **UV Map**
 2. **Texture Coordinate**
 3. **Geometry**
+
+### Notes
+
+- Texture coordinates tell Blender where to position colors on the mesh.
+- Coordinates are position information, and therefore vectors (a vector is an X, Y, and Z value representing coordinates in 3D space).
+- Coordinates are stored as RGB values?
+- Axes have colors
+    - X axis is red
+    - Y axis is green
+    - Z axis is blue
+- Each point in the coordinate system has its own color based on its RGB values.
+- What this essentially means is that the point in a model at `0, 0, 0` corresponds to black, based on those RGB values, where as a point at `0, 1, 0`, corresponds to green, etc...
