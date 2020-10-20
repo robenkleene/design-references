@@ -6,6 +6,7 @@ Three main nodes for working with coordinates:
 
 1. **UV Map**: UV mapping is projecting a 2D texture onto a 3D mesh. U and V refer to a coordinates space of the 2D texture, they mean X and Y, but are different to distinguish from those axes in 3D space. By default, the UV map contains the same information as the UV output from the `Texture Coordinator`, but it also allows you create different UV maps.
 2. **Texture Coordinate**
+    - **Generated**: Uses the bounding box of the object.
 3. **Geometry**
 
 ### Notes
