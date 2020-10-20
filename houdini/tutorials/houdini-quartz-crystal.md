@@ -140,3 +140,8 @@ To increase realism, drive the noise frequency by its position within the volume
 3. Select `envlight1`, and click the icon to the right of `Environment Map` to load an HDRI, set `Render Light Geometry: On`.
 
 [![Quartz Crystal Nodes](assets/houdini-quartz-crystal-nodes.png)](assets/houdini-quartz-crystal-nodes.png)
+
+## 7. Rendering
+
+1. Click the `Render View` tab, and go to the `out` level in the node editor.
+2. There should already be an existing `mantra_ipr` node at the `out` level. (If there's not try zooming out or clicking `Render`.)
