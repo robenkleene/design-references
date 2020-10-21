@@ -54,3 +54,7 @@ The easiest way to resizes is by dragging the bounding box, you may need to show
 
 - "Expand" means to make the different elements that make up an object into separate objects, usually this means turning the stroke into a separate object.
 - "Expand Appearance" is the same as "Expand" but for "Appearance" effects.
+
+## Saving
+
+Unfortunately, there's no way to bypass the `Illustrator Options` pane when saving a new document.
