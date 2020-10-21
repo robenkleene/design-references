@@ -1,6 +1,7 @@
 # Illustrator Text
 
 - `⇧⌘<` / `⇧⌘>`: Decrease / increase font size
+- `⌘↩`: Stop editing a text field
 
 ## Notes
 
