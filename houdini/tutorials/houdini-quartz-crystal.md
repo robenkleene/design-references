@@ -145,3 +145,5 @@ To increase realism, drive the noise frequency by its position within the volume
 
 1. Click the `Render View` tab, and go to the `out` level in the node editor.
 2. There should already be an existing `mantra_ipr` node at the `out` level. (If there's not try zooming out or clicking `Render`.)
+3. Select the `mantra_ipr` and set `Rendering > Render Engine > Physically Based Rendering`.
+4. Then click `Render` to do a test render. Two things left to fix: There are some normal errors, and the material hasn't been attached.
