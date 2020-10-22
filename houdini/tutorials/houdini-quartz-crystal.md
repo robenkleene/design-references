@@ -150,4 +150,5 @@ To increase realism, drive the noise frequency by its position within the volume
 
 ## 8. Fixing Normal Errors
 
-1. Rename `geo1` to `crystal`
+1. Rename `geo1` to `crystal`.
+2. 

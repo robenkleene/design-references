@@ -11,6 +11,8 @@ Three main nodes for working with coordinates:
     - **UV**: Same as `UV Map` node, but only allows one UV map to be defined.
     - **Object**: Origin of the object is 0,0. Object coordinates are influenced by object scale and rotation.
     - **Camera**: Origin of the coordinate space is the position of the camera, direction of the camera is the Z axis.
+    - **Window**: Uses the view to map the coordinates, the view is defined by the camera.
+    - **Reflection**: The coordinates are based on the reflection vector.
 3. **Geometry**
 
 ### Notes
