@@ -2,6 +2,7 @@
 
 - `⇧⌘<` / `⇧⌘>`: Decrease / increase font size
 - `⌘↩`: Stop editing a text field
+- `⌘T`: Show `Character` panel
 
 ## Notes
 
