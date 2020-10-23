@@ -151,4 +151,5 @@ To increase realism, drive the noise frequency by its position within the volume
 ## 8. Fixing Normal Errors
 
 1. Rename `geo1` to `crystal`.
-2. 
+2. Select `normal3` and set `Cusp Angle: 3`
+3. Select `material2`, and click the `Open floating operator chooser` icon to the right of `Material` and choose `obj > crystal > matnet1 > classicshader1`.
