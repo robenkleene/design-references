@@ -146,10 +146,11 @@ To increase realism, drive the noise frequency by its position within the volume
 1. Click the `Render View` tab, and go to the `out` level in the node editor.
 2. There should already be an existing `mantra_ipr` node at the `out` level. (If there's not try zooming out or clicking `Render`.)
 3. Select the `mantra_ipr` and set `Rendering > Render Engine > Physically Based Rendering`.
-4. Then click `Render` to do a test render. Two things left to fix: There are some normal errors, and the material hasn't been attached.
+4. Then click `Render` to do a test render. (There are some normal errors, and the material hasn't been attached.)
 
 ## 8. Fixing Normal Errors
 
 1. Rename `geo1` to `crystal`.
 2. Select `normal3` and set `Cusp Angle: 3`
 3. Select `material2`, and click the `Open floating operator chooser` icon to the right of `Material` and choose `obj > crystal > matnet1 > classicshader1`.
+4. Go to the `out`, select the `mantra_ipr`, and under `Limits` set `Reflect Limit: 16` and `Refract Limit: 16`.
