@@ -153,4 +153,8 @@ To increase realism, drive the noise frequency by its position within the volume
 1. Rename `geo1` to `crystal`.
 2. Select `normal3` and set `Cusp Angle: 3`
 3. Select `material2`, and click the `Open floating operator chooser` icon to the right of `Material` and choose `obj > crystal > matnet1 > classicshader1`.
-4. Go to the `out`, select the `mantra_ipr`, and under `Limits` set `Reflect Limit: 16` and `Refract Limit: 16`.
+
+## 9. Clean Up
+
+1. Go to `out`, select the `mantra_ipr`, and under `Limits` set `Reflect Limit: 16` and `Refract Limit: 16`.
+2. Go to `obj > crystal > matnet1` and under `classicshader1 > Settings`, toggle off `Shade Both Sides As Front`.
