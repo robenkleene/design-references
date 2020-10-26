@@ -158,3 +158,4 @@ To increase realism, drive the noise frequency by its position within the volume
 
 1. Go to `out`, select the `mantra_ipr`, and under `Limits` set `Reflect Limit: 16` and `Refract Limit: 16`.
 2. Go to `obj > crystal > matnet1` and under `classicshader1 > Settings`, toggle off `Shade Both Sides As Front`, and set `Inside IOR: 1.458`.
+3. Add a second `Classic Shader`, toggle off `Enable Diffuse`, under `Refract`, toggle on `Enable Refractions` and set `Refraction Model: GGX`. Set `Settings > Inside IOR: 1`.
