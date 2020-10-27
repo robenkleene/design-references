@@ -165,4 +165,5 @@ To increase realism, drive the noise frequency by its position within the volume
 
 1. Go back to `obj > crystal > matnet1` and rename `classicshader1` to `quartz`.
 2. Select `quartz` and toggle on `Surface > Enable Subsurface Scattering`.
-3. Go to `out`, select `mantra_ipr` and set `Limits > SSS Limit: 8` ("Subsurface Scattering").
+3. Go to `out`, select `mantra_ipr` and, under `Limits`, set `SSS Limit: 8` ("Subsurface Scattering"), and `Diffuse Limit: 2`. Under `Sampling`, set `SSS Quality: 2`.
+4. Go back to `obj > crystal > matnet1`, select `quartz` and set `Surface > Subsurface > Subsurface Intensity: 10`.
