@@ -156,7 +156,7 @@ To increase realism, drive the noise frequency by its position within the volume
 
 ## 9. Clean Up
 
-1. Go to `out`, select the `mantra_ipr`, and under `Limits` set `Reflect Limit: 16` and `Refract Limit: 16`.
+1. Go to `out`, select `mantra_ipr`, and under `Limits` set `Reflect Limit: 16` and `Refract Limit: 16`.
 2. Go to `obj > crystal > matnet1` and under `classicshader1 > Settings`, toggle off `Shade Both Sides As Front`, and set `Inside IOR: 1.458`.
 3. Add a second `Classic Shader`, toggle off `Enable Diffuse`, under `Refract`, toggle on `Enable Refractions` and set `Refraction Model: GGX`. Set `Settings > Inside IOR: 1`. Rename `crystalshader2` to `air`.
 4. Go to the `crystal` level, and select `material1`, and click the `Open floating operator chooser` icon to the right of `Material` and choose `obj > crystal > matnet1 > air`.
@@ -165,3 +165,4 @@ To increase realism, drive the noise frequency by its position within the volume
 
 1. Go back to `obj > crystal > matnet1` and rename `classicshader1` to `quartz`.
 2. Select `quartz` and toggle on `Surface > Enable Subsurface Scattering`.
+3. Go to `out`, select `mantra_ipr` and set `Limits > SSS Limit: 8` ("Subsurface Scattering").
