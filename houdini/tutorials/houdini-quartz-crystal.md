@@ -164,3 +164,4 @@ To increase realism, drive the noise frequency by its position within the volume
 ## 10. Adding Cloudiness
 
 1. Go back to `obj > crystal > matnet1` and rename `classicshader1` to `quartz`.
+2. Select `quartz` and toggle on `Surface > Enable Subsurface Scattering`.
