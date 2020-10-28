@@ -170,3 +170,7 @@ To increase realism, drive the noise frequency by its position within the volume
 5. Go back to `obj > crystal > matnet1` and add a `Unified Noise`.
 6. Toggle open the `quartz > Surface` inputs, attach the `unifiednoise1 > Noise` output into the `quartz > sss_int` input.
 7. Add a `Global Variables` and connect the `global1 > P` (position) output to the `unifiednoise1 > pos` input.
+8. Select the `unifiednoise1` and set `Fractal > Fractal Type: Standard (fBm)`, `Frequency: 7 7 7 7`, under `Output Correction`, set: 
+    - Toggle on and set `Gain: 0.9 0.5 0.5`
+    - Toggle on `Output Range (Clamped)`
+    - `New Maximum: 7 1 1`
