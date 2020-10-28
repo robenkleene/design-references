@@ -167,3 +167,5 @@ To increase realism, drive the noise frequency by its position within the volume
 2. Select `quartz` and toggle on `Surface > Enable Subsurface Scattering`.
 3. Go to `out`, select `mantra_ipr` and, under `Limits`, set `SSS Limit: 8` ("Subsurface Scattering"), and `Diffuse Limit: 2`. Under `Sampling`, set `SSS Quality: 2`.
 4. Go back to `obj > crystal > matnet1`, select `quartz` and set `Surface > Subsurface > Subsurface Intensity: 10`.
+5. Go back to `obj > crystal > matnet1` and add a `Unified Noise`.
+6. Toggle open the `quartz > Surface` inputs, attach the `unifiednoise1 > Noise` output into the `quartz > sss_int` input.
