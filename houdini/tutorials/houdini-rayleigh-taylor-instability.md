@@ -9,3 +9,4 @@
 7. Copy and paste `pointwrangle1` and connect the output of `pointwrangle1` into the input of `pointwrangle2`.
 8. Set `pointwrangle2 > Group: @P.y<0` (e.g., the invert of `pointwrangle1`), change the color to black by changing the color line to `v@Cd = {0,0,0};`, and set `Density: 1000`.
 9. Add a `Null` and rename it to `OUT_pts`. Connect the output of `pointwrangle2` to its input.
+10. Add a `DOP Network` and connect the output of `OUT_pts` to its leftmost input.
