@@ -56,7 +56,7 @@ Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
 
 ## Navigation
 
-- `u` / `i`: Go out ("up") / into ("in") a node
+- `u` or `⌥←` / `i` or `⌥→`: Go out ("up") / into ("in") a node
 
 ## Modeling
 
