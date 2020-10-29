@@ -9,4 +9,10 @@
 7. Copy and paste `pointwrangle1` and connect the output of `pointwrangle1` into the input of `pointwrangle2`.
 8. Set `pointwrangle2 > Group: @P.y<0` (e.g., the invert of `pointwrangle1`), change the color to black by changing the color line to `v@Cd = {0,0,0};`, and set `Density: 1000`.
 9. Add a `Null` and rename it to `OUT_pts`. Connect the output of `pointwrangle2` to its input.
-10. Add a `DOP Network` and connect the output of `OUT_pts` to its leftmost input.
+
+## DOP Network
+
+1. Add a `DOP Network` and connect the output of `OUT_pts` to its leftmost input. Click the left side of it to view it, then double-click to enter it.
+2. Add a `Flip Object` to hold the data for the simulation. Set `Initial Data > Input Type > Particle Field`, and set the `SOP Path` to the `OUT_pts` null. Set `Properties > Particle Separation: 0.002`.
+3. Add a `Flip Solver` and connect the output of `flipobject1` to its leftmost input.
+4. Add a `Gravity Force` and connect the output of `flipsolver` to its leftmost input. Connect the output of `gravity1` to the input of `output`.
