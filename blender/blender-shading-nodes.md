@@ -1,4 +1,4 @@
-# Blender Nodes
+# Blender Shading Nodes
 
 - **Fac**: Stands for "Factor". A single value, how much to use of the first and second input.
 
