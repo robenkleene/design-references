@@ -125,13 +125,14 @@ To increase realism, drive the noise frequency by its position within the volume
     - `Refraction Model: GGX`
     - `Transmission > Dispersion: 0.1`
 
-    Set `Surface > Subsurface > Scatter Distance: 0.0.25`, under `Displacement`, set:
+    Set `Surface > Subsurface > Scatter Distance: 0.025`, under `Displacement`, set:
 
     - `General > True Displacement: Off`
     - `Noise > Enable Noise Displacement: On`
     - `Noise > Frequency: 10 300 10`
     - `Offset > 7 11 -3`
     - `Amplitude: .001`
+    - `Displacement > General > Displacement Bound` should be `0.00101`
 
 ## 6. Lighting
 
