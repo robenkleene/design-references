@@ -41,3 +41,7 @@ Snapshots can be taken in order to compare the results of changes to a render. T
 There's no way to switch between "Auto Update" and "Manual", but this can be automated with a script.
 
 There's also no built-in hotkey to trigger a manual render, but this can be configured as a hotkey.
+
+## Transparent Background
+
+The best way to get a transparent background is simply to render with a black background and then use blend modes. To remove a HDRI background using an `Environment Light`, toggle off `Light > Render Light Geometry`.
