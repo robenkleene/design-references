@@ -1,5 +1,9 @@
 # Illustrator Effects
 
+## Repeat
+
+To repeat a shape, select `Effect > Distort & Transform > Transform...` and change the number of `Copies`.
+
 ## Transparency & Effects
 
 Effects, as well as setting transparency, is done in the "Appearance" panel, under "View" -> "Appearance"
@@ -7,4 +11,3 @@ Effects, as well as setting transparency, is done in the "Appearance" panel, und
 The appearance panel can be shown with the ellipses in the bottom right of the "Properties" panel
 
 If you don't see your effects under appearance, you probably need to click the disclosure triangles next to "Fill" and "Stroke".
-
