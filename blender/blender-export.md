@@ -4,10 +4,7 @@ The export location is under "Output Properties > Output".
 
 ## Animation
 
-To export an animation.
-
-1. Go to `Output Properties` on the right.
-2. Select `Render > Render Animation` (`⌃F12`)
+To export an animation, select `Render > Render Animation` (`⌃F12`).
 
 ### Video
 
