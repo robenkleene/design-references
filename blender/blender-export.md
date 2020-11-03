@@ -4,7 +4,9 @@ The export location is under "Output Properties > Output".
 
 ## Animation
 
-To export an animation, select `Render > Render Animation` (`⌃F12`).
+To export an animation, select `Render > Render Animation` (`⌘F12`).
+
+- The frame range to render is under `Output Properties > Dimensions`.
 
 ### Video
 
