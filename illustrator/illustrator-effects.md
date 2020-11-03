@@ -4,6 +4,8 @@
 
 To repeat a shape, select `Effect > Distort & Transform > Transform...` and change the number of `Copies`.
 
+To then convert the copies to regular shapes, select `Object > Expand Appearance`.
+
 ## Transparency & Effects
 
 Effects, as well as setting transparency, is done in the "Appearance" panel, under "View" -> "Appearance"
