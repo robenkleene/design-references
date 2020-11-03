@@ -46,4 +46,4 @@ There's also no built-in hotkey to trigger a manual render, but this can be conf
 
 The best way to get a transparent background is simply to render with a black background. To remove a HDRI background using an `Environment Light`, toggle off `Light > Render Light Geometry`.
 
-When you render out an `exr` file with a black background and open it in Photoshop for example, you'll be presented with an option to open the alpha channels as transparency, which will remove the background (but transparent parts of an object, e.g., glass, will still be opaque, it seems that this just removes the pure black areas?)
+When you render out an `exr` file with a black background and open it in Photoshop for example, you'll be presented with an option to open the alpha channels as transparency, which will remove the background (but transparent parts of an object, e.g., glass, will still be opaque, it seems that this just removes the pure black areas?). To use transparency in the lighter parts of the image, overlay it and set the blend mode to either `Lighten` or `Screen`.
