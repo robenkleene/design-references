@@ -23,9 +23,13 @@ The following can also just be hit directly to immediately start doing the corre
 
 The difference between sphere types is how they're modeled.
 
-- **UV Sphere**: UV mapping is the process of projecting a 2D image onto a 3D model for texture mapping. The letters "U" and "V" represent axes in 2D space because "X", "Y", and "Z" are already used as the axes of a 3D object. UV spheres use vertical lines similar to longitude and latitude lines, and use quads. UV spheres are best for smooth, symmetrical, shapes with a lot of subdivisions. Faces in a UV sphere do not all have the same area, which could cause problems when mapping organic textures. UV spheres are symmetrical.
+![UV Sphere](assets/blender-uv-sphere.jpg)
 
-- **Ico Sphere**: An icosahedron is a polyhedron with 20 faces, the name comes from the Ancient Greek *eíkosi*, meaning "twenty". An ico sphere is modeled like a polyhedron. Ico spheres are better for rough surfaces. Ico sphers are asymmetrical. All faces have the same area, which may be better for mapping geometric textures because stretching will be minimized.
+**UV Sphere**: UV mapping is the process of projecting a 2D image onto a 3D model for texture mapping. The letters "U" and "V" represent axes in 2D space because "X", "Y", and "Z" are already used as the axes of a 3D object. UV spheres use vertical lines similar to longitude and latitude lines, and use quads. UV spheres are best for smooth, symmetrical, shapes with a lot of subdivisions. Faces in a UV sphere do not all have the same area, which could cause problems when mapping organic textures. UV spheres are symmetrical.
+
+![Icosphere](assets/blender-icosphere.jpg)
+
+**Ico Sphere**: An icosahedron is a polyhedron with 20 faces, the name comes from the Ancient Greek *eíkosi*, meaning "twenty". An ico sphere is modeled like a polyhedron. Ico spheres are better for rough surfaces. Ico sphers are asymmetrical. All faces have the same area, which may be better for mapping geometric textures because stretching will be minimized.
 
 ![Ico Sphere vs. UV Sphere](assets/blender-ico-sphere-vs-uv-sphere-1.png)
 
