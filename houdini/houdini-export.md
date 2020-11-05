@@ -23,3 +23,7 @@ To export an image from the 2D Composite View:
 3. The default path is `$HIP/render/$HIPNAME.$OS.$F4.exr`, which is in the render folder relative to the profile file.
 4. You can change the file extension to `jpg` to output a JPG.
 5. With `rop_comp1` selected, click the "Render" button for its properties.
+
+## Transparency
+
+Transparency will be included if the export file format includes transparency, e.g., by changing it to `png`. When Houdini lists a file path, you can change the file format just by
