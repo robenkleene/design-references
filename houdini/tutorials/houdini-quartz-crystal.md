@@ -42,7 +42,7 @@
 Create the fractures through intersection geometry.
 
 1. Add a `Bound` node, connect the output of `boolean1` to its input. Set `Lower Padding: 0.1 0.1 0.1` and `Upper Padding: 0.1 0.1 0.1`.
-2. Add a `VDB from Polygons`. connect the output from `bound1` to its left input. Set:
+2. Add a `VDB from Polygons`. Connect the output from `bound1` to its left input. Set:
     - `Voxel Size: 0.004`.
     - `Fog VDB: On`
     - `Fill Interior: On`
