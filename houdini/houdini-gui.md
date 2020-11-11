@@ -1,6 +1,10 @@
 # Houdini GUI
 
-- `D`: Display Options
+- `D`: Display Options (`D` again dismisses the display options)
+
+## Grid Overlay
+
+To display a grid overlay, use `Display Options > Guides > Field Guides`.
 
 ## Background Color
 
