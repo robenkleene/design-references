@@ -1,6 +1,8 @@
 # Blender Export
 
-The export location is under "Output Properties > Output".
+## Location
+
+The export location is under `Output Properties > Output`, by default it's `/tmp/`.
 
 ## Animation
 
