@@ -18,3 +18,7 @@
 - Hover mouse over a parameter and hit `i` to add a keyframe for that parameter.
 - Select the second key frame and drag it to adjust the speed.
 - Hit `HOME` in the Graph Editor to fit the graph to the frame.
+
+## Troubleshooting
+
+- If keyframes aren't visible in the timeline, first make sure the correct object is selected, then drag the tiny arrow out from the far left of the timeline which includes the keyframe summary.
