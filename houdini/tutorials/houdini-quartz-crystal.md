@@ -175,3 +175,7 @@ To increase realism, drive the noise frequency by its position within the volume
     - Toggle on and set `Gain: 0.9 0.5 0.5`
     - Toggle on `Output Range (Clamped)`
     - `New Maximum: 7 1 1`
+
+## 11. Export
+
+1. For a final export, go to `out`, select the `mantra_ipr`, and set `Rendering > Sampling: 64`.
