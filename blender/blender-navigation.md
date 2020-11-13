@@ -8,6 +8,7 @@
 
 - `⇧backtick` / `View > Navigation > Walk Navigation`: Switch to walk navigation.
 - When using walk navigation, use `WASD` to move and the mouse to turn.
+- To exit walk navigation, `↩` keeps the current camera position, `⎋` returns to the previous position.
 
 ## Orthographic
 
