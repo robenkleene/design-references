@@ -4,6 +4,11 @@
 - `Numpad .` ("View > Frame Selected"): Center the select object in the viewport
 - `Numpad 5` ("View > Perspective/Orthographic"): Switch between perspective and orthographic views. Perspective is the normal view, orthographic is a view where the the lines are more geometric. Orthographic removes perspective distortion.
 
+## Walk Navigation
+
+- `⇧backtick` / `View > Navigation > Walk Navigation`: Switch to walk navigation.
+- When using walk navigation, use `WASD` to move and the mouse to turn.
+
 ## Orthographic
 
 View from the top, front, or right.

@@ -178,4 +178,4 @@ To increase realism, drive the noise frequency by its position within the volume
 
 ## 11. Export
 
-1. For a final export, go to `out`, select the `mantra_ipr`, and set `Rendering > Sampling: 64`.
+1. For a final export, go to `out`, select the `mantra_ipr`, and set `Rendering > Sampling: 64`. Also could try reducing the `Rendering > Noise Level` to lower than `0.01`.
