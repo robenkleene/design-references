@@ -2,6 +2,7 @@
 
 - `i`: Insert key frame (if you're hovering over a parameter, add a keyframe for that parameter)
 - A trick to add a keyframe for the current position is to select the object, hit `g` to grab, then `↩`.
+- `⇧D`: Duplicate a keyframe
 
 ## Graph Editor
 

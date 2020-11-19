@@ -10,17 +10,22 @@ Blender doesn't support opening multiple documents at the same time, but you can
 - `⌘click`: Select object
 - `F3`: Bring up search menu
 
+## Common
+
+- `⌥A`: Deselect
+- `⇧D`: Duplicate
+
 ## Object Mode
 
-- `A`: Add object
-- `S`: Snap menu, primarily works with the 3D cursor
-- `x`: Delete object
-- `o`: Toggle proportional editing
+- `⇧A`: Add object
+- `⇧S`: Snap menu, primarily works with the 3D cursor
+- `X`: Delete object
+- `O`: Toggle proportional editing
 - `0`: View through camera
 
 ## Edit Mode
 
-- `a`: Select All
+- `A`: Select All
 
 ### Scroll Direction
 
