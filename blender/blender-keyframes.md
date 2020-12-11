@@ -4,10 +4,6 @@
 - A trick to add a keyframe for the current position is to select the object, hit `g` to grab, then `↩`.
 - `⇧D`: Duplicate a keyframe
 
-## Graph Editor
-
-- `HOME`: Try to make the graph fit in the view.
-
 ## Camera Animations
 
 1. Create a setup where the view is split with a view through the active camera on the right, and a view where you can use the transform tools on the camera on the left.
