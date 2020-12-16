@@ -7,6 +7,7 @@
 - `T`: Choose between interpolation options (like bezier or linear)
 - `HOME`: Try to make the graph fit in the view.
 - To show the keyframe hierarchy on the left, click the disclosure indicator (`>`) in the upper left right below the ruler.
+- `V`: Change the handle type, the default is `Free`.
 
 ## Zoom
 
