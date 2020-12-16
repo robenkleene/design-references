@@ -8,6 +8,10 @@
 - `HOME`: Try to make the graph fit in the view.
 - To show the keyframe hierarchy on the left, click the disclosure indicator (`>`) in the upper left right below the ruler.
 
+## Zoom
+
+- `⌃`-drag horizontally to zoom horizontally, or vertically to zoom vertically.
+
 ## Editing Curves
 
 Basic approach to editing curves.
