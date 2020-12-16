@@ -7,7 +7,15 @@
 - `T`: Choose between interpolation options (like bezier or linear)
 - `HOME`: Try to make the graph fit in the view.
 - To show the keyframe hierarchy on the left, click the disclosure indicator (`>`) in the upper left right below the ruler.
-- `V`: Change the handle type, the default is `Free`.
+
+## Handles
+
+- `V`: Change the handle type, the default appears to be `Aligned`.
+
+### Types
+
+- `Free`: Moving a handle does not move the opposite handle
+- `Aligned`: Moving a handle keeps the handles in a straight line
 
 ## Zoom
 
