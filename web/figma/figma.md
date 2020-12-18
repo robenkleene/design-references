@@ -1,8 +1,8 @@
 # Figma
 
 - `⌘O`: Open file browser (right-most tab)
-- `⇧⌃?`: Show help
-- `⌘/`: Command Palette
+- `⇧⌃?`: Show keyboard shortcuts
+- `⌘/`: Command Palette (e.g., search menus)
 - Hold `⌘` to resize while ignoring constraints
 
 ## Shapes
@@ -24,7 +24,7 @@
 
 - Frames are intended to represent the screen size of the device being designed for
 - `F`: Frame tool
-- To resize the Frame, without moving the contents, hold `⌘` while resizing
+- To resize the frame, without moving the contents, hold `⌘` while resizing
 
 ## Projects
 
@@ -37,6 +37,10 @@ With a team selected, the "New Project" button is far in the upper right.
 
 ## Snap
 
-- Snap settings are under "Preferences"
+- Snap settings are under "Preferences".
 - Snapping to the grid only works for direct children of the element the grid is applied to. The work around to is to also add the grid to child elements.
-- Toggle on "Snap to Objects" in order to align Frames
+- Toggle on "Snap to Objects" in order to align f4am3s.
+
+### With Layout Grids
+
+- Layout grids can only be applied to frames. When a layout grid is applied, all children snap to that grid (regardless of snap settings).
