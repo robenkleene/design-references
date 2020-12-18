@@ -11,7 +11,8 @@
 ## Handles
 
 - `V`: Change the handle type, the default appears to be `Aligned`.
-- `G`: Grab a handle, just like moving anything else in Blender
+- `G`: Move a handle.
+- `S`: Scale a handle.
 
 ### Types
 
