@@ -19,4 +19,4 @@ To animate the graph for a bouncing animation, with this graph as the starting p
 
 ## Frames
 
-1. Increase the frames from `30` to `90 .
+1. Increase the frames from `30` to `90`.
