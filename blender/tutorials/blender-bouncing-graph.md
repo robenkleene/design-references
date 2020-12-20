@@ -22,3 +22,5 @@ To animate the graph for a bouncing animation, with this graph as the starting p
 1. Set `Output Properties > Dimensions > End: 90`.
 2. Move the playhead to `45`, then set the sphere's `Location > Z: 2m` (this should create a new keyframe at `45`).
 3. Select the keyframe at `30` (for the ball in its resting state), duplicate it with `⇧D`, then click `X` to only move it along the X-axes, and move it to frame `60`.
+4. Improve the first bounce by taking selecting the left handle of the `30` keyframe, and hitting `g` then `x` to move the handle in tight close the midpoint.
+5. Select the middle of the `45` keyframe and hit `s` to scale it larger, again playing the animation (`⇧←` to go to the beginning, then `␣` to play) to get the feel right.
