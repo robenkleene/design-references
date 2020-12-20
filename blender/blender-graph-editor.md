@@ -8,6 +8,10 @@
 - `HOME`: Try to make the graph fit in the view.
 - To show the keyframe hierarchy on the left, click the disclosure indicator (`>`) in the upper left right below the ruler.
 
+## Keyframes
+
+- `I`: Insert a keyframe, a menu will come up to choose the right channel.
+
 ## Handles
 
 - `V`: Change the handle type, the default appears to be `Aligned`.
