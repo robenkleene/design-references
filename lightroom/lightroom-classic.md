@@ -131,7 +131,8 @@ To be able to select the "RGB" channels individually, turn on the "Point Curve" 
 
 ### Split Toning
 
-- Hold `⌥`: To turn up the saturation to 100% temporarily when using the "hue" slider
+- In Lightroom Classic v10, Split Toning has been replaced by Color Grading Hold `⌥`: To turn up the saturation to 100% temporarily when using the "hue" slider
+- In Lightroom Classic v10, Split Toning has been replaced by Color Grading
 
 #### Options
 
