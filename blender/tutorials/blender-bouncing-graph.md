@@ -31,3 +31,9 @@ To animate the graph for a bouncing animation, with this graph as the starting p
 2. Move the `Z Location` up at `75`, and select the middle of the keyframe and hit `s` to scale it larger. 
 3. Improve the bounce by taking selecting the right handle of the `60` keyframe, and hitting `g` then `x` to move the handle in tight close the midpoint.
 4. Do the same for the `90` keyframe left handle, hit `g` then `x` to move the handle in tight close to the midpoint.
+
+## Durations
+
+Each bounce should get progressively shorter.
+
+1. Drag and select all the points starting from `30` to the end (so the last two bounces). Select `2D Cursor`, from the `Pivot Point` dropdown. Hit `g` `x` and move the end of the second bounces to `75`.

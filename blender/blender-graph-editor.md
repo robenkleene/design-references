@@ -38,3 +38,8 @@ Basic approach to editing curves.
 ## Editing
 
 - `R`: Rotate
+
+## Scaling
+
+- You can select a bunch of points and scale them.
+- Use `Pivot Point` to change how the points are scaled. `Bounding Box Center` scales relative to the center of the selection. `2D Cursor` scales relative to the playhead.
