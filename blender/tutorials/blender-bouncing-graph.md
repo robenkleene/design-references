@@ -28,3 +28,5 @@ To animate the graph for a bouncing animation, with this graph as the starting p
 ## Last Bounce
 
 1. Move the playhead to `75` and hit `I` and select `Only Selected Channels` to insert a keyframe. Do the same at `90`.
+2. Move the `Z Location` up at `75`, and select the middle of the keyframe and hit `s` to scale it larger. 
+3. Improve the bounce by taking selecting the right handle of the `60` keyframe, and hitting `g` then `x` to move the handle in tight close the midpoint.
