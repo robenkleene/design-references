@@ -36,4 +36,5 @@ To animate the graph for a bouncing animation, with this graph as the starting p
 
 Each bounce should get progressively shorter.
 
-1. Drag and select all the points starting from `30` to the end (so the last two bounces). Select `2D Cursor`, from the `Pivot Point` dropdown. Hit `g` `x` and move the end of the second bounces to `75`.
+1. Drag and select all the points starting from `30` to the end (so the last two bounces). Select `2D Cursor`, from the `Pivot Point` dropdown. Hit `s` `x` and drag to the left until the third bounce ends at `75`.
+2. Move the playhead to in between the second and third bounce, and select all the points to the right of the playhead (i.e., the last bounce). Hit `s` `x` and drag to the left to move the end of the last bounce to `70`.
