@@ -38,3 +38,14 @@ Each bounce should get progressively shorter.
 
 1. Drag and select all the points starting from `30` to the end (so the last two bounces). Select `2D Cursor`, from the `Pivot Point` dropdown. Hit `s` `x` and drag to the left until the third bounce ends at `75`.
 2. Move the playhead to in between the second and third bounce, and select all the points to the right of the playhead (i.e., the last bounce). Hit `s` `x` and drag to the left to move the end of the last bounce to `70`.
+
+## Ending Ripple Bounce
+
+Add a final couple of small bounces.
+
+1. Move the playhead to `75` and hit `I` and select `Only Selected Channels` to create a keyframe. Do the same at `80`, `85`, and `90`.
+2. Select the points at `75` and `85`, and hit `g` `y` to drag those points up slightly.
+3. Use the same techniques as above to make adjustments:
+    1. The second peak should be smaller than the first.
+    2. Tighten the right and left handles of the keyframes at `0`.
+    3. Scale the width of the second bounce smaller than the first.
