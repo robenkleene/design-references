@@ -52,7 +52,7 @@ Add a final couple of small bounces.
 
 ## Improve Speed
 
-Make the animation faster by scaling the entire animation smaller, then and center the animation in the timeline.
+Make the animation faster by scaling the entire animation smaller, and center the animation in the timeline, then add a drop starting from high in the air on the left.
 
 1. Put the playhead at `0` and select all the points, select `2D Cursor`, from the `Pivot Point` dropdown, hit `s` `x` to scale the entire animation smaller by dragging to the left.
 2. Select all of the points and hit `g` `x` and drag it to the right until it's in the center of the timeline.
