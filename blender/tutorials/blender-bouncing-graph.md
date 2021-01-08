@@ -56,5 +56,7 @@ Make the animation faster by scaling the entire animation smaller, and center th
 
 1. Put the playhead at `0` and select all the points, select `2D Cursor`, from the `Pivot Point` dropdown, hit `s` `x` to scale the entire animation smaller by dragging to the left.
 2. Select all of the points and hit `g` `x` and drag it to the right until it's in the center of the timeline.
-3. Move the playhead to frame `0`. Hit `i` and select `Only Selected Channels`, then use `g` `y` to drag the new point higher than the first bounce.
+3. Move the playhead to frame `1`. Hit `i` and select `Only Selected Channels`, then use `g` `y` to drag the new point higher than the first bounce.
 4. Select the left handle at the start of the first bounce, and use `g` `x` and drag to the right to shrink it. Select middle of the handle at keyframe at `0`, and hit `s` `x` to scale it larger, so there's a nice curve.
+
+![Bouncing Ball Graph Editor](assets/blender-bouncing-ball-graph-editor.png)
