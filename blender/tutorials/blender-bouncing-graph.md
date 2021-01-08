@@ -27,7 +27,7 @@ To animate the graph for a bouncing animation, with this graph as the starting p
 
 ## Last Bounce
 
-1. Move the playhead to `75` and hit `I` and select `Only Selected Channels` to insert a keyframe. Do the same at `90`.
+1. Move the playhead to `75` and hit `i` and select `Only Selected Channels` to insert a keyframe. Do the same at `90`.
 2. Move the `Z Location` up at `75`, and select the middle of the keyframe and hit `s` to scale it larger. 
 3. Improve the bounce by taking selecting the right handle of the `60` keyframe, and hitting `g` then `x` to move the handle in tight close the midpoint.
 4. Do the same for the `90` keyframe left handle, hit `g` then `x` to move the handle in tight close to the midpoint.
@@ -43,7 +43,7 @@ Each bounce should get progressively shorter.
 
 Add a final couple of small bounces.
 
-1. Move the playhead to `75` and hit `I` and select `Only Selected Channels` to create a keyframe. Do the same at `80`, `85`, and `90`.
+1. Move the playhead to `75` and hit `i` and select `Only Selected Channels` to create a keyframe. Do the same at `80`, `85`, and `90`.
 2. Select the points at `75` and `85`, and hit `g` `y` to drag those points up slightly.
 3. Use the same techniques as above to make adjustments:
     1. The second peak should be smaller than the first.
@@ -56,3 +56,4 @@ Make the animation faster by scaling the entire animation smaller, and center th
 
 1. Put the playhead at `0` and select all the points, select `2D Cursor`, from the `Pivot Point` dropdown, hit `s` `x` to scale the entire animation smaller by dragging to the left.
 2. Select all of the points and hit `g` `x` and drag it to the right until it's in the center of the timeline.
+3. Move the playhead to frame `0`. Hit `i` and select `Only Selected Channels`, then use `g` `y` to drag the new point higher than the first bounce.
