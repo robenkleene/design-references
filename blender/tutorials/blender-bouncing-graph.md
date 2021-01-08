@@ -49,3 +49,9 @@ Add a final couple of small bounces.
     1. The second peak should be smaller than the first.
     2. Tighten the right and left handles of the keyframes at `0`.
     3. Scale the width of the second bounce smaller than the first.
+
+## Improve Speed
+
+Make the animation faster by scaling the entire animation smaller.
+
+1. Put the playhead at `0` and select all the points, select `2D Cursor`, from the `Pivot Point` dropdown, hit `s` `x` to scale the entire animation smaller by dragging to the left.
