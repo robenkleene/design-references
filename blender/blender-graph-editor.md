@@ -20,6 +20,8 @@
 
 ### Types
 
+Right-click a handle and choose a type under `Handle Type`, or hit `V` with the handle selected.
+
 - `Free`: Moving a handle does not move the opposite handle
 - `Aligned`: Moving a handle keeps the handles in a straight line
 
