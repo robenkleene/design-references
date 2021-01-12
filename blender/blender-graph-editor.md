@@ -1,6 +1,6 @@
 # Blender Graph Editor
 
-- `⇧H`: Hide everything except the selected curve.
+- `⇧H`: Hide everything except the selected curves
 - `⌥H`: Show all curves
 - `A`: Select all keyframes
 - To choose from preset graph options, hit `A` to select all, then `T` to choose an interpolation option.
