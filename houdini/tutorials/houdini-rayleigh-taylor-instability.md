@@ -16,7 +16,7 @@
 2. Add a `Flip Object` to hold the data for the simulation. Set `Initial Data > Input Type > Particle Field`, and set the `SOP Path` to the `OUT_pts` null. Set `Properties > Particle Separation: 0.002`.
 3. Add a `Flip Solver` and connect the output of `flipobject1` to its leftmost input.
 4. Add a `Gravity Force` and connect the output of `flipsolver` to its leftmost input. Connect the output of `gravity1` to the input of `output`.
-   
+
 ### Tweaks
 
 1. Select `flipsolver1` and set `Volume Limits > Box Size: 1 1 0.002`.
