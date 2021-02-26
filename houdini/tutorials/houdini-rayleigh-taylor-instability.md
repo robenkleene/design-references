@@ -22,3 +22,7 @@
 1. Select `flipsolver1` and set `Volume Limits > Box Size: 1 1 0.002`.
 2. Select `flipobject1` and toggle on `Properties > Closed Boundaries`.
 3. Select `flipsolver1` and toggle on `Density > Density by Attribute`.
+
+## Fix Z-Index
+
+1. Add a `Point Wrangle` and connect the output of `dopnet1` to its first input. This flattens the Z axis so you can see more detail.
