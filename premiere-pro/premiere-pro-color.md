@@ -2,6 +2,7 @@
 
 - Switch to the `Color` tab
 - To get other scopes, like a vectorscope, right-click the scope and toggle them on.
+- `HSL Secondary` is for precise control over a specific color, not the overall image.
 
 ## Adjustment Layers
 
