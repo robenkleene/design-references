@@ -12,3 +12,5 @@ Make a camera follow a path.
 8. Select the camera and hit `n` to bring up the side menu, set `Item > Rotation > Z: 0` to point the camera at the object
 9. Drag out a split on the right from the upper right corner of the viewport. Hit `0` in this split so it shows what the camera is pointed at.
 10. You can now choose a distance by selecting the circle and the camera and hitting `s` to scale it and moving the mouse. Or move it vertically by hitting `g`.
+11. Select the camera and the circle, and hit `^P` (or `⌘P`) and select `Follow Path`
+12. At this point if you hit `␣` to play, the camera will follow the path
