@@ -4,4 +4,5 @@
 ## Device
 
 - `WASD`: Movement when hovering the device
-- `⌘-click`: Drag an object in the device, if it's a child of a `placer` object
+- `⌘-click-drag`: Move an object that's a child of a `placer` object
+- `⌘⌥-click-drag`: Rotate and scale object that's a child of a `placer` object
