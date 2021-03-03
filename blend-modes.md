@@ -5,6 +5,9 @@
 ![Normal](assets/blend-mode-normal.png)
 
 ## Dissolve
+
+![Dissolve](assets/blend-mode-dissolve.png)
+
 ## Darken
 ## Multiply
 
