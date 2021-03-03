@@ -9,6 +9,9 @@
 ![Dissolve](assets/blend-mode-dissolve.png)
 
 ## Darken
+
+![Darken](assets/blend-mode-darken.png)
+
 ## Multiply
 
 ![Multiply](assets/blend-mode-multiply.png)
@@ -17,7 +20,11 @@ Multiplies the top layer's RGB channel values with the bottom layer.
 
 ## Color Burn
 
+![Color Burn](assets/blend-mode-color-burn.png)
+
 ## Linear Burn
+
+![Linear Burn](assets/blend-mode-linear-burn.png)
 
 ## Lighten
 
