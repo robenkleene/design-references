@@ -28,45 +28,87 @@ Multiplies the top layer's RGB channel values with the bottom layer.
 
 ## Lighten
 
+![Lighten](assets/blend-mode-lighten.png)
+
 ## Screen
+
+![Screen](assets/blend-mode-screen.png)
 
 ## Color Dodge
 
+![Color Dodge](assets/blend-mode-color-dodge.png)
+
 ## Linear Dodge
+
+![Linear Dodge](assets/blend-mode-linear-dodge.png)
 
 ## Overlay
 
+![Overlay](assets/blend-mode-overlay.png)
+
 ## Soft Light
+
+![Soft Light](assets/blend-mode-soft-light.png)
 
 ## Hard Light
 
+![Hard Light](assets/blend-mode-hard-light.png)
+
 ## Vivid Light
+
+![Vivid Light](assets/blend-mode-vivid-light.png)
 
 ## Linear Light
 
+![Linear Light](assets/blend-mode-linear-light.png)
+
 ## Pin Light
+
+![Pin Light](assets/blend-mode-pin-light.png)
 
 ## Hard Mix
 
+![Hard Mix](assets/blend-mode-hard-mix.png)
+
 ## Difference
+
+![Difference](assets/blend-mode-difference.png)
 
 ## Exclusion
 
+![Exclusion](assets/blend-mode-exclusion.png)
+
 ## Subtract
+
+![Subtract](assets/blend-mode-subtract.png)
 
 ## Divide
 
+![Divide](assets/blend-mode-divide.png)
+
 ## Hue
+
+![Hue](assets/blend-mode-hue.png)
 
 ## Saturation
 
+![Saturation](assets/blend-mode-saturation.png)
+
 ## Color
+
+![Color](assets/blend-mode-color.png)
 
 ## Luminosity
 
+![Luminosity](assets/blend-mode-luminosity.png)
+
 ## Lighter Color
 
+![Lighter Color](assets/blend-mode-lighter-color.png)
+
 ## Darker Color
+
+![Darker Color](assets/blend-mode-darker-color.png)
 
 * * *
 
