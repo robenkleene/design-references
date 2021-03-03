@@ -14,3 +14,7 @@ Make a camera follow a path.
 10. You can now choose a distance by selecting the circle and the camera and hitting `s` to scale it and moving the mouse. Or move it vertically by hitting `g`.
 11. Select the camera and the circle, and hit `^P` (or `⌘P`) and select `Follow Path`
 12. At this point if you hit `␣` to play, the camera will follow the path
+
+## Edits
+
+- To change the speed, set `Object Data Properties > Path Animation > Frames` to a smaller number
