@@ -1,10 +1,64 @@
 # Blend Modes
 
+## Normal
+
+![Normal](assets/blend-mode-normal.png)
+
+## Dissolve
+## Darken
 ## Multiply
 
 ![Multiply](assets/blend-mode-multiply.png)
 
 Multiplies the top layer's RGB channel values with the bottom layer.
+
+## Color Burn
+
+## Linear Burn
+
+## Lighten
+
+## Screen
+
+## Color Dodge
+
+## Linear Dodge
+
+## Overlay
+
+## Soft Light
+
+## Hard Light
+
+## Vivid Light
+
+## Linear Light
+
+## Pin Light
+
+## Hard Mix
+
+## Difference
+
+## Exclusion
+
+## Subtract
+
+## Divide
+
+## Hue
+
+## Saturation
+
+## Color
+
+## Luminosity
+
+## Lighter Color
+
+## Darker Color
+
+* * *
 
 ## Screen
 
