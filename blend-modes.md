@@ -1,6 +1,15 @@
 # Blend Modes
 
-- **Multiply**: Multiple the blend layer's color with the base layer. Use this to give the base layer a tint. Multiply always darkens.
+## Multiply
+
+![Multiply](assets/blend-mode-multiply.png)
+
+Multiplies the top layer's RGB channel values with the bottom layer.
+
+## Screen
+
+
+
 - **Screen**: Like multiply, but lightens.
 - **Overlay**: A combination of multiply and screen, it darkens darker areas and lightens lighter areas. It increases contrast.
 - **Lighten**: Take the lightest color.
