@@ -2,9 +2,13 @@
 
 ## Normal
 
+Each pixel is the result color
+
 ![Normal](assets/blend-mode-normal.png)
 
 ## Dissolve
+
+Like normal, but color choices based on randomization and opacity
 
 ![Dissolve](assets/blend-mode-dissolve.png)
 
