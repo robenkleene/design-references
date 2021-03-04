@@ -22,7 +22,7 @@ Makes each pixel is the result color.
 
 ## Dissolve
 
-Like normal, but color choices are based on randomization and opacity.
+Randomly choose colors from the base color and blend color, use less of the blend color the more transparent it is.
 
 ![Dissolve](assets/blend-mode-dissolve.png)
 
