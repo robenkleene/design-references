@@ -28,7 +28,7 @@ Like normal, but color choices are based on randomization and opacity.
 
 ## Darken
 
-Choose the darker of the base and blend color.
+Choose the darker of each channel of the base color and blend color.
 
 ![Darken](assets/blend-mode-darken.png)
 
@@ -54,7 +54,7 @@ Darken the the base color by decreasing the brightness.
 
 ## Lighten
 
-Choose the lighter of the base color and blend color.
+Choose the lighter of each channel of the base color and blend color.
 
 ![Lighten](assets/blend-mode-lighten.png)
 
@@ -160,6 +160,8 @@ Use the saturation of the blend color, and the luminance and hue of the base col
 
 ## Color
 
+Use the hue and saturation of the blend color, and the luminance of the base color.
+
 ![Color](assets/blend-mode-color.png)
 
 ## Luminosity
@@ -170,8 +172,12 @@ Use the luminance of the blend color, and the hue and saturation of the base col
 
 ## Lighter Color
 
+Choose the lighter of the base color and blend color.
+
 ![Lighter Color](assets/blend-mode-lighter-color.png)
 
 ## Darker Color
+
+Choose the darker of the base color and blend color.
 
 ![Darker Color](assets/blend-mode-darker-color.png)
