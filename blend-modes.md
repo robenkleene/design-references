@@ -100,11 +100,13 @@ Use screen with bright blend colors, and multiply with dark blend colors.
 
 ## Vivid Light
 
-Use dodge with bright blend colors, and burn with dark blend colors.
+Use color dodge with bright blend colors, and color burn with dark blend colors.
 
 ![Vivid Light](assets/blend-mode-vivid-light.png)
 
 ## Linear Light
+
+Use linear dodge with bright blend colors, and linear burn with dark blend colors.
 
 ![Linear Light](assets/blend-mode-linear-light.png)
 
