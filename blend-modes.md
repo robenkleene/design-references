@@ -2,39 +2,49 @@
 
 ## Normal
 
-Each pixel is the result color
+Makes each pixel is the result color.
 
 ![Normal](assets/blend-mode-normal.png)
 
 ## Dissolve
 
-Like normal, but color choices based on randomization and opacity
+Like normal, but color choices are based on randomization and opacity.
 
 ![Dissolve](assets/blend-mode-dissolve.png)
 
 ## Darken
 
+Choose the darker of the base and blend color.
+
 ![Darken](assets/blend-mode-darken.png)
 
 ## Multiply
 
+Multiply the base color by the blend color, the result is always darker.
+
 ![Multiply](assets/blend-mode-multiply.png)
 
-Multiplies the top layer's RGB channel values with the bottom layer.
-
 ## Color Burn
+
+Darken the base color by increasing the contrast with the blend color.
 
 ![Color Burn](assets/blend-mode-color-burn.png)
 
 ## Linear Burn
 
+Darken the the base color by decreasing the brightness.
+
 ![Linear Burn](assets/blend-mode-linear-burn.png)
 
 ## Lighten
 
+Choose the lighter of the base color and blend color.
+
 ![Lighten](assets/blend-mode-lighten.png)
 
 ## Screen
+
+Multiply the inverse of the blend and base colors, the result is always lighter.
 
 ![Screen](assets/blend-mode-screen.png)
 
