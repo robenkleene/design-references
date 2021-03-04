@@ -94,11 +94,13 @@ Use dodge on bright base colors, and burn on dark base colors.
 
 ## Hard Light
 
-
+Use screen with bright blend colors, and multiply with dark blend colors.
 
 ![Hard Light](assets/blend-mode-hard-light.png)
 
 ## Vivid Light
+
+Use dodge with bright blend colors, and burn with dark blend colors.
 
 ![Vivid Light](assets/blend-mode-vivid-light.png)
 
