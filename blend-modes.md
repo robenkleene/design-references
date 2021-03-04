@@ -1,5 +1,19 @@
 # Blend Modes
 
+## Terminology
+
+Both of these techniques are applied to a negative-to-positive process, so darkening is actually lightening and vice-versa.
+
+![Positive & Negative](assets/photography-positive-negative.jpg)
+
+**Burning**: Giving extra exposure to part of a negative to darken it, resulting in it being lighter in the positive.
+
+![Burning](assets/photography-burning.png)
+
+**Dodging**: Blocking certain parts of a negative and lightning the rest, resulting in it being darker than the positive.
+
+![Dodging](assets/photography-dodging.png)
+
 ## Normal
 
 Makes each pixel is the result color.
@@ -68,13 +82,19 @@ The inverse of linear burn.
 
 ## Overlay
 
+Use screen on light base colors, and multiply on dark base colors.
+
 ![Overlay](assets/blend-mode-overlay.png)
 
 ## Soft Light
 
+Use dodge on bright base colors, and burn on dark base colors.
+
 ![Soft Light](assets/blend-mode-soft-light.png)
 
 ## Hard Light
+
+
 
 ![Hard Light](assets/blend-mode-hard-light.png)
 
