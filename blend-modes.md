@@ -28,6 +28,8 @@ Multiply the base color by the blend color, the result is always darker.
 
 Darken the base color by increasing the contrast with the blend color.
 
+The inverse of color dodge.
+
 ![Color Burn](assets/blend-mode-color-burn.png)
 
 ## Linear Burn
@@ -50,9 +52,17 @@ Multiply the inverse of the blend and base colors, the result is always lighter.
 
 ## Color Dodge
 
+Brighten the base color by decreasing the contrast with the blend color.
+
+The inverse of color burn.
+
 ![Color Dodge](assets/blend-mode-color-dodge.png)
 
 ## Linear Dodge
+
+Brighten the base color by increasing the brightness.
+
+The inverse of linear burn.
 
 ![Linear Dodge](assets/blend-mode-linear-dodge.png)
 
