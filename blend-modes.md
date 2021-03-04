@@ -112,33 +112,49 @@ Use linear dodge with bright blend colors, and linear burn with dark blend color
 
 ## Pin Light
 
+Darken and lighten simultaneously.
+
 ![Pin Light](assets/blend-mode-pin-light.png)
 
 ## Hard Mix
+
+Changes each pixel to the nearest primary color.
 
 ![Hard Mix](assets/blend-mode-hard-mix.png)
 
 ## Difference
 
+Absolute value of the base color minus the blend color.
+
 ![Difference](assets/blend-mode-difference.png)
 
 ## Exclusion
+
+Lower contrast version of difference.
 
 ![Exclusion](assets/blend-mode-exclusion.png)
 
 ## Subtract
 
+Base color minus the blend color.
+
 ![Subtract](assets/blend-mode-subtract.png)
 
 ## Divide
+
+Divides the base color by the blend color.
 
 ![Divide](assets/blend-mode-divide.png)
 
 ## Hue
 
+Use the hue of the blend color, and the luminance and saturation of the base color.
+
 ![Hue](assets/blend-mode-hue.png)
 
 ## Saturation
+
+Use the saturation of the blend color, and the luminance and hue of the base color.
 
 ![Saturation](assets/blend-mode-saturation.png)
 
@@ -147,6 +163,8 @@ Use linear dodge with bright blend colors, and linear burn with dark blend color
 ![Color](assets/blend-mode-color.png)
 
 ## Luminosity
+
+Use the luminance of the blend color, and the hue and saturation of the base color.
 
 ![Luminosity](assets/blend-mode-luminosity.png)
 
@@ -157,21 +175,3 @@ Use linear dodge with bright blend colors, and linear burn with dark blend color
 ## Darker Color
 
 ![Darker Color](assets/blend-mode-darker-color.png)
-
-* * *
-
-## Screen
-
-
-
-- **Screen**: Like multiply, but lightens.
-- **Overlay**: A combination of multiply and screen, it darkens darker areas and lightens lighter areas. It increases contrast.
-- **Lighten**: Take the lightest color.
-
-Those are the major types of blend modes, normally there are other variations of those grouped together (e.g., in Photoshop).
-
-## More
-
-- **Normal**: No blending, just overlay.
-- **Add**: Similar to lighten, but lighten takes the higher of the two values.
-- **Screen**: Another lighten effect.
