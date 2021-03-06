@@ -1,5 +1,7 @@
 # Photoshop Tools
 
+- Hold `⇧` and a hit a binding to rotate between tools for that binding
+
 ## Crop Tool
 
 - Hold shift after you start resizing a side in order to snap to the pixel grid.

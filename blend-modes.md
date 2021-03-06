@@ -185,3 +185,5 @@ Choose the lighter of the base color and blend color.
 Choose the darker of the base color and blend color.
 
 ![Darker Color](assets/blend-mode-darker-color.png)
+
+(This is the image from Photoshop's documentation, but in reality Darker Color seems to have an effect closer to darken.)
