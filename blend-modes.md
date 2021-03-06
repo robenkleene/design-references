@@ -14,6 +14,10 @@ Both of these techniques are applied to a negative-to-positive process, so darke
 
 ![Dodging](assets/photography-dodging.png)
 
+## Original
+
+![Original](assets/blend-mode-original.png)
+
 ## Normal
 
 Makes each pixel is the result color.
