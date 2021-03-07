@@ -18,3 +18,10 @@ Make a camera follow a path.
 ## Edits
 
 - To change the speed, set `Object Data Properties > Path Animation > Frames` to a smaller number
+
+## Graph Editor
+
+To edit the speed that the camera follows the path in the graph editor:
+
+1. In the Graph Editor, hover the mouse over the graph editor and hit `n` to bring up the sidebar menu. Under `Modifiers`, click the `X` to delete the `Generator`.
+2. Now the the speed of the camera's movement can be controlled in the Graph Editor by inserting key frames for `Evaluation Time`. An `Evaluation Time` of `0` will be at the starting point along the curve, and `100` will be the ending point.
