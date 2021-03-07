@@ -1,5 +1,9 @@
 # Spark AR Studio
 
+## Navigation
+
+- `two-finger drag`: Pan
+- `⌘-drag`: Orbit
 
 ## Device
 
