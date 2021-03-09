@@ -3,3 +3,10 @@
 1. Add a `Geometry` node
 2. Enter the `geo1` node, and add a `Sphere`. Set `Primitive Type: Polygon` and `Frequency: 24`.
 3. Add a `Mountain` and connect the output of `sphere1` to its input.
+4. Adjust the properties of the `mountain1`:
+    - `Height: 2.54`
+    - `Element Size: 0.64`
+5. Add a `Transform` node and connect the output of `mountain1` to its input
+6. Add a `Cloud` node and connect the output of `transform1` to its input
+7. Add a `Cloud Noise` and connect the output of `cloud1` to its input
+8. Add a `Volume Slice` to visualize and connect the output of `cloudnoise1` to its input
