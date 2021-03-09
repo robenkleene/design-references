@@ -7,3 +7,7 @@ If orbit is pivoting around the wrong point, you can fix this by hitting `Numpad
 ## Viewport Pan & Zoom Stuck
 
 If you can orbit, but can't pan or zoom, try hitting the `HOME` key, or selecting `View > Frame All`.
+
+## Missing Camera
+
+If the camera isn't being displayed in the viewport, just a square when it's selected. Then overlays might have been toggled off, click the `Show Overlays` button at the top of the viewport.
