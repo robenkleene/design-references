@@ -8,7 +8,7 @@ To change the preview video, or use the camera click the `Video` icon on the lef
 
 To preview on device:
 
-1. Open the Spark AR Player
-2. 
-
-
+1. Open the Spark AR Player app
+2. Connect device with cable
+3. Click the `Test on Device` button in the sidebar
+4. 
