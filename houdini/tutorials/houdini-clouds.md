@@ -10,3 +10,5 @@
 6. Add a `Cloud` node and connect the output of `transform1` to its input
 7. Add a `Cloud Noise` and connect the output of `cloud1` to its input
 8. Add a `Volume Slice` to visualize and connect the output of `cloudnoise1` to its input
+9. Since `cloud1`, under the `Density` tab, is set to `Density Multiplier: 10`, it means it will output values in the range of `0--10`. So set the `volumeslice1` `Visualization Range` to `0--10`
+10. Increase the resolution of the cloud by setting `cloud1 > Volume > Uniform Sampling Divs: 100`

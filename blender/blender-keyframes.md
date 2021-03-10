@@ -7,7 +7,7 @@
 ## Camera Animations
 
 1. Create a setup where the view is split with a view through the active camera on the right, and a view where you can use the transform tools on the camera on the left.
-2. Turn on `Auto Keying`.
+2. Turn on `Auto Keying` (record button in the timeline, there's no keyboard shortcut)
 3. Move the camera recording keyframes.
 
 ### Tips
