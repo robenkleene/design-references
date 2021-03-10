@@ -11,4 +11,4 @@ To preview on device:
 1. Open the Spark AR Player app
 2. Connect device with cable
 3. Click the `Test on Device` button in the sidebar
-4. 
+4. Click `Send` next to the device, after sending the device can be unplugged
