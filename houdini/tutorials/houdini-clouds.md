@@ -12,4 +12,4 @@
 8. Add a `Volume Slice` to visualize and connect the output of `cloudnoise1` to its input
 9. Since `cloud1`, under the `Density` tab, is set to `Density Multiplier: 10`, it means it will output values in the range of `0--10`. So set the `volumeslice1` `Visualization Range` to `0--10`
 10. Increase the resolution of the cloud by setting `cloud1 > Volume > Uniform Sampling Divs: 100`
-11. Under `cloud1 > Scatter Shapes`, toggle on `Visualize As Polygons` to see the polygon shape, toggle on `Fill Source` to scatter spheres into the cloud volume, and toggle on `Secondary Shapes` which scatters 
+11. Under `cloud1 > Scatter Shapes`, toggle on `Visualize As Polygons` to see the polygon shape, toggle on `Fill Source` to scatter spheres into the cloud volume, and toggle on `Secondary Shapes` which scatters smaller spheres on those spheres.
