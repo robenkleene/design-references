@@ -20,3 +20,12 @@
 ## Troubleshooting
 
 - If keyframes aren't visible in the timeline, first make sure the correct object is selected, then drag the tiny arrow out from the far left of the timeline which includes the keyframe summary.
+
+## Property Values
+
+Properties are colored based on their current state:
+
+- **Gray**: Not animated
+- **Green**: Animated but no keyframe at current frame
+- **Yellow**: Animated and keyframe at current frame
+- **Orange**: Animated but keyframe doesn't match current frame
