@@ -11,3 +11,7 @@ If you can orbit, but can't pan or zoom, try hitting the `HOME` key, or selectin
 ## Missing Camera
 
 If the camera isn't being displayed in the viewport, just a square when it's selected. Then overlays might have been toggled off, click the `Show Overlays` button at the top of the viewport.
+
+## Auto Keying
+
+If auto keying is on and key frames aren't updating, just update them manually by right-clicking and selecting `Replace Keyframes`. Auto keying will usually start working next time.
