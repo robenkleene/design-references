@@ -14,3 +14,11 @@
 10. Increase the resolution of the cloud by setting `cloud1 > Volume > Uniform Sampling Divs: 100`
 11. Under `cloud1 > Scatter Shapes`, toggle on `Visualize As Polygons` to see the polygon shape, toggle on `Fill Source` to scatter spheres into the cloud volume, and toggle on `Secondary Shapes` which scatters smaller spheres on those spheres.
 12. Toggle back off `Visualize As Polygons`
+
+## Flattening
+
+To flatten clouds so they look more like thunderstorm clouds.
+
+1. Select `cloud1`, and switch to the `Flatten` tab, and toggle on `Flatten`
+    - `Cloud Origin` determines where the flattening starts
+    - `Top Scale` and `Bottom Scale` change how much the top and bottom of the cloud is flatten
