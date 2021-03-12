@@ -22,3 +22,7 @@ To flatten clouds so they look more like thunderstorm clouds.
 1. Select `cloud1`, and switch to the `Flatten` tab, and toggle on `Flatten`
     - `Cloud Origin` determines where the flattening starts
     - `Top Scale` and `Bottom Scale` change how much the top and bottom of the cloud is flatten
+
+## Continue
+
+1. Under `cloud1 > Scatter Shapes`, toggle off `Fill Source` and `Secondary Shapes` to focus on the standard input geometry
