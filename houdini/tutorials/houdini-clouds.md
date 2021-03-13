@@ -15,7 +15,9 @@
 11. Under `cloud1 > Scatter Shapes`, toggle on `Visualize As Polygons` to see the polygon shape, toggle on `Fill Source` to scatter spheres into the cloud volume, and toggle on `Secondary Shapes` which scatters smaller spheres on those spheres.
 12. Toggle back off `Visualize As Polygons`
 
-## Flattening
+## Parameters
+
+### Flattening
 
 To flatten clouds so they look more like thunderstorm clouds.
 
@@ -23,6 +25,18 @@ To flatten clouds so they look more like thunderstorm clouds.
     - `Cloud Origin` determines where the flattening starts
     - `Top Scale` and `Bottom Scale` change how much the top and bottom of the cloud is flatten
 
+### Distortion
+
+To distort the shape of the cloud:
+
+1. Select `cloudnoise1 > Noise` and change the `Amplitude` and `Type`
+
+### Distort Noise
+
+1. Select `cloudnoise1 > Advection` and change the `Amplitude`
+
 ## Continue
 
-1. Under `cloud1 > Scatter Shapes`, toggle off `Fill Source` and `Secondary Shapes` to focus on the standard input geometry
+1. Select `cloud1 > Scatter Shapes` then toggle off `Fill Source` and `Secondary Shapes` to focus on the standard input geometry
+2. Select `cloudnoise1 > Noise` and set `Amplitude: 0.4`
+3. Add a `Volume VOP` between `cloudnoise1` and `volumeslice1`
