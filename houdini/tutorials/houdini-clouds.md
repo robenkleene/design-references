@@ -42,3 +42,4 @@ To distort the shape of the cloud:
 3. Add a `Volume VOP` between `cloudnoise1` and `volumeslice1`, and double-click into it
 4. Add a `Compare` node, and connect the `volumevopglobal1 > density` output to its `input1`. Set its `Test: Greater Than` and `Compare to Float: 0.05`
 5. Add a `Switch` and connect the `compare1 > bool` output to its `switcher` input.
+6. Add a `Constant`
