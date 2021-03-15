@@ -44,3 +44,4 @@ To distort the shape of the cloud:
 5. Add a `Switch` and connect the `compare1 > bool` output to its `switcher` input.
 6. Add a `Constant` and connect its `Value` output to `switcher > input1`
 7. Add an `Anti-Aliased Noise` and connect the `volumevopglobal1 > P` output to its `pos` input. Connect its `noise` output to the `switch1 > input2` input.
+8. Replace the connection in the `volumevopoutput1 > density` input with the `switch1 > result` output
