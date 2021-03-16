@@ -9,3 +9,7 @@
 ## Tweaks
 
 - Once the modifier has been added, the amount that it influences the camera can be animated using the `Influence` property of the modifier.
+
+## Distance
+
+- To also keep the camera a certain distance from an object, similarly use a `Limit Distance` modifier.
