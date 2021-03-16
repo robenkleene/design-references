@@ -47,3 +47,8 @@ To distort the shape of the cloud:
 8. Replace the connection in the `volumevopoutput1 > density` input with the `switch1 > result` output
 9. Add a `Fit Range`, set its `Source Min: -0.5`, `Source Max: 0.5`, and `Destination Max: 10`
 10. Insert the `fit1` between `aanoise1 > noise` and `switch1 > input2`.
+11. Add a `Ramp Parameter` and set `Ramp Type: Spline Ramp (float)`
+12. Insert the `ramp1` between `fit1` and `switch1`
+13. Set `fit1 > Destination Max: 1`.
+14. Add a `Multiply Constant` and set its `Multiplier: 10`.
+15. Insert the `mulconst1` between `ramp1` and `switch1`.
