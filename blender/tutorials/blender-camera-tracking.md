@@ -13,3 +13,4 @@
 ## Distance
 
 - To also keep the camera a certain distance from an object, similarly use a `Limit Distance` modifier.
+    - If the camera isn't always staying at the limit distance, even when `Influence: 1.0`, try setting `Clamp Region: On Surface`.
