@@ -45,3 +45,7 @@ Basic approach to editing curves.
 
 - You can select a bunch of points and scale them.
 - Use `Pivot Point` to change how the points are scaled. `Bounding Box Center` scales relative to the center of the selection. `2D Cursor` scales relative to the playhead.
+
+## Tips
+
+- To copy a graph from one parameter to another, simply double-click the source parameter name to select its graph, then use copy `⌘C` to copy it, then double-click the destination parameter name and paste it (`⌘V`).
