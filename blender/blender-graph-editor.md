@@ -14,6 +14,8 @@
 
 ## Bézier Curves
 
+- To flatten all select Bézier Curves, select the points, right click and choose `Interpolation Mode > Linear`.
+
 ## Keyframes
 
 - `I`: Insert a keyframe, a menu will come up to choose the right channel.
