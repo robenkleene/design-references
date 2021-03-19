@@ -12,6 +12,8 @@
 
 - `^K`: Select all keyframes at the current frame
 
+## Bézier Curves
+
 ## Keyframes
 
 - `I`: Insert a keyframe, a menu will come up to choose the right channel.
