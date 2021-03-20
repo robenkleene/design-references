@@ -3,10 +3,15 @@
 - `⇧H`: Hide everything except the selected curves
 - `⌥H`: Show all curves
 - `A`: Select all keyframes
-- To choose from preset graph options, hit `A` to select all, then `T` to choose an interpolation option.
 - `T`: Choose between interpolation options (like bezier or linear)
 - `HOME`: Try to make the graph fit in the view.
+
+## Tips
+
+- To disable a channel, so it doesn't affect the output, just uncheck it in the keyframe hierarchy (or `⇧W` then `Mute` to toggle).
+- To choose from preset graph options, hit `A` to select all, then `T` to choose an interpolation option.
 - To show the keyframe hierarchy on the left, click the disclosure indicator (`>`) in the upper left right below the ruler.
+- To copy a graph from one parameter to another, simply double-click the source parameter name to select its graph, then use copy `⌘C` to copy it, then double-click the destination parameter name and paste it (`⌘V`).
 
 ## Selection
 
@@ -53,7 +58,3 @@ Basic approach to editing curves.
 
 - You can select a bunch of points and scale them.
 - Use `Pivot Point` to change how the points are scaled. `Bounding Box Center` scales relative to the center of the selection. `2D Cursor` scales relative to the playhead.
-
-## Tips
-
-- To copy a graph from one parameter to another, simply double-click the source parameter name to select its graph, then use copy `⌘C` to copy it, then double-click the destination parameter name and paste it (`⌘V`).
