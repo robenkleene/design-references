@@ -6,7 +6,7 @@
 
 ## Walk Navigation
 
-- `⇧backtick` / `View > Navigation > Walk Navigation`: Switch to walk navigation.
+- `⇧backtick` / `View > Navigation > Walk Navigation`: Switch to walk navigation using the `WASD` keys for directions
 - When using walk navigation, use `WASD` to move and the mouse to turn.
 - To exit walk navigation, `↩` keeps the current camera position, `⎋` returns to the previous position.
 
