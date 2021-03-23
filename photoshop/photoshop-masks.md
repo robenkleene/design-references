@@ -21,3 +21,4 @@ To mask a layer from a shape layer, `⌘-drag` the shape layer onto the layer to
 ## Tips
 
 - To center a masked layer, convert it to a smart object.
+- Note that masks are applied *before* layer effects, so applying a layer mask to a layer with effects often doesn't have the intended effect. To workaround this, convert the layer being masked to a `Smart Object` first.
