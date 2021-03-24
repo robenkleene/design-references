@@ -8,11 +8,14 @@
 - A *layer mask* is added to a layer, it uses black to hide pixels, and white to show pixels.
 - A *clipping mask* controls visibility of one layer with the transparency of another.
 
-### Gradients
+### Effects
 
-Both layer masks and clipping masks can be used to control transparency from a gradient, but neither have an effective way of doing so using layer styles.
+- Layer masks do not have effects.
+- A clipping mask can use effects by making a smart object, and then choosing `Layer > Create Clipping Mask` (`⌘⌥G`).
 
-As a work around, you can make a layer that includes layer effects, then copy it merged, then paste it into the layer mask.
+#### Clipping Mask Gradients
+
+An alternative approach is to make a layer 
 
 ## Shape Layers
 
