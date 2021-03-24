@@ -52,3 +52,8 @@ To distort the shape of the cloud:
 13. Set `fit1 > Destination Max: 1`.
 14. Add a `Multiply Constant` and set its `Multiplier: 10`.
 15. Insert the `mulconst1` between `ramp1` and `switch1`.
+
+## Adjust Noise
+
+1. Go up a level to `geo1`.
+2. Select the `volumevop1`, make the `ramp` graph larger by clicking the arrow. Add a point by clicking the graph at `0.3 x 0.57`. Set `Interpolation: B-Spline`. Click the point stop on the left, and also set its `Interpolation: B-Spline`.
