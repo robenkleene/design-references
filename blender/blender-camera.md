@@ -30,3 +30,7 @@ To "Lock Camera to View", hit `n` with the main view focused to bring up a side 
 Previous to `2.8`, there was a binding to roll the view port with `⇧⌃` and two-finger scroll, but there's no built-in binding for this in Blender 2.8. A binding can be added by targeting `view3d.view_roll`.
 
 There is a workaround if the intention is to roll to get a good camera view: Select the camera and hit `r`, then a single-finger drag will roll the camera's view.
+
+## Positioning Tips
+
+The easiest way to position the camera is often to use `⇧backtick` to trigger walk mode and using `WASD` for movement, along with moving the mouse to turn. But when doing so, moving the mouse often moves unpredictably, when this happens, exiting walk mode with `↩` and then hitting `r r` to rotate the camera (assuming it's already selected), is a good work around to get 
