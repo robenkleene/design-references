@@ -56,4 +56,6 @@ To distort the shape of the cloud:
 ## Adjust Noise
 
 1. Go up a level to `geo1`.
-2. Select the `volumevop1`, make the `ramp` graph larger by clicking the arrow. Add a point by clicking the graph at `0.3 x 0.57`. Set `Interpolation: B-Spline`. Click the point stop on the left, and also set its `Interpolation: B-Spline`.
+2. Select the `volumevop1`, make the `ramp` graph larger by clicking the arrow. For all three points, including the far left and right, set `Interpolation: B-Spline`. Add a fourth point by clicking in the graph, and adjust them so they stay low on the left, and slope up to the right.
+
+![Clouds Ramp](assets/houdini-clouds-ramp.png)
