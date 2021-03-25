@@ -33,4 +33,4 @@ There is a workaround if the intention is to roll to get a good camera view: Sel
 
 ## Positioning Tips
 
-The easiest way to position the camera is often to use `⇧backtick` to trigger walk mode and using `WASD` for movement, along with moving the mouse to turn. But when doing so, moving the mouse often moves unpredictably, when this happens, exiting walk mode with `↩` and then hitting `r r` to rotate the camera (assuming it's already selected), is a good work around to get 
+The easiest way to position the camera is often to use `⇧backtick` to trigger walk mode and using `WASD` for movement, along with moving the mouse to turn. But when doing so, moving the mouse often moves unpredictably, when this happens, exiting walk mode with `↩` and then hitting `r r` to rotate the camera (assuming it's already selected), is a good work around to get predictably camera movement.
