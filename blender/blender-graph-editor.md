@@ -3,7 +3,7 @@
 - `⇧H`: Hide everything except the selected curves
 - `⌥H`: Show all curves
 - `A`: Select all keyframes
-- `T`: Choose between interpolation options (like bezier or linear)
+- `T`: Choose between interpolation options (like Bézier or linear)
 - `HOME`: Try to make the graph fit in the view.
 
 ## Tips
@@ -37,6 +37,12 @@ Right-click a handle and choose a type under `Handle Type`, or hit `V` with the 
 
 - `Free`: Moving a handle does not move the opposite handle
 - `Aligned`: Moving a handle keeps the handles in a straight line
+
+#### Tips
+
+To select just some points, hit `C` to bring up circle around the cursor, in this mode, holding shift and dragging over points will deselect them.
+
+![Bézier Point Selection](assets/blender-bezier-point-selection.gif)
 
 ## Zoom
 
