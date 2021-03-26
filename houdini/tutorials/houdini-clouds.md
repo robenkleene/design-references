@@ -59,3 +59,7 @@ To distort the shape of the cloud:
 2. Select the `volumevop1`, make the `ramp` graph larger by clicking the arrow. For all three points, including the far left and right, set `Interpolation: B-Spline`. Add a fourth point by clicking in the graph, and adjust them so they stay low on the left, and slope up to the right.
 
 ![Clouds Ramp](assets/houdini-clouds-ramp.png)
+
+## Finishing Up
+
+1. Delete the `volumeslice1`, which is no longer necessary
