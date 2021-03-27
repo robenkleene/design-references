@@ -1,12 +1,12 @@
 # Photoshop Masks
 
-- `⌥⌘G`: Clip layer to the layer below
+- `⌥⌘G`: Toggle clipping mask
 - `⌥-click` a layer mask: Edit it (e.g., to paste into it)
 
 ## Layer Masks vs. Clipping Masks
 
-- A *layer mask* is added to a layer, it uses black to hide pixels, and white to show pixels.
-- A *clipping mask* controls visibility of one layer with the transparency of another.
+- A *layer mask* is added to a layer, it uses black to hide pixels, and white to show pixels
+- A *clipping mask* controls visibility of one layer with the transparency of another
 
 ### Effects
 
