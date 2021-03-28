@@ -22,3 +22,9 @@ To hide the clipping mask layer so it isn't also showing:
 
 1. `right-click` the clipping layer and select "Blending Options...", under "Blending Options" uncheck "Blend Clipped Layers as Group".
 2. Set `Fill: 0%` for the clipping layer.
+
+## Tips
+
+### Splits
+
+When working with Smart Object masks, it's useful to have the masking layer and the output both open simultaneously in splits. To do this, open the Smart Object in a tab, then choose `Window > Arrange > Tile All Vertically`.
