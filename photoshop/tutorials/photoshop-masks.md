@@ -28,3 +28,7 @@ To hide the clipping mask layer so it isn't also showing:
 ### Splits
 
 When working with Smart Object masks, it's useful to have the masking layer and the output both open simultaneously in splits. To do this, open the Smart Object in a tab, then choose `Window > Arrange > Tile All Vertically`.
+
+### Transparency
+
+- To make the Clipping Mask layer itself (the base layer) transparent, right-click the base layer and select `Blending Options...` and toggle off `Blending Options > Advanced Blending > Blend Clipped Layers as Group`, then set the base layers `Fill: 0`.
