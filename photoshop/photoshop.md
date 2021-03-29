@@ -96,3 +96,4 @@ After fixing the perspective the edges of the changed section will be off, one w
 - To resize a layer to the size of the canvas, just turn on snap with `⇧⌘;`.
 - To transfer a selection between files, just drag and drop the marquee between files.
 - Saved selections are stored as channels.
+- If you've removed the background layer you can get it back with `Layer > New > Layer From Background...`
