@@ -36,7 +36,7 @@ To animate the graph for a bouncing animation, with this graph as the starting p
 
 Each bounce should get progressively shorter.
 
-1. Drag and select all the points starting from `30` to the end (so the last two bounces). Select `2D Cursor`, from the `Pivot Point` dropdown. Hit `s` `x` and drag to the left until the third bounce ends at `75`.
+1. Drag and select all the points starting from `30` to the end (so the last two bounces). Select `2D Cursor`, from the `Pivot Point` dropdown (chain link icon above the viewport). Hit `s` `x` and drag to the left until the third bounce ends at `75`.
 2. Move the playhead to in between the second and third bounce, and select all the points to the right of the playhead (i.e., the last bounce). Hit `s` `x` and drag to the left to move the end of the last bounce to `70`.
 
 ## Ending Ripple Bounce
@@ -54,7 +54,7 @@ Add a final couple of small bounces.
 
 Make the animation faster by scaling the entire animation smaller, and center the animation in the timeline, then add a drop starting from high in the air on the left.
 
-1. Put the playhead at `0` and select all the points, select `2D Cursor`, from the `Pivot Point` dropdown, hit `s` `x` to scale the entire animation smaller by dragging to the left.
+1. Put the playhead at `0` and select all the points, select `2D Cursor`, from the `Pivot Point` dropdown (chain link icon above the viewport), hit `s` `x` to scale the entire animation smaller by dragging to the left.
 2. Select all of the points and hit `g` `x` and drag it to the right until it's in the center of the timeline.
 3. Move the playhead to frame `1`. Hit `i` and select `Only Selected Channels`, then use `g` `y` to drag the new point higher than the first bounce.
 4. Select the left handle at the start of the first bounce, and use `g` `x` and drag to the right to shrink it. Select middle of the handle at keyframe at `0`, and hit `s` `x` to scale it larger, so there's a nice curve.
