@@ -1,8 +1,5 @@
 # Houdini
 
-- `drag`: Orbit
-- `two-finger scroll`: Zoom
-- `right-click-drag`: Pan
 - `⌘T`: New Tab
 - `⌘-Page Up` / `⌘-Page Down`: Next / Previous Tab
 - `I`: Toggle hover color info

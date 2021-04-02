@@ -1,5 +1,13 @@
 # Houdini Navigation
 
+## Basic
+
+- `Drag`: Orbit
+- `Scroll`: Zoom
+- `Right-Drag`: Pan
+
+## Shortcuts
+
 - `⌘F`: Search for nodes by name
 - `⇧/`: Quick open node
 
