@@ -10,6 +10,7 @@
 
 - `⌘F`: Search for nodes by name
 - `⇧/`: Quick open node
+- `⇧F`: Focus selected object (when the viewport has focus)
 
 ## Dependencies
 
