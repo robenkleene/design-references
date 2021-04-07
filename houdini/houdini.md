@@ -17,6 +17,10 @@ The icon in the upper-right, `Viewport Layout`, has other options for splitting 
 
 - right-click "Show Node Information..." is similar to middle-click and hold.
 
+### Ladder
+
+The ladder is triggered by clicking and holding the middle mouse button on a parameter. While the ladder is visible, dragging to the left or right hovering a particular scale value will increment or decrement that value by the amount.
+
 ## Tips
 
 - If an object keeps vanishing, try hitting `a` ("Home on Geometry") on the keyboard.
