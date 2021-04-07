@@ -1,4 +1,4 @@
-# Houdini Background
+# Houdini Sky
 
 To add a quick background to a scene.
 
