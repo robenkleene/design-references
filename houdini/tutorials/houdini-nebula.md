@@ -12,3 +12,7 @@
 3. Connect the `turbnoise1 > noise` output to the `add1 > input2` input.
 4. Connect the `add1 > sum` output to the `volumevopoutput1 > density` input.
 5. Select `turbnoise1` and set `Signature: 3D Noise` and `Noise Type: Original Perlin Noise`.
+
+## Resolution
+
+1. Go up to `nebula_base_geo` and select `vdbfrompolygons1` and set `Voxel Size: 0.001`.
