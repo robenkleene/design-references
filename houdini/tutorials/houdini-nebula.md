@@ -9,3 +9,4 @@
 
 1. Double-click into `volumevop1`
 2. Add a `Turbulent Noise` and an `Add`. The noise will be used to cut interesting shapes out of the volume. Connect the `volumevopglobal1 > p` output to the `turbnoise1 > pos` input. Also connect the `volumevopglobal1 > p` output to the `add1 > input1` input.
+3. Connect the `turbnoise1 > noise` output to the `add1 > input2` input.
