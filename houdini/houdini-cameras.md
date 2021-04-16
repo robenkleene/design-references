@@ -6,6 +6,8 @@
 
 The Camera Frustum can be seen for a selected camera with the `Show Handle` viewport button (or by hitting `↩` when the viewport has focus).
 
+- While the handle is visible, hitting `F` will switch to the `Frustum Handle`, this can also be accessed by right-clicking the camera.
+
 ## New Camera
 
 - Create a camera by clicking the "New Camera" in the camera pull-down menu in the upper right of the viewport.
