@@ -19,4 +19,4 @@
 
 ## Light
 
-1. Click the button to add a `Distant Light` and use the transformation tools to point it at the volume to see its structure.
+1. Click the toolbar button to add a `Distant Light` and use the transformation tools to point it at the volume to see its structure.
