@@ -2,6 +2,10 @@
 
 - To view through a camera, use the camera menu in the upper left of the viewport.
 
+## Frustum
+
+The Camera Frustum can be seen for a selected camera with the `Show Handle` viewport button (or by hitting `↩` when the viewport has focus).
+
 ## New Camera
 
 - Create a camera by clicking the "New Camera" in the camera pull-down menu in the upper right of the viewport.
