@@ -16,3 +16,7 @@
 ## Resolution
 
 1. Go up to `nebula_base_geo` and select `vdbfrompolygons1` and set `Voxel Size: 0.08`.
+
+## Light
+
+1. Click the button to add a `Distant Light` and use the transformation tools to point it at the volume to see its structure.
