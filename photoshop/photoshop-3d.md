@@ -30,3 +30,7 @@ The manipulator appears when a 3D object is selected.
 
 - The manipulator has a arrow, curve, and square for each axis. The arrow moves, the curve rotates, and the square scales. The square in the center scales all axes simultaneously.
 - You can scale the size of the manipulator itself by dragging the center square and holding `⇧`.
+
+## Troubleshooting
+
+Resolving `Could not complete` `because the path is too complex`.
