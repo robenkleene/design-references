@@ -15,4 +15,4 @@
 
 ## Resolution
 
-1. Go up to `nebula_base_geo` and select `vdbfrompolygons1` and set `Voxel Size: 0.001`.
+1. Go up to `nebula_base_geo` and select `vdbfrompolygons1` and set `Voxel Size: 0.08`.
