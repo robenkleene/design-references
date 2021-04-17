@@ -1,4 +1,4 @@
-# Premiere Pro Vertical Video
+# Premiere Pro Square Video
 
 1. Create a sequence
 2. Right-click and choose `Sequence Settings...`
