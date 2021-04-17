@@ -23,4 +23,4 @@
 
 ## Formations
 
-1. Select `obj > nebula_base_geo > volumevop1 > turbnoise1` and play with the amplitude looking for nice formations (increasing it to `1.9` works well).
+1. Select `obj > nebula_base_geo > volumevop1 > turbnoise1` and play with the amplitude looking for nice formations (increasing it to `1.9` works well). Similarly play with the `Roughness` and `Attenuation`.
