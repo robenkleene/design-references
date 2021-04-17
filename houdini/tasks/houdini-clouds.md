@@ -9,3 +9,7 @@ To make quick clouds.
 ## Terminology
 
 - **Camera Frustum**: The visible part of a scene based on the camera.
+
+## Tips
+
+- When selecting `Camera Frustum` as the `Region`, the clouds display in the render but seem not to display in the `Scene View`
