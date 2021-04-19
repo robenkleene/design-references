@@ -1,5 +1,13 @@
 # Blender HDRI Sky
 
+## Sphere
+
 1. Delete the cube
 2. Add a UV Sphere
 3. Right-click and choose `Shade Smooth`
+
+## Shading
+
+1. Switch to the `Shading` tab
+2. In the bottom panel, switch to `World`
+3. In the viewport side panel (`N`), set `Focal Length: 25 mm` (this increases our field of vision)
