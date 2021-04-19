@@ -2,7 +2,11 @@
 
 - `File -> Document Setup...`: Edit artboard
 - `Properties > Edit Artboard` (click the artboard first): Edit artboard
-- There's an `Object > Artboards > Fit to Artwork Bounds` option that resizes the artboard to smallest size that fits the artwork (this is a one-time resize, not a setting).
+- `Object > Artboards > Fit to Artwork Bounds`: Resize the artboard to smallest size that fits the artwork
+
+## Settings
+
+Artboard settings typically set the `X` and `Y` to half of the `W` and `H` respectively (this seems to be to set the artboard's center to `0, 0` in global coordinate space).
 
 ## Background Color
 
