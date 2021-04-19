@@ -1,6 +1,7 @@
 # Illustrator Artboards
 
-- Edit the artboard either by selecting `File -> Document Setup...` or just by clicking `Edit Artboard` in the `Properties` panel
+- `File -> Document Setup...`: Edit artboard
+- `Properties > Edit Artboard` (click the artboard first): Edit artboard
 - There's an `Object > Artboards > Fit to Artwork Bounds` option that resizes the artboard to smallest size that fits the artwork (this is a one-time resize, not a setting).
 
 ## Background Color
