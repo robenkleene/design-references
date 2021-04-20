@@ -49,6 +49,7 @@ The easiest way to resizes is by dragging the bounding box, you may need to show
 ## Tips
 
 - If importing an image messes up it's colors, just open and export that image from Photoshop and that should fix it.
+- To duplicate a path, choose `Duplicate` from the Layers panel menu
 
 ## Expand
 
