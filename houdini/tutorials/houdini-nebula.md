@@ -24,3 +24,5 @@
 ## Formations
 
 1. Select `obj > nebula_base_geo > volumevop1 > turbnoise1` and play with the amplitude looking for nice formations (increasing it to `1.9` works well). Similarly play with the `Roughness` and `Attenuation`.
+2. Go to `nebula_base_geo` and set `box1 > Size: 1 1.2 1`
+3. Add a `Convert VDB` node between `volumevop1` and `volumevisualization1` *it's unclear how this is supposed to be set*
