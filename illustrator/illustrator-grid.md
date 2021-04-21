@@ -1,10 +1,14 @@
-# Photoshop Grid
+# Illustrator Grid
+
+## Grid
 
 - `⌘'`: Toggle grid
+- `⇧⌘'`: Toggle snap to grid
+- `Settings > Guides & Grid`: Configure the grid
 
-## Grid Settings
+## Snapping
 
-- `Photoshop > Preferences > Guides, Grids & Slices...`: Change grid settings
+- To turn on snapping to objects, select `View > Smart Guides` (`⌘U`)
 
 ## Tips
 
