@@ -9,6 +9,12 @@
 
 ## Shading
 
+### Setup
+
 1. Switch to the `Shading` tab
 2. In the bottom panel, switch to `World`
 3. In the viewport side panel (`N`), set `Focal Length: 25 mm` (this increases our field of vision)
+
+### Nodes
+
+1. Add a `Texture Coordinate` and a `Mapping` and connect the `Texture Coordinate > Generated` output to the `Mapping > Vector` input.
