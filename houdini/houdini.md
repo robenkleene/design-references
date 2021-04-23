@@ -25,6 +25,7 @@ The ladder is triggered by clicking and holding the middle mouse button on a par
 
 - If an object keeps vanishing, try hitting `a` ("Home on Geometry") on the keyboard.
 - If you can't orbit or pan (and right-click brings up a menu), you probably have "Show Handle" (`↩`) on, switch it off with `esc` ("View"). These options are in the left sidebar. 
+- In the info panel for a node, the `Points` field is a particle count
 
 ## Window Management
 
