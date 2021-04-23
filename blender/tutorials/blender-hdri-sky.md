@@ -18,3 +18,4 @@
 ### Nodes
 
 1. Add a `Texture Coordinate` and a `Mapping` and connect the `Texture Coordinate > Generated` output to the `Mapping > Vector` input.
+2. Add a second `Mapping` and connect the `Mapping > Vector` output to its `Vector` input.
