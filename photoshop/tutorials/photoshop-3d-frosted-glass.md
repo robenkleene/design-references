@@ -32,7 +32,7 @@
 1. Drag the logo into the document and make it all white by adding a color overlay to blending options.
 2. Choose `3D > New 3D Extrusion from Selected Layer`.
 3. With the logo's layer selected in the `3D` panel, in the `Properties` panel, with the `Mesh` icon selected, set `Extrusion Depth: 100`.
-4. Switch to `Cap` icon in the `Properties` panel. Set `Width: 5%`, set `Sides: Front and Back`.
+4. In the `Cap` tab of the `Properties` panel, set `Width: 5%`, set `Sides: Front and Back`.
 
 ## Logo Material
 
