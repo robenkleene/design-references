@@ -2,6 +2,10 @@
 
 - `⇧⌥⌘R`: Render
 
+## Changing the Source
+
+If you've already created a 3D extrusion, and you want to edit the source layer: In the 3D panel, select the layer for the extrusion, then, in the properties panel, under the `Mesh` tab, choose `Edit Source`.
+
 ## Text
 
 To edit 3D text, select the text in the 3D panel and then click `Edit Source`.
