@@ -30,6 +30,12 @@
 5. Add a `Points from Volume`, and connect the output of `vdbfrompolygons2` to its input. Set `Point Separation: 0.01`.
 6. If you zoom in, you can see the points have strange banding lines, this can be removed by setting `pointsfromvolume1 > Jitter Scale: 1`. Set `Point Separation: 0.002`, in the info panel, this means about 60 million particles (`Points`). This can be reduced to improve performance, and increased for the final render.
 
-## Diaplay Options
+## Display Options
 
 1. Bring up display options with `D` and set `Geometry > Particles > Display particles as: Pixels`
+
+## Smoothing Edges
+
+Introducing noise to smooth edges.
+
+1. Add a `Point VOP` and connect the output of `pointsfromvolume1` to its leftmost input
