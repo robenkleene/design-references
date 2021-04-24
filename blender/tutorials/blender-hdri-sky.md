@@ -20,3 +20,7 @@
 1. Add a `Texture Coordinate` and a `Mapping` and connect the `Texture Coordinate > Generated` output to the `Mapping > Vector` input
 2. Add a second `Mapping` and connect the `Mapping > Vector` output to its `Vector` input
 3. Create a `Gradient Texture` and connect the second `Mapping > Vector` output to its input
+4. Set the second `Mapping > Rotation: 0 90 0` so that the horizon is horizontal
+5. Select the second `Mapping` and the `Gradient Texture` and duplicate them
+6. Set the new second `Mapping > Rotation: 0 -90 0`
+7. Add a `Math` node and connect the first `Gradient Texture > Color` output to its top `Value` input, and the second `Gradient Texture > Color` output to its bottom `Value` input
