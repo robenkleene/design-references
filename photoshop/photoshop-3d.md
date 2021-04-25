@@ -1,6 +1,7 @@
 # Photoshop 3D
 
 - `⇧⌥⌘R`: Render
+    - There's also a render button at the bottom of the 3D panel
 
 ## Changing the Source
 
