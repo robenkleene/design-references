@@ -39,3 +39,4 @@
 Introducing noise to smooth edges.
 
 1. Add a `Point VOP` and connect the output of `pointsfromvolume1` to its leftmost input
+2. Enter the `pointvop1`, and add a `Turbulent Noise` and `Add`. Connect `geometryvopglobal1 > P` to `turbnoise1 > pos` and `add1 > input1`. Connect `turbnoise1 > noise` to `add1 > input2`. Connect `add1 > sum` to `geometryvopoutput1 > p`.

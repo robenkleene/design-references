@@ -25,4 +25,4 @@
 6. Set the new second `Mapping > Rotation: 0 -90 0`
 7. Add a `Math` node and connect the first `Gradient Texture > Color` output to its top `Value` input, and the second `Gradient Texture > Color` output to its bottom `Value` input
 8. Add two `Map Range` and place them between each `Gradient Texture` and `Add`. Use the default input and outputs when placed.
-9. For the top `Map Range` set `To Min: 0.5` and `To Max: 0.0`, for the bottom `To Min: 0` and `To Max: 0.5`.
+9. For the top `Map Range` set `To Min: 0.5` and `To Max: 0.0`, for the bottom `To Min: 0` (default) and `To Max: 0.5`. This inverts the gradients.
