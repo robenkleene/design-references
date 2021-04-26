@@ -1,11 +1,13 @@
 # Photoshop 3D
 
 - `⇧⌥⌘R`: Render
-    - There's also a render button at the bottom of the 3D panel
+    - There's also a render button at the bottom of the 3D panel 
 
 ## Changing the Source
 
 If you've already created a 3D extrusion, and you want to edit the source layer: In the 3D panel, select the layer for the extrusion, then, in the properties panel, under the `Mesh` tab, choose `Edit Source`.
+
+Note that textures might also be using the original source, so you might need to double-click each texture layer (under the 3D layer in the Layers panel) and change the source there too.
 
 ## Text
 
