@@ -41,3 +41,5 @@ Introducing noise to smooth edges.
 1. Add a `Point VOP` and connect the output of `pointsfromvolume1` to its leftmost input
 2. Enter the `pointvop1`, and add a `Turbulent Noise` and `Add`. Connect `geometryvopglobal1 > P` to `turbnoise1 > pos` and `add1 > input1`. Connect `turbnoise1 > noise` to `add1 > input2`. Connect `add1 > sum` to `geometryvopoutput1 > p`.
 3. Set `turbnoise1 > Signature > 3D Noise`, for each parameter in `turbnoise1`, starting from `Noise Type` and ending with `Turbulence`, but skipping `Position`, use the gear icon to promote each parameter. If you go to the `nebula_base_geo` level now, and toggle `Bypass` for the `pointvop1`, you can see how it removes some of the sharp edges.
+4. Rename `pointvop1` to `TurbNoise_Alligator_PV`
+5. Duplicate `TurbNoise_Alligator_PV` (`⌥LMB` it)
