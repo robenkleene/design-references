@@ -30,7 +30,7 @@
 ### Gradient
 
 1. Add a `ColorRamp` and connect the `Add > Value` output to its `Fac` input (view the output of the `ColorRamp` by `⇧⌃LMB` on it)
-2. Use the `ColorRamp` to make a gradient for the sky
+2. With the `ColorRamp`, set the interpolation from `Linear` to `B-Spline`, then make a gradient for the sky
 
 #### Example Gradients
 
