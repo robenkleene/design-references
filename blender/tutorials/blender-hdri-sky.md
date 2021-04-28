@@ -7,6 +7,10 @@
 3. Right-click and choose `Shade Smooth`
 4. Choose `Material Properties` and click the `+` button to add a new material. Name it `Glossy`. Set `Surface: Glossy BSDF`
 
+## Sun
+
+1. Select the `Light`, and set `Object Data Properties > Light > Sun`
+
 ## Shading
 
 ### Setup
