@@ -6,6 +6,8 @@ To invert `⇧` with transform, toggle on `Preferences > General > Use Legacy Fr
 
 Use the darkest theme, obviously.
 
+Disable the ridiculous huge pop-up tooltips, by toggling off `Preferences > Tools > Show Rich Tooltips`.
+
 ## Key Bindings
 
 - `⌘⇧⌥K`: "Edit > Keyboard Shortcuts..."
