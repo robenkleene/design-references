@@ -44,3 +44,4 @@ Introducing noise to smooth edges.
 4. Rename `pointvop1` to `TurbNoise_Alligator_PV`
 5. Duplicate `TurbNoise_Alligator_PV` (`⌥LMB` it). Go into the duplicate (`TurbNoise_Alligator_PV1`) and delete `turbnoise1`
 6. Add an `Anti-Aliased Flow Noise`, connect its `noise` output to `add1 > input2`. The flow noise gives veins and swirls, more interior detail vs. the turbulent noise. Set `Amplitude: 2`, `Flow: 10`, and `Self-Advection: 1`.
+7. Go up to `nebula_base_geo` and rename `TurbNoise_Alligator_PV1` to `aaFlowNoise_PV`
