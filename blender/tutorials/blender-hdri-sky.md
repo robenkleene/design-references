@@ -45,3 +45,5 @@
 ##### Sunset
 
 ![Sunset Gradient](assets/blender-hdri-ski-gradient-sunset.png)
+
+*Got stuck here, this version don't look like it's supposed to, but moving on to see the HDRI export process.*
