@@ -2,13 +2,13 @@
 
 ## 1. Curved Paths With Spine
 
-![Gradient Art 1](assets/gradient-art-1.png)
+![Gradient Art 1](assets/illustrator-gradient-art-1.png)
 
 1. Select the Pen tool (`P`), turn off the fill color and set the stroke color to black
 2. Draw a wavy line
 3. Draw a second wavy line down below, a bit smaller horizontally and with some intricate details like loops
 
-    ![Spine](assets/spine-1.png)
+    ![Spine](assets/illustrator-spine-1.png)
 
 4. Create a blend between the two curves: Select both curves using the selection tool (`V`), then switch to the Blend tool (`W`), and click on the farthest left starting point of the top curve, then the farthest left starting point of the bottom curve (the Blend tool cursor should have a "+"). This creates a blending object between the two curves.
 5. To increase the number of steps, double click the blending tool icon, change the spacing to "Specified Steps", set the steps to `106".
@@ -32,19 +32,19 @@
 
 ## 2. Wavy Shape
 
-![Gradient Art 2](assets/gradient-art-2.png)
+![Gradient Art 2](assets/illustrator-gradient-art-2.png)
 
 1. Make a dark background and draw a wavy shape with the Pen tool with the two end points ending up close to each other, but not closing the shape.
 2. Make a second wavy curve that intersects back on itself.
 
-    ![Wavy Lines](assets/wavy-lines.png)
+    ![Wavy Lines](illustrator-assets/wavy-lines.png)
 
 3. Make select both shapes, and select the Blend tool. Click the farthest left endpoint of the top curve, and the top endpoint of the bottom curve.
 4. With the Selection tool (`V`), select all `⌘A`, then select "Object > Expand", and accept the default settings.
 5. Right-click the design an select "Ungroup". This will separate out each curve.
 6. Edit the new (middle) curve expand it some and remove any sharp corners.
 
-    ![Wavy Lines Two](assets/wavy-lines-2.png)
+    ![Wavy Lines Two](assets/illustrator-wavy-lines-2.png)
 
 7. Select all (`V` for the Selection tool, then `⌘A`), click in this order:
     1. Top curve left point
