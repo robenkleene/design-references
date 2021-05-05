@@ -52,3 +52,4 @@ Introducing noise to smooth edges.
 1. Add a `File Cache`, and rename it to `nebula_base`, toggle on `Display/Render`, and set `Valid Frame Range: Save Current Frame`.
 2. Set `pointsfromvolume1 > Point Separation` to `0.002` or `0.00125` (the lower the number, the higher the number of particles, and the worse performance)
 3. Click `nebula_base > Save to Disk`
+4. Delete the connection from `aaFlowNoise_PV` to `nebula_base`, then toggle on `nebula_base > Load from Disk` to use the cached version
