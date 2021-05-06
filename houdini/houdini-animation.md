@@ -2,6 +2,7 @@
 
 - To set a keyframe `⌥-click` a field in the sidebar.
 - Parameters with keyframes will have a green background color
+- To remove a keyframe, `RMB` and choose `Keyframes > Remove Keyframe`
 
 ## Global Variables
 
