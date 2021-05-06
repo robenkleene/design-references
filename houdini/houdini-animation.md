@@ -1,6 +1,7 @@
 # Houdini Animation
 
 - To set a keyframe `⌥-click` a field in the sidebar.
+- Parameters with keyframes will have a green background color
 
 ## Global Variables
 
