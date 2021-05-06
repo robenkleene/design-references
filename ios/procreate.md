@@ -2,6 +2,12 @@
 
 - Touch and hold to get the eyedropper
 
+## Grid
+
+There's no built-in grids in Procreate.
+
+The work around is to use the `Texture > Grid` brush and to paint the whole canvas without lifting your finger.
+
 ## Layers
 
 - To create a layer mask, tap the layer in the layers menu and select "Mask".
