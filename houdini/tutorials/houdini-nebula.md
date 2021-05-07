@@ -56,6 +56,7 @@ Introducing noise to smooth edges.
 
 ## Variation
 
-1. Select the `NebulaBase` and duplicate it, in the copy:
-    1. Set `pointsfromvolume1 > Point Separation: 0.0125`
-    2. Set `convertvdb1 > Isovalue: -0.1`
+1. Set `pointsfromvolume1 > Point Separation: 0.0125`
+2. Select the `NebulaBase` and duplicate it, in the copy:
+    1. Set `convertvdb1 > Isovalue: -0.1`
+    2. Set `aaFlowNoise_PV1 > aaflownoise1 > Self-Advection: 2`
