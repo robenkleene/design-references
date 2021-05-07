@@ -7,6 +7,8 @@
 
 ## Variations
 
+- Experiment with warp and wrinkle
+
 ### Overlay
 
 1. Duplicate the shape by selecting it with the `Selection Tool` and then using `⌘C ⌘V`.
