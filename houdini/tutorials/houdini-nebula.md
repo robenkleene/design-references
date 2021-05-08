@@ -59,4 +59,7 @@ Introducing noise to smooth edges.
 1. Set `pointsfromvolume1 > Point Separation: 0.0125`
 2. Select the `NebulaBase` and duplicate it, in the copy:
     1. Set `convertvdb1 > Isovalue: -0.1`
-    2. Set `aaFlowNoise_PV1 > aaflownoise1 > Self-Advection: 2`
+    2. Set `aaFlowNoise_PV1 > aaflownoise1`, `Max Octaves: 17`, `Flow Rate: 3.3`
+    3. Set `pointsfromvolume2 > Points Separation: 0.0015` (This will take awhile to process)
+3. Add a new `File Cache` and name it `nebula_interior`, set `Valid Frame Range: Save Current Frame`, click `Save to Disk`. Disconnect the input wire to the `File Cache` and toggle on `Load from disk` and make sure it loads.
+4. Rename the network box to `Nebula_interior`, and set it's color to slightly lighter.
