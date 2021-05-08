@@ -9,18 +9,6 @@
 - `⇧F`: Go to start animation
 - `⇧G`: Go to end animation
 
-## Navigation
-
-What feels the most natural are two-finger drag to pan, `⌥-drag` to orbit (three-finger drag), and `pinch` to zoom.
-
-- `Two-Finger Drag`: Pan
-- `⌥-drag`: Orbit
-- `⌥-right-drag` / `Pinch`: Zoom
-- `Hold 1 + click-and-drag`: Pan
-- `Hold 2 + click-and-drag`: Zoom
-- `Hold 3 + click-and-drag`: Orbit
-- Hold shift to move snapped increments
-
 ### Notes
 
 - Shortcuts are under "Window > Customization > Customize Commands..."
