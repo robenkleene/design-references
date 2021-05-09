@@ -7,7 +7,8 @@
 
 ## Variations
 
-- Experiment with warp and wrinkle
+- Warp with the `Warp Tool` (`⇧R`)
+- Wrinkle with the `Wrinkle Tool` (like the `Warp Tool`, usually chosen under the `Width Tool`)
 
 ### Overlay
 
