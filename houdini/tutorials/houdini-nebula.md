@@ -63,3 +63,7 @@ Introducing noise to smooth edges.
     3. Set `pointsfromvolume2 > Points Separation: 0.0015` (This will take awhile to process)
 3. Add a new `File Cache` and name it `nebula_interior`, set `Valid Frame Range: Save Current Frame`, click `Save to Disk`. Disconnect the input wire to the `File Cache` and toggle on `Load from disk` and make sure it loads.
 4. Rename the network box to `Nebula_interior`, and set it's color to slightly lighter.
+
+## Rasterize
+
+1. Add a `Point Wrangle` node. Add a `Volume Rasterize Attributes` node and connect the output of `pointwrangle1` to its input. Select both nodes and click `Create network box` (`⇧O`). Name the network box `Interior Rasterize`.
