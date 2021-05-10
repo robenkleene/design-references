@@ -66,4 +66,6 @@ Introducing noise to smooth edges.
 
 ## Rasterize
 
-1. Add a `Point Wrangle` node. Add a `Volume Rasterize Attributes` node and connect the output of `pointwrangle1` to its input. Select both nodes and click `Create network box` (`⇧O`). Name the network box `Interior Rasterize`.
+1. Add a `Point Wrangle` node. Add a `Volume Rasterize Attributes` node and connect the output of `pointwrangle1` to its input. Select both nodes and click `Create network box` (`⇧O`). Name the network box `Interior Rasterize`. Give it a color (`C`).
+2. Connect the output of `nebula_interior` to the leftmost input of `pointwrangle1`.
+3. Set `pointwrangle1 > VEXpression: @pscale=fit01(rand(@id),chf('min'),chf('max'));` and hit the plus icon for `Creates spare parameters for each unique call of ch()` (this will add the `Min` and `Max` parameters below).
