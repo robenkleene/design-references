@@ -9,3 +9,4 @@
 
 1. Choose `Extrude > Extrude`
 2. Drag the imported logo under `Extrude` in the Object Manager
+3. Select the imported logo, and set `Attributes > Coord. > P: 0 0 0`
