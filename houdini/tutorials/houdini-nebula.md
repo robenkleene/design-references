@@ -74,4 +74,5 @@ Introducing noise to smooth edges.
         @density=1;
 
     Then hit the plus icon for `Creates spare parameters for each unique call of ch()` (this will add the `Min` and `Max` parameters below). Set `Min: 0.001` and `Max: 0.003`.q
-4. On `volumerasterizeattributes1`, set `Attributes: density` and `Voxel Size: 0.01`
+4. On `volumerasterizeattributes1`, set `Attributes: density` and `Voxel Size: 0.004`
+5. This gets a nice flowing smoke effect, but on `pointwrangle1`, now change `@density=20;` which will bring out that dark shading.
