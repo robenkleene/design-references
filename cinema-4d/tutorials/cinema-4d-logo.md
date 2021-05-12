@@ -17,3 +17,8 @@
 To improve some issues, like holes not showing, or extrusions with mismatched directions.
 
 1. Select all of the paths under the logo, and right-click and choose `Connect Objects + Delete`.
+
+## Adjustments
+
+1. `Extrude > Object > Offset` sets the size of the extrusion.
+2. Turn on `Display > Gouraud Shading (Lines)`
