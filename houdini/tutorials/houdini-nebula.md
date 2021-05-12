@@ -74,4 +74,4 @@ Introducing noise to smooth edges.
         @density=1;
 
     Then hit the plus icon for `Creates spare parameters for each unique call of ch()` (this will add the `Min` and `Max` parameters below). Set `Min: 0.001` and `Max: 0.003`.q
-4. Set `volumerasterizeattributes1 > Attributes: density`
+4. On `volumerasterizeattributes1`, set `Attributes: density` and `Voxel Size: 0.01`
