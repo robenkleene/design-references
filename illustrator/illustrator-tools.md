@@ -21,6 +21,10 @@ Turn on "View" -> "Show Corner Widget" then hover near a corner with the "Direct
 - To remove an anchor point, click it with the pen tool.
 - To reset the handles, use the Pen tool, and `⌥-click` the point, and drag to get straight, mirrored, handles again.
 
+## Mesh Tool
+
+- To add a point, with the `Mesh Tool` selected, click somewhere not already occupied by a point (the cursor will show a `+`)
+
 ## Type
 
 - `⇧⌘>` / `⇧⌘>`: Increase / decrease font size
