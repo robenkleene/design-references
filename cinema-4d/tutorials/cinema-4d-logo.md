@@ -22,3 +22,4 @@ To improve some issues, like holes not showing, or extrusions with mismatched di
 
 1. `Extrude > Object > Offset` sets the size of the extrusion.
 2. Turn on `Display > Gouraud Shading (Lines)`
+3. To round the edges, on `Extrude`, set `Caps > Both Bevels > Size: 1`
