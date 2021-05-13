@@ -66,7 +66,7 @@ Introducing noise to smooth edges.
 
 ## Rasterize
 
-1. Add a `Point Wrangle` node. Add a `Volume Rasterize Attributes` node and connect the output of `pointwrangle1` to its input. Select both nodes and click `Create network box` (`⇧O`). Name the network box `Interior Rasterize`. Give it a color (`C`).
+1. Add a `Point Wrangle` node. Add a `Volume Rasterize Attributes` node and connect the output of `pointwrangle1` to its input. Select both nodes and click `Create network box` (`⇧O`). Name the network box `interior rasterize`. Give it a color (`C`).
 2. Connect the output of `nebula_interior` to the leftmost input of `pointwrangle1`.
 3. Set `pointwrangle1 > VEXpression:`:
 
@@ -76,3 +76,8 @@ Introducing noise to smooth edges.
     Then hit the plus icon for `Creates spare parameters for each unique call of ch()` (this will add the `Min` and `Max` parameters below). Set `Min: 0.001` and `Max: 0.003`.q
 4. On `volumerasterizeattributes1`, set `Attributes: density` and `Voxel Size: 0.004`
 5. This gets a nice flowing smoke effect, but on `pointwrangle1`, now change `@density=20;` which will bring out that dark shading.
+
+## Base
+
+1. Remove the connection between `nebula_interior` and `pointwrangle1` (this will cause the volume to disappear)
+2. Duplicate the entire `interior rasterize` network, and rename the copy to `base rasterize`.
