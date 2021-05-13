@@ -23,3 +23,10 @@ To improve some issues, like holes not showing, or extrusions with mismatched di
 1. `Extrude > Object > Offset` sets the size of the extrusion.
 2. Turn on `Display > Gouraud Shading (Lines)`
 3. To round the edges, on `Extrude`, set `Caps > Both Bevels > Size: 1`
+
+## Material
+
+1. In the Material Manager, click the `+` icon to create a new material
+2. Double-click the material to add some color
+3. Drag it on to the logo in the viewport
+4. Click the `Render View` icon (`⌘R`) to view the render
