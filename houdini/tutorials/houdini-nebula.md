@@ -81,4 +81,5 @@ Introducing noise to smooth edges.
 
 1. Remove the connection between `nebula_interior` and `pointwrangle1` (this will cause the volume to disappear)
 2. Duplicate the entire `interior rasterize` network, and rename the copy to `base rasterize`. Give the copy a new color (`C` with it selected, and click a color).
-3. Connect the output of `nebula_base` to the rightmost input of `pointwrangle2`
+3. Connect the output of `nebula_base` to the rightmost input of `pointwrangle2`.
+4. Add a color node between `pointwrangle2` and `volumerasterizeattributes2`.
