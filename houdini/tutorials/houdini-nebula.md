@@ -86,3 +86,5 @@ Introducing noise to smooth edges.
 5. Select `volumerasterizeattributes2`, and set `Attributes: density Cd`.
 6. Add a `Volume Visualization` and connect the output of `volumerasterizeattributes2` to its input.
 7. Select `volumevisualization3` and under `Smoke`, set `Density Field: density`, `Diffuse Field: Cd` (the volume should be pink now). Set `Density Scale: 1.7`.
+8. Add a `Merge` and connect the output of both `volumerasterizeattributes1` and `volumevisualization3` to its input.
+9. Connect `nebula_interior` to `pointwrangle1`.
