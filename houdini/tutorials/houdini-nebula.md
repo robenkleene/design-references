@@ -85,4 +85,4 @@ Introducing noise to smooth edges.
 4. Add a color node between `pointwrangle2` and `volumerasterizeattributes2`. Set the color to a pink preset.
 5. Select `volumerasterizeattributes2`, and set `Attributes: density Cd`.
 6. Add a `Volume Visualization` and connect the output of `volumerasterizeattributes2` to its input.
-7. Select `volumevisualization3` and under `Smoke`, set `Density Field: density`, `Diffuse Field: Cd` (the volume should be pink now)
+7. Select `volumevisualization3` and under `Smoke`, set `Density Field: density`, `Diffuse Field: Cd` (the volume should be pink now). Set `Density Scale: 1.7`.
