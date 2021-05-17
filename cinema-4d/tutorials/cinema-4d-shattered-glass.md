@@ -11,4 +11,4 @@
 
 1. Under the `Bend` icon in the toolbar, choose `Explosion FX` to add it to the scene.
 2. In the Object Manager, drag the `Explosion FX` under `Main`.
-3. Select `Explosion FX`, and under `Explosion`, set `Strength: 40`, `Decay: 70` (under `Strength`), `Variation: 55`, `Direction: Only Z`, `Decay: 75` and `Variation: 5` (under `Blast Time`), `Blast Range: 190`. Under `Cluster`, set `Thickness: 2`, `Min Polys: 1`, and `Max Polys: 2`.
+3. Select `Explosion FX`, and under `Explosion`, set `Strength: 40`, `Decay: 70` (under `Strength`), `Variation: 55`, `Direction: Only Z`, `Decay: 75` and `Variation: 5` (under `Blast Time`), `Blast Range: 190`. Under `Cluster`, set `Thickness: 2`, `Min Polys: 1`, and `Max Polys: 2`. Under `Rotation`, set `Speed: 445`, `Variation: 70` (below `Decay`), `Variation: 75` (below `Rotation Axis`).
