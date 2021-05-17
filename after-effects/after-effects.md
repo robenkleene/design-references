@@ -27,7 +27,7 @@ After Effects uses Society of Motion Picture and Television Engineers (SMPTE) by
 
 - Select "Composition > Save Frame As > File...", this will add it to the "Render Queue", then click "Render".
 - To export with Photoshop layers, simple select "Composition > Save Frame As > Photoshop Layers..." (this also exports instantly, without having to click "Render")
-
+- If the frame is too small relative to the composition size, that's probably because the composition is set to be scaled down. Change the `Composition Settings` to `Resolution: Full` to export full size.
 
 ## Preferences
 
