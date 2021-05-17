@@ -89,3 +89,8 @@ Introducing noise to smooth edges.
 8. Add a `Merge` and connect the output of both `volumerasterizeattributes1` and `volumevisualization3` to its input.
 9. Connect `nebula_interior` to `pointwrangle1`. Now when displaying the merge, both volumes should be visible.
 10. Select `volumevisualization3` and set `Density Scale: 0.52` and `Shadow Scale: 10`.
+
+## Clean Up
+
+1. Remove to the two input connections to `merge1`.
+2. Add a `Convert VDB` and connect the output of `interior rasterize > volumerasterizeattributes1` to its leftmost input.
