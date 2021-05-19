@@ -17,4 +17,4 @@
 
 1. Add a `Disc`. Set its `Object > 750` and `Coord. > P . Y: 325`. Right-click the disc and choose `Render Tags > Compositing`, toggle off `Seen by Camera`.
 2. Double-click the Material Manager to add a new material, double-click the material and uncheck everything except `Luminance`. Drag the `Mat` onto the `Disc` in the Object Manager.
-4. Double-click to create a second material, double-click the material and uncheck everything except `Color` and `Reflectance`. Set the color to black (`RGB: 0 0 0`). Choose `Gradient` from the `Texture` pulldown menu. Click `Gradient` to edit it. Set `Type: 2D - Circular`. Set the first stop color to `RGB: 50 50 50`, and the second stop color to black (`RGB: 0 0 0`).
+4. Double-click to create a second material, double-click the material and uncheck everything except `Color` and `Reflectance`. Set the color to black (`RGB: 0 0 0`). Choose `Gradient` from the `Texture` drop-down menu. Click `Gradient` to edit it. Set `Type: 2D - Circular`. Set the first stop color to `RGB: 50 50 50`, and the second stop color to black (`RGB: 0 0 0`).

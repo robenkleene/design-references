@@ -90,9 +90,10 @@ Introducing noise to smooth edges.
 9. Connect `nebula_interior` to `pointwrangle1`. Now when displaying the merge, both volumes should be visible.
 10. Select `volumevisualization3` and set `Density Scale: 0.52` and `Shadow Scale: 10`.
 
-## Clean Up
+## Fluid Base
 
 1. Remove to the two input connections to `merge1`.
 2. Add a `Convert VDB` and connect the output of `interior rasterize > volumerasterizeattributes1` to its leftmost input. Set its `Convert To: Polygons`, `Isovalue: 0.1`.
 3. Add a `File Cache` and name it `PfluidBase`. Connect the output of `convertvdb3` to its input. Set its `Valid Frame Range: Save Current Frame`.
 4. In `PfluidBase`, click `Save to Disk`. Toggle on `Load from Disk`, and disconnect the input connection from `convertvdb3`.
+5. Move `PfluidBase` out of the `interior rasterize` box and 
