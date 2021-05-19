@@ -96,4 +96,4 @@ Introducing noise to smooth edges.
 2. Add a `Convert VDB` and connect the output of `interior rasterize > volumerasterizeattributes1` to its leftmost input. Set its `Convert To: Polygons`, `Isovalue: 0.1`.
 3. Add a `File Cache` and name it `PfluidBase`. Connect the output of `convertvdb3` to its input. Set its `Valid Frame Range: Save Current Frame`.
 4. In `PfluidBase`, click `Save to Disk`. Toggle on `Load from Disk`, and disconnect the input connection from `convertvdb3`.
-5. Move `PfluidBase` out of the `interior rasterize` box and 
+5. Move `PfluidBase` out of the `interior rasterize` box and give it its own network box (`⇧O`).
