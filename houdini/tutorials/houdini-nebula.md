@@ -97,3 +97,7 @@ Introducing noise to smooth edges.
 3. Add a `File Cache` and name it `PfluidBase`. Connect the output of `convertvdb3` to its input. Set its `Valid Frame Range: Save Current Frame`.
 4. In `PfluidBase`, click `Save to Disk`. Toggle on `Load from Disk`, and disconnect the input connection from `convertvdb3`.
 5. Move `PfluidBase` out of the `interior rasterize` box and give it its own network box (`⇧O`). Name the network box `Geo base for Pfluid`.
+
+## Particle Fluid
+
+1. Go to the top `obj` level, and select `nebula_base_geo`, then from the toolbar, click `Particle Fluid > Emit Particle Fluid`.
