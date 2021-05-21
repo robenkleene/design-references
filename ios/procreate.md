@@ -9,9 +9,12 @@
 
 ## Grid
 
-There's no built-in grids in Procreate.
+- Toggle on with `Actions > Canvas > Drawing Guide`
+- Edit with `Actions > Canvas > Edit Drawing Guide`
 
-The work around is to use the `Texture > Grid` brush and to paint the whole canvas without lifting your finger.
+### Hack
+
+There's also a hack for making a grid with a brush, choose the `Texture > Grid` brush and to paint the whole canvas without lifting your finger.
 
 ## Layers
 
