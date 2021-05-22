@@ -100,4 +100,5 @@ Introducing noise to smooth edges.
 
 ## Particle Fluid
 
-1. Go to the top `obj` level, and select `nebula_base_geo`, then from the toolbar, click `Particle Fluid > Emit Particle Fluid`.
+1. Go to the top `obj` level, and select `nebula_base_geo`, then from the toolbar, click `Particle Fluid > Emit Particle Fluid`, then hit return to have it build a new network (this takes a few seconds).
+2. Go back to the top `obj` level

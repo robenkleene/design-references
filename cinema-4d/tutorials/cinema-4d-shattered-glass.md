@@ -27,4 +27,4 @@
 ## Ball Materials
 
 1. Double-click to create a third material, double-click the material and toggle on `Transparency`, set `Refraction: 1.1`. Drag `Mat.2` onto the big ball (`Main`).
-2. Create a fourth material, and under `Reflectance`, set `Layer Color > Color: 0 0 0`, and `Texture: Fresnel`.
+2. Create a fourth material, and under `Reflectance`, set `Layer Color > Color: 0 0 0`, and `Texture: Fresnel`. *This setting is pretty different from the tutorial, I played around a bit to get something with as much reflection as possible.*
