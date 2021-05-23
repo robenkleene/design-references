@@ -104,3 +104,4 @@ Introducing noise to smooth edges.
 2. Go back to the top `obj` level
 3. Delete the `particle_fluidinterior` node
 4. Double-click to enter the `particle_fluid` node, delete all the nodes except `import_particle` and `dopimport1`.
+5. Go back to the top `obj` level and select `particle_fluid` and `AutoDopNetwork` and group them by clicking the `Create network box` icon (`⇧O`).
