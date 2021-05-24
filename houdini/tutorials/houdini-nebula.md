@@ -105,3 +105,8 @@ Introducing noise to smooth edges.
 3. Delete the `particle_fluidinterior` node
 4. Double-click to enter the `particle_fluid` node, delete all the nodes except `import_particle` and `dopimport1`.
 5. Go back to the top `obj` level and select `particle_fluid` and `AutoDopNetwork` and group them by clicking the `Create network box` icon (`⇧O`). Give it a green color and name it `Particle fluid`.
+6. Double-click into `AutoDopNetwork`, select `flipfluidobject`, and set `Particle Separation: 0.05`.
+
+## Working With Blog
+
+1. Go back into `nebula_base_geo`, and move `create_surface`, `OUT_surface`, and `RENDER` into `Geo base for Pfluid`.
