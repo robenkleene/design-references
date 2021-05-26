@@ -110,4 +110,4 @@ Introducing noise to smooth edges.
 ## Working With Blog
 
 1. Go back into `nebula_base_geo`, and move `create_surface`, `OUT_surface`, and `RENDER` into `Geo base for Pfluid`.
-2. Select `create_surface` and set `Shell Thickness: 0.1`. `RMB` Voxel Size to break the connection (it should go from green to black). Set `Voxel Size: 0.01`.
+2. Select `create_surface` and set `Shell Thickness: 0.1`. `RMB` Voxel Size to break the connection (it should go from green to black). Set `Voxel Size: 0.01`, `Shell Thickness: 0.01`.
