@@ -107,7 +107,11 @@ Introducing noise to smooth edges.
 5. Go back to the top `obj` level and select `particle_fluid` and `AutoDopNetwork` and group them by clicking the `Create network box` icon (`⇧O`). Give it a green color and name it `Particle fluid`.
 6. Double-click into `AutoDopNetwork`, select `flipfluidobject`, and set `Particle Separation: 0.05`.
 
-## Working With Blog
+## Tweaks
 
 1. Go back into `nebula_base_geo`, and move `create_surface`, `OUT_surface`, and `RENDER` into `Geo base for Pfluid`.
-2. Select `create_surface` and set `Shell Thickness: 0.1`. `RMB` Voxel Size to break the connection (it should go from green to black). Set `Voxel Size: 0.002`, `Shell Thickness: 0.03`.
+2. Select `create_surface` and set `Shell Thickness: 0.1`. `RMB` Voxel Size to break the connection (it should go from green to black). Set `Voxel Size: 0.002`, `Shell Thickness: 0.03`. *Note these `Voxel Size` and `Shell Thickness` settings were skipped because they make the render time take minutes.* Toggle on `Output Fog`.
+
+## Fluid
+
+1. Go up a level to the `obj` level, and go into `AutoDopNetwork`.
