@@ -115,4 +115,4 @@ Introducing noise to smooth edges.
 ## Fluid
 
 1. Go up a level to the `obj` level, and go into `AutoDopNetwork`.
-2. Select the `flipsolver1`, and toggle on `Particle Motion > Behavior > Age Particles`.
+2. Select the `flipsolver1`, and toggle on `Particle Motion > Behavior > Age Particles`. Under `Vorticity`, and toggle on `Add Vorticity Attribute`, set `Vorticity Scale: 1000`. Under `Rest`, toggle on `Add Rest Attribute`. Under `Reseeding`, toggle of `Reseed Particles`.
