@@ -15,3 +15,9 @@
 
 1. Select the `Platonic`, and set `Object > Segments: 50`.
 2. Select the `Twist`, and set `Object > Angle: 330`.
+
+### Export
+
+1. `File > Export... > Wavefrom OBJ (*.obj)`
+
+## After Effects
