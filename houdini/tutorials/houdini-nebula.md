@@ -115,3 +115,4 @@ Introducing noise to smooth edges.
 ## Fluid
 
 1. Go up a level to the `obj` level, and go into `AutoDopNetwork`.
+2. Select the `flipsolver1`, and toggle on `Particle Motion > Behavior > Age Particles`.
