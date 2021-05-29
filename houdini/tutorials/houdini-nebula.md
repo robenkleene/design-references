@@ -120,3 +120,4 @@ Introducing noise to smooth edges.
 ## File Cache
 
 1. Go back to the `obj` level, and then go into `particle_fluid`.
+2. Add a `File Cache` node, and name it `particleFluid_A`.
