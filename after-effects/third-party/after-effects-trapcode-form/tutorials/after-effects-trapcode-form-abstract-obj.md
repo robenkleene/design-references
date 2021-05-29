@@ -24,3 +24,6 @@
 
 1. Create a new composition called `Abstract Object` using the `HDTV 1080 29.97` preset.
 2. Create a new black solid called `BG`.
+3. Create another new black solid called `Form`, and add `Trapcode Form` to it.
+4. Set `Form > Base Form > 3D Model`
+5. Drag `Object.obj` into the `Project` panel, then drag it from the `Project` panel into the 6. `Abstract Object` composition layers, and toggle off its visibility. Select the model under `Form > 3D Model Settings > Model`.
