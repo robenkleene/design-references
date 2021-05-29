@@ -121,3 +121,4 @@ Introducing noise to smooth edges.
 
 1. Go back to the `obj` level, and then go into `particle_fluid`.
 2. Add a `File Cache` node, and name it `particleFluid_A`.
+3. Select `import_particle`, and toggle off `Fields > Import` for `surface` (leave `Geometry` and `vel` toggled on)
