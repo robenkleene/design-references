@@ -21,3 +21,6 @@
 1. `File > Export... > Wavefrom OBJ (*.obj)`
 
 ## After Effects
+
+1. Create a new composition called `Abstract Object` using the `HDTV 1080 29.97` preset.
+2. Create a new black solid called `BG`.
