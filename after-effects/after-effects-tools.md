@@ -1,5 +1,9 @@
 # After Effects Tools
 
+## Zoom Tool
+
+- Hold `Z` to momentarily switch to the `Zoom Tool`, add `⌥` to zoom out instead of in.
+
 ## Rectangle Tool
 
 - Double-click the `Rectangle Tool` icon to fill the composition with a shape of that size.

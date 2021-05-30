@@ -1,7 +1,7 @@
 # Houdini Animation
 
 - To set a keyframe `⌥-click` a field in the sidebar.
-- Parameters with keyframes will have a green background color
+- Parameters with keyframes will have a green background color, to remove the keyframe, `RMB` the parameter and choose and choose `Keyfames > Remove Keyframe`
 - To remove a keyframe, `RMB` and choose `Keyframes > Remove Keyframe`
 
 ## Global Variables
