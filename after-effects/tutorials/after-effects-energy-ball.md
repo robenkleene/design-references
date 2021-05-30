@@ -6,3 +6,8 @@
 4. Under `Turbulent Noise`, set `Fractal Type: Turbulent Sharp`, and toggle on `Invert`. `⌥LMB` on the `Evolution` stopwatch to add an expression and enter `time * 500` (scrub through the composition here and see how the noise changes).
 5. Add a `Stylize > CC Glass` effect. Under `CC Glass`, under `Surface` set `Bump Map: None` and `Displacement: -200`.
 6. Add a `Perspective > CC Sphere` effect. Set the `CC Sphere > Rotation > Radius: 299`. Set `CC Sphere > Light > Light Height: 90`.
+
+## Movement
+
+1. Create a new black solid layer and call it `Sphere Matte`.
+2. Use the `Ellipse Tool` to draw a circle bigger than
