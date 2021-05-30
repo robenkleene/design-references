@@ -15,6 +15,7 @@ Turn on "View" -> "Show Corner Widget" then hover near a corner with the "Direct
 - `⇧C`: Anchor Point Tool, to add handles
 - `A`: Direct Selection Tool, to select a point
 - `V`: Selection Tool, to select the whole shape
+- To draw from an existing anchor point (e.g., to avoid deleting the existing anchor point) simply deselect the existing path first
 
 ### Notes
 
