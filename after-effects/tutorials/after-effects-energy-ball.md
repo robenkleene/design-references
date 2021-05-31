@@ -10,4 +10,4 @@
 ## Movement
 
 1. Create a new black solid layer and call it `Sphere Matte`.
-2. Use the `Ellipse Tool` to draw a circle bigger than
+2. Use the `Ellipse Tool` to draw a mask (a mask will automatically be created). To center the mask, buttons under `Align` in the side bar.
