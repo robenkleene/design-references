@@ -125,3 +125,4 @@ Introducing noise to smooth edges.
 4. Select `particleFluid_A` and set `Save to File > Start/End/Inc: 1 6 1` (`RMB` and choose `Keyframes > Remove Keyframe` to make the end editable).
 5. Click `Save to Disk` *This doesn't appear to have worked properly, the outputted files are too small*
 6. Delete the connection between `import_particle` and `particleFluid_A`, and toggle on `Load from Disk`
+7. Move to frame 6 *Because the previous step has failed, frame 6 is empty*
