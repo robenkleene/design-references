@@ -31,3 +31,4 @@
 ### Camera
 
 1. Create a camera using `Layer > New > Camera...`.
+2. Zoom in the camera to frame the object nicely using the camera tools (`C`)
