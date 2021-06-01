@@ -11,4 +11,4 @@
 
 1. Create a new black solid layer and call it `Sphere Matte`.
 2. Use the `Ellipse Tool` to draw a mask (a mask will automatically be created). To center the mask, buttons under `Align` in the side bar.
-3. Move the playhead to `4s`, and create a keyframe for `Sphere Matte > Masks > Mask 1 > Mask Path`. Move the playhead to `0s`, 
+3. Move the playhead to `4s`, and create a keyframe for `Sphere Matte > Masks > Mask 1 > Mask Path`. Move the playhead to `0s`, and hit `⌘T` to transform to the mask to the smallest size possible. *How do I scale the mask from the center?*

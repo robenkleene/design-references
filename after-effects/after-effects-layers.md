@@ -53,7 +53,7 @@ Holding shift, and then hitting multiple of these keys in succession will reveal
 ### Transforming
 
 - `W`: Rotation tool
-- `⌘⌥HOME`: Center the anchor point on a layer (if when you move a layer, it's also changing shape, then you probably need to do this)
+- `⌘⌥HOME` / `Layer > Transform > Center Anchor Point in Layer Content`: Center the anchor point on a layer (if when you move a layer, it's also changing shape, then you probably need to do this)
 
 #### Fitting a Layer to a Composition
 
