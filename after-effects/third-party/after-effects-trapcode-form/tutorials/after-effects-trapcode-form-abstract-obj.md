@@ -33,4 +33,4 @@
 1. Create a camera using `Layer > New > Camera...`.
 2. Zoom in the camera to frame the object nicely using the camera tools (`C`)
 3. Change the particle density under `Form > Base Form > 3D Model Settings > Particle Density`
-4. Size up the model appropriately under `Form > Base Form > Size XYZ`. Under `Particle` set  `Sphere Feather: 10`, `Size: 0.5`, `Size Random: 25%`, `Opacity: 25%`.
+4. Size up the model appropriately under `Form > Base Form > Size XYZ`. Under `Particle` set  `Sphere Feather: 10`, `Size: 0.5`, `Size Random: 25%`, `Opacity: 25%`, set the `Color` to a light cyan.
