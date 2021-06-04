@@ -34,4 +34,9 @@
 2. Zoom in the camera to frame the object nicely using the camera tools (`C`)
 3. Change the particle density under `Form > Base Form > 3D Model Settings > Particle Density`
 4. Size up the model appropriately under `Form > Base Form > Size XYZ`. Under `Particle` set  `Sphere Feather: 10`, `Size: 0.5`, `Size Random: 25%`, `Opacity: 25%`, set the `Color` to a light cyan. Under `Fractal Field`, set `Affect Size: 1`, `Affect Opacity: 1`, `Displace: 25`, `Flow Y: 10`, `Flow Evolution: 5`.
-5. Under `Base Form`, play with the X, Y, and Z rotation to find an interesting angle.
+5. Under `Base Form`, play with the X, Y, and Z rotation to find an interesting angle. Used `Z Rotation: 125`.
+6. Use the camera tools to orbit and dolly to find an interesting camera angle.
+
+#### Depth of Field
+
+1. Select the camera and hit `AA` to view the camera options. Set `Depth of Field: On`, `Aperture: 50`.
