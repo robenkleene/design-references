@@ -39,4 +39,4 @@
 
 #### Depth of Field
 
-1. Select the camera and hit `AA` to view the camera options. Set `Depth of Field: On`, `Aperture: 50`.
+1. Select the camera and hit `AA` to view the camera options. Set `Depth of Field: On`, `Aperture: 50`. Play with the `Focus Distance` until there's something in focus. Using `Focus Distance: 450`.
