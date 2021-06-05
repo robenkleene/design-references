@@ -39,5 +39,6 @@
 
 #### Depth of Field
 
-1. Select the camera and hit `AA` to view the camera options. Set `Depth of Field: On`, `Aperture: 50`. Play with the `Focus Distance` until there's something in focus. Using `Focus Distance: 450`.
+1. Select the camera and hit `AA` to view the camera parameters. Set `Depth of Field: On`, `Aperture: 50`. Play with the `Focus Distance` until there's something in focus. Using `Focus Distance: 450`.
 2. With the camera selected, hit `P` to bring up the position. Animate the position a bit over four seconds to give a little 3D perspective.
+3. In the camera parameters again (`AA` with the camera selected), set `Aperture: 75` and `Blur Level 120%`.
