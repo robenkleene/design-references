@@ -17,3 +17,15 @@ If your shape uses strokes, the strokes need to be converted to the path itself 
 Repeating objects have to be converted to simple shapes.
 
 - `Object > Expand...`
+
+## Merge
+
+To move all the paths into one group.
+
+- `Pathfinder > Merge`
+
+## Unite
+
+Combine shapes into one shape.
+
+- `Pathfinder > Unite`
