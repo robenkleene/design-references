@@ -31,3 +31,15 @@
 ### Camera
 
 1. Create a camera using `Layer > New > Camera...`.
+2. Zoom in the camera to frame the object nicely using the camera tools (`C`)
+3. Change the particle density under `Form > Base Form > 3D Model Settings > Particle Density`
+4. Size up the model appropriately under `Form > Base Form > Size XYZ`. Under `Particle` set  `Sphere Feather: 10`, `Size: 0.5`, `Size Random: 25%`, `Opacity: 25%`, set the `Color` to a light cyan. Under `Fractal Field`, set `Affect Size: 1`, `Affect Opacity: 1`, `Displace: 25`, `Flow Y: 10`, `Flow Evolution: 5`.
+5. Under `Base Form`, play with the X, Y, and Z rotation to find an interesting angle. Used `Z Rotation: 125`.
+6. Use the camera tools to orbit and dolly to find an interesting camera angle.
+
+#### Depth of Field
+
+1. Select the camera and hit `AA` to view the camera parameters. Set `Depth of Field: On`, `Aperture: 50`. Play with the `Focus Distance` until there's something in focus. Using `Focus Distance: 450`.
+2. With the camera selected, hit `P` to bring up the position. Animate the position a bit over four seconds to give a little 3D perspective.
+3. In the camera parameters again (`AA` with the camera selected), set `Aperture: 75` and `Blur Level 120%`.
+4. Animate the `Focus Distance` so we start out focused on the close particles, and increase it to focus on the farther pixels at four seconds.
