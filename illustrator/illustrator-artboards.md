@@ -12,8 +12,7 @@ Artboard settings typically set the `X` and `Y` to half of the `W` and `H` respe
 
 ### Simulate Colored Paper
 
-Give the artboard a background color by toggling on `Simulate Colored Paper` under `File > Document Setup...` (or `Document Setup` in the `Properties` panel when nothing is selected), then changing the background color with the top color well.
-
+- Give the artboard a background color by toggling on `Simulate Colored Paper` under `File > Document Setup...` (or `Document Setup` in the `Properties` panel when nothing is selected), then changing the background color with the top color well.
 - Strangely, the background color doesn't immediately update, but it does update if you enter and then exit Artboard Editing Mode (`⇧O`, or select "Edit Artboard" from the Properties panel, then `ESC`).
 - Note that using this method the background color cannot be exported! Use the layer method below to get a color that can be exported.
 
