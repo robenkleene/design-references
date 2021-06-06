@@ -47,4 +47,4 @@
 ### Tweaks
 
 1. Select `Form` and set `Effect Controls > Particle > Size: 0.4`
-2. Add an `Effect > Stylize > Glow` to `Form`
+2. Add an `Effect > Stylize > Glow` to `Form`, under `Effect Controls` set `Glow Threshold: 98`, `Glow Intensity: 0.1`
