@@ -46,4 +46,5 @@
 
 ### Tweaks
 
-- Select `Form` and set `Effect Controls > Particle > Size: 0.4`
+1. Select `Form` and set `Effect Controls > Particle > Size: 0.4`
+2. Add an `Effect > Stylize > Glow` to `Form`
