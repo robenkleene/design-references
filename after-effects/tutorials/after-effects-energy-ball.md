@@ -14,3 +14,4 @@
 3. Move the playhead to `4s`, and create a keyframe for `Sphere Matte > Masks > Mask 1 > Mask Path`. Move the playhead to `0s`, and hit `⌘T` (or double-click) to transform to the mask to the smallest size possible (holding `⇧` and `⌘`, to constrain proportions and size from the center).
 4. Set `Mask Feather: 100.0, 100.0`.
 5. Drag a `Turbulent Displace` effect to the `Sphere Matte`. Under `Effect Controls`, `⌥RMB` the `Evolution` to add a `time * 100` expression. Set `Turbulent Displace > Amount > 30`.
+6. Move the `Sphere Matte` layer below the `Sphere Noise` layer.
