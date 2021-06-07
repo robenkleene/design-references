@@ -16,3 +16,7 @@
 5. Drag a `Turbulent Displace` effect to the `Sphere Matte`. Under `Effect Controls`, `⌥RMB` the `Evolution` to add a `time * 100` expression. Set `Turbulent Displace > Amount > 30`.
 6. Move the `Sphere Matte` layer below the `Sphere Noise` layer, and toggle off the its visibility.
 7. Pre-Compose the `Sphere Matte` layer by selecting it and choosing `Layer > Pre-compose...` (`⇧⌘C`), choose `Move all attributes...`, name it `Sphere Matte Comp`, and hit `Ok`.
+
+## Matte
+
+1. Add a `Set Matte` effect to the `Sphere Noise`.
