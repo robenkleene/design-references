@@ -43,3 +43,8 @@
 2. With the camera selected, hit `P` to bring up the position. Animate the position a bit over four seconds to give a little 3D perspective.
 3. In the camera parameters again (`AA` with the camera selected), set `Aperture: 75` and `Blur Level 120%`.
 4. Animate the `Focus Distance` so we start out focused on the close particles, and increase it to focus on the farther pixels at four seconds.
+
+### Tweaks
+
+1. Select `Form` and set `Effect Controls > Particle > Size: 0.4`
+2. Add an `Effect > Stylize > Glow` to `Form`, under `Effect Controls` set `Glow Threshold: 98`, `Glow Intensity: 0.1`
