@@ -19,4 +19,4 @@
 
 ## Matte
 
-1. Add a `Set Matte` effect to the `Sphere Noise`.
+1. Add a `Set Matte` effect to the `Sphere Noise`. Drag the `Set Matte` before the `CC Sphere`
