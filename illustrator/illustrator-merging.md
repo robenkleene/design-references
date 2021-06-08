@@ -2,6 +2,8 @@
 
 Merging various kinds of shapes into one path.
 
+- `Object > Path > Join` / `⌘J`: This attempts to join paths
+
 ## Remove Fills
 
 Before simplifying, make sure fills are only being used where they should be. The easiest way to do this is to turn on `Simulate Colored Paper` under `File > Document Setup...` (then choose a color in the top color well, sometimes the color doesn't take effect until also editing then exiting the artboard).
