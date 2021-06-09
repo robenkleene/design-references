@@ -2,7 +2,11 @@
 
 Merging various kinds of shapes into one path.
 
-- `Object > Path > Join` / `⌘J`: This attempts to join paths
+- Once the geometry has been cleaned up, a simple `Pathfinder > Merge` should be able to convert it to a single shape.
+
+### Other Options
+
+- `Object > Path > Join` / `⌘J`: This also attempts to join paths?
 
 ## Remove Fills
 
