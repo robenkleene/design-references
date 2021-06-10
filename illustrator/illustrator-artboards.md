@@ -16,6 +16,10 @@ Artboard settings typically set the `X` and `Y` to half of the `W` and `H` respe
 - Strangely, the background color doesn't immediately update, but it does update if you enter and then exit Artboard Editing Mode (`⇧O`, or select "Edit Artboard" from the Properties panel, then `ESC`).
 - Note that using this method the background color cannot be exported! Use the layer method below to get a color that can be exported.
 
+### Transparent Background
+
+- To just quickly make the transparent background, you don't have to change the artboard settings at all, just choose `View > Show Transparency Grid` (`⇧⌘D`).
+
 ### Layer
 
 You can of course also just make a layer the same size as the artboard and use that to make a background. This approach has a couple of advantages:
