@@ -20,3 +20,8 @@
 ## Matte
 
 1. Add a `Set Matte` effect to the `Sphere Noise`. Drag the `Set Matte` before the `CC Sphere`. Set its `Take Matte From Layer: Sphere Matte Comp`.
+
+### Making Matte More Organic
+
+1. At `4s` toggle on the key frame for the `Turbulent Noise`, `Contrast: 100` and `Brightness: 0.0`.
+2. Move to frame `0` and temporarily disable the `Set Matte` by toggling the `fx` button. Set the `Turbulent Noise` `Contrast: 177.0` and `Brightness: -96.0`.
