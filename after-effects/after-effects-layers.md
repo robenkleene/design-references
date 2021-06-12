@@ -33,6 +33,12 @@ Show / hide specific properties:
 
 Holding shift, and then hitting multiple of these keys in succession will reveal all of those properties (e.g., `⇧P ⇧R` will show position and velocity). Holding `⌥` will add a keyframe for that property.
 
+## Columns
+
+The visible columns in the layers panel can be changed by right-clicking the header, some options that can be toggled on for each layer:
+
+- `Mode`: Blend modes
+
 ### Tips
 
 - Often the fastest way to edit properties is to use the search field above the layers panel (`⌘F`). Here's what the workflow looks like:
