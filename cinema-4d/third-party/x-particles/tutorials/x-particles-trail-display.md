@@ -5,3 +5,4 @@
 3. Move the `xpEmitter` out of the box so it's pointing from outside into the box
 4. Set `xpFlowField > Display > Type: Trail`
 5. Set `xpFlowField > Flow: Surface Flow`
+6. Set `xpFlowField > Cell Size: 16`
