@@ -6,3 +6,5 @@
 4. Set `xpFlowField > Display > Type: Trail`
 5. Set `xpFlowField > Flow: Surface Flow`
 6. Set `xpFlowField > Cell Size: 16`
+7. Set `xpFlowField > Flow: Turbulence`
+8. Disable the `xpEmitter` by toggling it off

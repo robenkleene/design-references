@@ -25,4 +25,4 @@
 
 1. At `4s` toggle on the key frame for the `Turbulent Noise`, `Contrast: 100` and `Brightness: 0.0`.
 2. Move to frame `0` and temporarily disable the `Set Matte` by toggling the `fx` button. Set the `Turbulent Noise` `Contrast: 177.0` and `Brightness: -50.0`.
-3. Duplicate the `Sphere Noise` layer (`⌘D`), change the second layers `Blend Mode` to `Add`
+3. Duplicate the `Sphere Noise` layer (`⌘D`), rename the layer to `Noise Highlights`. Change the second layers `Blend Mode` to `Add`. Under `Effect Controls > Transform`, set `Offset Turbulence: 1549.0, 540.0` and `Scale: 132`.
