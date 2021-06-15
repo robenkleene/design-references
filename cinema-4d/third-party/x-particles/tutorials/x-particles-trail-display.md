@@ -8,3 +8,4 @@
 6. Set `xpFlowField > Cell Size: 16`
 7. Set `xpFlowField > Flow: Turbulence`
 8. Disable the `xpEmitter` by toggling it off
+9. Under `xpFlowField > Object > Layer Options`, set `Scale: 45.7` and `Frequency: 62.57`
