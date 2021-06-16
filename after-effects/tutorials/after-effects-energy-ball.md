@@ -28,3 +28,8 @@
 3. Duplicate the `Sphere Noise` layer (`⌘D`), rename the layer to `Noise Highlights`. Change the second layers `Blend Mode` to `Add`. Under `Effect Controls > Transform`, set `Offset Turbulence: 1549.0, 540.0` and `Scale: 132`.
 4. Toggle off the `Sphere Noise` layer for now
 5. With `Sphere Noise` selected, hit `U` to reveal the key frames and then `K` to jump to the key frame at `4s`, then under `Effect Controls > Turbulence Noise`, set `Contrast: 145` and `Brightness: 4`.
+6. Toggle back on `Sphere Noise`
+
+## Shine
+
+1. Duplicate the `Noise Highlights` layer
