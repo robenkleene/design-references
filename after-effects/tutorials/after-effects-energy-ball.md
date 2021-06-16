@@ -32,4 +32,4 @@
 
 ## Shine
 
-1. Duplicate the `Noise Highlights` layer
+1. Duplicate the `Noise Highlights` layer, name the duplicate `Noise Highlights Shine`.
