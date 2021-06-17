@@ -15,6 +15,12 @@
 ## Batch
 
 - `File > Automate > Batch`
+- The `Override Action "Save As" Commands` toggle under the `Batch` dialog is a bit confusing, what this does is take any existing recorded `Save` steps in the action and override just the filename in that save command.
+
+An action setup to export as PNG:
 
 ![Action](assets/photoshop-action.png)
+
+Batch settings to run the above action:
+
 ![Batch](assets/photoshop-batch.png)
