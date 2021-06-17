@@ -13,3 +13,4 @@
 11. Set to `300` Frames
 12. Toggle off the `xpFlowField`
 13. Select `Dynamics` in the Object Manager, and choose `Object > Dynamics Object > xpExplosiaFX`
+14. Select the `xpExplosiaFX` and set `Solver > Voxel Size: 9.1`
