@@ -33,4 +33,4 @@
 ## Shine
 
 1. Duplicate the `Noise Highlights` layer, name the duplicate `Noise Highlights Shine`.
-2. Apply a `CC Radial Fast Blur` to `Noise Highlights Shine`. Set `Effect Controls > CC Radial Fast Flur > Zoom: Brightest`.
+2. Apply a `CC Radial Fast Blur` to `Noise Highlights Shine`. Under `Effect Controls > CC Radial Fast Blur`, set `Zoom: Brightest`, `Amount: 79`
