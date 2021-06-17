@@ -11,3 +11,5 @@
 9. Under `xpFlowField > Object > Layer Options`, set `Scale: 45.7` and `Frequency: 62.57`
 10. Turn back on the `xpEmitter`
 11. Set to `300` Frames
+12. Toggle off the `xpFlowField`
+13. Select `Dynamics` in the Object Manager, and choose `Object > Dynamics Object > xpExplosiaFX`
