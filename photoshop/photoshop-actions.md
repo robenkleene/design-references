@@ -11,3 +11,10 @@
 1. Set your background color (`D` sets the default colors, which is white for the background)
 2. Choose `Layer > New > Layer...`
 3. Choose `Layer > New > Background from Layer...`
+
+## Batch
+
+- `File > Automate > Batch`
+
+![Action](assets/photoshop-action.png)
+![Batch](assets/photoshop-batch.png)
