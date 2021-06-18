@@ -14,3 +14,4 @@
 12. Toggle off the `xpFlowField`
 13. Select `Dynamics` in the Object Manager, and choose `Object > Dynamics Object > xpExplosiaFX`
 14. Select the `xpExplosiaFX` and set `Solver > Voxel Size: 9.1`
+15. Add a `Platonic` and scale it down so it sits at the bottom of the `xpSystem` cube. With the `Platonic` selected, from the Object Manager menu, choose `Tags > X-Particles Tags > xpExplosiaFX Source`

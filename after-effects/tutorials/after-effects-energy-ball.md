@@ -34,3 +34,7 @@
 
 1. Duplicate the `Noise Highlights` layer, name the duplicate `Noise Highlights Shine`.
 2. Apply a `CC Radial Fast Blur` to `Noise Highlights Shine`. Under `Effect Controls > CC Radial Fast Blur`, set `Zoom: Brightest`, `Amount: 79`
+
+## Flickering
+
+1. Add a new solid layer on top of the other layers and name it `Light Flare`.
