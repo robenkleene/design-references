@@ -1,5 +1,5 @@
 # Cinema 4D Cineware
 
-1. Add a cube
-2. For this tutorial, set `Preferences > Units > Units Display: Inches`
-3. Select the `Cube` and under `Object`, set `Size: 70 70 70` and set `Fillet Radius: 1`
+1. For this tutorial, set `Preferences > Units > Units Display: Inches`
+2. Add a cube, and under `Object`, set `Size: 70 70 70` and set `Fillet Radius: 1`
+4. Add a Camera, and under `Coord.`, set `Size P: 0 0 0`
