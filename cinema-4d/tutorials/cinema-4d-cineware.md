@@ -4,3 +4,4 @@
 2. Add a Cube, and under `Object`, set `Size: 70 70 70` and set `Fillet Radius: 1`
 3. Add a Camera, and under `Coord.`, set `P: 0 400 0`, and `R: 0 -90 0`
 4. Click the Camera's view finder icon in the Object Manager to view through the camera, it should be viewing straight down on the object
+5. Add a plane
