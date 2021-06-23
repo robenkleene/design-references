@@ -45,5 +45,5 @@
 
 1. Add a `Generate > Lens Flare` effect to the `Light Flare` layer
 2. Move the center of the `Lens Flare` to the center of the composition
-3. Set the `Light Flare` layers blend mode to `Add`, and set `Flare Brightness: 65%`
-4. Set a key frame for the `Flare Brightness` at `3s`
+3. Set the `Light Flare` layers blend mode to `Add`, and set `Flare Brightness: 65`
+4. Set a key frame for the `Flare Brightness` at `3s`, move the playhead to `0s` and set the `Flare Brightness: 0`
