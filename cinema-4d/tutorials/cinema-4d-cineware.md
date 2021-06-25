@@ -7,3 +7,5 @@
 5. Add a plane and scale it up so it fills the camera view vertically
 6. Switch to the four quadrant view (`Panel > All Views` or `F5`) and drag the plane backwards in the front view so it's not intersecting the cube
 7. Rename the `Plane` to `Floor`
+8. Drag the `Cube` to the top of the Object Manager, so the order is `Cube`, `Floor`, `Camera`
+9. Set the `Cube` `Coord. > R . B: 45`
