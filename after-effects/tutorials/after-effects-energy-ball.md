@@ -48,3 +48,7 @@
 3. Set the `Light Flare` layers blend mode to `Add`, and set `Flare Brightness: 65`
 4. Set a key frame for the `Flare Brightness` at `3s`, move the playhead to `0s` and set the `Flare Brightness: 0`
 5. Add an expression to the `Lens Flare` brightness `wiggle(8, .2)`
+
+## Energy Diffusion
+
+1. Duplicate the `Noise Highlights` layer and drag it just underneath `Light Flare`
