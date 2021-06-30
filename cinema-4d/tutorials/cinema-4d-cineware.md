@@ -17,3 +17,4 @@
 1. Under `Spline Pen`, insert a `Rectangle`
 2. Hit `R` for rotate and rotate the rectangle 90 degrees
 3. Under `Rectangle > Object > Object Properties`, set `Width: 140` and `Height: 140`
+4. Duplicate the `Rectangle`
