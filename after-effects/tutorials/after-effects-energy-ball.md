@@ -52,4 +52,4 @@
 ## Energy Diffusion
 
 1. Duplicate the `Noise Highlights` layer, rename it to `Energy Diffusion` and drag it just underneath `Light Flare`
-2. Set the `Energy Diffusion > Effect Controls > CC Sphere > Radius: 349`
+2. Set the `Energy Diffusion' > Effect Controls > CC Sphere > Radius: 349`
