@@ -1,7 +1,8 @@
 # Cinema 4D
 
 - `⇧C`: Show the commander to type commands
-- `v`: Bring up radial menu, including an option to switch between open projects
+- `V`: Bring up radial menu, including an option to switch between open projects
+- To duplicate an object, just use `⌘C ⌘V`
 
 ## Transport
 
