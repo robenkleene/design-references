@@ -17,4 +17,5 @@
 1. Under `Spline Pen`, insert a `Rectangle`
 2. Hit `R` for rotate and rotate the rectangle 90 degrees
 3. Under `Rectangle > Object > Object Properties`, set `Width: 140` and `Height: 140`
-4. Duplicate the `Rectangle`, and set the duplicate to `Width: 5` and `Height: 5`
+4. Duplicate the `Rectangle`, and set the duplicate to `Width: 5` and `Height: 5`, toggle on `Rounding`, and set `Radius: 0.4`.
+5. Add an `Extrude > Sweep`, and drag `Rectangle` and `Rectangle.1` to be children of it
