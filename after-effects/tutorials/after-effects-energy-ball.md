@@ -53,4 +53,4 @@
 
 1. Duplicate the `Noise Highlights` layer, rename it to `Energy Diffusion` and drag it just underneath `Light Flare`
 2. Under `Energy Diffusion > Effect Controls`, set `CC Sphere > Radius: 334`, `Turbulent Noise > Contrast: 188`, `Turbulent Noise > Brightness: 16`, `Transform > Scale: 76`.
-3. With `Energy Diffusion` selected, use the `Ellipse Tool` to draw an `Ellipse` from the center of the sphere to near the outer edge (hold `⌘` and `⇧` to size from the center and constrain proportions, this should create a `Mask` under `Energy Diffusion > Masks`).
+3. With `Energy Diffusion` selected, use the `Ellipse Tool` to draw an `Ellipse` from the center of the sphere to near the outer edge (hold `⌘` and `⇧` to size from the center and constrain proportions, this should create `Mask 1` under `Energy Diffusion > Masks`). Change the `Mask 1` mode to `Subtract`.
