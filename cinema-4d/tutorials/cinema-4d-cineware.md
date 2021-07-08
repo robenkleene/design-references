@@ -21,3 +21,5 @@
 5. Add an `Extrude > Sweep`, and drag `Rectangle` and `Rectangle.1` to be children of it, rename `Rectangle` to `Outer`. (`Outer` is providing the shape, and `Rectangle.1` is providing the width.)
 6. Turn on `Display > Gouraud Shading (Lines)`
 7. Select `Sweep` and click `Cloner`. Drag `Sweep` under the `Cloner`. Under `Cloner > Object`, set `Mode: Radial`, `Count: 5`, `Plane: XY`.
+8. Under `Cloner > Object`, set `End Angle: 0`
+9. `⌘-drag` a duplicate of `Cloner > Sweep` out to above `Cloner`.
