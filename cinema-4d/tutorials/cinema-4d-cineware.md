@@ -29,3 +29,4 @@
 ## Animation
 
 1. Change the total frames to `400`
+2. Turn on `Autokeying` (`⌘F9`)
