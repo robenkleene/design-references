@@ -25,3 +25,7 @@
 9. `⌘-drag` a duplicate of `Cloner > Sweep` out to above `Cloner`. In the `Sweep` copy, scale the `Outer` a bit (to around `128 in`), and set the `Rectangle.1 > Object > Width: 13`.
 10. Rename `Sweep` to `Matte`
 11. Drag the `Matte` under `Sweep > Outer` (this is so the `Matte` will animate together with the `Sweep`)
+
+## Animation
+
+1. Change the total frames to `400`
