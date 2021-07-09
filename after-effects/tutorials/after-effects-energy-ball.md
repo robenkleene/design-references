@@ -55,3 +55,5 @@
 2. Under `Energy Diffusion > Effect Controls`, set `CC Sphere > Radius: 334`, `Turbulent Noise > Contrast: 188`, `Turbulent Noise > Brightness: 16`, `Transform > Scale: 76`.
 3. With `Energy Diffusion` selected, use the `Ellipse Tool` to draw an `Ellipse` from the center of the sphere to near the outer edge (hold `⌘` and `⇧` to size from the center and constrain proportions, this should create `Mask 1` under `Energy Diffusion > Masks`). Change the `Mask 1` mode to `Subtract`.
 4. Under `Energy Diffusion > Mask 1`, set `Mask Feather: 89` and `Mask Expansion: 85`.
+5. At `4s`, turn on the keyframe for `Energy Diffusion > Mask 1 > Mask Path`
+6. Go to `1s`, and with the `Energy Diffusion > Mask 1 > Mask Path` selected, transform the mask path (`⌘T`) to start out small.

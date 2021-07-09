@@ -30,4 +30,5 @@
 
 1. Change the total frames to `400`
 2. Turn on `Autokeying` (`⌘F9`)
+3. Move the playhead to frame `0`, and record a key frame (`F9`)
 3. Move the playhead to frame`40`, and under `Cube > Coord.`, set `R . H: -10`, `R . P: 15`, `R . P: 19`
