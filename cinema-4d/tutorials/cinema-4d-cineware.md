@@ -33,3 +33,4 @@
 3. Move the playhead to frame `0`, and record a key frame (`F9`)
 4. Move the playhead to frame `40`, and under `Cube > Coord.`, set `R . H: -10`, `R . P: 15`, `R . P: 19`
 4. Move the playhead to frame `90`, and under `Cube > Coord.`, set `R . H: -35`, `R . P: 45`, `R . P: -45`
+4. Move the playhead to frame `120`, and under `Cube > Coord.`, set `R . H: -50`, `R . P: 12`, `R . P: -90`
