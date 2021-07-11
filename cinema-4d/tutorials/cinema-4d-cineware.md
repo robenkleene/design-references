@@ -31,9 +31,16 @@
 
 1. Change the total frames to `400`
 2. Turn on `Autokeying` (`⌘F9`)
-3. Move the playhead to frame `0`, and record a key frame (`F9`)
-4. Move the playhead to frame `40`, and under `Cube > Coord.`, set `R . H: -10`, `R . P: 15`, `R . P: 19`
-5. Move the playhead to frame `90`, and under `Cube > Coord.`, set `R . H: -35`, `R . P: 45`, `R . P: -45`
-6. Move the playhead to frame `120`, and under `Cube > Coord.`, set `R . H: -50`, `R . P: 12`, `R . P: -90`
-7. Move the playhead to frame `150`, and under `Cube > Coord.`, set `R . H: -60`, `R . P: -25`, `R . P: -125`
-8. Move the playhead to frame `210`, and under `Cube > Coord.`, set `R . H: 0`, `R . P: -90`, `R . P: -90`
+
+### Cube
+
+1. Move the playhead to frame `0`, and record a key frame (`F9`)
+2. Move the playhead to frame `40`, and under `Cube > Coord.`, set `R . H: -10`, `R . P: 15`, `R . P: 19`
+3. Move the playhead to frame `90`, and under `Cube > Coord.`, set `R . H: -35`, `R . P: 45`, `R . P: -45`
+4. Move the playhead to frame `120`, and under `Cube > Coord.`, set `R . H: -50`, `R . P: 12`, `R . P: -90`
+5. Move the playhead to frame `150`, and under `Cube > Coord.`, set `R . H: -60`, `R . P: -25`, `R . P: -125`
+6. Move the playhead to frame `210`, and under `Cube > Coord.`, set `R . H: 0`, `R . P: -90`, `R . P: -90`
+
+### Frame
+
+1. Move the playhead to frame `0`, and under `Frame > Object`, toggle on keyframes for `Start Angle` and `End Angle`.

@@ -57,4 +57,8 @@
 4. Under `Energy Diffusion > Mask 1`, set `Mask Feather: 89` and `Mask Expansion: 85`.
 5. At `4s`, turn on the keyframe for `Energy Diffusion > Mask 1 > Mask Path`
 6. Go to `1s`, and with the `Energy Diffusion > Mask 1 > Mask Path` selected, transform the mask path (`⌘T`) to start out small.
-7. Set `Energy Diffusion > Effect Controls > Turbulent Noise > Contrast: 240`
+7. At `4s`, set `Energy Diffusion > Effect Controls > Turbulent Noise > Contrast: 240`
+
+## Rim
+
+1. Add a new solid named `Sphere Rim`, and drag it below the `Light Flare` layer
