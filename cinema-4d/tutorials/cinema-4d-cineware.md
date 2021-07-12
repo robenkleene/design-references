@@ -43,4 +43,4 @@
 
 ### Frame
 
-1. Move the playhead to frame `0`, and under `Frame > Object`, toggle on keyframes for `Start Angle` and `End Angle`.
+1. Move the playhead to frame `0`, and under `Frame > Object`, toggle on keyframes for `Start Angle` and `End Angle`. Under `Frame > Coord.`, toggle on keyframes for `S . X`, `S . Y`, and `S . Z`.
