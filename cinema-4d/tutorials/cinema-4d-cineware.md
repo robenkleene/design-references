@@ -43,4 +43,5 @@
 
 ### Frame
 
-1. Move the playhead to frame `0`, and under `Frame > Object`, toggle on keyframes for `Start Angle` and `End Angle`. Under `Frame > Coord.`, toggle on keyframes for `S . X`, `S . Y`, and `S . Z`, also `R . X`, `R . Y`, and `R . Z`. Set `R . H: -90`
+1. Move the playhead to frame `0`, and under `Frame > Object`, toggle on keyframes for `Start Angle` and `End Angle`. Under `Frame > Coord.`, toggle on keyframes for `S . X`, `S . Y`, and `S . Z`, also `R . X`, `R . Y`, and `R . Z`. Set `Frame > Coord. > R . H: -90`.
+2. Move to frame `50` and under `Frame > Object`, set `Start Angle: 135`, and `End Angle: 0` (actually enter `0` so it creates a keyframe)
