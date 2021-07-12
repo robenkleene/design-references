@@ -62,3 +62,5 @@
 ## Rim
 
 1. Add a new solid named `Sphere Rim`, and drag it below the `Light Flare` layer
+2. Temporary toggle off `Sphere Rim`
+3. With `Sphere Rim` selected, switch to the `Ellipse Tool` (`Q`), toggle the grid with `⌥'`, then drag from the center to just around the energy ball, constraining proportions and sizing from the center by holding `⇧⌘`.
