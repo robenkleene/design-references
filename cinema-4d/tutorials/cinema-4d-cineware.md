@@ -47,4 +47,4 @@
 2. Move to frame `50` and under `Frame > Object`, set `Start Angle: 135`, and `End Angle: 0` (actually enter `0` so it creates a keyframe). Under `Frame > Coord.`, set `R . H: -110`, `R . B: 40`
 3. Move to frame `120`, and under `Frame > Coord.`, set `R . H: -170`, `R . B: 160`. Under `Frame > Object`, set `Start Angle: 360`, and `End Angle: 360`
 4. Move to frame `150`, and under `Frame > Coord.`, set `R . H: -180`, `R . B: 245`. Click the key frame buttons for `S . X`, `S . Y`, and `S . Z`
-5. Move to frame `190`, 
+5. Move to frame `190`, and under `Frame > Coord.`, set `S . X: 0.5`, `S . Y: 0.5`, and `S . Z: 0.5`. Set `R . H: 0`, `R . P: 0`, and `R . B: 360`.
