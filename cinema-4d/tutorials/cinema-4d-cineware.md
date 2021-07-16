@@ -34,17 +34,18 @@
 
 ### Cube
 
-1. Move the playhead to frame `0`, and record a key frame (`F9`)
-2. Move the playhead to frame `40`, and under `Cube > Coord.`, set `R . H: -10`, `R . P: 15`, `R . P: 19`
-3. Move the playhead to frame `90`, and under `Cube > Coord.`, set `R . H: -35`, `R . P: 45`, `R . P: -45`
-4. Move the playhead to frame `120`, and under `Cube > Coord.`, set `R . H: -50`, `R . P: 12`, `R . P: -90`
-5. Move the playhead to frame `150`, and under `Cube > Coord.`, set `R . H: -60`, `R . P: -25`, `R . P: -125`
-6. Move the playhead to frame `210`, and under `Cube > Coord.`, set `R . H: 0`, `R . P: -90`, `R . P: -90`
+1. Go to frame `0`, and record a key frame (`F9`)
+2. Go to frame `40`, and under `Cube > Coord.`, set `R . H: -10`, `R . P: 15`, `R . P: 19`
+3. Go to frame `90`, and under `Cube > Coord.`, set `R . H: -35`, `R . P: 45`, `R . P: -45`
+4. Go to frame `120`, and under `Cube > Coord.`, set `R . H: -50`, `R . P: 12`, `R . P: -90`
+5. Go to frame `150`, and under `Cube > Coord.`, set `R . H: -60`, `R . P: -25`, `R . P: -125`
+6. Go to frame `210`, and under `Cube > Coord.`, set `R . H: 0`, `R . P: -90`, `R . P: -90`
 
 ### Frame
 
 1. Move the playhead to frame `0`, and under `Frame > Object`, toggle on keyframes for `Start Angle` and `End Angle`. Under `Frame > Coord.`, toggle on keyframes for `S . X`, `S . Y`, and `S . Z`, also `R . X`, `R . Y`, and `R . Z`. Set `Frame > Coord. > R . H: -90`.
-2. Move to frame `50` and under `Frame > Object`, set `Start Angle: 135`, and `End Angle: 0` (actually enter `0` so it creates a keyframe). Under `Frame > Coord.`, set `R . H: -110`, `R . B: 40`
-3. Move to frame `120`, and under `Frame > Coord.`, set `R . H: -170`, `R . B: 160`. Under `Frame > Object`, set `Start Angle: 360`, and `End Angle: 360`
-4. Move to frame `150`, and under `Frame > Coord.`, set `R . H: -180`, `R . B: 245`. Click the key frame buttons for `S . X`, `S . Y`, and `S . Z`
-5. Move to frame `190`, and under `Frame > Coord.`, set `S . X: 0.5`, `S . Y: 0.5`, and `S . Z: 0.5`. Set `R . H: 0`, `R . P: 0`, and `R . B: 360`.
+2. Go to frame `50` and under `Frame > Object`, set `Start Angle: 135`, and `End Angle: 0` (actually enter `0` so it creates a keyframe). Under `Frame > Coord.`, set `R . H: -110`, `R . B: 40`
+3. Go to frame `120`, and under `Frame > Coord.`, set `R . H: -170`, `R . B: 160`. Under `Frame > Object`, set `Start Angle: 360`, and `End Angle: 360`
+4. Go to frame `150`, and under `Frame > Coord.`, set `R . H: -180`, `R . B: 245`. Click the key frame buttons for `S . X`, `S . Y`, and `S . Z`
+5. Go to frame `190`, and under `Frame > Coord.`, set `S . X: 0.5`, `S . Y: 0.5`, and `S . Z: 0.5`. Set `R . H: 0`, `R . P: 0`, and `R . B: 360`.
+6. Go to frame `190`
