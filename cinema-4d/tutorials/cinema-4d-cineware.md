@@ -49,3 +49,4 @@
 4. Go to frame `150`, and under `Frame > Coord.`, set `R . H: -180`, `R . B: 245`. Click the key frame buttons for `S . X`, `S . Y`, and `S . Z`
 5. Go to frame `190`, and under `Frame > Coord.`, set `S . X: 0.5`, `S . Y: 0.5`, and `S . Z: 0.5`. Set `R . H: 0`, `R . P: 0`, and `R . B: 360`.
 6. Go to frame `120`, and under `Cube > Object`, toggle on key frames for all three size properties
+6. Go to frame `210`, and under `Cube > Object`, set all three size properties to `20`
