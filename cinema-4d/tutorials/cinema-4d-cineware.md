@@ -49,4 +49,12 @@
 4. Go to frame `150`, and under `Frame > Coord.`, set `R . H: -180`, `R . B: 245`. Click the key frame buttons for `S . X`, `S . Y`, and `S . Z`
 5. Go to frame `190`, and under `Frame > Coord.`, set `S . X: 0.5`, `S . Y: 0.5`, and `S . Z: 0.5`. Set `R . H: 0`, `R . P: 0`, and `R . B: 360`.
 6. Go to frame `120`, and under `Cube > Object`, toggle on key frames for all three size properties
-6. Go to frame `210`, and under `Cube > Object`, set all three size properties to `20`
+7. Go to frame `210`, and under `Cube > Object`, set all three size properties to `20`
+
+### Clean Up
+
+1. Select `Floor`, and move it backward with the move tool (`E`) so it's no longer intersecting with the animation, then scale it up (`T`) to fit the background.
+
+### Camera
+
+1. Go to frame `0` and under `Camera > Coord.`, set `P . X: 0`, `P . Y: 400` and `P . X: 0`. Turn on the keyframes for all three position and rotation parameters.
