@@ -58,3 +58,4 @@
 ### Camera
 
 1. Go to frame `0` and under `Camera > Coord.`, set `P . X: 0`, `P . Y: 400` and `P . X: 0`. Turn on the keyframes for all three position and rotation parameters.
+2. Go to frame `400` and under `Camera > Coord.`, set `P . Y: 160`
