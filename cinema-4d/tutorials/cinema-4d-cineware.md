@@ -60,3 +60,7 @@
 1. Go to frame `0` and under `Camera > Coord.`, set `P . X: 0`, `P . Y: 400` and `P . X: 0`. Turn on the keyframes for all three position and rotation parameters.
 2. Go to frame `400` and under `Camera > Coord.`, set `P . Y: 160`
 3. Go to frame `180` and under `Camera > Coord.`, set `P . Y: 160`, set `R . H: -90`
+
+## Ease Animation
+
+1. `Window > Timeline (F-Curve)...`, then hit `S` to bring everything into view, and `⌘A` to select all.
