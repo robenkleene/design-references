@@ -1,3 +1,3 @@
 # Cinema 4d Graph
 
-- `S`: Frame curves
+- `S`: Show the whole graph in the viewport
