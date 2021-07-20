@@ -63,4 +63,7 @@
 
 ## Ease Animation
 
-1. `Window > Timeline (F-Curve)...`, then hit `S` to bring everything into view, and `⌘A` to select all.
+1. `Window > Timeline (F-Curve)...`, select `Camera`, and hit `⌘A` to select all, then hit `S` to bring the selected curves into view.
+2. For the lower curve, the `Camera > Rotation . H`, drag right handle farther inward to ease the animation more.
+
+![Ease Camera Rotation](assets/cineware-ease-camera-rotation.png)
