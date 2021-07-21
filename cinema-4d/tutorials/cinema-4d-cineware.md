@@ -66,4 +66,8 @@
 1. `Window > Timeline (F-Curve)...`, select `Camera`, and hit `⌘A` to select all, then hit `S` to bring the selected curves into view.
 2. For the lower curve, the `Camera > Rotation . H`, drag right handle farther inward to ease the animation more.
 
-![Ease Camera Rotation](assets/cineware-ease-camera-rotation.png)
+    ![Ease Camera Rotation](assets/cineware-ease-camera-rotation.png)
+
+3. Select `Frame` and delete the following two key frames:
+
+    ![Frame Rotation](assets/cineware-frame-rotation.png)
