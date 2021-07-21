@@ -68,6 +68,6 @@
 
     ![Ease Camera Rotation](assets/cineware-ease-camera-rotation.png)
 
-3. Select `Frame` and delete the following two key frames:
+3. Select `Frame` and delete the following two key frames (which aren't doing much):
 
     ![Frame Rotation](assets/cineware-frame-rotation.png)
