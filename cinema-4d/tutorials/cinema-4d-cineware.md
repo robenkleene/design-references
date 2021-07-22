@@ -76,3 +76,4 @@
 
 1. `⌘Drag` the `Frame > Sweep` to a first level in the hierarchy to duplicated it
 2. Select `Sweep` and set `Coord. > P . Y: 400`
+3. Go to frame `0` and set `Sweep > Coord. > P . Y: 330`
