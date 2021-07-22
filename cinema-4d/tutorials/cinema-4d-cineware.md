@@ -74,4 +74,5 @@
 
 ## Sweep
 
-1. `⌘Drag` the `Frame > Sweep` to a first level `Sweep`
+1. `⌘Drag` the `Frame > Sweep` to a first level in the hierarchy to duplicated it
+2. Select `Sweep` and set `Coord. > P . Y: 400`
