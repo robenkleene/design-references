@@ -5,7 +5,8 @@
 - `[` / `]`: Move a layer to the start or end at the playhead
 - `⌥[` / `⌥]`: Clip a layer so it starts or ends at the playhead
 - `i` / `o`: Move the playhead to the start or end of a layer
-- `⌘Y`: Add solid, e.g., for a background
+- `⌘Y`: Add solid
+- `⌘⌥Y`: Add a new adjustment layer
 
 ## Properties
 
