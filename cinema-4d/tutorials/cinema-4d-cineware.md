@@ -74,4 +74,4 @@
 
 ## Sweep
 
-1. 
+1. `⌘Drag` the `Frame > Sweep` to a first level `Sweep`
