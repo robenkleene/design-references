@@ -76,4 +76,5 @@
 
 1. `⌘Drag` the `Frame > Sweep` to a first level in the hierarchy to duplicated it
 2. Select `Sweep` and set `Coord. > P . Y: 400`
-3. Go to frame `0` and set `Sweep > Coord. > P . Y: 330`
+3. Go to frame `0` and set turn on key frames for all three `Sweep > Coord. > P` parameters
+4. Go to frame `150` and set `Sweep > Coord. > P . Y: 180`
