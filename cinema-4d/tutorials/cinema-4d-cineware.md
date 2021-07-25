@@ -78,3 +78,9 @@
 2. Select `Sweep` and set `Coord. > P . Y: 400`
 3. Go to frame `0` and set turn on key frames for all three `Sweep > Coord. > P` parameters
 4. Go to frame `150` and set `Sweep > Coord. > P . Y: 180`
+
+## Material
+
+1. Double-click in the material area to create a new material
+2. Double-click `Mat` to open it and under `Color > Texture`, use the drop-down arrow to choose `Surfaces > Tiles`.
+3. Drag and drop `Mat` onto the `Cube`
