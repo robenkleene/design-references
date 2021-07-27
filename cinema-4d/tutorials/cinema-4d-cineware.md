@@ -84,4 +84,4 @@
 1. Double-click in the material area to create a new material
 2. Double-click `Mat` to open it and under `Color > Texture`, use the drop-down arrow to choose `Surfaces > Tiles`.
 3. Drag and drop `Mat` onto the `Cube`
-4. Double-click `Mat`, then under color, click on the texture pattern to open the `Shader Properties`.
+4. Double-click `Mat`, then under color, click on the texture pattern to open the `Shader Properties`. Change `Tiles Color 1` to white, `Tiles Color 2` to black, and `Tiles Color 3` to white.
