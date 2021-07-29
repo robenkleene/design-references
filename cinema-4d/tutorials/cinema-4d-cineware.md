@@ -85,3 +85,10 @@
 2. Double-click `Mat` to open it and under `Color > Texture`, use the drop-down arrow to choose `Surfaces > Tiles`.
 3. Drag and drop `Mat` onto the `Cube`
 4. Double-click `Mat`, then under color, click on the texture pattern to open the `Shader Properties`. Change `Tiles Color 1` to white, `Tiles Color 2` to black, and `Tiles Color 3` to white. Set `Pattern: Lines 1`, `Grout Width: 0`, and `Bevel Width: 0`. Close the `Material Editor` window.
+
+## More Materials
+
+1. Create two new materials, double-click `Mat.1` and make it white, double-click `Mat.2` and make it dark grey, almost black
+2. Drag the white `Mat.1` on to the background to make it white
+3. Drag the white `Mat.1` onto `Frame > Outer > Matte`, and the black `Mat.2` onto `Frame > Sweep`
+
