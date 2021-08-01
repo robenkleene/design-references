@@ -92,7 +92,16 @@
 2. Drag the white `Mat.1` on to the background to make it white
 3. Drag the white `Mat.1` onto `Frame > Outer > Matte`, and the black `Mat.2` onto `Frame > Sweep`
 
-## Fixing Intersection
+## Clean up
+
+### Fixing Intersection
 
 1. The `Matte`, `Rectangle.1` and `Outer` are intersecting slightly. Under `Frame > Sweep > Outer > Matte`, select `Rectangle.1 > Object` and set `Height: 4`, and visually resize `Outer` so it fits in snug with `Rectange.1` without intersecting.
+
+### Fixing Floor Size
+
+1. During playback, the `Floor` doesn't always quite fill the screen, playback and watch for the floor not quite filling the screen and scale it up.
+
+## Compositing Tags
+
 
