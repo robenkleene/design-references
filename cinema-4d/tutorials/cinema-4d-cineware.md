@@ -104,4 +104,4 @@
 
 ## Compositing Tags
 
-
+1. Select the `Cube`, and choose `Tags > Rendering Tags > Compositing`. Under `Object Buffer`, toggle on `Enable` for `Buffer: 1`.
