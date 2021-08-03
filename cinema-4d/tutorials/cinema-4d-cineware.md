@@ -106,3 +106,4 @@
 
 1. Select the `Cube`, and choose `Tags > Rendering Tags > Compositing`. Under `Object Buffer`, toggle on `Enable` for `Buffer: 1`. This means Cinema 4D will create a matte for this cube during its render process.
 2. `⌘-drag` the `Compositing Tag` icon from the `Cube` row to the `Floor` row to copy it. Under `Floor > Object Buffer`, toggle off `Enable` for `Buffer: 1`, and on for `Buffer: 2`.
+2. `⌘-drag` the `Compositing Tag` icon from the `Floor` row to the `Frame` row to copy it. Under `Frame > Object Buffer`, toggle off `Enable` for `Buffer: 2`, and on for `Buffer: 3`.
