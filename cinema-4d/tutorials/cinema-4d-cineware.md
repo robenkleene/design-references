@@ -112,3 +112,8 @@
 ## Tweaks
 
 1. Drag `Mat.2` onto `Sweep`
+
+## Render Settings
+
+1. Click the `Render Settings` icon in the toolbar, and toggle on `Multi-Pass`.
+2. Right-click `Multi-Pass` and choose `Object Buffer`. Do this four times, so we have four different `Object Buffer`, then assign them `Group ID` `1` through `4`.
