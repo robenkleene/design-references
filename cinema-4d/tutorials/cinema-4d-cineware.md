@@ -122,3 +122,4 @@
 ## After Effects
 
 1. Double-click in the project area and import the `Cineware.c4d` file
+2. Drag the `Cineware.c4d` file from the Project panel to the `Create a new composition` at the bottom to create a new composition with the Cinema 4D file
