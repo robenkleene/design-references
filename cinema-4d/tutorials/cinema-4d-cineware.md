@@ -117,3 +117,8 @@
 
 1. Click the `Render Settings` icon in the toolbar, and toggle on `Multi-Pass`.
 2. Right-click `Multi-Pass` and choose `Object Buffer`. Do this four times, so we have four different `Object Buffer`, then assign them `Group ID` `1` through `4`.
+3. Under `Output`, set `Frame Range: All Frames`
+
+## After Effects
+
+1. Double-click in the project area and import the `Cineware.c4d` file
