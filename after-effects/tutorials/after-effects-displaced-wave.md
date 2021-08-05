@@ -8,3 +8,4 @@
 6. Create a new composition (`⌘N`) and call it `Displacement Map`
 7. Select `Main Wave Circle > Circle`, and add a `Displacement Map` effect to it
 8. Go to the `Displacement Map` composition, and create a black solid (`⌘Y`)
+9. Apply a `Gradient Ramp` effect to the solid
