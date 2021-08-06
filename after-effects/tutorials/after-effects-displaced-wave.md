@@ -9,3 +9,6 @@
 7. Select `Main Wave Circle > Circle`, and add a `Displacement Map` effect to it
 8. Go to the `Displacement Map` composition, and create a black solid (`⌘Y`)
 9. Apply a `Gradient Ramp` effect to the solid
+10. Move the points on the gradient map so the gradient goes from black to white horizontally
+
+    ![Gradient](assets/after-effects-displacement-map-gradient.png)
