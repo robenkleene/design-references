@@ -14,3 +14,4 @@
     ![Gradient](assets/after-effects-displacement-map-gradient.png)
 
 11. From the `Project` panel, drag the `Displacement Wave` layer below the `Circle` layer in the `Main Wave Circle` layer
+12. Set `Circle > Effect Controls > Displacement Map > Displacement Layer: 2. Displacement Map`
