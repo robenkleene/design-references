@@ -16,4 +16,4 @@
 11. From the `Project` panel, drag the `Displacement Wave` layer below the `Circle` layer in the `Main Wave Circle` layer
 12. Set `Circle > Effect Controls > Displacement Map > Displacement Layer: 2. Displacement Map`
 13. Toggle off the visibility of the `Displacement Map` layer
-14. Under `Circle > Effect Controls > Displacement Map`, set `Use For Horizontal Displacement: Off` and `Max Horizontal Displacement: 0.0`
+14. Under `Circle > Effect Controls > Displacement Map`, set `Use For Horizontal Displacement: Off`, `Max Horizontal Displacement: 0.0`, `Use For Horizontal Displacement: Luminance`
