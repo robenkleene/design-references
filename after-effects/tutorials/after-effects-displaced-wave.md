@@ -12,3 +12,5 @@
 10. Move the points on the gradient map so the gradient goes from black to white horizontally
 
     ![Gradient](assets/after-effects-displacement-map-gradient.png)
+
+11. From the `Project` panel, drag the `Displacement Wave` layer below the `Circle` layer in the `Main Wave Circle` layer
