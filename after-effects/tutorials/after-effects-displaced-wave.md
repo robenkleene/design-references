@@ -18,3 +18,5 @@
 13. Toggle off the visibility of the `Displacement Map` layer
 14. Under `Circle > Effect Controls > Displacement Map`, set `Use For Horizontal Displacement: Off`, `Max Horizontal Displacement: 0.0`, `Use For Horizontal Displacement: Luminance`, and `Max Vertical Displacement: 150.0`
 15. Under `Displacement Map > Black Solid 1 > Effect Controls`, clean up the ramp start and end, by setting `Start of Ramp: 0.0, 540.0` and `End of Ramp: 1920.0, 540.0`
+16. Add a `Colorama` effect to `Displacement Map > Black Solid 1`
+17. Set `Colorama > Output Cycle > Use Preset Palette: Solarize Grey`
