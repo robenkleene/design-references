@@ -23,3 +23,6 @@ To open Cinema 4D from After Effects, go to "File" -> "New" -> "MAXON CINEMA 4D 
 5. In the Render Queue, select "Output Module" -> "Custom", and choose a file format
 6. Click "Render"
 
+## Deleting
+
+If you're using a separate standalone version of Cinema 4D, and want to delete the automatically installed version, just drag the `Maxon Cinema 4D RXX` directory to the trash. This is the official guidance from Adobe.
