@@ -21,4 +21,4 @@
 16. Add a `Colorama` effect to `Displacement Map > Black Solid 1`
 17. Set `Colorama > Output Cycle > Use Preset Palette: Solarize Grey`. This has black on both sides, which we need to do to make sure we have a seamless loop.
 18. Set `Colorama > Output Cycle > Cycle Repetitions: 5`
-19. Go back to the `Main Wave Circle` composition, the line should now look jagged (like a sawtooth wave)
+19. Go back to the `Main Wave Circle` composition, the line should now look jagged (like a sawtooth wave), the wave looks pixelated because the bit depth is too low, fix this by `⌥`-clicking the `8 bpc` below the list of compositions in the project panel.
