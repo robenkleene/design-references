@@ -1,4 +1,4 @@
-# Cinema 4d Picture Viewer
+# Cinema 4D Picture Viewer
 
 - To render just the current frame, set `Render Settings > Output > Frame Range: Current Frame`
 
