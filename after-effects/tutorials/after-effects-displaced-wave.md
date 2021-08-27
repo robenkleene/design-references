@@ -30,4 +30,4 @@
 
 ## Tweaks
 
-1. 
+1. Go to the `Displacement Map` composition, and make a second viewer (`View > New Viewer` / `⇧⌥⌘N`), set the first viewer to the `Main Wave Circle`, so we're viewing the two compositions side-by-side
