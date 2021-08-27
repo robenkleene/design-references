@@ -1,24 +1,33 @@
 # After Effects Displaced Wave
 
+## Setup
+
 1. Create a new `1920x1080` composition
 2. Add a black solid and call it `Circle`
 3. Apply a `Beam` effect to `Circle`
 4. Under `Effect Controls > Beam`, set `Staring Point: 0.0, 540.0`, `Ending Point: 1920.0, 540.0`, `Length: 100`, `Inside Color: White`, and `Outside Color: White`.
 5. Hit `⌘K` to bring up the composition settings and rename the composition to `Main Wave Circle`
-6. Create a new composition (`⌘N`) and call it `Displacement Map`
-7. Select `Main Wave Circle > Circle`, and add a `Displacement Map` effect to it
-8. Go to the `Displacement Map` composition, and create a black solid (`⌘Y`)
-9. Apply a `Gradient Ramp` effect to the solid
-10. Move the points on the gradient map so the gradient goes from black to white horizontally
+
+## Displacement Map
+
+1. Create a new composition (`⌘N`) and call it `Displacement Map`
+2. Select `Main Wave Circle > Circle`, and add a `Displacement Map` effect to it
+3. Go to the `Displacement Map` composition, and create a black solid (`⌘Y`)
+4. Apply a `Gradient Ramp` effect to the solid
+5. Move the points on the gradient map so the gradient goes from black to white horizontally
 
     ![Gradient](assets/after-effects-displacement-map-gradient.png)
 
-11. From the `Project` panel, drag the `Displacement Wave` layer below the `Circle` layer in the `Main Wave Circle` layer
-12. Set `Circle > Effect Controls > Displacement Map > Displacement Layer: 2. Displacement Map`
-13. Toggle off the visibility of the `Displacement Map` layer
-14. Under `Circle > Effect Controls > Displacement Map`, set `Use For Horizontal Displacement: Off`, `Max Horizontal Displacement: 0.0`, `Use For Horizontal Displacement: Luminance`, and `Max Vertical Displacement: 150.0`
-15. Under `Displacement Map > Black Solid 1 > Effect Controls`, clean up the ramp start and end, by setting `Start of Ramp: 0.0, 540.0` and `End of Ramp: 1920.0, 540.0`
-16. Add a `Colorama` effect to `Displacement Map > Black Solid 1`
-17. Set `Colorama > Output Cycle > Use Preset Palette: Solarize Grey`. This has black on both sides, which we need to do to make sure we have a seamless loop.
-18. Set `Colorama > Output Cycle > Cycle Repetitions: 5`
-19. Go back to the `Main Wave Circle` composition, the line should now look jagged (like a sawtooth wave), the wave looks pixelated because the bit depth is too low, fix this by `⌥`-clicking the `8 bpc` below the list of compositions in the project panel.
+6. From the `Project` panel, drag the `Displacement Wave` layer below the `Circle` layer in the `Main Wave Circle` layer
+7. Set `Circle > Effect Controls > Displacement Map > Displacement Layer: 2. Displacement Map`
+8. Toggle off the visibility of the `Displacement Map` layer
+9. Under `Circle > Effect Controls > Displacement Map`, set `Use For Horizontal Displacement: Off`, `Max Horizontal Displacement: 0.0`, `Use For Horizontal Displacement: Luminance`, and `Max Vertical Displacement: 150.0`
+10. Under `Displacement Map > Black Solid 1 > Effect Controls`, clean up the ramp start and end, by setting `Start of Ramp: 0.0, 540.0` and `End of Ramp: 1920.0, 540.0`
+11. Add a `Colorama` effect to `Displacement Map > Black Solid 1`
+12. Set `Colorama > Output Cycle > Use Preset Palette: Solarize Grey`. This has black on both sides, which we need to do to make sure we have a seamless loop.
+13. Set `Colorama > Output Cycle > Cycle Repetitions: 5`
+14. Go back to the `Main Wave Circle` composition, the line should now look jagged (like a sawtooth wave), the wave looks pixelated because the bit depth is too low, fix this by `⌥`-clicking the `8 bpc` below the list of compositions in the project panel.
+
+## Tweaks
+
+1. 
