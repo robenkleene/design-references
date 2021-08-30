@@ -31,4 +31,7 @@
 ## Tweaks
 
 1. Make a second viewer (`View > New Viewer` / `⇧⌥⌘N`), set the first viewer to the `Displacement Map`, and the second viewer to `Main Wave Circle`, so we're viewing the two compositions side-by-side
-2. Add a `Fast Box Blur` effect to the `Displacement Map > Black Solid 1`
+2. Add a `Color Correction > Curves` effect to the `Displacement Map > Black Solid 1`
+3. Adjust the very top and bottom of the curve slightly to make a slight S shape
+
+    ![Curves](assets/after-effects-displacement-map-curves.png)
