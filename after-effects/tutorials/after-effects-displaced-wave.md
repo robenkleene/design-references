@@ -35,3 +35,5 @@
 3. Adjust the very top and bottom of the curve slightly to make a slight S shape
 
     ![Curves](assets/after-effects-displacement-map-curves.png)
+
+4. To distort the line into a circle, add a `Distort > Polar Coordinates` to `Main Wave Circle > Circle`, set `Type of Conversion: Rect to Polar` and `Interpolation: 100%`.
