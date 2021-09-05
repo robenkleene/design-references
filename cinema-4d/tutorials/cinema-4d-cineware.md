@@ -30,11 +30,11 @@
 ## Animation
 
 1. Change the total frames to `400`
-2. Turn on `Autokeying` (`⌘F9`)
+2. Turn on `Automatic Keyframing` (`⌘F9`)
 
 ### Cube
 
-1. Go to frame `0`, and record a key frame (`F9`)
+1. Go to frame `0`, and record a key frame (`F9`, with `Automatic Keyframing` on with `⌘F9`)
 2. Go to frame `40`, and under `Cube > Coord.`, set `R . H: -10`, `R . P: 15`, `R . P: 19`
 3. Go to frame `90`, and under `Cube > Coord.`, set `R . H: -35`, `R . P: 45`, `R . P: -45`
 4. Go to frame `120`, and under `Cube > Coord.`, set `R . H: -50`, `R . P: 12`, `R . P: -90`
@@ -81,7 +81,7 @@
 
 ## Material
 
-1. Double-click in the material area to create a new material
+`1. Double-click in the material area to create a new material
 2. Double-click `Mat` to open it and under `Color > Texture`, use the drop-down arrow to choose `Surfaces > Tiles`.
 3. Drag and drop `Mat` onto the `Cube`
 4. Double-click `Mat`, then under color, click on the texture pattern to open the `Shader Properties`. Change `Tiles Color 1` to white, `Tiles Color 2` to black, and `Tiles Color 3` to white. Set `Pattern: Lines 1`, `Grout Width: 0`, and `Bevel Width: 0`. Close the `Material Editor` window.
