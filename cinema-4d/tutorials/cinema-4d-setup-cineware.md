@@ -1,4 +1,4 @@
-# Cinema 4D Cineware
+# Cinema 4D Setup Cineware
 
 ## Setup
 
@@ -125,3 +125,8 @@
 2. Drag the `Cineware.c4d` file from the Project panel to the `Create a new composition` at the bottom to create a new composition with the Cinema 4D file
 3. Under `Cineware.c4d > Effect Controls > Cineware`, click `Extract`, this will extract the camera as a separate layer, and set `Renderer: Current (Draft)`
 4. Duplicate the `Cineware.c4d` layer, and under `Cineware.c4d > Effect Controls > Cineware` for the duplicate toggle on `Defined Multi-Passes` and click `Add Image Layers`
+5. Rename the `Object Buffer` layers from top to bottom:
+    1. `Cube`
+    2. `Floor`
+    3. `Frame`
+    4. `Outer_Frame`
