@@ -1,4 +1,4 @@
-# Cinema 4D Setup Cineware
+# Cinema 4D Cineware Intro Animation
 
 ## Setup
 
@@ -130,3 +130,4 @@
     2. `Floor`
     3. `Frame`
     4. `Outer_Frame`
+6. Rename the original `Cineware.c4d` layer to `Main_Render`
