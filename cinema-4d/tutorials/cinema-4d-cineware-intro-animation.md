@@ -121,6 +121,8 @@
 
 ## After Effects
 
+### Setup
+
 1. Double-click in the project area and import the `Cineware.c4d` file
 2. Drag the `Cineware.c4d` file from the Project panel to the `Create a new composition` at the bottom to create a new composition with the Cinema 4D file
 3. Under `Cineware.c4d > Effect Controls > Cineware`, click `Extract`, this will extract the camera as a separate layer, and set `Renderer: Current (Draft)`
@@ -131,3 +133,7 @@
     3. `Frame`
     4. `Outer_Frame`
 6. Rename the original `Cineware.c4d` layer to `Main_Render`
+
+### Work
+
+1. Duplicate `Main_Render`, and for the `TrkMat` layer column, choose `Luma Matte "Outer_Frame"`
