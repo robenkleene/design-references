@@ -137,3 +137,4 @@
 ### Work
 
 1. Duplicate `Main_Render`, and for the `TrkMat` layer column, choose `Luma Matte "Outer_Frame"`
+2. Do the same for all the other frames (`Cube`, `Floor`, `Frame`), by copying `Main_Render 2`, and pasting it with the layer below where the copy should be inserted selected.
