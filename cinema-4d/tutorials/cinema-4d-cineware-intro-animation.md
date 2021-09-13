@@ -141,6 +141,13 @@
 3. Turn off any `Solo` and turn off the visibility of all the matte layers (`Cube`, `Floor`, `Frame`, and `Outer_Frame`)
 4. Rename the render layers to `Cube_Render`, `Floor_Render`, `Frame_Render`, and `Outer_Frame_Render`
 
-## Cinema 4D
+### Floor Tracking
+
+#### Cinema 4D
 
 1. Right-click `Floor` in the hierarchy, and choose `Render Tags > External Compositing Tags`
+
+#### Extract
+
+1. With `Main_Render` selected, choose `Effect Controls > Commands > Extract`
+2. This will extract a `Camera` and `[Floor]`, we don't need the `Camera` so delete it
