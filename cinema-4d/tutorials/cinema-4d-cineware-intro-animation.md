@@ -121,7 +121,7 @@
 
 ## After Effects
 
-### Setup
+### Layers
 
 1. Double-click in the project area and import the `Cineware.c4d` file
 2. Drag the `Cineware.c4d` file from the Project panel to the `Create a new composition` at the bottom to create a new composition with the Cinema 4D file
@@ -134,9 +134,13 @@
     4. `Outer_Frame`
 6. Rename the original `Cineware.c4d` layer to `Main_Render`
 
-### Work
+### Render
 
 1. Duplicate `Main_Render`, and for the `TrkMat` layer column, choose `Luma Matte "Outer_Frame"`
 2. Do the same for all the other frames (`Cube`, `Floor`, `Frame`), by copying `Main_Render 2`, and pasting it with the layer below where the copy should be inserted selected.
 3. Turn off any `Solo` and turn off the visibility of all the matte layers (`Cube`, `Floor`, `Frame`, and `Outer_Frame`)
 4. Rename the render layers to `Cube_Render`, `Floor_Render`, `Frame_Render`, and `Outer_Frame_Render`
+
+## Cinema 4D
+
+1. Right-click `Floor` in the hierarchy, and choose `Render Tags > External Compositing Tags`
