@@ -151,3 +151,5 @@
 
 1. With `Main_Render` selected, choose `Effect Controls > Commands > Extract`
 2. This will extract a `Camera` and `[Floor]`, we don't need the `Camera` so delete it
+
+*Stopped here because the next steps require having specific footage*
