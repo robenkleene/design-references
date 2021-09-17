@@ -25,12 +25,6 @@
 
 - If the viewport angle is offset, hold `⇧` with `⌥-drag` to snap back to a straight horizon.
 
-## Modeling
-
-- `e`: Move
-- `r`: Rotate
-- `t`: Scale
-
 ## Rendering
 
 - `⌘b`: Render settings, including size
