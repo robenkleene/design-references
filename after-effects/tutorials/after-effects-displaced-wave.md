@@ -38,3 +38,4 @@
 
 4. To distort the line into a circle, add a `Distort > Polar Coordinates` to `Main Wave Circle > Circle`, set `Type of Conversion: Rect to Polar` and `Interpolation: 100%`.
 5. Rename `Cirle` to `Circle 1` and duplicate it (`⌘D`, the second circle should be called `Circle 2`)
+6. Set `Circle 2 > Effect Controls > Displacement Map > Max Vertical Displacement: -150`
