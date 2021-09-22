@@ -45,3 +45,6 @@
 Use gray to neutralize part of the displacement map to create some variation.
 
 1. Go to the `Displacement Map` composition, and create a new solid (`⌘Y`) and set the color as `H: 0 S: 0 B: 50` to make it gray
+2. Select the `Rectangle Tool` and draw over the solid layer to create a mask
+
+    ![Mask](assets/after-effects-displacement-map-mask.png)
