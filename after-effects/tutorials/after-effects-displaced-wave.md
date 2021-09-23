@@ -48,3 +48,5 @@ Use gray to neutralize part of the displacement map to create some variation.
 2. Select the `Rectangle Tool` and draw over the solid layer to create a mask
 
     ![Mask](assets/after-effects-displacement-map-mask.png)
+
+3. Toggle off the `Constrain Proportions` for the `Displacement Map > Gray Solid 1 > Mask 1 > Mask Feather`, and set it to `150.0, 0.0`
