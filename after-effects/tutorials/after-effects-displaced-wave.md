@@ -51,3 +51,4 @@ Use gray to neutralize part of the displacement map to create some variation.
 
 3. Toggle off the `Constrain Proportions` for the `Displacement Map > Gray Solid 1 > Mask 1 > Mask Feather`, and set it to `150.0, 0.0`
 4. Set `Circle 1 > Effects > Displacement Map > Gray Solid 1 > Mask 1 > Mask Feather: 80.0, 0.0` and `Circle 2 > Effects > Displacement Map > Gray Solid 1 > Mask 1 > Mask Feather: -80.0, 0.0`
+5. Close the second viewer by clicking the `X` icon
