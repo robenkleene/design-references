@@ -10,7 +10,7 @@
 6. Change the size of the ellipse path to `50x50`
 7. Under the repeater, set "Copies: `10`", "Offset: `-7`"
 8. Add a second repeater, set "Copies: 9", "Offset: -4"
-9. Under "Transform: Repeater 2", set "Position: 0.0, 100.0", 
+9. Under "Transform: Repeater 2", set "Position: 0.0, 100.0"
 10. Click the "Fill" color in the toolbar and select white `#FFFFFF`
 11. Add a "Polar Coordinates" effect, right-click the shape layer ("Shape Layer 1") and select "Effect > Distort > Polar Coordinates".
 12. With "Shape Layer 1" selected, select "Effect Controls" in the left sidebar. Set "Interpolation: `100%`", and "Type of Conversion: `Rect to Polar`".
