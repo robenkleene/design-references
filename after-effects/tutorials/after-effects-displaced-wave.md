@@ -55,4 +55,6 @@ Use gray to neutralize part of the displacement map to create some variation.
 
 ## Offset
 
-1. Create a new `#888888` solid (`⌘Y`) and name it `Offset`
+1. Create a new `#888888` solid (`⌘Y`) and name it `Offset`, and toggle on `Adjustment Layer` in the layers panel
+2. Rename `Black Solid 1` to `Gradient`
+3. Add an `Effect > Distort > Offset` to `Offset`
