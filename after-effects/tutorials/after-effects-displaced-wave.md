@@ -58,3 +58,4 @@ Use gray to neutralize part of the displacement map to create some variation.
 1. Create a new `#888888` solid (`⌘Y`) and name it `Offset`, and toggle on `Adjustment Layer` in the layers panel
 2. Rename `Black Solid 1` to `Gradient`
 3. Add an `Effect > Distort > Offset` to `Offset`
+4. Add a keyframe at `0` for `Displacement Map > Offset > Shift Center To`
