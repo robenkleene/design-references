@@ -10,3 +10,4 @@
     Use `Futura`, with `THE` and `SEASON 2` medium and `VOLCANO ISLAND` bold, center it in the composition and make it white.
 
     ![Text Layer](assets/after-effects-trapcode-particular-flame-text-text-layer.png)
+3. Drag a metal texture into the layers panel below the text layer
