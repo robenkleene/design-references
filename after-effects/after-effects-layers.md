@@ -7,6 +7,7 @@
 - `i` / `o`: Move the playhead to the start or end of a layer
 - `⌘Y`: Add solid
 - `⌘⌥Y`: Add a new adjustment layer
+- `F4`: Toggle visibility of many columns in the layers panel (e.g., `TrkMat`)
 
 ## Properties
 

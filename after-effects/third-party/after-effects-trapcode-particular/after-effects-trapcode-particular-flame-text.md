@@ -11,3 +11,4 @@
 
     ![Text Layer](assets/after-effects-trapcode-particular-flame-text-text-layer.png)
 3. Drag a metal texture into the layers panel below the text layer
+4. In the layers panel, 
