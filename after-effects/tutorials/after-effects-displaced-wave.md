@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Create a new `1920x1080` composition
+1. Create a new `1920x1080` composition, `6` seconds long, with a black background
 2. Add a black solid and call it `Circle`
 3. Apply a `Beam` effect to `Circle`
 4. Under `Effect Controls > Beam`, set `Staring Point: 0.0, 540.0`, `Ending Point: 1920.0, 540.0`, `Length: 100`, `Inside Color: White`, and `Outside Color: White`.
@@ -59,3 +59,4 @@ Use gray to neutralize part of the displacement map to create some variation.
 2. Rename `Black Solid 1` to `Gradient`
 3. Add an `Effect > Distort > Offset` to `Offset`
 4. Add a keyframe at `0` for `Displacement Map > Offset > Shift Center To`
+5. Move the playhead to the end (`6s`), and add another keyframe for `Displacement Map > Offset > Shift Center To`
