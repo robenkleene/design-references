@@ -11,4 +11,4 @@
 
     ![Text Layer](assets/after-effects-trapcode-particular-flame-text-text-layer.png)
 3. Drag a metal texture into the layers panel below the text layer
-4. In the layers panel, for the metal texture, change the `TrkMat` layer to `Alpha Matte "THE VOLCANO ISLAND SEASON 2"`
+4. In the layers panel, for the metal texture, change the `TrkMat` layer to `Alpha Matte "THE VOLCANO ISLAND SEASON 2"` (this cuts the layer out based on the alpha of the layer above it)
