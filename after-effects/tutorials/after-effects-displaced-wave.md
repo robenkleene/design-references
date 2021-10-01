@@ -60,3 +60,4 @@ Use gray to neutralize part of the displacement map to create some variation.
 3. Add an `Effect > Distort > Offset` to `Offset`
 4. Add a keyframe at `0` for `Displacement Map > Offset > Shift Center To`
 5. Move the playhead to the end (for the `6s` composition, this will be `5;29`), and add another keyframe for `Displacement Map > Offset > Shift Center To`
+6. Double-click the second keyframe, and set it to `% of composition` and `X: 150%`, this will make the offset move a full circle to create a seamless loop
