@@ -15,3 +15,10 @@
 5. Add a `Color Correction > Curves` effect to the metal texture layer, and use it to darken and add contrast.
 
     ![Texture Curves](assets/after-effects-trapcode-particular-flame-text-texture-curves.png)
+
+6. Click the `Toggle Transparency Grid` icon to disable the background.
+
+## Matte
+
+1. Create a new composition with the same settings as above and call it `Source Matte`
+2. Create a new black solid and call it `Matte`
