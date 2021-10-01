@@ -59,4 +59,4 @@ Use gray to neutralize part of the displacement map to create some variation.
 2. Rename `Black Solid 1` to `Gradient`
 3. Add an `Effect > Distort > Offset` to `Offset`
 4. Add a keyframe at `0` for `Displacement Map > Offset > Shift Center To`
-5. Move the playhead to the end (`6s`), and add another keyframe for `Displacement Map > Offset > Shift Center To`
+5. Move the playhead to the end (for the `6s` composition, this will be `5;29`), and add another keyframe for `Displacement Map > Offset > Shift Center To`
