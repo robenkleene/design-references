@@ -24,3 +24,4 @@
 2. Create a new black solid and call it `Matte`
 3. Add a `Noise & Grain > Fractal Noise` effect to the solid
 4. Under `Matte > Effect Controls > Fractal Noise`, set `Contrast: 250`
+5. `⌥`-click the `Evolution` stopwatch to add an expression and enter `time * 25`
