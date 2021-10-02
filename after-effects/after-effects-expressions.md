@@ -1,7 +1,7 @@
 # After Effects Expressions
 
 - `⌥`-click the stopwatch for a property to add an expression. `⌥`-click the stopwatch again to remove it.
-- `enter` to finish editing an expression (`fn`-return on a MacBook), or just click to the right of the expression in the parameters area.
+- `enter` to finish editing an expression (`fn↩` on a MacBook), or just click to the right of the expression in the parameters area.
 
 ## Linking Properties
 
