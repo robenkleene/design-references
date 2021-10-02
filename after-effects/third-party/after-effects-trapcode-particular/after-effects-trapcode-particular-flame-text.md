@@ -22,3 +22,5 @@
 
 1. Create a new composition with the same settings as above and call it `Source Matte`
 2. Create a new black solid and call it `Matte`
+3. Add a `Noise & Grain > Fractal Noise` effect to the solid
+4. Under `Matte > Effect Controls > Fractal Noise`, set `Contrast: 250`
