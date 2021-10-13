@@ -25,4 +25,5 @@
 3. Add a `Noise & Grain > Fractal Noise` effect to the solid
 4. Under `Matte > Effect Controls > Fractal Noise`, set `Contrast: 250`
 5. `⌥`-click the `Evolution` stopwatch to add an expression and enter `time * 25`
-6. Go to `1:12f` and add a key frame for `Matte > Effects > Fractal Noise > Brightness: -150.0`
+6. Go to `1:12f` and add a keyframe for `Matte > Effects > Fractal Noise > Brightness` and set it to `-150.0` (all black)
+7. Go to `4:00f` and set `Matte > Effects > Fractal Noise > Brightness: 150.0` (all white)
