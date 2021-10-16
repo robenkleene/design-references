@@ -62,6 +62,6 @@ Use gray to neutralize part of the displacement map to create some variation.
 5. Move the playhead to the end (for the `6s` composition, this will be `5;29`), and add another keyframe for `Displacement Map > Offset > Shift Center To`
 6. Double-click the second keyframe, and set it to `% of composition` and `X: 150%`, this will make the offset move a full circle to create a seamless loop
 7. Add a keyframe to `Gradient > Effect Controls > Colorama > Phase Shift` at the beginning and end of the composition, at the end of the composition, set it to `-3x0.0` (`3` is so it moves a bit faster than the offset)
-8. Take the two `Displacement Map` keyframes, for `Colorama > Phase Shift` and `Offset > Shift Center To` to the one frame beyond the last frame
+8. Take the two `Displacement Map` keyframes, for `Colorama > Phase Shift` and `Offset > Shift Center To` to the one frame beyond the last frame (this is so the first and last frames aren't duplicates of each other):
 
     ![One Frame Beyond](assets/after-effects-displacement-map-one-frame-beyond.png)
