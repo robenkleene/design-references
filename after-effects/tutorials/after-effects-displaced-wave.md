@@ -65,3 +65,7 @@ Use gray to neutralize part of the displacement map to create some variation.
 8. Take the two `Displacement Map` keyframes, for `Colorama > Phase Shift` and `Offset > Shift Center To` to the one frame beyond the last frame (this is so the first and last frames aren't duplicates of each other):
 
     ![One Frame Beyond](assets/after-effects-displacement-map-one-frame-beyond.png)
+
+## Playback
+
+1. Try playing the `Main Wave Circle` composition to see the displaced wave effect.
