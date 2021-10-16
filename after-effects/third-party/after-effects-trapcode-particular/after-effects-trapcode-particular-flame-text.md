@@ -1,6 +1,6 @@
 # After Effects Trapcode Particular Flame Text
 
-1. Make a new composition, `1920x1080`, `7` seconds long, `24` frames per second, called `Logo Source`, with a black background color
+1. Make a new composition, `1920x1080`, `7` seconds long, `24` frames per second, called `Logo Source`, with a black background color, and call it `Logo Source`
 2. Add the text:
 
         THE
@@ -28,6 +28,12 @@
 6. Go to `1:12f` and add a keyframe for `Matte > Effects > Fractal Noise > Brightness` and set it to `-150.0` (all black)
 7. Go to `4:00f` and set `Matte > Effects > Fractal Noise > Brightness: 150.0` (all white) *We now animate from black to white, we'll be using the white to cut out our text and emit particles*
 
-## Emitter Map
+### Emitter Map
 
 1. Create a new composition and call it `Emitter Map`
+
+## Re-Organize
+
+1. Re-organize the `Project` panel, so that mattes are in a `Mattes` folder, and `Logo Source` is a `Logo` folder:
+
+    ![Project Panel](assets/after-effects-trapcode-particular-flame-text-project-panel.png)
