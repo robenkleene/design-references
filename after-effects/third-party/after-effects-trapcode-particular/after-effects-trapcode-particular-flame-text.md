@@ -37,3 +37,5 @@
 1. Re-organize the `Project` panel, so that mattes are in a `Mattes` folder, and `Logo Source` is a `Logo` folder:
 
     ![Project Panel](assets/after-effects-trapcode-particular-flame-text-project-panel.png)
+
+2. Drag the `Source Matte` and `Logo Source` into the `Emitter Map`
