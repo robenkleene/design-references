@@ -39,3 +39,4 @@
     ![Project Panel](assets/after-effects-trapcode-particular-flame-text-project-panel.png)
 
 2. Drag the `Source Matte` and `Logo Source` into the `Emitter Map` composition (`Source Matte` on top and `Logo Source` on the bottom)
+3. With the `Emitter Map` composition selected, for `Logo Source` set the `TrkMat` to `Luma Matte "Source Matte"` (this reveals the `Logo Source` based on the white values of the `Source Matte`)
