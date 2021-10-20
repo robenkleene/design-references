@@ -40,4 +40,4 @@
 
 2. Drag the `Source Matte` and `Logo Source` into the `Emitter Map` composition (`Source Matte` on top and `Logo Source` on the bottom)
 3. With the `Emitter Map` composition selected, for `Logo Source` set the `TrkMat` to `Luma Matte "Source Matte"` (this reveals the `Logo Source` based on the white values of the `Source Matte`)
-4. The `Source Matte` is going to be used to emit particles and we want to stop emitting once the text is fully revealed. Go to `3:12` and add a keyframe for `Source Matte > Opacity: 100%`, then move to `3:13` and add a keyframe for `Source Matte > Opacity: 0%`.
+4. The `Source Matte` is going to be used to emit particles and we want to stop emitting once the text is fully revealed. Go to `3:12` and add a keyframe for `Source Matte > Transform > Opacity: 100%`, then move to `3:13` and add a keyframe for `Source Matte > Transform > Opacity: 0%`.

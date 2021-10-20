@@ -69,3 +69,7 @@ Use gray to neutralize part of the displacement map to create some variation.
 ## Playback
 
 1. Try playing the `Main Wave Circle` composition to see the displaced wave effect.
+
+## Background
+
+1. Add a gray solid and move it to the farthest back layer as the background
