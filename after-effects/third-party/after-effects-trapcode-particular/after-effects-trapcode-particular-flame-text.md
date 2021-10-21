@@ -46,4 +46,5 @@
 
 1. Make a new composition, `1920x1080`, `7` seconds long, `24` frames per second, called `Logo Source`, with a black background color, and call it `Text Reveal`
 2. Move the composition under `Mattes` if it's not there already
+3. Drag the `Logo Source` into the `Text Reveal` matte
 
