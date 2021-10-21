@@ -46,5 +46,7 @@
 
 1. Make a new composition, `1920x1080`, `7` seconds long, `24` frames per second, called `Logo Source`, with a black background color, and call it `Text Reveal`
 2. Move the composition under `Mattes` if it's not there already
-3. Drag the `Logo Source` into the `Text Reveal` matte
+3. Drag the `Logo Source` into the `Text Reveal` composition
+4. Drag the `Source Matte` into the `Text Reveal` composition, above `Logo Source`
+5. Under `TrkMat` for `Logo Source`, choose `Luma Inverted Matte "Source Matte"`
 
