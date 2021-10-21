@@ -41,3 +41,9 @@
 2. Drag the `Source Matte` and `Logo Source` into the `Emitter Map` composition (`Source Matte` on top and `Logo Source` on the bottom)
 3. With the `Emitter Map` composition selected, for `Logo Source` set the `TrkMat` to `Luma Matte "Source Matte"` (this reveals the `Logo Source` based on the white values of the `Source Matte`)
 4. The `Source Matte` is going to be used to emit particles and we want to stop emitting once the text is fully revealed. Go to `3:12` and add a keyframe for `Source Matte > Transform > Opacity: 100%`, then move to `3:13` and add a keyframe for `Source Matte > Transform > Opacity: 0%`.
+
+## Second Matte
+
+1. Make a new composition, `1920x1080`, `7` seconds long, `24` frames per second, called `Logo Source`, with a black background color, and call it `Text Reveal`
+2. Move the composition under `Mattes` if it's not there already
+
