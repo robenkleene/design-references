@@ -76,4 +76,6 @@ Use gray to neutralize part of the displacement map to create some variation.
 
 ## Adding More Types of Distortion
 
+### Fractal Noise
 
+1. Create separate side-by-side views, with the `Main Wave Circle` on the left, and the `Displacement Map` on the right. Lock both views by clicking the lock icon in their tab.
