@@ -49,3 +49,8 @@
 3. Drag the `Logo Source` into the `Text Reveal` composition
 4. Drag the `Source Matte` into the `Text Reveal` composition, above `Logo Source`
 5. Under `TrkMat` for `Logo Source`, choose `Luma Inverted Matte "Source Matte"` *We now have two versions of the logo with mattes setup, one where the text is removed in the white areas, and one where it's added in the white areas, they're the inverse of each other*
+
+## Heat Map
+
+1. Create a new composition and call it `Heat Map`
+2. In `Heat Map`, create a new black solid and call it `Particular`
