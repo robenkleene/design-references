@@ -54,3 +54,5 @@
 
 1. Create a new composition and call it `Heat Map`
 2. In `Heat Map`, create a new black solid and call it `Particular`
+3. Add `Particular` to the layer
+4. Make a new all black solid background called `BG` and move it behind the `Particular` layer
