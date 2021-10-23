@@ -56,3 +56,10 @@
 2. In `Heat Map`, create a new black solid and call it `Particular`
 3. Add `Particular` to the layer
 4. Make a new all black solid background called `BG` and move it behind the `Particular` layer
+
+### Particular
+
+1. Under `Effect Controls > Particular`, set:
+    - `Particles/sec: 50`
+    - `Emitter Type: Box`
+    - `Emitter Size X: 2320`
