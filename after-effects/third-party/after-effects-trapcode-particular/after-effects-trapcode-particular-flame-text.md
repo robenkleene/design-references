@@ -63,3 +63,4 @@
     - `Particles/sec: 50`
     - `Emitter Type: Box`
     - `Emitter Size X: 2320`
+    - `Position XY: 960, 1241`
