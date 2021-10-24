@@ -68,5 +68,8 @@
         - `Position XY: 960, 1241` (below the view port)
     - Under `Particle`:
         - `Size: 50`
+        - `Color: Red`
+        - `Size Random: 26%`
+        - `Size: 150`
     - Under `Environment`:
         - `Gravity: -250`
