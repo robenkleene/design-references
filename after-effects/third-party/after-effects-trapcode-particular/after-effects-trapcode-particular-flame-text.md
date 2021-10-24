@@ -60,7 +60,13 @@
 ### Particular
 
 1. Under `Effect Controls > Particular`, set:
-    - `Particles/sec: 50`
-    - `Emitter Type: Box`
-    - `Emitter Size X: 2320`
-    - `Position XY: 960, 1241`
+    - Under `Emitter`:
+        - `Particles/sec: 50`
+        - `Emitter Type: Box`
+        - `Emitter Size: XYZ Individual`
+        - `Emitter Size X: 2320`
+        - `Position XY: 960, 1241` (below the view port)
+    - Under `Particle`:
+        - `Size: 50`
+    - Under `Environment`:
+        - `Gravity: -250`
