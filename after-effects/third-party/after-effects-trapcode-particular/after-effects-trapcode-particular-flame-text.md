@@ -74,3 +74,8 @@
     - Under `Environment`:
         - `Gravity: -250`
 
+## Main Comp
+
+1. Make a new composition and call it `Main Comp`
+2. Drag in the metal texture as a background, and scale it up a bit (e.g., `162%`)
+3. In the layers panel, toggle on the 3D icon for the metal texture
