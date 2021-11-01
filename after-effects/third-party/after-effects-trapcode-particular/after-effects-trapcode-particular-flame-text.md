@@ -81,3 +81,4 @@
 3. In the layers panel, toggle on the 3D icon for the metal texture
 4. Hit `p` to reveal the layer `Position` property, and increment the `Z` value until the metal texture no longer fills the frame (i.e., zoom it out)
 5. Hit `s` to reveal the layer `Scale` property, and scale up the texture until it fills the frame again
+
