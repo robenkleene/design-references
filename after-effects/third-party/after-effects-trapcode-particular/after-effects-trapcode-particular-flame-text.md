@@ -81,4 +81,7 @@
 3. In the layers panel, toggle on the 3D icon for the metal texture
 4. Hit `p` to reveal the layer `Position` property, and increment the `Z` value until the metal texture no longer fills the frame (i.e., zoom it out)
 5. Hit `s` to reveal the layer `Scale` property, and scale up the texture until it fills the frame again
+6. Add a `Curves` effect to the metal texture layer
+7. Adjust the `Curves` graph to decrease brightness and increase contrast:
 
+    ![Metal Texture Curves](assets/after-effects-trapcode-particular-flame-text-metal-texture-curves.png)
