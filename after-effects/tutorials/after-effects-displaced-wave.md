@@ -82,3 +82,7 @@ Use gray to neutralize part of the displacement map to create some variation.
 2. Create a gray solid on `Displacement Map`, and add a `Noise > Fractal Noise` effect, move the new solid layer (`Gray Solid 3`) below `Gray Solid 1`
 3. Under `Effect Controls > Fractal Noise`, set `Contrast: 53` and `Brightness: -17`, and under `Transform`, toggle off `Uniform Scaling`, and set `Scale Width: 50`.--
 4. Under the `Dark Gray Solid 3` layer, set `Opacity: 64%`
+
+## Colors
+
+1. Select `Main Wave Circle > Circle 1` and set the `Beam > Outside Color` to a blue, do the same for `Circle 2`
