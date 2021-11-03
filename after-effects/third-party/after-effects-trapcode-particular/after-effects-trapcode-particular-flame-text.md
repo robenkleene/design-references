@@ -85,3 +85,7 @@
 7. Adjust the `Curves` graph to decrease brightness and increase contrast:
 
     ![Metal Texture Curves](assets/after-effects-trapcode-particular-flame-text-metal-texture-curves.png)
+
+## Lens Flare (Optional)
+
+1. Create a new black solid layer in `Main Comp` above the metal texture
