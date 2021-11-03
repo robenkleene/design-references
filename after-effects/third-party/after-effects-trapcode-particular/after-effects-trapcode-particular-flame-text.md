@@ -88,4 +88,7 @@
 
 ## Lens Flare (Optional)
 
-1. Create a new black solid layer in `Main Comp` above the metal texture
+1. Create a new black solid layer called `Optical Flares` in `Main Comp` above the metal texture
+2. To `Optical Flares`, add the following effects:
+    - `Generate > Lens Flare`
+    - `Blur & Sharpen > Fast Box Blur`
