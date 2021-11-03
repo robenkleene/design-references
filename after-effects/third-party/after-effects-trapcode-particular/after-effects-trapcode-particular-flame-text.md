@@ -92,3 +92,5 @@
 2. To `Optical Flares`, add the following effects:
     - `Generate > Lens Flare`
     - `Blur & Sharpen > Fast Box Blur`
+    - `Color Correction > Curves`
+    - `Color Correction > Tint`
