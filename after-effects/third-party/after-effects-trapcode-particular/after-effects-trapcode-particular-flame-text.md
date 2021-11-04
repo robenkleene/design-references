@@ -99,3 +99,5 @@
 5. Adjust the `Lens Flare > Flare Brightness`, `Fast Box Blur > Blur Radius`, `Curves`, and `Tint` settings, and scaling up the layer to match the screenshot
 
     ![Lens Flare](assets/after-effects-trapcode-particular-flame-text-lens-flare.png)
+
+- Try animating the blur iterations to create a flicker, document trick of for cycling animation
