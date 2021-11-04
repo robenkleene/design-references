@@ -94,3 +94,6 @@
     - `Blur & Sharpen > Fast Box Blur`
     - `Color Correction > Curves`
     - `Color Correction > Tint`
+3. Toggle off the `Tint` effect for now, by clicking the `fx` icon to the left of it under `Effect Controls`
+4. In the Layers panel, change the `Mode` of the `Optical Flares` layer to `Add`
+4. Move the center of the lens flare to the bottom middle of the project, this is just to create an ambient light
