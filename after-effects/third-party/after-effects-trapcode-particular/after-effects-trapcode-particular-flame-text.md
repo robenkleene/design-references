@@ -100,4 +100,4 @@
 
     ![Lens Flare](assets/after-effects-trapcode-particular-flame-text-lens-flare.png)
 
-- Try animating the blur iterations to create a flicker, document trick of for cycling animation
+6. `⌥`-click the stopwatch for `Lens Flare > Fast Box Blur > Iterations` and set a `wiggle(5, 2)` expression to give some flickering to the flare.

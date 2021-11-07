@@ -19,3 +19,11 @@ The "Pick Whip" (the spiral icon to the right of properties in the timeline) is 
 - `loopOut("pingpong");`: Alternate between forward and backward playback
 - `loopOut("continue");`: When the loop ends, continue with momentum
 - `loopOut("offset");`: Adds values to the end of the last keyframe
+
+## Functions
+
+### Wiggle
+
+Fluctuate between two values, `freq` is changes per second, and `amp` is size of the change:
+
+    wiggle(freq,amp);
