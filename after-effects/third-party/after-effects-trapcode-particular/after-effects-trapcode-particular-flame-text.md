@@ -104,6 +104,6 @@
 
 ## Disintegration Effect
 
-1. Drag the `Emitter Map` layer from the `Project` panel into the `Main Comp`, make it the bottom layer and toggle off its visibility.
-2. Drag the `Text Reveal` layer into the `Main Comp` and make it the top layer
-3. Drag the `Heat Map` layer into the `Main Comp` and make it the bottom layer
+1. Drag the `Emitter Map` layer from the `Project` panel into the `Main Comp`, make it the bottom layer and toggle off its visibility, and toggle on 3D layer
+2. Drag the `Text Reveal` layer into the `Main Comp` and make it the top layer, and toggle on 3D layer
+3. Drag the `Heat Map` layer into the `Main Comp` and make it the bottom layer, and toggle off its visibility
