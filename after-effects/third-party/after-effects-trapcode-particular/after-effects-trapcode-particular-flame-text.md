@@ -101,3 +101,9 @@
     ![Lens Flare](assets/after-effects-trapcode-particular-flame-text-lens-flare.png)
 
 6. `⌥`-click the stopwatch for `Lens Flare > Fast Box Blur > Iterations` and set a `wiggle(5, 2)` expression to give some flickering to the flare.
+
+## Disintegration Effect
+
+1. Drag the `Emitter Map` layer from the `Project` panel into the `Main Comp`, make it the bottom layer and toggle off its visibility.
+2. Drag the `Text Reveal` layer into the `Main Comp` and make it the top layer
+3. Drag the `Heat Map` layer into the `Main Comp` and make it the bottom layer
