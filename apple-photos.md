@@ -11,3 +11,8 @@ Use the Metapho app from the share sheet, which lets the `.dng` asset to be indi
 ### Desktop
 
 Use "File" -> "Export" -> "Export Unmodified Original"
+
+## Hidden
+
+- Right-click and choose `Hide`
+- Hidden photos show up in the `Hidden` album, show it under `View > Show Hidden Photo Album`
