@@ -83,6 +83,8 @@ Use gray to neutralize part of the displacement map to create some variation.
 3. Under `Effect Controls > Fractal Noise`, set `Contrast: 53` and `Brightness: -17`, and under `Transform`, toggle off `Uniform Scaling`, and set `Scale Width: 50`.--
 4. Under the `Dark Gray Solid 3` layer, set `Opacity: 64%`
 
-## Colors
+## Colors & Tweaks
 
 1. Select `Main Wave Circle > Circle 1` and set the `Beam > Outside Color` to a blue, do the same for `Circle 2`
+2. Darken the color of `Dark Grey Solid 2`
+3. Under `Circle 1 > Effect Controls > Beam`, set `Starting Thickness: 24` and `Ending Thickness: 24`

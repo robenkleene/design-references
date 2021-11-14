@@ -110,3 +110,4 @@
 4. Make a new black solid layer called `Sparks (Main)` and make it the top layer
 5. Add a `Particular` effect to `Sparks (Main)`
 6. Under `Sparks (Main) > Effect Controls > Particular > Emitter`, set `Emitter Type: Layer`, `Layer Emitter > Layer: Emitter Map` (note that the emitter layer must be a 3D layer), `Layer Emitter > Layer Sampling: Particle Birth Time`, and `Layer Emitter > Layer RGB User: None`
+7. Set `Sparks (Main) > Effect Controls > Particular > Emitter > Particles/sec: 100000`
