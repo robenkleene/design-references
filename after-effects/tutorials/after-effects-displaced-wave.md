@@ -89,3 +89,4 @@ Use gray to neutralize part of the displacement map to create some variation.
 2. Darken the color of `Dark Grey Solid 2`
 3. Under `Circle 1 > Effect Controls > Beam`, set `Starting Thickness: 24` and `Ending Thickness: 24`, do the same for `Circle 2`
 4. Set the blend mode of `Circle 1` and `Circle 2` to `Screen`
+5. Add an `Adjustment Layer` (`⌥⌘Y`)
