@@ -108,3 +108,5 @@
 2. Drag the `Text Reveal` layer into the `Main Comp` and make it the top layer, and toggle on 3D layer
 3. Drag the `Heat Map` layer into the `Main Comp` and make it the bottom layer, and toggle off its visibility
 4. Make a new black solid layer called `Sparks (Main)` and make it the top layer
+5. Add a `Particular` effect to `Sparks (Main)`
+6. Under `Sparks (Main) > Effect Controls > Particular > Emitter`, set `Emitter Type: Layer` and set `Layer Emitter > Layer: Emitter Map` (note that the emitter layer must be a 3D layer)
