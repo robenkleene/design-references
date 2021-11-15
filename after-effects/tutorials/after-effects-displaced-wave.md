@@ -91,4 +91,4 @@ Use gray to neutralize part of the displacement map to create some variation.
 4. Set the blend mode of `Circle 1` and `Circle 2` to `Screen`
 5. Add an `Adjustment Layer` (`⌥⌘Y`), and add a `Stylize > Glow` effect to it
 6. Under `Adjustment Layer 1 > Effect Controls > Glow`, set `Glow Threshold: 71` and `Glow Radius: 59`
-7. To add some contrasting color, set `Circle 1 > Effect Controls > Beam > Outside Color` to a yellow
+7. To add some contrasting color, set `Circle 1 > Effect Controls > Beam > Outside Color` to a yellow:wq
