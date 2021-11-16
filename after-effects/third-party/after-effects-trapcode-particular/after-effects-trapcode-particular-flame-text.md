@@ -112,4 +112,5 @@
 6. Under `Sparks (Main) > Effect Controls > Particular > Emitter`, set `Emitter Type: Layer`, `Layer Emitter > Layer: Emitter Map` (note that the emitter layer must be a 3D layer), `Layer Emitter > Layer Sampling: Particle Birth Time`, and `Layer Emitter > Layer RGB User: None`
 7. Under `Sparks (Main) > Effect Controls > Particular`, under `Emitter`, set `Particles/sec: 100000`, `Velocity: 7`, under `Particle`, set `Life (seconds): 1`, `Color` to an orange, sparky color, `Opacity Random: 25`, `Size Random: 40`, `Blend Mode: Add`
 8. Set the blend mode of `Sparks (Main)` to `Add`
-9. Under `Sparks (Main) > Effect Controls > Particular > Environment`, set `Gravity: -100`, `Wind X: 175`, `Wind Y: -95`, `Wind Z: -50`
+9. Under `Sparks (Main) > Effect Controls > Particular > Environment`, set `Gravity: -100`, `Wind X: 250`, `Wind Y: -95`, `Wind Z: -50`
+10. Set `Under `Sparks (Main) > Effect Controls > Particular > Particle > Size: 1.5`
