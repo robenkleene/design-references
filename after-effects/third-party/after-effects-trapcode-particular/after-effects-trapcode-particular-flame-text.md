@@ -118,4 +118,4 @@
 
 ## Glow
 
-1. Add a `Glow` effect to `Sparks (Main)`
+1. Add a `Glow` effect to `Sparks (Main)`, and set its `Glow Threshold: 65` and `Glow Intensity: 2`
