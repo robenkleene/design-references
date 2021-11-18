@@ -110,7 +110,7 @@
 4. Make a new black solid layer called `Sparks (Main)` and make it the top layer
 5. Add a `Particular` effect to `Sparks (Main)`
 6. Under `Sparks (Main) > Effect Controls > Particular > Emitter`, set `Emitter Type: Layer`, `Layer Emitter > Layer: Emitter Map` (note that the emitter layer must be a 3D layer), `Layer Emitter > Layer Sampling: Particle Birth Time`, and `Layer Emitter > Layer RGB User: None`
-7. Under `Sparks (Main) > Effect Controls > Particular`, under `Emitter`, set `Particles/sec: 100000`, `Velocity: 7`, under `Particle`, set `Life (seconds): 1`, `Color` to an orange, sparky color, `Opacity Random: 25`, `Size Random: 40`, `Blend Mode: Add`
+7. Under `Sparks (Main) > Effect Controls > Particular`, under `Emitter`, set `Particles/sec: 50000`, `Velocity: 7`, under `Particle`, set `Life (seconds): 1`, `Color` to an orange, sparky color, `Opacity Random: 25`, `Size Random: 40`, `Blend Mode: Add`
 8. Set the blend mode of `Sparks (Main)` to `Add`
 9. Under `Sparks (Main) > Effect Controls > Particular > Environment`, set `Gravity: -100`, `Wind X: 250`, `Wind Y: -95`, `Wind Z: -50`
 10. Set `Sparks (Main) > Effect Controls > Particular > Particle > Size: 2.0`
@@ -119,3 +119,4 @@
 ## Glow
 
 1. Add a `Glow` effect to `Sparks (Main)`, and set its `Glow Threshold: 65` and `Glow Intensity: 2`
+2. Add a second `Glow` effect to `Sparks (Main)`, and set its `Glow Threshold: 53`, `Glow Radius: 4`, and `Glow Intensity: 1`
