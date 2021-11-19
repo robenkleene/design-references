@@ -120,3 +120,11 @@
 
 1. Add a `Glow` effect to `Sparks (Main)`, and set its `Glow Threshold: 65` and `Glow Intensity: 2`
 2. Add a second `Glow` effect to `Sparks (Main)`, and set its `Glow Threshold: 53`, `Glow Radius: 4`, and `Glow Intensity: 1`
+
+## Fixing Emitter Map
+
+1. The text disappears at around `03;08`, but the text in the `Emitter Map` composition disappears at `03;12`. So in the `Emitter Map` composition, move the starting and ending `Source Matte > Transform > Opacity` keyframes to end at `03;08`.
+
+## Turbulence
+
+E.g., twirling in the particles.
