@@ -6,7 +6,10 @@
 - `F2`: Switch to top view
 - `F3`: Switch to right view
 - `F4`: Switch to front view
+
+## Splits
 - Split the viewport into four quadrants by clicking the icon in the upper right (`Panel > All Views` or `F5`)
+- To use different split arrangements, choose from `Panel > Arrangement`
 - The four quadrant views can be switched to directly with `F1` through `F4` (or choose a view from the `Panel` menu)
 
 ## Grid
