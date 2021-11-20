@@ -10,6 +10,7 @@
 ## Splits
 - Split the viewport into four quadrants by clicking the icon in the upper right (`Panel > All Views` or `F5`)
 - To use different split arrangements, choose from `Panel > Arrangement`
+    - Then set the shading mode under `Display`
 - The four quadrant views can be switched to directly with `F1` through `F4` (or choose a view from the `Panel` menu)
 
 ## Grid
