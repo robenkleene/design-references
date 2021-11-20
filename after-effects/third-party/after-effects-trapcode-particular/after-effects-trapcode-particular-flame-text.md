@@ -113,13 +113,13 @@
 7. Under `Sparks (Main) > Effect Controls > Particular`, under `Emitter`, set `Particles/sec: 50000`, `Velocity: 7`, under `Particle`, set `Life (seconds): 1`, `Color` to an orange, sparky color, `Opacity Random: 25`, `Size Random: 40`, `Blend Mode: Add`
 8. Set the blend mode of `Sparks (Main)` to `Add`
 9. Under `Sparks (Main) > Effect Controls > Particular > Environment`, set `Gravity: -100`, `Wind X: 250`, `Wind Y: -95`, `Wind Z: -50`
-10. Set `Sparks (Main) > Effect Controls > Particular > Particle > Size: 2.0`
+10. Set `Sparks (Main) > Effect Controls > Particular > Particle > Size: 1.5`
 11. In the layers panel, turn on `Motion Blur` for `Sparks (Main)`
 
 ## Glow
 
 1. Add a `Glow` effect to `Sparks (Main)`, and set its `Glow Threshold: 65` and `Glow Intensity: 2`
-2. Add a second `Glow` effect to `Sparks (Main)`, and set its `Glow Threshold: 53`, `Glow Radius: 4`, and `Glow Intensity: 1`
+2. Add a second `Glow` effect to `Sparks (Main)`, and set its `Glow Threshold: 66`, `Glow Radius: 4`, and `Glow Intensity: 1`
 
 ## Fixing Emitter Map
 
@@ -128,3 +128,9 @@
 ## Turbulence
 
 E.g., twirling in the particles.
+
+1. Under `Sparks (Main) > Particular > Displace > Turbulence Field`, set `TF Displace XYZ: 100 `
+
+## Duplicate
+
+1. Duplicate the `Sparks (Main)` layer and call the duplicate `Sparks (Small)`
