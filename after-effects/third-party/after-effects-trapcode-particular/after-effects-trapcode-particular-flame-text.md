@@ -134,4 +134,4 @@ E.g., twirling in the particles.
 ## Duplicate
 
 1. Duplicate the `Sparks (Main)` layer and call the duplicate `Sparks (Small)`
-2. Under `Sparks (Main) > Particular > Emitter`, set `Particles/sec: 100000`
+2. Under `Sparks (Main) > Particular > Emitter`, set `Particles/sec: 100000` and `Size: 1`
