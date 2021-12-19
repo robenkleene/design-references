@@ -139,4 +139,4 @@ E.g., twirling in the particles.
 4. Add a `Curves` effect to `Extrusion`
 5. Decrease the center of the `Curves` effect so it's shaped like a bow
 6. In the `Parent & Link` column in layers, drag from the pick whip icon for `Extrusion` to `Text Reveal`
-7. With the `Extrusion` layer selected, hit `P` to reveal the position, and set the `Z` value to `1.0`
+7. With the `Extrusion` layer selected, hit `P` to reveal the position, and set the `Z` value to `1.0` (pushing it back in the Z direction by one pixel)
