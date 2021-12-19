@@ -5,7 +5,7 @@
 - To duplicate an object, just use `⌘C ⌘V`
 - `⌘Drag` to duplicate (instead of the usual `⌥Drag` on macOS)
 - Menu items that look like `N~A` mean type `N` then `A`
-- `⇧F2`: Toggle `Material Manager`
+- `⇧F2` / Icon in upper-right that looks like a crystal ball: Toggle `Material Manager`
 
 ## Transport
 
