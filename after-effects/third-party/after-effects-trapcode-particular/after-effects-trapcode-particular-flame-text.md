@@ -135,3 +135,8 @@ E.g., twirling in the particles.
 
 1. Duplicate the `Sparks (Main)` layer and call the duplicate `Sparks (Small)`
 2. Under `Sparks (Main) > Particular`, set `Emitter > Particles/sec: 100000`, `Emitter > Random Seed: 5`, `Particle > Size: 1`, `Particle > Opacity: 80`
+3. Duplicate the `Text Reveal` layer and rename it to `Extrusion`
+4. Add a `Curves` effect to `Extrusion`
+5. Decrease the center of the `Curves` effect so it's shaped like a bow
+6. In the `Parent & Link` column in layers, drag from the pick whip icon for `Extrusion` to `Text Reveal`
+7. With the `Extrusion` layer selected, hit `P` to reveal the position, and set the `Z` value to `1.0`
