@@ -147,3 +147,5 @@ E.g., twirling in the particles.
 6. Drag all the copies behind the original extrusion
 7. With all the copies selected, hit `P` to reveal the position for all of them
 8. Starting from `Extrusion 7` at `5.0`, set the `Z` position for each extrusion layer in increasing increments of `5`
+
+    ![Extrusions](assets/after-effects-trapcode-particular-flame-text-extrusions.png)
