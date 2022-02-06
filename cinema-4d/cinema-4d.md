@@ -40,7 +40,7 @@ After Effects defaults to a transparent background, to use the background from t
 
 1. Right-click the Cinema 4D file in the Project and select "Interpret Footage" -> "Main" or use `⌘⌥g`
 2. To import with the background from Cinema 4D, choose "Alpha: Ignore"
-
+a
 ## Trackpad
 
 - `⌥-2-finger` to orbit
