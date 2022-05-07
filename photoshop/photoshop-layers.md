@@ -6,3 +6,4 @@
 - `⌘[` / `⌘]`: Send layer backward / forward
 - `⌘⇧[` / `⌘⇧]`: Send layer to back / front
 - `⌥[` / `⌥]`: Select next / previous layer
+- `⌫`: Delete a layer
