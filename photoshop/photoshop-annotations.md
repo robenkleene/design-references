@@ -2,4 +2,4 @@
 
 ## Clipboard
 
-Sometimes what's copied in Photoshop isn't available on the system clipboard. When this happens, toggle on and off the `Preferences > General > Export Clipboard` option.
+- For exporting the clipboard, `Preferences > General > Export Clipboard` needs to be checked. Then the export will happen *but only after switching applications*.
