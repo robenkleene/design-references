@@ -2,7 +2,6 @@
 
 - `⌘Y`: Make new solid layer
 - `⇧⌘H`: Show / hide UI, e.g., selection boxes
-- `F3`: Show Effect Controls for current layer
 
 ## Smart Objects
 
