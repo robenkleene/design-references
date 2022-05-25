@@ -20,3 +20,7 @@
 - `21pt`: double small pica or double pica
 - `24pt`: double pica or two-line pica
 - `36pt`: double great primer or 2-line great primer
+
+## Characters
+
+- `«` / `»` Guillemet are used as quotation marks in some languages
