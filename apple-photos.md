@@ -1,5 +1,9 @@
 # Apple Photos
 
+## Live Photos
+
+- To choose a live photo frame, tap edit, then the live photos icon (near the crop tool), then choose a frame from the slider at the bottom.
+
 ## RAW
 
 To use the RAW photo, use one of the methods below to export to another app, for example Adobe Lightroom.
