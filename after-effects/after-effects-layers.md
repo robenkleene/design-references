@@ -2,6 +2,7 @@
 
 - `⌘↓` / `⌘↑`: Select next or previous layer
 - `⌘[` / `⌘]`: Move a layer forward / backward (in front or behind other layers)
+- `⌘⇧[` / `⌘⇧]`: Move a layer to top / bottom
 - `[` / `]`: Move a layer to the start or end at the playhead
 - `⌥[` / `⌥]`: Clip a layer so it starts or ends at the playhead
 - `i` / `o`: Move the playhead to the start or end of a layer
@@ -19,9 +20,8 @@ To change a solid's size, choose `Layer > Solid Settings...` (`⇧⌘Y`).
 
 - `⇧⌘A`: Deselect all
 - `u`: Show/hide properties with keyframes for the selected layer, or all layers if none are selected
-    - To collapse all layers, `u` with none selected (or `uu`)
+- To collapse all layers, `u` with none selected (or `uu`), so `⌘⇧A` then `u` will deselect all layers and then collapse all
 - `uu`: Show/hide all modified properties for the selected layer, or all layers if none are selected
-- ``⌘```: Show all properties for the selected layer, or all layers if none are selected
 - `⌘D`: Duplicate
 
 #### Transform Properties
