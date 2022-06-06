@@ -2,7 +2,7 @@
 
 - To add a primitive, under `Scene` (icon that looks like a graph in the upper left), and select an option under `Primitives`
 - To move and object, select `Gizmo`` in the right sidebar
-- After adding a primitive, to get to the standard tools (e.g., clay, etc...), just tap the `Validate` button
+- After adding a primitive, to get to the standard tools (e.g., clay, brush, etc...), just tap the `Validate` button
 
 ## UV Mapping
 
