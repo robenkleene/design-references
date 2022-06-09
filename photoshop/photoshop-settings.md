@@ -9,3 +9,7 @@
 ## Key Bindings
 
 - `⌘⇧⌥K`: "Edit > Keyboard Shortcuts..."
+
+## Notes
+
+- Photoshop uses the last default colors and text styles that you used. Therefore, for customizations, think of applying a style to the currently selected layer, rather than setting the current color.
