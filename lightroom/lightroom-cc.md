@@ -10,8 +10,8 @@
 
 ### Brushes
 
-- To access the adjustment brush: Tap "Selective" (icon looks like a sunflower), then tap the plus sign and select brush.
-- Tap the diamond to hide and show the overlay color.
+- To access the adjustment brush: Tap `Masking` (icon looks like a sunflower), then tap the plus sign and select brush.
+    - Tap the brush icon to hide and show the affected area. Also to move the mask.
 - `h`: Healing brush
 - `[` / `]`: Decrease/increase brush size
 - The "Auto Mask" checkbox makes the brush try to automatically detect boundaries, a bit like the "Magic Wand" tool in Photoshop.
@@ -22,7 +22,7 @@ To sample a color from your photo, hold the mouse button down in side the color 
 
 ## Mobile
 
-- Tap to compare to original photo
+- Tap and hold to compare to original photo
 - Undo and redo arrows are near the top on iPad
 
 ## Creative Cloud Sync
