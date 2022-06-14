@@ -7,3 +7,4 @@
 ## UV Mapping
 
 - The grid icon in the upper left, then find the menu with decimation in it, then `UV Auto-Unwrap > Unwrap Atlas`.
+	- If this fails (e.g., "non-manifold", then under the grid icon, choose `Voxel > Remesh`
