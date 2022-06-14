@@ -25,3 +25,7 @@ An action setup to export as PNG:
 Batch settings to run the above action:
 
 ![Batch](assets/photoshop-batch.png)
+
+## Export & Import
+
+- To import, just open the file
