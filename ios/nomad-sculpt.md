@@ -4,6 +4,10 @@
 - To move and object, select `Gizmo`` in the right sidebar
 - After adding a primitive, to get to the standard tools (e.g., clay, brush, etc...), just tap the `Validate` button
 
+## Materials
+
+- `Painting > Force Paint All`: To apply texture to entire model
+
 ## UV Mapping
 
 - The grid icon in the upper left, then find the menu with decimation in it, then `UV Auto-Unwrap > Unwrap Atlas`.
