@@ -4,6 +4,7 @@
 - `⌘R`: Toggle rulers
 - `⌘F`: Search, Photoshop's Command Palette (To remove the junk, select the "Photoshop" tab at the top)
 - `⇧⌘D`: Restore last selection
+- `⌫`: Delete layer
 
 ### Fill
 
