@@ -97,4 +97,4 @@ After fixing the perspective the edges of the changed section will be off, one w
 - To transfer a selection between files, just drag and drop the marquee between files.
 - Saved selections are stored as channels.
 - If you've removed the background layer you can get it back with `Layer > New > Layer From Background...`
-- Hold `⇧` to disable snap while dragging
+- Hold `^` to disable snap while dragging
