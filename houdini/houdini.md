@@ -3,6 +3,7 @@
 - `⌘T`: New Tab
 - `⌘-Page Up` / `⌘-Page Down`: Next / Previous Tab
 - `I`: Toggle hover color info
+- `⇥`: Add a node
 
 ## Views
 
@@ -15,7 +16,7 @@ The icon in the upper-right, `Viewport Layout`, has other options for splitting 
 
 ## Mouse
 
-- right-click "Show Node Information..." is similar to middle-click and hold.
+- Right-click "Show Node Information..." is similar to middle-click and hold.
 
 ### Ladder
 
