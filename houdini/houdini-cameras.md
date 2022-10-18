@@ -1,6 +1,6 @@
 # Houdini Cameras
 
-- To view through a camera, use the camera menu in the upper left of the viewport.
+- To view through a camera, use the camera menu in the upper right of the viewport.
 
 ## Frustum
 

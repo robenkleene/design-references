@@ -1,7 +1,7 @@
 # Houdini Nebula
 
 1. Click the `Box` button in the upper left to make a `box_object1`, rename it to `nebula_base_geo`. Hit `C` to bring up the colors palette, then hit click blue (this is just cosmetic).
-2. Double-click in to `Box` and add a `VDB from Polygons` and connect the output of `box1` to its input. The purpose of the VDB is to use volume collisions, which are usually the strongest type of collision. Toggle off `Distance VDB`, toggle on `Fog VDB`, set `Voxel Size: 0.027`.
+2. Double-click in to `Box` and add a `VDB from Polygons` and connect the output of `box1` to its input. The purpose of the VDB is to use volume collisions, which are usually the strongest type of collision. In the `Parameters` tab, Toggle off `Distance VDB`, toggle on `Fog VDB`, set `Voxel Size: 0.027`.
 3. Add a `Volume VOP` and connect the output of `vdbfrompolygons1` to its first input.
 4. Add a `Volume Visualization`, connect the output of `volumevop1` to its input. Set `Density Field: Density` and `Density: 10` (the maximum). Here the `Volume Visualization` is being used as a more performant way to see what it will look like when we give it more volume later.
 

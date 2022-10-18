@@ -4,7 +4,7 @@
 
 - `Drag`: Orbit
 - `Scroll`: Zoom
-- `Right-Drag`: Pan
+- `Right-Drag`: Pan (this only works if the `HOUDINI_MMB_PAN = 0` environment variable is set
 
 ## Shortcuts
 
