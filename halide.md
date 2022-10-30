@@ -48,3 +48,7 @@ If you want the best possible shot in low light, you:
 3. Increase the shutter speed until the exposure looks right
 
 And since Halide will prioritize ISO when in manual mode, you can even tap-to-expose without having to fight with the ISO jumping around.
+
+## Tips
+
+- Swipe on lens type to switch. E.g., up for telephoto and left for ultrawide
