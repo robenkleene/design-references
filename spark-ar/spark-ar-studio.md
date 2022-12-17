@@ -2,8 +2,9 @@
 
 ## Navigation
 
-- `two-finger drag`: Pan
+- `two-finger drag`: Zoom
 - `⌘-drag`: Orbit
+- `⌥-drag`: Pan
 
 ## Device
 
