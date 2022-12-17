@@ -8,4 +8,4 @@
 
 ## Notes
 
-- Smoke Color is under "Physics Properties > Smoke", then "Type: Flow"
+- Smoke Color is under `Physics Properties > Smoke`, then `Type: Flow`
