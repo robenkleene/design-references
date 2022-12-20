@@ -8,8 +8,8 @@ There are different beginning and ending steps based on whether the gradient is 
 
 To apply the gradient to the world:
 
-1. In "World Properties", make sure "Use Nodes" is selected (it should be blue).
-2. Drag up the bottom split, and switch to the "Shader Editor". Select "World" in the upper left (from "object").
+1. In `World Properties`, make sure `Use Nodes` is selected (it should be blue).
+2. Drag up the bottom split, and switch to the `Shader Editor`. Select `World` in the upper left (from `object`).
 
 ## Plane Setup
 
