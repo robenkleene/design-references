@@ -1,5 +1,7 @@
 # Blender Glass Sphere
 
+These tutorials first [create a world gradient](blender-gradient-background.md).
+
 ## Eevee
 
 ### Method 1
