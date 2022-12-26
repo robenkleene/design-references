@@ -5,6 +5,10 @@
 1. Go to "Render" > "Render Image" (`F12`).
 2. Type `S` to save the image
 
+### In Viewport
+
+Just switch to `Viewport Shading > Rendered` (`z r`)
+
 ## Rendering Engines
 
 The rendering engine is set under "Render Properties".

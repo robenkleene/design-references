@@ -51,3 +51,5 @@ The `Object` should have an existing `Material Output.
 ## Notes
 
 - To change to a radial gradient, select "Spherical" in the "Gradient Texture" node.
+- To preview, choose `Viewport Shading > Render Preview` (`z r`)
+
