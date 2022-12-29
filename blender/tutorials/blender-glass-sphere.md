@@ -44,13 +44,15 @@ Both of these methods use the same setup.
 2. Add an Ico Sphere (`A` then `Mesh > Ico Sphere`), set `Radius: 10m` and `Subdivisions: 6`
 3. Add a HDRI background (under `World Properties`, leave the default as `Surface: Background`, and set `Color: Environment Texture`. Click the folder icon to select your image.)
 4. Add a material to the sphere (select the `Sphere` then select `Material Properties` in the sidebar and click the `New` button)
-5. Select the `Shading` tab on the top, in the `Shader Editor` (just be automatically set as the bottom split under the Shading tab), delete the default `Principled BSDF` (select it, then `X`).
+5. Select the `Shading` tab on the top, in the `Shader Editor` (just be automatically set as the bottom split under the Shading tab), delete the default `Principled BSDF` (select it, then `X`, don't delete the `Material Output` which is also selected by default when first visiting the `Shading` tab).
 
 ### Method 1
 
 ![Glass 1](assets/blender-glass-cycles-1.png)
 
 This method seems to work well with either an `Ico Sphere` or a `UV Sphere`.
+
+On the `Shading` tab, with the `Icosphere` selected:
 
 1. Add a `Shader > Glass BSDF` and connect the `BSDF` output to the `Surface` input.
 
@@ -65,6 +67,8 @@ This method seems to work well with either an `Ico Sphere` or a `UV Sphere`.
 [![Glass 2 Nodes](assets/blender-glass-cycles-2.png)]((assets/blender-glass-cycles-1.png))
 
 This method seems to work better wtih an `Ico Sphere`.
+
+On the `Shading` tab, with the `Icosphere` selected:
 
 1. Add an `Input > Light Path`, add two `Converter > Math` nodes.
 2. Connect the output of `Light Path: Is Shadow Ray` to the first `Add: Value` and output of `Light Path: Is Diffuse Ray` to the second `Add: Value`. Connect the `Add: Value` output to the bottom `Add: Value` input. Connect the `Light Path: Is Glossy Ray` output to the top `Add: Value` input.
