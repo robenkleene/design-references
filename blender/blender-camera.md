@@ -11,7 +11,7 @@ The currently active camera is the value of the `Scene Properties > Scene > Came
 There are three methods of positioning the camera:
 
 1. View through the camera (`0`), then using the special movement keys to position the camera.
-2. View through the camera (`0`), then "Lock Camera to View" and position the camera.
+2. View through the camera (`0`), then `Lock Camera to View` and position the camera.
 3. Just move the viewport to where you want to the camera to be, then hit `⌃⌥0` to move the camera to that position.
 
 ## Aligning
@@ -23,7 +23,7 @@ When you're viewing through the camera, you can then use:
 
 ## Lock
 
-To "Lock Camera to View", hit `n` with the main view focused to bring up a side panel with additional options, then select the "View" panel, and click "Lock Camera to View".
+To `Lock Camera to View`, hit `n` with the main view focused to bring up a side panel with additional options, then select the `View` panel, and click `Lock Camera to View`.
 
 ## Rolling
 
