@@ -7,3 +7,4 @@
 5. Select the `Cube`, and select `Physics Properties` and turn on `Fluid`, then select `Effector` in the `Fluid` section, and toggle on `Settings > Is Planar`. Set `Settings > Surface Thickness: 0.00001`
 6. "Reset the domain type" for the `Smoke Domain` by selecting `Smoke Domain > Physics Properties > Fluid > Settings > Domain Type: Gas` (just re-select `Gas`). After doing so, and re-playing the scene, the smoke should no longer be moving.
 7. Toggle on `Smoke Domain > Fluid > Adaptive Domain`, and set `Adaptive Domain > Margin: 2`
+8. Reset the domain type and play again and the smoke should move, but then get stuck around frame 70
