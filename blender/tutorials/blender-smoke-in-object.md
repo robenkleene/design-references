@@ -11,3 +11,5 @@
 9. To assure the smoke domain always has an edge inside the cube, move the back edge (farthest from the camera) so it intersects with the cube. Go to `Modeling` tab, select `Move` tool, use `Select Mode: Face`. Click the edge to move, and then visually move it inside the cube.
 
     ![Move Edge](assets/blender-smoke-in-object-move-edge.png)
+
+10. While we're resizing, it's also a good idea to move the top edge down so it's just like the other edges which sit right outside the sides of the cube.
