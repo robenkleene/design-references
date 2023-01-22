@@ -1,6 +1,7 @@
 # Blender Window Management
 
 - `⌃␣`: Toggle maximize the view that your window is over
+- `^PgUp` / `^PgDn`: Switch Workspaces (tabs along the top)
 
 ## Splits
 
