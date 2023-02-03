@@ -10,3 +10,6 @@
 8. Use `Effect Controls > Geometry > Bend` to bend the mesh before applying the fractal, or `Effect Controls > Fractal > FBend` for after the fractal.
 9. `Effect Controls > Fractal > Frequency` controls the detail of the displacement
 
+## Animating
+
+- Just add a `time * 20` expression to the `Fractal > Evolution` (`⌥click the stopwatch` to add an expression)
