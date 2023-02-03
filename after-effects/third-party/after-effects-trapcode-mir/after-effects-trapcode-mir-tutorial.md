@@ -8,3 +8,5 @@
 6. Set `Effect Controls > Material > Surface Preset: Wireframe`
 7. You can now see that it's a rectangular mesh that's displaced by a fractal by adjusting the `Effect Controls > Fractal > Amplitude`. Amplitude `0` is not displaced, and just shows the rectangular mesh.
 8. Use `Effect Controls > Geometry > Bend` to bend the mesh before applying the fractal, or `Effect Controls > Fractal > FBend` for after the fractal.
+9. `Effect Controls > Fractal > Frequency` controls the detail of the displacement
+
