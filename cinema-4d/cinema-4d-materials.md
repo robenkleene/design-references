@@ -1,3 +1,4 @@
 # Cinema 4D Materials
 
-- Double-click Material Manager to create a new material.
+- `⇧F2` / `Material Manager...`: Open the material manager
+- Double-click n the `Material Manager` to create a new material.
