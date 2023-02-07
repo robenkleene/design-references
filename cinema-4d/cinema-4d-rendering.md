@@ -1,6 +1,7 @@
 # Cinema 4D Rendering
 
 - `⌘R`: Render view
+- `⇧R`: Render to Picture Viewer
 
 ## Notes
 
