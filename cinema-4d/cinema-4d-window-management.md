@@ -3,6 +3,10 @@
 - `Panel > New View Panel`: Create a new floating window
 - `F5` / `Toggle Active View` (icon in upper right of viewport): Split to four view panels
 - The `Cameras` menu has the various camera options like `Perspective`, `Top`, etc...
+- `F1`: Default camera
+- `F2`: Perspective
+- `F3`: Right
+- `F4`: Front
 
 ## Tabs
 
