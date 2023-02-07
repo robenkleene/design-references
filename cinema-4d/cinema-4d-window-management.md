@@ -8,6 +8,7 @@
     - `F2`: Perspective
     - `F3`: Right
     - `F4`: Front
+- Setup other arrangements (like two views side-by-side) under `Panel > Arrangement`
 
 ## Tabs
 
