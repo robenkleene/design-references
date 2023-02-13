@@ -6,6 +6,10 @@
 2. "Edit > Split Layer" (`⇧⌘D`), at the end of the section to remove
 3. "Edit > Clear" (`⌫`), with the layer to delete selected
 
+## Reverse
+
+- Right-click the clip and choose `Time > Time Reverse Layer` / `⌥⌘R`
+
 ## Freeze Frame
 
 ### Quick
