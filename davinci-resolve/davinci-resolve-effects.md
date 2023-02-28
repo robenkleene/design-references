@@ -4,4 +4,8 @@
 
 ## Grid
 
-There's a grid effect that overlays a grid.
+- There's a grid effect that overlays a grid.
+
+## Transform
+
+- You can align footage with a transform.
