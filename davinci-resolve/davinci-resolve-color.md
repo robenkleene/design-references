@@ -1,5 +1,7 @@
 # DaVinci Resolve Color
 
+- There's a `Bypass Color Grades and Fusion Effects` toggle button in the upper right of the viewport.
+
 ## Color Wheels
 
 Each wheel adjusts a different aspect of the image:
