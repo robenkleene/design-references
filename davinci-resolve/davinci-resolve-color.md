@@ -13,5 +13,6 @@ Each wheel adjusts a different aspect of the image:
 
 - The circle with the dot in the middle controls the hue and saturation.
 - The sliders below control the brightness
+- The circle in the upper right resets the wheel (or just double-click it)
 
 
