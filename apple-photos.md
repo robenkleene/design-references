@@ -20,3 +20,7 @@ Use "File" -> "Export" -> "Export Unmodified Original"
 
 - Right-click and choose `Hide`
 - Hidden photos show up in the `Hidden` album, show it under `View > Show Hidden Photo Album`
+
+## Duplicates
+
+- Just select the `Duplicates` section in the sidebar
