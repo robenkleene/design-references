@@ -1,12 +1,16 @@
 # Cinema 4D Camera
 
+## Built-In Cameras
+
 - `Cameras` menu has the following options:
-    - `left`
-    - `right`
-    - `front`
-    - `back`
-    - `top`
-    - `bottom`
+    - `Perspective`
+    - `Left`
+    - `Right`
+    - `Front`
+    - `Back`
+    - `Top`
+    - `Bottom`
+- Only the `Perspective` camera has `Display > Gouraud Shading` turn on by default, that's why the other cameras sometimes look like just wireframes and only the `Perspective` camera has shading.
 
 ## Create
 
