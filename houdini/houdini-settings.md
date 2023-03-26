@@ -1,6 +1,6 @@
 # Houdini Settings
 
-Add this to `~/Library/Preferences/houdini/18.5/houdini.env` in order to pan with right-click:
+Add this to `~/Library/Preferences/houdini/<houdini-version>/houdini.env` in order to pan with right-click:
 
     HOUDINI_MMB_PAN = 0
 
