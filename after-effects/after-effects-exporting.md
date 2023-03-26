@@ -1,6 +1,9 @@
 # After Effects Exporting
 
+*Export settings often default to the current settings, so make sure to set the `Resolution/Down Sample Factor Popup` to `Full` before exporting.*
+
 - `⌃⌘M` / `Composition > Add to Render Queue`: Add to render queue
+- `⌥⌘S` / `Composition > Save Frame As > File...`: Save a single frame
 
 ## Transparency
 
