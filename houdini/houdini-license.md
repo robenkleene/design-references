@@ -4,6 +4,8 @@ Houdini on Steam can be used on multiple computers.
 
 ## Fixing License
 
+### Option 1
+
 1. Run `Houdini/Utilities/Houdini Terminal.app` to make the command-line utilities available.
 2. Run `sesictrl -n` to get the correct name of the license server.
 
@@ -14,3 +16,7 @@ Houdini on Steam can be used on multiple computers.
 
 3. Run "Houdini License Administrator" and select "Change License Server..." (`⌘L`) and enter the correct name of the license server.
 4. Run Houdini again and it should prompt you to install a license.
+
+### Option 2
+
+1. `System Settings > General > Login Items`, make sure `Houdini FX` is toggled on
