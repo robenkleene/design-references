@@ -12,4 +12,6 @@ In Preferences, set `Global UI Scale: 2`
 
 ## Hotkeys
 
-"Edit > Hotkeys..."
+Keyboard Shortcuts
+
+- `Edit > Hotkeys..."
