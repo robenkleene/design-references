@@ -11,4 +11,4 @@
 ## Setup Rendering Pipeline
 
 1. Make sure the `Redshift` shelf is visible, by clicking the `+` icon to the right of the list of shelves at the top of the Houdini window
-2. In the shelves, click `Redshift > Redshift`, which will generate a `Redshift_ROP1 > Redshift_IPR1`
+2. In the shelves, click `Redshift > Redshift` (which will generate `/out > Redshift_ROP1 > Redshift_IPR1`)
