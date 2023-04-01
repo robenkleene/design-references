@@ -1,7 +1,7 @@
 # Houdini Network Editor
 
 - `⇥`: Add a node
-- `⌥←`: Return from viewing inside and object
+- `⌥←` / `U`: Return from viewing inside and object
 - `Two-Finger-Drag`: Zoom
 - `Right-Drag`: Pan
 
