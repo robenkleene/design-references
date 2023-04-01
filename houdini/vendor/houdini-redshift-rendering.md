@@ -15,3 +15,4 @@
 
 1. Under `/out`, select the `Redshift_ROP1`, and check the `Parameters > Output > Common File Prefix`, that's where the file will be output to
 2. `Redshift_ROP1 > Valid Frame Range: Render Current Frame` can be changed to a frame range
+3. Click `Redshift_ROP1 > Render to Disk` to render to disk
