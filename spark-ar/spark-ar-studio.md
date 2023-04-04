@@ -1,11 +1,5 @@
 # Spark AR Studio
 
-## Navigation
-
-- `two-finger drag`: Zoom
-- `⌘-drag`: Orbit
-- `⌥-drag`: Pan
-
 ## Device
 
 - `WASD`: Movement when hovering the device
