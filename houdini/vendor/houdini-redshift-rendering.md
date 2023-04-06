@@ -3,6 +3,7 @@
 ## Setup
 
 1. Under `/mat`, add a `RS Material Builder` node, go up a level (`⌥←`) and name the material
+    - You can replace the `RS Standard Material` and with an `RS Material` (the latter conveniently has a `Presets` option at the top of the `Parameters` panel)
 2. Make sure the `Redshift` shelf is visible, by clicking the `+` icon to the right of the list of shelves at the top of the Houdini window
 3. In the shelves, click `Redshift > Redshift` (which will generate `/out > Redshift_ROP1 > Redshift_IPR1`)
 4. Under `/obj`, select the object to render, set `Parameters > Render > Material` to the material
