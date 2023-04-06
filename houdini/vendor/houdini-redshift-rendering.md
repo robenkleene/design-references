@@ -10,6 +10,7 @@
 ## Render View
 
 1. Under the `Redshift` shelf, click `RenderView` to see the render
+    - Or you can just switch to the Render View (`⌥9`, switch back with `⌥1`) and click `Render`
 
 ## Output
 
