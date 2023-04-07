@@ -6,6 +6,10 @@ Add this to `~/Library/Preferences/houdini/<houdini-version>/houdini.env` in ord
 
 In Preferences, set `Global UI Scale: 2`
 
+## Theme
+
+- `Edit > Color Settings... > User Interface`: Choose between Houdini Light and Dark
+
 ## Notes
 
 - Don't use "Native Choosers", too many bugs where the file picker gets stuck and Houdini needs to be restarted.
