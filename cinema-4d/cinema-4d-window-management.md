@@ -9,6 +9,7 @@
     - `F3`: Right
     - `F4`: Front
 - Setup other arrangements (like two views side-by-side) under `Panel > Arrangement`
+    - It's not clear whether there's another way to close a view besides choosing another option under `Panel > Arrangement`
 
 ## Tabs
 
