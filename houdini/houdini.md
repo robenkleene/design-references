@@ -63,6 +63,7 @@ Create a floating pane with "Window > New Floating Panel" (`⌥⇧W`).
 
 ## Modeling
 
+- `s`: Select
 - `t`: Transform
 - `r`: Rotate
 - `e`: Scale
