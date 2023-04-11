@@ -1,5 +1,35 @@
 # Redshift Lights
 
+
+- **Point:** A point light. Simulates a 'bare bulb' light which emits light in all directions from an infinitesimally small point in space.
+- **Spot:** A spot light. Emits light in a cone-shape.
+- **Infinite:** Simulates a light source which is infinitely far away from the scene. An infinite light has no position, only a direction. Therefore all light rays emitted are parallel and have no decay.
+- **Area:** A light which has a real physical size and shape.
+- **Dome:** Simulates light emitting from a large sphere that always surrounds the entire scene. You can think of this as a sky that illuminates your objects and that can also be mapped with an image, for example. The dome light can thus also be used like a Cinema 4D Sky object.
+- **Photometric IES:** Allows to load an IES Profile files to control the amount and direction of emitted light.
+- **Portal:** A special type of light source that can optimize the calculation of global illumination. Often used in window frames for interior renderings to optimize the rendering of indirect light coming through the windows.
+- **Physical Sun:** Similar to the Infinite light, but specially designed to mimic sunlight, including a color change depending on the angle of incidence of this light source.
+
+## Light
+
+Has a `Light Type`.
+
+### Type Area
+
+![Type Area](assets/redshift-lights-type-area.png)
+
+### Type Point
+
+![Type Point](assets/redshift-lights-type-point.png)
+
+### Type Spot
+
+![Type Spot](assets/redshift-lights-type-spot.png)
+
+### Type Infinite
+
+![Type Infinite](assets/redshift-lights-type-infinite.png)
+
 ## IES Light
 
 > IES stands for Illuminating Engineering Society. The IES data format describes the distribution of light from a point source. Most major manufacturers of lights provide IES profiles which can be downloaded for free.
