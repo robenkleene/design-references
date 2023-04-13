@@ -52,10 +52,8 @@ Similar to the Infinite light, but specially designed to mimic sunlight, includi
 
 ## Dome Light
 
+![Dome Light](assets/redshift-lights-dome.png)
+
 Simulates light emitting from a large sphere that always surrounds the entire scene. You can think of this as a sky that illuminates your objects and that can also be mapped with an image, for example. The dome light can thus also be used like a Cinema 4D Sky object.
 
 > The Redshift Dome Light is an infinite, texture-mapped area light. Using HDR images you can achieve high-quality lighting results that would otherwise require several lights. Since a single dome light can reproduce the lighting of several distant lights, it can help with performance too. Since an HDR image can originate from a real-world environment, the dome light is an important tool to match the lighting of cg elements with live-action elements. Ideally, High Dynamic Range (HDR) textures in OpenEXR format should be used because they can capture a wide range of intensities.
-
-## Physical Light
-
-> The Redshift Physical Light is an all-purpose light which can be used to model point, spot and directional lights as well as area lights of various shapes.
