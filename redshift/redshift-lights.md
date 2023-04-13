@@ -40,6 +40,8 @@ A special type of light source that can optimize the calculation of global illum
 
 ## Physical Sun
 
+![Sun](assets/redshift-lights-sun.png)
+
 Similar to the Infinite light, but specially designed to mimic sunlight, including a color change depending on the angle of incidence of this light source.
 
 > The Redshift Physical Sun directional light is a physically accurate representation of sunlight based on the PRG Clear Sky model from the paper "A Fitted Radiance and Attenuation Model for Realistic Atmospheres" which improves upon the Hosek-Wilkie sky model. The Physical Sun is generally used in combination with the Physical Sky environment shader but it can also be used by itself.
