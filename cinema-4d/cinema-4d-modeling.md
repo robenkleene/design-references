@@ -4,6 +4,8 @@
 - `R`: Rotate
 - `T`: Scale
 - `↩`: Switch between `Points`, `Edges`, `Polygons`
+- `␣`: Switch between most recent selection tool and modeling tool
+- `⇧⌘A`: Is supposed to deselect all but doesn't work, only way to deselect in object is to click empty space in the Object Manager
 
 ## Tips
 
