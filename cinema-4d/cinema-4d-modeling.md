@@ -1,8 +1,8 @@
 # Cinema 4D Modeling
 
-- `e`: Move
-- `r`: Rotate
-- `t`: Scale
+- `E`: Move
+- `R`: Rotate
+- `T`: Scale
 
 ## Tips
 
