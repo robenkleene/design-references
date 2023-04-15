@@ -3,6 +3,7 @@
 - `E`: Move
 - `R`: Rotate
 - `T`: Scale
+- `↩`: Switch between `Points`, `Edges`, `Polygons`
 
 ## Tips
 
