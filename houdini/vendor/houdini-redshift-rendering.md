@@ -1,5 +1,7 @@
 # Houdini Redshit Rendering
 
+- `Redshift > ViewportIPR`: Start an IPR render view in the viewport
+
 ## Setup
 
 1. Under `/mat`, add a `RS Material Builder` node, go up a level (`⌥←`) and name the material
