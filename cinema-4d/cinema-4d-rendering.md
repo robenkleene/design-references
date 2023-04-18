@@ -5,5 +5,5 @@
 
 ## Notes
 
-- `IPR`: Interactive photorealistic rendering
+- `IPR`: Interactive preview rendering
 - To render just the current frame, set `Render Settings > Output > Frame Range: Current Frame`

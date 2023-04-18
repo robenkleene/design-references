@@ -1,6 +1,6 @@
 # Cinema 4D Redshift
 
-- An `IPR`, interactive photorealistic rendering, as a render preview that tries to be real-time
+- An `IPR`, interactive preview rendering, as a render preview that tries to be real-time
 - Redshift calls it's IPR view `RenderView`
 - `Window > RS RenderView`: Create a floating Redshift `RenderView`
 - To make a view panel an IPR view, choose `Redshift > Start IPR`

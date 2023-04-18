@@ -1,6 +1,6 @@
 # Houdini Glossary
 
-- **IPR**: Interactive render preview
+- **IPR**: Interactive preview rendering
 - **ROP**: Render node network
 
 ## Variables
