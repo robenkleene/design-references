@@ -5,3 +5,4 @@
 3. Add (`⇥` in the `Network Editor`) a `Normal`, and set `normal1 > Group Type: Points`
 4. Attach the output of `sphere1` to the input of `normal1`
 5. Toggle on `normal1 > Display/Render` (click the section of the node in the `Network Editor`)
+6. In the sidebar on the right of the viewport, there's a `Display normals` icon you can toggle to display the normals
