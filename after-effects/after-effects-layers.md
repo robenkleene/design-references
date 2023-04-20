@@ -50,22 +50,26 @@ The visible columns in the layers panel can be changed by right-clicking the hea
     2. Hide all currently visible properties (`u`)
     3. Search for the property to edit (`⌘F`)
 
-### Resizing
+## Position
 
-#### Scaling
+- There's an `Align` panel that can be added to the sidebar with `Window > Align`, this has options to center a layer horizontally and vertically or left or right justify it.
+
+## Resizing
+
+### Scaling
 
 - To scale a layer from the bottom right corner: Switch to the "Pan Behind (Anchor Point) Tool" (`Y`) and move the anchor point to the upper left corner, then switch to the "Selection Tool" (`V`) and drag from the lower right corner. After resizing, it's probably a good idea to move the anchor point back to the center.
 
-#### Resizing
+### Resizing
 
 - A shape layer's dimensions can be changed in their properties, e.g., for a rectangle layer, it's under "Shape Layer > Contents > Rectnagle 1 > Rectangle Path 1 > Size". 
 
-### Transforming
+## Transforming
 
 - `W`: Rotation tool
 - `⌘⌥HOME` / `Layer > Transform > Center Anchor Point in Layer Content`: Center the anchor point on a layer (if when you move a layer, it's also changing shape, then you probably need to do this)
 
-#### Fitting a Layer to a Composition
+### Fitting a Layer to a Composition
 
 - "Layer > Transform > Fit to Comp" / `⌥⌘F`
 - "Layer > Transform > Fit to Comp Width" / `⌥⇧⌘H`
