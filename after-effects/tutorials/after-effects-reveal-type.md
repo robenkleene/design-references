@@ -7,4 +7,5 @@
 5. Set `Opacity: 0`
 6. Toggle on a keyframe for `Animator 1 > Range Selector 1 > Start`, and set `Start: 0`
 7. Go to the last frame and set `Start: 100`
+8. Set `Range Selector1 > Advanced: 0`
 
