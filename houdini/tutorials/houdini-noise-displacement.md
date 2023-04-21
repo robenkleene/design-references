@@ -9,3 +9,5 @@
 7. Add a `Point VOP`, and connect the output of `normal1` into the left most input of `pointvop1`
 8. Double-click into `pointvop1`
 9. Add a `Displace Along Normal`, and connect the `geometryvopglobal1 > P` output to the `displacenml1 > p` input, and the `geometryvopglobal1 > N` output into the `displacenml1 > nN` input
+10. Connect the `displacenml1 > dispP` output to the `geometryvopoutput1 > P` input
+11. (Now dragging the `displacenml1 > Displacement Amount` parameter should make the sphere larger)
