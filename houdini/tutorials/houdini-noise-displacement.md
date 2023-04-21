@@ -8,4 +8,4 @@
 6. (In the sidebar on the right of the viewport, there's a `Display normals` icon you can toggle to display the normals)
 7. Add a `Point VOP`, and connect the output of `normal1` into the left most input of `pointvop1`
 8. Double-click into `pointvop1`
-9. Add a `Displace Along Normal`, and connect the `geometryvopglobal1 > P` output to the `displacenml1 > p` input
+9. Add a `Displace Along Normal`, and connect the `geometryvopglobal1 > P` output to the `displacenml1 > p` input, and the `geometryvopglobal1 > N` output into the `displacenml1 > nN` input
