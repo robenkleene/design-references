@@ -7,3 +7,4 @@
 5. Toggle on `normal1 > Display/Render` (click the section of the node in the `Network Editor`)
 6. (In the sidebar on the right of the viewport, there's a `Display normals` icon you can toggle to display the normals)
 7. Add a `Point VOP`, and connect the output of `normal1` into the left most input of `pointvop1`
+8. Double-click into `pointvop1`
