@@ -12,6 +12,6 @@
 3. Set `Opacity: 0`
 4. Toggle on a keyframe for `Animator 1 > Range Selector 1 > Start`, and set `Start: 0`
 5. Go to the last frame and set `Start: 100`
-6. Set `Range Selector1 > Advanced: 0`
+6. Set `Range Selector1 > Advanced > Smoothness: 0`, this will make characters appear instantly rather than fade in
 
 This can easily by adapted to reveal by words instead of characters by setting `Animator 1 > Range Selector 1 > Advanced > Based On: Words`
