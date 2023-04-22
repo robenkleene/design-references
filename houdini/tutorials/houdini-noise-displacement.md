@@ -1,14 +1,22 @@
 # Houdini Noise Displacement
 
+## `/obj`
+
 1. Add (`⇥` in the `Network Editor`) a `Sphere (Create)`
-2. Double-click into the Sphere in the `Network Editor`, and under `sphere1` set `Primitive Type: Polygon` and `Frequency: 256`
-3. Add a `Normal`, and set `normal1 > Group Type: Points`
-4. Attach the output of `sphere1` to the input of `normal1`
-5. Choose `normal1 > Display/Render` in the `Network Editor` (blue section)
-6. (In the sidebar on the right of the viewport, there's a `Display normals` icon you can toggle to display the normals)
-7. Add a `Point VOP`, and connect the output of `normal1` into the left most input of `pointvop1`
-8. Choose `pointvop1 > Display/Render` in the `Network Editor` (blue section)
-8. Double-click into `pointvop1`
-9. Add a `Displace Along Normal`, and connect the `geometryvopglobal1 > P` output to the `displacenml1 > p` input, and the `geometryvopglobal1 > N` output into the `displacenml1 > nN` input
-10. Connect the `displacenml1 > dispP` output to the `geometryvopoutput1 > P` input
-11. (Now dragging the `displacenml1 > Displacement Amount` parameter should make the sphere larger)
+1. Double-click into the Sphere in the `Network Editor`, and under `sphere1` set `Primitive Type: Polygon` and `Frequency: 256`
+
+## `/obj/sphere1`
+
+1. Add a `Normal`, and set `normal1 > Group Type: Points`
+2. Attach the output of `sphere1` to the input of `normal1`
+3. Choose `normal1 > Display/Render` in the `Network Editor` (blue section)
+4. (In the sidebar on the right of the viewport, there's a `Display normals` icon you can toggle to display the normals)
+5. Add a `Point VOP`, and connect the output of `normal1` into the left most input of `pointvop1`
+6. Choose `pointvop1 > Display/Render` in the `Network Editor` (blue section)
+7. Double-click into `pointvop1`
+
+## `/obj/sphere1/pointvop1`
+
+1. Add a `Displace Along Normal`, and connect the `geometryvopglobal1 > P` output to the `displacenml1 > p` input, and the `geometryvopglobal1 > N` output into the `displacenml1 > nN` input
+2. Connect the `displacenml1 > dispP` output to the `geometryvopoutput1 > P` input
+3. (Now dragging the `displacenml1 > Displacement Amount` parameter should make the sphere larger)
