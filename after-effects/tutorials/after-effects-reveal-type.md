@@ -9,3 +9,4 @@
 7. Go to the last frame and set `Start: 100`
 8. Set `Range Selector1 > Advanced: 0`
 
+This can easily by adapted to reveal by words instead of characters by setting `Animator 1 > Range Selector 1 > Advanced > Based On: Words`
