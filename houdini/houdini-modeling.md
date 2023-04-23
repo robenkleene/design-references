@@ -7,6 +7,12 @@
 - `E`: Scale
 - `Enter`: Show all manipulators at once
 
+## Select Mode
+
+- `S`: Select mode
+- `1`: Select objects
+- `2`: Select points
+
 ## General Approach
 
 1. Hold `S` and click to select

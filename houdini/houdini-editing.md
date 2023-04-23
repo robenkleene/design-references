@@ -3,7 +3,3 @@
 - Hold `S` and click to select objects
 - `S` alone toggles select mode
 
-## Select Mode
-
-- `1`: Select objects
-- `2`: Select points
