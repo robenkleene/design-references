@@ -22,10 +22,7 @@
 2. Connect the `displacenml1 > dispP` output to the `geometryvopoutput1 > P` input
 3. (Now dragging the `displacenml1 > Displacement Amount` parameter should make the sphere larger, this is what we want to control via the noise)
 4. Add a `Anti-Aliased Noise`, and connect the `geometryvopglobal1 > p` output to the `aanoise1 > pos` input, and connect the `aanoise1 > noise` output to the `displacenml1 > amount` input.
-
-    ![Amount](assets/houdini-noise-displacement-amount.png)
-
 5. Under `aanoise1`, set `roughtness: 0` and `3D Frequency: 2 2 2`
 6. To map the noise output values from being between `-0.5--0.5` to `0--1`, to only be displacing *outwards*. Add a `Fit Range`, and `fit1`, set `Source Min` and `Source Max` to `-.5` and `.5`. Connect the `aanoise1 > noise` output to the `fit1 > val` input, connect the `fit1 > shift` output to the `displacenml1 > amount` input.
 
-### Ridges
+    ![Amount](assets/houdini-noise-displacement-amount.png)

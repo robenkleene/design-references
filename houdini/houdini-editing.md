@@ -5,4 +5,5 @@
 
 ## Select Mode
 
+- `1`: Select objects
 - `2`: Select points
