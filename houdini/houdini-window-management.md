@@ -7,6 +7,10 @@
 - `⌘2`: Two splits side-by-side
 - `⌘4`: Four splits
 
+### Other
+
+- There's little arrow icons that can be hovered at the edges of the viewport that can be used to expand or collapse splits
+
 ## Tabs
 
 Note in this context, "tab" is just the smaller panels, not the entire window
