@@ -26,3 +26,4 @@
     ![Amount](assets/houdini-noise-displacement-amount.png)
 
 5. Under `aanoise1`, set `roughtness: 0` and `3D Frequency: 2 2 2`
+6. To map the noise output values from being between `-0.5--0.5` to `-1--1`, add a `Fit Range`, and `fit1`, set `Source Min` and `Source Max` to `-.5` and `.5`.
