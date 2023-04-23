@@ -25,4 +25,4 @@
 
     ![Amount](assets/houdini-noise-displacement-amount.png)
 
-5. Set `aanoise1 > roughtness: 0`
+5. Under `aanoise1`, set `roughtness: 0` and `3D Frequency: 2 2 2`
