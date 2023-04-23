@@ -1,3 +1,4 @@
+
 # Houdini Noise Displacement
 
 ## `/obj`
@@ -22,4 +23,6 @@
 3. (Now dragging the `displacenml1 > Displacement Amount` parameter should make the sphere larger, this is what we want to control via the noise)
 4. Add a `Anti-Aliased Noise`, and connect the `geometryvopglobal1 > p` output to the `aanoise1 > pos` input, and connect the `aanoise1 > noise` output to the `displacenml1 > amount` input.
 
-![Amount](assets/houdini-noise-displacement-amount.png)
+    ![Amount](assets/houdini-noise-displacement-amount.png)
+
+5. Set `aanoise1 > roughtness: 0`
