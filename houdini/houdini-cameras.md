@@ -1,6 +1,7 @@
 # Houdini Cameras
 
 - To view through a camera, use the camera menu in the upper right of the viewport.
+- `\`: Restore previous camera view (so you can switch back to it after you've selected it once)
 
 ## Frustum
 
