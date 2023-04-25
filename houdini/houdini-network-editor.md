@@ -4,6 +4,8 @@
 - `⌥←` / `U`: Return from viewing inside and object
 - `Two-Finger-Drag`: Zoom
 - `Right-Drag`: Pan
+- `H`: Home in on nodes (zoom to fit)
+- `L`: Re-layout network, e.g., fit nodes to a grid
 
 ## Rare
 
