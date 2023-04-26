@@ -8,7 +8,10 @@
 - `⇧H` / `F` / `⇧F` / `G` / `⇧H`: Home seleced
 - `H`: Home in on nodes (zoom to fit)
 - `⇧W`: Toggle tree view
-` `?`: Quickly type node name to jump to it
+
+## Search
+
+- `?`: Quickly type node name to jump to it (you can also use this to quickly switch between other networks by first hitting 
 
 ## Layout
 
