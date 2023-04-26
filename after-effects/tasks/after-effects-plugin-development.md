@@ -9,5 +9,5 @@
 
 ## Development
 
-- When building with Xcode, the only way to find the built plugin 
+- When building with Xcode, the only way to find the built plugin is to open the build folder in the derived data folder for the project (e.g., `~/Library/Developer/Xcode/DerivedData/Skeleton-bozmmjmgbikhuffvaedpcygaidmm/Build/Products/Debug/Skeleton.plugin/`)
 - It's recommended to install plugins for development at `/Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore/`
