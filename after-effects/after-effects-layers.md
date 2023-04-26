@@ -19,15 +19,13 @@ To change a solid's size, choose `Layer > Solid Settings...` (`⇧⌘Y`).
 ### Layers Panel
 
 - `⇧⌘A`: Deselect all
-- `u`: Show/hide properties with keyframes for the selected layer, or all layers if none are selected
-- To collapse all layers, `u` with none selected (or `uu`), so `⌘⇧A` then `u` will deselect all layers and then collapse all
-- `uu`: Show/hide all modified properties for the selected layer, or all layers if none are selected
 - `⌘D`: Duplicate
+- To collapse all layers, `u` with none selected (or `uu`), so `⌘⇧A` then `u` will deselect all layers and then collapse all
 
-#### Transform Properties
+#### Properties
 
-Show / hide specific properties:
-
+- `u`: Key frames
+- `uu`: Modified
 - `a`: Anchor point
 - `e`: Effects
 - `p`: Position
