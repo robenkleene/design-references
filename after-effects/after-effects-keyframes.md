@@ -3,13 +3,14 @@
 - `⌥P`: Add a position keyframe
 - `⌥T`: Add a opacity keyframe
 - `⌘⌥H` (or right-click keyframe): Toggle hold keyframe
+- Select all keyframes for a property by clicking the property name in the layer panel
 
 ## Tips
 
 - You can always add a keyframe (e.g., to insert a keyframe at the same value) by clicking the diamond keyframe icon to the far left.
 - Select all the keyframes and `⌥-drag` the first or last keyframe to scale them.
 - To temporarily disable a keyframe, just add an expression by `⌥`-clicking the stopwatch.
-- Hold Keyframe makes a keyframe jump to the new value instantly instead of interpolating.
+- "Hold Keyframe" makes a keyframe jump to the new value instantly instead of interpolating.
 
 ## Keyframe Assistant
 
