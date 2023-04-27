@@ -1,12 +1,14 @@
 # After Effects Keyframes
 
 - `⌥P`: Add a position keyframe
+- `⌘⌥H` (or right-click keyframe): Toggle hold keyframe
 
 ## Tips
 
 - You can always add a keyframe (e.g., to insert a keyframe at the same value) by clicking the diamond keyframe icon to the far left.
 - Select all the keyframes and `⌥-drag` the first or last keyframe to scale them.
 - To temporarily disable a keyframe, just add an expression by `⌥`-clicking the stopwatch.
+- Hold Keyframe makes a keyframe jump to the new value instantly instead of interpolating
 
 ## Keyframe Assistant
 

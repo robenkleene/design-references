@@ -5,6 +5,7 @@
 - Hold `alt` and two-finger drag to zoom into the mouse cursor
 - `⇧/`: Re-center composition view
 - `⌥'`: Toggle grid
+- `⇧⌘A`: Deselect all
 
 ## Zoom
 
