@@ -2,7 +2,8 @@
 
 - `⇥`: Add a node
 - `I` / `↩`: Jump down
-- `⌥←` / `U`: Jump up
+- `U`: Jump up
+- `⌥←` / `⌥→`: Jump backward / forward
 - `Two-Finger-Drag` / `␣Drag`: Zoom
 - `Right-Drag`: Pan
 - `⇧H` / `F` / `⇧F` / `G` / `⇧H`: Home seleced
