@@ -6,4 +6,4 @@
 4. Jump forward `10` frames (`⇧⌘→`)
 5. Add another opacity keyframe (`⌥T`) at `100%`
 6. Select all keyframes (click `Opacity` in the layers panel), and right-click on the keyframe and choose `Toggle Hold Keyframe` (`⌥⌘H`)
-6. Set an opacity expression (`⌥click` stopwatch) to `loopOut()`
+6. Set an opacity expression (`⌥click` stopwatch) to `loopOut()` (`loopOut("cycle", 2)` should loop just the last two keyframes)
