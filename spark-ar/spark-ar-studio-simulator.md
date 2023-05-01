@@ -2,7 +2,7 @@
 
 ## Preview
 
-To change the preview video, or use the camera click the `Video` icon on the left.
+To change the preview video (or switch from world space to a face preview), or use the camera click the `Video` icon on the left.
 
 ## Device
 
