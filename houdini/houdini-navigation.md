@@ -9,7 +9,7 @@
 ## Shortcuts
 
 - `⌘F`: Search for nodes by name
-- `⇧/`: Quick open node
+- `⇧/` (`?`): Quick open node (to quickly jump between networks, like `/obj` and `/mat`, select all with `⌘A` then type `/`)
 - `⇧F`: Focus selected object (when the viewport has focus)
 
 ## Dependencies
