@@ -1,5 +1,9 @@
 # After Effects Compositions
 
+## Nesting
+
+- To nest a composition, just right-click and choose `New Composition...` in the `Project` panel, then drag that composition to another composition and it'll appear as a layer in that composition
+
 ## Tips
 
 - To create a composition from an asset, first import that asset by dragging it to the Project panel, then right-click the asset and select "New Comp From Selection".
