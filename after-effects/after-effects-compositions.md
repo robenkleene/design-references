@@ -1,5 +1,7 @@
 # After Effects Compositions
 
+- `⇧⌥,` / `⇧⌥.`: Move left / right through open compositions
+
 ## Nesting
 
 - To nest a composition, just right-click and choose `New Composition...` in the `Project` panel, then drag that composition to another composition and it'll appear as a layer in that composition
