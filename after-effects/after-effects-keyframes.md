@@ -3,6 +3,7 @@
 - `⌥P`: Add a position keyframe
 - `⌥T`: Add a opacity keyframe
 - `⌘⌥H` (or right-click keyframe): Toggle hold keyframe
+- `⌥⌘A`: Select all visible keyframes
 - Select all keyframes for a property by clicking the property name in the layer panel
 
 ## Tips
