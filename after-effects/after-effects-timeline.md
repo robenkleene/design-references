@@ -11,6 +11,7 @@
 - `⌘←` / `⌘→`: Forward or backward one frame
 - `⇧⌘←` / `⇧⌘→`: Forward or backward ten frames
 - Hold `⇧` when dragging the playhead to snap to keyframes
+- The transport controls, e.g., `Play` / `Stop` / `Next Frame` / `Last Frame` are under the `Preview` panel
 
 ## Layers
 
