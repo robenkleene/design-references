@@ -1,6 +1,6 @@
 # After Effects Compositions
 
-- `⇧⌥,` / `⇧⌥.`: Move left / right through open compositions
+- `⇧⌥,` / `⇧⌥.`: Move left / right through open compositions (with layers focused, hit `\` to toggle focus between the viewport and layers
 
 ## Nesting
 

@@ -21,13 +21,17 @@
 - `j` / `k`: Move to previous / next key frame
 - `⌥`-Page Down / `⌥`-Page Down: Offset the start of the current layer by one frame backward / forward.
 
-### Work Area
+## Work Area
 
 The Work Area is the portion that will loop if you hit play (in contrast to the Time Navigator, which is the entire duration of the composition).
 
 - `b`: Set the beginning of the work area
 - `n`: Set the end of the work area
-- `⇧⌘X`: Trim the composition to the work area
+- `⇧⌘X`: Set the composition length to the work area
+
+## Zoom
+
+- `-` / `=`: Zoom out / in
 
 ### Glossary
 
