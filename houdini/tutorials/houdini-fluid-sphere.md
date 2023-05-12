@@ -20,3 +20,7 @@
 3. Add a `Static Solver` and connect the output of `staticobject1` to its input
 4. Connect the output of `staticsolver1` to the `merge1` input
 5. Disconnect the output of `flipsolver1` to `merge1` and then re-connect it again, so the first input to `merge1` is from `staticsolver1` and the second is from `flipsolver1`
+
+![Static Solver](assets/houdini-fluid-sphere-static-solver.png)
+
+
