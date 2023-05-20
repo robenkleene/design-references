@@ -1,5 +1,6 @@
 # After Effects Keyframes
 
+- `J` / `K`: Go to previous / next key frame
 - `⌥P`: Add a position keyframe
 - `⌥T`: Add a opacity keyframe
 - `⌘⌥H` (or right-click keyframe): Toggle hold keyframe
