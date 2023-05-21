@@ -9,3 +9,6 @@
 - `⇧W`: Toggle wire shaded (show wireframe with shading)
 - Shading can also be set by clicking the cube in the top right of the viewport
 - `G` / `␣F`: Frame currently selected object
+
+## XRay
+
