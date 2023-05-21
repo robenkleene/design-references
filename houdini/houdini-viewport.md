@@ -10,5 +10,10 @@
 - Shading can also be set by clicking the cube in the top right of the viewport
 - `G` / `␣F`: Frame currently selected object
 
-## XRay
+## X-Ray
 
+To see a node through other nodes.
+
+1. Right-click a node and toggle on `Flags > X-Ray`
+2. Also make sure viewport display settings (`D`) have `Scene > Enable X-Ray Drawing` toggled on
+>>>>>>> 87ebb36 (Update)
