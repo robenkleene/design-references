@@ -37,3 +37,8 @@
 4. Set `FLIP_tank > Object 1: /obj/FLIP_tank/OUT_tank`
 5. Add another `Object Merge` and call it `rubbertoy`
 6. Connect the output of `rubbertoy` to a new `Null` called `OUT_rubbertoy`
+
+## `/obj/FLIP_sim/dopnet1`
+
+1. Double-click into `dopnet1`
+2. Set `flipobject1 > Initial Data > SOP Path: ../../OUT_FLIP_tank`
