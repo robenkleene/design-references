@@ -28,3 +28,9 @@
 2. Add a `FLIP Solver`
 3. Add a `Gravity Force`
 2. Connect the output of `flipobject1` to the leftmost `flipsolver1` input, connect the output of `flipsolver1` to the leftmost `gravity1` input, connect the output of `gravity1` to the `output` input
+
+## `/obj/FLIP_sim`
+
+1. Go up a level to `FLIP_sim` (`u`)
+2. Add an `Object Merge` and call it `FLIP_tank`
+3. Connect the output of `FLIP_tank` to a new `Null` and call it `OUT_FLIP_tank`
