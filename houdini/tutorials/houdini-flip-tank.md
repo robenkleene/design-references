@@ -33,4 +33,7 @@
 
 1. Go up a level to `FLIP_sim` (`u`)
 2. Add an `Object Merge` and call it `FLIP_tank`
-3. Connect the output of `FLIP_tank` to a new `Null` and call it `OUT_FLIP_tank`
+3. Connect the output of `FLIP_tank` to a new `Null` called `OUT_FLIP_tank`
+4. Set `FLIP_tank > Object 1: /obj/FLIP_tank/OUT_tank`
+5. Add another `Object Merge` and call it `rubbertoy`
+6. Connect the output of `rubbertoy` to a new `Null` called `OUT_rubbertoy`
