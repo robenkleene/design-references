@@ -41,4 +41,4 @@
 ## `/obj/FLIP_sim/dopnet1`
 
 1. Double-click into `dopnet1`
-2. Set `flipobject1 > Initial Data > SOP Path: ../../OUT_FLIP_tank`
+2. Set `flipobject1 > Initial Data > SOP Path: ../../OUT_FLIP_tank` (zoom out and you should see an empty box representing the FLIP tank)
