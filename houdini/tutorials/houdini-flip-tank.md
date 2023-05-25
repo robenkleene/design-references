@@ -45,3 +45,5 @@
 3. Set `flipobject1 > Properties > Guides > Particles > Visualization: Particles` (this is purely cosmetic for the viewport, makes the simulation appear as particles rather than the larger sprites in the viewport)
 4. Set `flipobject1 > Properties > Initial Data > Input Type: Particle Field`
 5. Right now the fluid particles will be much smaller than the size of the tank itself, to fix these, right-click `flipsolver1 > Volume Motion > Volume Limits > Box Size` and choose `Copy Parameter`.
+6. Right-click `/obj/FLIP_tank > oceansource1 > Size` and choose `Paste Relative References`
+7. Set `flipsolver1 > Volume Motion > Volume Limits > Box Size: 5 5 5`
