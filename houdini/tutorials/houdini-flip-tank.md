@@ -42,3 +42,6 @@
 
 1. Double-click into `dopnet1`
 2. Set `flipobject1 > Initial Data > SOP Path: ../../OUT_FLIP_tank` (zoom out and you should see an empty box representing the FLIP tank)
+3. Set `flipobject1 > Properties > Guides > Particles > Visualization: Particles` (this is purely cosmetic for the viewport, makes the simulation appear as particles rather than the larger sprites in the viewport)
+4. Set `flipobject1 > Properties > Initial Data > Input Type: Particle Field`
+5. Right now the fluid particles will be much smaller than the size of the tank itself, to fix these, right-click `flipsolver1 > Volume Liits
