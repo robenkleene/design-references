@@ -32,6 +32,8 @@ Along with `int` and `float`, Houdini has some other types.
 - **COP**: "Composite Operator", composite image sequences, such as images behind VFX, or combine FX.
 - **VOP**: "Vector Operator", this can modify almost anything, e.g., shaders, geo, volumes, VDBs, and points.
 
+- **RBD**: Rigid body
+
 ## Simulations
 
 - **FLIP Fluids**: A hybrid method of particle and grids improved from PIC (Particle-In-Cell) method for fluid dynamics simulation.
