@@ -48,3 +48,5 @@
 6. Right-click `/obj/FLIP_tank > oceansource1 > Size` and choose `Paste Relative References`
 7. Set `flipsolver1 > Volume Motion > Volume Limits > Box Size: 5 5 5`
 8. Do the same `Copy Parameter`, `Paste Relative References` steps to make the `/obj/FLIP_tank > oceansource1 > Center` match the `flipsolver1 > Volume Motion > Volume Limits > Box Center`
+
+Play the simulation now (`↑`), and you'll see the water just falls down
