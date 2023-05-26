@@ -7,4 +7,5 @@
 5. Toggle on `Fillet` for the second cube and set `Fillet Radius: 1cm`
 6. Click the `Toggle Active View` button (upper right of viewport) to open the four perspective split panes
 7. Click and add a `Sphere`
-    8. Under `Sphere > Object Properties`, set `Radius: 80` and `Segments: 24`
+8. Under `Sphere > Object Properties`, set `Radius: 80` and `Segments: 24`
+9. Select the two cubes in the sphere in the object hierarchy and group them (`⌥G` or right-click and choose `Group Objects`)
