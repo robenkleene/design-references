@@ -49,3 +49,7 @@
 7. Set `flipsolver1 > Volume Motion > Volume Limits > Box Size: 5 5 5`
 8. Do the same `Copy Parameter`, `Paste Relative References` steps to make the `/obj/FLIP_tank > oceansource1 > Center` match the `flipsolver1 > Volume Motion > Volume Limits > Box Center`
 9. Play the simulation now (`↑`), and you'll see the water just falls down. To fix this, Start by toggling on `flipobject1 > Properties > Closed Boundaries`
+
+### Adding the Model
+
+1. Add an `RBD Object` (rigid body), and set `rbdobject1 > SOP Path: ../../OUT_rubbertoy`
