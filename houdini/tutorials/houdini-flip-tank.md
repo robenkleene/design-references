@@ -53,3 +53,4 @@
 ### Adding the Model
 
 1. Add an `RBD Object` (rigid body), and set `rbdobject1 > SOP Path: ../../OUT_rubbertoy`
+2. Add an `RBD Solver` and connect `rbdobject1` output to `rbdsolver1` input
