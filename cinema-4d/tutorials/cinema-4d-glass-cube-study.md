@@ -9,3 +9,4 @@
 7. Click and add a `Sphere`
 8. Under `Sphere > Object Properties`, set `Radius: 80` and `Segments: 24`
 9. Select the two cubes in the sphere in the object hierarchy and group them (`⌥G` or right-click and choose `Group Objects`)
+10. Rename `Null` to `set`
