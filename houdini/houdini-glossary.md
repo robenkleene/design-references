@@ -36,4 +36,4 @@ Along with `int` and `float`, Houdini has some other types.
 
 ## Simulations
 
-- **FLIP Fluids**: A hybrid method of particle and grids improved from PIC (Particle-In-Cell) method for fluid dynamics simulation.
+- **FLIP Fluids**: "Fluid Implicit Particle", A hybrid method of particle and grids improved from PIC (Particle-In-Cell) method for fluid dynamics simulation.
