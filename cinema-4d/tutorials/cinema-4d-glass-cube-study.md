@@ -10,3 +10,4 @@
 8. Under `Sphere > Object Properties`, set `Radius: 80` and `Segments: 24`
 9. Select the two cubes in the sphere in the object hierarchy and group them (`⌥G` or right-click and choose `Group Objects`)
 10. Rename `Null` to `set`
+11. Click the `Toggle Active View` button for the default view (the upper right quadrant) to make it full screen again
