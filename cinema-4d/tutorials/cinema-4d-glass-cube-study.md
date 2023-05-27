@@ -11,3 +11,4 @@
 9. Select the two cubes in the sphere in the object hierarchy and group them (`⌥G` or right-click and choose `Group Objects`)
 10. Rename `Null` to `set`
 11. Click the `Toggle Active View` button for the default view (the upper right quadrant) to make it full screen again
+12. Under `Objects > set > Attributes > Coordinate`, toggle on key frames for `H` ("Heading") and `B` ("Bank")
