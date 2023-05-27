@@ -54,3 +54,5 @@
 
 1. Add an `RBD Object` (rigid body), and set `rbdobject1 > SOP Path: ../../OUT_rubbertoy`
 2. Add an `RBD Solver` and connect `rbdobject1` output to `rbdsolver1` input
+3. Add a `Merge`, and connect the output of `rbdsolver1` to its input, then the same with `flipsolver1`
+4. Connect the output of `merge1` to the leftmost input of `gravity1` (Delete any existing connections between `flipsolver1` and `gravity1`)
