@@ -14,7 +14,7 @@
 
 - `?`: Quickly type node name to jump to it (you can also use this to quickly switch between other networks by first hitting
 
-## Layout
+## Layout / Clean-Up
 
 - `L`: Re-layout network, e.g., fit nodes to a grid
 - `⇧L`: Layout selected
