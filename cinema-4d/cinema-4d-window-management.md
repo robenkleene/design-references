@@ -9,6 +9,7 @@
     - `F4`: Front
 
 ## Splits
+
 - `Panel > Arrangement`: Choose a split view setup
 - It's not clear whether there's another way to close a view besides choosing another option under `Panel > Arrangement`
 - `F5` / `Toggle Active View` (icon in upper right of viewport): Toggle between a split view and a single active view
@@ -16,3 +17,7 @@
 ## Tabs
 
 There's built-in keyboard shortcuts to switch tabs, the commands are `Next Project` / `Previous Project`
+
+## Bottom Manager
+
+- `⇧W`: Close bottom manager view
