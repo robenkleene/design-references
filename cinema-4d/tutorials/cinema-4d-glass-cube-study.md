@@ -20,3 +20,8 @@
 5. Hit play (`F8`) now and the cube should rotate
 
 ## Material
+
+1. Bring up the `Material Manager` (`⇧F2` or just `⇧C > Material Manager...)`, and double-click in the panel to create a new material
+2. Double-click to create a second material
+3. Drag `Mat.1` to `Objects > set > Cube.1`
+3. Drag `Mat` to `Objects > set > Cube`
