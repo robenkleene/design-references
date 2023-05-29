@@ -25,3 +25,5 @@
 2. Double-click to create a second material
 3. Drag `Mat.1` to `Objects > set > Cube.1`
 4. Drag `Mat` to `Objects > set > Cube`
+5. Double-click `Mat` to bring up the `Material Editor`, toggle on `Transparency`
+6. Set `Transparency > Refraction: 1.2`
