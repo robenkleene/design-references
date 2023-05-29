@@ -27,3 +27,6 @@
 4. Drag `Mat` to `Objects > set > Cube`
 5. Double-click `Mat` to bring up the `Material Editor`, toggle on `Transparency`
 6. Set `Transparency > Refraction: 1.2`
+7. Drag `Mat` to `Sphere`, to also make the sphere transparent
+8. Double-click `Mat.1` to bring up the `Material Editor`, select `Color` and set `H: 52`, `S: 87`, `C: 92`
+
