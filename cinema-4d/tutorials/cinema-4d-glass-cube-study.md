@@ -29,5 +29,5 @@
 6. Set `Transparency > Refraction: 1.2`
 7. Drag `Mat` to `Sphere`, to also make the sphere transparent
 8. Double-click `Mat.1` to bring up the `Material Editor`, select `Color` and set `H: 52`, `S: 87`, `C: 92`
-9. Toggle on `Luminance`, and under `Luminance`, set `H: 37`, `S: 100`, `C: 100`, `Brightness: 54`
+9. Toggle on `Luminance`, and under `Luminance`, set `H: 37`, `S: 100`, `C: 100`, `Brightness: 50`
 
