@@ -9,6 +9,7 @@
 1. Double-click into `FLIP_tank` and a `Ocean Source` node
 2. The `oceansource1` will immediately have an error because it's not made for a FLIP tank simulation, it's for the ocean tools. Select `oceansource1` and set `Surface Evaluation > Type: Flat` and the error will go away.
 3. Select `FLIP_tank`, and toggle on `Particles > Fill Volume`
+4. Add a `Null` and name it `OUT_tank` and connect the output of `oceansource1` its input.
 
 ## `/obj`
 
@@ -26,3 +27,12 @@
 2. Add a `FLIP Solver`
 3. Add a `Gravity Force`
 2. Connect the output of `flipobject1` to the leftmost `flipsolver1` input, connect the output of `flipsolver1` to the leftmost `gravity1` input, connect the output of `gravity1` to the `output` input
+
+## `/obj/FLIP_sim`
+
+1. Go up a level to `FLIP_sim` (`u`)
+2. Add an `Object Merge` and call it `FLIP_tank`
+3. Connect the output of `FLIP_tank` to a new `Null` called `OUT_FLIP_tank`
+4. Set `FLIP_tank > Object 1: /obj/FLIP_tank/OUT_tank`
+5. Add another `Object Merge` and call it `rubbertoy`
+6. Connect the output of `rubbertoy` to a new `Null` called `OUT_rubbertoy`

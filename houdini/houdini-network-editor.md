@@ -9,6 +9,7 @@
 - `⇧H` / `F` / `⇧F` / `G` / `⇧H`: Home seleced
 - `H`: Home in on nodes (zoom to fit)
 - `⇧W`: Toggle tree view
+- `F2`: Rename node
 
 ## Search
 
