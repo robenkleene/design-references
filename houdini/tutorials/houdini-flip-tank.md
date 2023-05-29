@@ -50,7 +50,7 @@ Making the size of the simulation match the size of the tank.
 6. Go to `/obj/FLIP_tank`, and right-click `oceansource1 > Size` and choose `Paste Relative References`
 7. Go back `/obj/FLIP_sim/dopnet1` and set `flipsolver1 > Volume Motion > Volume Limits > Box Size: 5 5 5`
 8. Do the same `Copy Parameter`, `Paste Relative References` steps to make the `/obj/FLIP_tank > oceansource1 > Center` match the `flipsolver1 > Volume Motion > Volume Limits > Box Center`
-9. Play the simulation now (`↑`), and you'll see the water just falls down. To fix this, Start by toggling on `flipobject1 > Properties > Closed Boundaries`
+9. Play the simulation now (`↑`), and you'll see the water just falls down. To fix this, Start by toggling on `flipobject1 > Closed Boundaries`
 
 ### Adding the Model
 
