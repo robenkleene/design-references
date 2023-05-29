@@ -34,5 +34,17 @@
 2. Add an `Object Merge` and call it `FLIP_tank`
 3. Connect the output of `FLIP_tank` to a new `Null` called `OUT_FLIP_tank`
 4. Set `FLIP_tank > Object 1: /obj/FLIP_tank/OUT_tank`
-5. Add another `Object Merge` and call it `rubbertoy`
-6. Connect the output of `rubbertoy` to a new `Null` called `OUT_rubbertoy`
+
+## `/obj/FLIP_sim/dopnet1`
+
+Making the size of the simulation match the size of the tank.
+
+1. Double-click into `dopnet1`
+2. Set `flipobject1 > Initial Data > SOP Path: ../../OUT_FLIP_tank` (zoom out and you should see an empty box representing the FLIP tank)
+3. Set `flipobject1 > Properties > Guides > Particles > Visualization: Particles` (this is purely cosmetic for the viewport, makes the simulation appear as particles rather than the larger sprites in the viewport)
+4. Set `flipobject1 > Properties > Initial Data > Input Type: Particle Field`
+5. Right now the fluid particles will be much smaller than the size of the tank itself, to fix these, right-click `flipsolver1 > Volume Motion > Volume Limits > Box Size` and choose `Copy Parameter`.
+6. Go to `/obj/FLIP_tank`, and right-click `oceansource1 > Size` and choose `Paste Relative References`
+7. Go back `/obj/FLIP_sim/dopnet1` and set `flipsolver1 > Volume Motion > Volume Limits > Box Size: 5 5 5`
+8. Do the same `Copy Parameter`, `Paste Relative References` steps to make the `/obj/FLIP_tank > oceansource1 > Center` match the `flipsolver1 > Volume Motion > Volume Limits > Box Center`
+9. Play the simulation now (`↑`), and you'll see the water just falls down. To fix this, Start by toggling on `flipobject1 > Closed Boundaries`
