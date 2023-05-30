@@ -31,3 +31,10 @@
 8. Double-click `Mat.1` to bring up the `Material Editor`, select `Color` and set `H: 52`, `S: 87`, `C: 92`
 9. Toggle on `Luminance`, and under `Luminance`, set `H: 37`, `S: 100`, `C: 100`, `Brightness: 50`
 
+## Rendering
+
+1. To see what a frame looks like, click `Render View` (`⌘R`) in the upper right
+2. Set `Rendering Settings > Anti-Aliasing > Anti-Aliasing: Best`
+
+![Glass Cube Study](assets/cinema-4d-glass-cube-study.png)
+

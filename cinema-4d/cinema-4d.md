@@ -29,7 +29,7 @@
 
 ## Rendering
 
-- `⌘b`: Render settings, including size
+- `⌘B`: Render settings, including size
 - `⌘R`: Render the current view
 - For an image, select "Frame Range": "Current Frame"
 - Cinema 4D Lite cannot render directly to a file or video, it has to go through After Effects.
