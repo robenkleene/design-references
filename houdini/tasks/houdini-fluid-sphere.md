@@ -8,7 +8,7 @@
 
 1. Double-click into `FLIP_tank` and a `Ocean Source` node
 2. The `oceansource1` will immediately have an error because it's not made for a FLIP tank simulation, it's for the ocean tools. Select `oceansource1` and set `Surface Evaluation > Type: Flat` and the error will go away.
-3. Select `FLIP_tank`, and toggle on `Particles > Fill Volume`
+3. Select `oceansource1`, and toggle on `Particles > Fill Volume`
 4. Add a `Null` and name it `OUT_tank` and connect the output of `oceansource1` its input.
 
 ## `/obj`
