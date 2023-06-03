@@ -22,3 +22,7 @@
 
 To switch between shading and wireframes.
 
+- `N A` / `Display > Gouraud Shading`: Gouraud Shading
+- `N G` / `Display > Lines`: Lines
+
+
