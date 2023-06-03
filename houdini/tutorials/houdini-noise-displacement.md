@@ -1,4 +1,3 @@
-
 # Houdini Noise Displacement
 
 ## `/obj`

@@ -14,5 +14,5 @@
 
 To see a node through other nodes.
 
-1. Right-click a node and toggle on `Flags > X-Ray`
+1. Right-click a node and toggle on `Flags > X-Ray` *note this is on the node you want to see through other nodes, not the nodes you want to see through!*
 2. Also make sure viewport display settings (`D`) have `Scene > Enable X-Ray Drawing` toggled on
