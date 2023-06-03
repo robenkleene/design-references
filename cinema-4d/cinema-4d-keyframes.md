@@ -6,10 +6,10 @@
 
 For the indicators next to values:
 
-- Grey filled in: Value isn't animated
-- Red empty: Animated value from a different keyframe
-- Red filled in: Keyframe on this frame
-- Yellow empty: Current value doesn't match animated value (it will automatically change if you leave this key frame, this happens if you toggle off a keyframe for a value)
+- **Grey Outline**: Value isn't animated
+- **Red Empty**: Animated value from a different keyframe
+- **Red Filled-In**: Keyframe on this frame
+- **Yellow Empty**: Current value doesn't match animated value (it will automatically change if you leave this key frame, this happens if you toggle off a keyframe for a value)
 
 ## Automatic Keyframing
 
