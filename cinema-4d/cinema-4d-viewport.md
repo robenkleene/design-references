@@ -8,6 +8,7 @@
 - `F4`: Switch to front view
 
 ## Splits
+
 - Split the viewport into four quadrants by clicking the icon in the upper right (`Panel > All Views` or `F5`)
 - To use different split arrangements, choose from `Panel > Arrangement`
     - Then set the shading mode under `Display`
@@ -16,3 +17,8 @@
 ## Grid
 
 - Toggle the grid under view settings (`⇧V`), `Filter`, `Workplane`
+
+## Shading
+
+To switch between shading and wireframes.
+

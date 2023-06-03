@@ -9,7 +9,7 @@ For the indicators next to values:
 - **Grey Outline**: Value isn't animated
 - **Red Outline**: Value animated on a different keyframe
 - **Red Filled-In**: Value animated on this frame
-- **Yellow Empty**: Current value doesn't match animated value (it will automatically change if you leave this key frame, this happens if you toggle off a keyframe for a value)
+- **Yellow Empty**: Current value doesn't match animated value (click the indicator to update the key frame value)
 
 ## Automatic Keyframing
 
