@@ -1,6 +1,7 @@
 # Cinema 4D Keyframes
 
 - `^F` / `^G`: Go to previous / next keyframe
+- `F9` / `Record Active Objects`: Make the active keyframe changes the setting for the current keyframe (e.g., click the yellow diamond indicator to make it red) (note this activates keyframes for all position, scale, and rotation properties)
 
 ## Key
 
@@ -9,7 +10,7 @@ For the indicators next to values:
 - **Grey Outline**: Value isn't animated
 - **Red Outline**: Value animated on a different keyframe
 - **Red Filled-In**: Value animated on this frame
-- **Yellow Empty**: Current value doesn't match animated value (click the indicator to update the key frame value)
+- **Yellow Filled-In/Empty**: Current value doesn't match animated value, filled-in if there's a value on this frame (click the indicator to update the key frame value)
 
 ## Automatic Keyframing
 
