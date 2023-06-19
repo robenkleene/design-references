@@ -5,7 +5,7 @@
 - To invert `⇧` with transform, toggle on `Preferences > General > Use Legacy Free Transform`
 - Use the darkest theme (obviously) under `Preferences > Interface`
 - Disable the ridiculous huge pop-up tooltips, by toggling off `Preferences > Tools > Show Rich Tooltips`.
-
+- Toggle on `Preferences > General > Export Clipboard` to help export the clipboard
 ## Key Bindings
 
 - `⌘⇧⌥K`: "Edit > Keyboard Shortcuts..."
