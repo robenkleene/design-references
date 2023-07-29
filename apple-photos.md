@@ -1,5 +1,9 @@
 # Apple Photos
 
+## Key Bindings
+
+- `C`: Crop
+
 ## Live Photos
 
 - To choose a live photo frame, tap edit, then the live photos icon (near the crop tool), then choose a frame from the slider at the bottom.
