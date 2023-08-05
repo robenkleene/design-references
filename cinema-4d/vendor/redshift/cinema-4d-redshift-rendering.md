@@ -2,7 +2,7 @@
 
 - An `IPR`, interactive preview rendering, as a render preview that tries to be real-time
 - Redshift calls it's IPR view `RenderView`
-- `Window > RS RenderView`: Create a floating Redshift `RenderView`
+- `Window > RS RenderView`: Create a floating Redshift `RenderView` (this won't be available unless `Render Settings > Redshift` is selected)
 - To make a view panel an IPR view, choose `Redshift > Start IPR`
     - To turn it off again, select the same option
 
