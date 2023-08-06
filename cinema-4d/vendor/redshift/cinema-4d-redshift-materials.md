@@ -1,3 +1,4 @@
 # Cinema 4D Redshift Materials
 
-- Create a Redshift material with `Material Manager > Creat > Redshift > Materials > Material`
+- `Material Manager > Creat > Redshift > Materials > Material`: Create a Redshift material
+- `Creat > Redshift > Materials > Material`: Create a Redshift material
