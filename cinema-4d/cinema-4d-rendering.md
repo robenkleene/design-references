@@ -3,7 +3,6 @@
 - `⌘R`: Render view
 - `⇧R`: Render to Picture Viewer
 
-## Notes
+## Frames
 
-- `IPR`: Interactive preview rendering
 - To render just the current frame, set `Render Settings > Output > Frame Range: Current Frame`
