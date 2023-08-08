@@ -4,3 +4,6 @@ If `Redshift` is selected as the renderer in `Render Settings`, then all the lig
 
 - `Create > Light`: Create a Redshift light
 
+## Troubleshooting
+
+- Redshift is really dark by default, just adding an `RS Area Light` usually resolves this
