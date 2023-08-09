@@ -17,3 +17,8 @@ One common reason to need this is if you need to make a new object from scratch,
 - **Normal**: Bumpiness
 - **Subsurface**: Whether light enters the object and bounces around (humans and food tend to have this property).
 - **Subsurface Radius**: How far the light bounces around inside the object. There's three values, one for each channel (red, green, blue).
+
+## Troubleshooting
+
+- `File > External Data > Report Missing Files`: Show missing textures
+- `File > External Data > Find Missing Files`: Specify where to find missing textures
