@@ -13,10 +13,20 @@
 - `Panel > Arrangement`: Choose a split view setup
 - It's not clear whether there's another way to close a view besides choosing another option under `Panel > Arrangement`
 - `F5` / `Toggle Active View` (icon in upper right of viewport): Toggle between a split view and a single active view
+- Split the viewport into four quadrants by clicking the icon in the upper right (`Panel > All Views` or `F5`)
+- The four quadrant views can be switched to directly with `F1` through `F4` (or choose a view from the `Panel` menu)
+
+### Side-by-Side Preview
+
+To setup a window for editing and another beside it showing a preview.
+
+1. `Panel > Arrangement > 2 Views Side-by-Side`
+2. `Cameras > Parallel` in the new view
+3. Make the new view a preview (e.g., `Redshift > Start IPR` in the new view)
 
 ## Tabs
 
-There's built-in keyboard shortcuts to switch tabs, the commands are `Next Project` / `Previous Project`
+There's no built-in keyboard shortcuts to switch tabs, the commands are `Next Project` / `Previous Project`
 
 ## Bottom Manager
 
