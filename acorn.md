@@ -1,3 +1,5 @@
 # Acorn
 
+## Layers
 
+- `⌃⇧⌘`: Toggle hidden
