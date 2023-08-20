@@ -2,6 +2,7 @@
 
 ## UI
 
+- `⌃H`: Toggle interface
 - `⌥L`: Toggle layers sidebar
 - `⌥T`: Toggle tools sidebar
 - `⌥⌘T`: Toggle toolbar
@@ -10,7 +11,7 @@
 
 - `⌥[` / `⌥]`: Select next / previous layer
 - `⌥.` / `⌥,`: Select top / bottom layer
-- `⌃⇧⌘`: Toggle hidden
+- `⌥⌘,`: Toggle hidden
 - `⌥⌘A`: Select all layers
 - `⌥⌘E`: Merge selected layers
 - `⌥⇧⌘E`: Merge all layers
