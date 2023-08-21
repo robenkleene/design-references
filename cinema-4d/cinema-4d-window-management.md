@@ -28,7 +28,9 @@ To setup a window for editing and another beside it showing a preview.
 
 #### Fastest Way
 
-1. `⇧C` and type `2 view`
+1. `⇧C` `2 view`
+2. `⇧C` `parallel`
+3. `⇧C` `ipr`
 
 ## Tabs
 
