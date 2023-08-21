@@ -32,3 +32,4 @@ When working with Smart Object masks, it's useful to have the masking layer and 
 ### Transparency
 
 - To make the Clipping Mask layer itself (the base layer) transparent, right-click the base layer and select `Blending Options...` and toggle off `Blending Options > Advanced Blending > Blend Clipped Layers as Group`, then set the base layers `Fill: 0`.
+- To make an image fade to transparent, apply a layer mask, and then edit the mask and apply a gradient that fades from black to white.
