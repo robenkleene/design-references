@@ -18,11 +18,17 @@
 
 ### Side-by-Side Preview
 
+#### Normal Way
+
 To setup a window for editing and another beside it showing a preview.
 
 1. `Panel > Arrangement > 2 Views Side-by-Side`
 2. `Cameras > Parallel` in the new view
 3. Make the new view a preview (e.g., `Redshift > Start IPR` in the new view)
+
+#### Fastest Way
+
+1. `⇧C` and type `2 view`
 
 ## Tabs
 
