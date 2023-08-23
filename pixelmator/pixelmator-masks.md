@@ -11,7 +11,7 @@
 
 ### Gradient Clipping Mask
 
-Since clipping masks clip one layers visibility to another, this approach only works 
+Since clipping masks clip one layer's visibility to another, this approach only works 
 
 1. Add an effect layer (`⇧⌘F`) 
 2. Set the effect to a `Fill > Gradient Fill`
