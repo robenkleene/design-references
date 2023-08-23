@@ -3,19 +3,12 @@
 - `⌥⌘G`: Toggle clipping mask
 - `⌥-click` a layer mask: Edit it (e.g., to paste into it)
 
-## Layer Masks vs. Clipping Masks
-
-- A *layer mask* is added to a layer, it uses black to hide pixels, and white to show pixels
-- A *clipping mask* controls visibility of one layer with the transparency of another
-
 ### Effects
 
 - Layer masks do not have effects.
 - A clipping mask can use effects by making a smart object, and then choosing `Layer > Create Clipping Mask` (`⌘⌥G`).
 
 #### Clipping Mask Gradients
-
-An alternative approach is to make a layer 
 
 ## Shape Layers
 

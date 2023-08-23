@@ -11,8 +11,11 @@
 
 ### Gradient Clipping Mask
 
+Since clipping masks take one layer, and apply
+This approach only works if the image has no transparency.
+
 1. Add an effect layer (`⇧⌘F`) 
 2. Set the effect to a `Fill > Gradient Fill`
 3. Set the gradient to `Transparent > (Black to Gradient)`
 4. Position the effect layer behind the layer to clip
-4. Select the layer to clip and choose `Create Clipping Mask`  (`⌥⌘G`)
+4. Select the layer to clip and choose `Create Clipping Mask` (`⌥⌘G`)
