@@ -11,9 +11,9 @@
 
 ### Gradient Clipping Mask
 
-Since clipping masks clip one layer's visibility to another, this approach only works 
+Since clipping masks clip one layer's visibility to another, this approach only works if the layer to clip doesn't have any transparency (or it's ok if the visible part of the clipped image gets a background color), otherwise the clipping layer's background will be visible behind the clipped layer.
 
-1. Add an effect layer (`⇧⌘F`) 
+1. Add an effect layer (`⇧⌘F`)
 2. Set the effect to a `Fill > Gradient Fill`
 3. Set the gradient to `Transparent > (Black to Gradient)`
 4. Position the effect layer behind the layer to clip
