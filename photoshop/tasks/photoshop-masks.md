@@ -5,7 +5,8 @@
 To make an image fade to transparent:
 
 1. Select the layer and click `Add Layer Mask`
-2. Select the gradient tool and choose a gradient that goes from black 
+2. Select the gradient tool and choose a gradient that goes from white to black
+3. Use the gradient tool to create the mask (after initially placing it, you'll get access to tools for adjusting the start, end, and middle points)
 
 ## Mask Everything Except Portion of Photo
 
