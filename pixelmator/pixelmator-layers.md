@@ -8,7 +8,7 @@
 
 ## Select
 
-- `⌥[` / `⌥]`: Select next / previous layer
+- `⌥[` / `⌥]`: Select next / previous *visible* layer
 - `⌥.` / `⌥,`: Select top / bottom layer
 
 ## Move

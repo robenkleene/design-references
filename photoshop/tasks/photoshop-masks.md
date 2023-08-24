@@ -1,5 +1,12 @@
 # Photoshop Masks
 
+## Gradient to Transparent
+
+To make an image fade to transparent:
+
+1. Select the layer and click `Add Layer Mask`
+2. Select the gradient tool and choose a gradient that goes from black 
+
 ## Mask Everything Except Portion of Photo
 
 1. Click the mask icon to create a mask
