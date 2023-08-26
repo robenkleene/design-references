@@ -32,6 +32,11 @@ To setup a window for editing and another beside it showing a preview.
 2. `⇧C` `parallel`
 3. `⇧C` `ipr`
 
+## Docking Windows
+
+- To dock a window, click and drag the hamburger icon
+- To undock, click the hamburger icon and choose `Undock`
+
 ## Tabs
 
 There's no built-in keyboard shortcuts to switch tabs, the commands are `Next Project` / `Previous Project`
