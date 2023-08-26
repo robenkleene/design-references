@@ -1,5 +1,13 @@
 # Photoshop Troubleshooting
 
+## Missing Interface
+
+Try one of these keys that may have been hit accidently:
+
+- `F`: Toggle between full screen modes (that hide the rest of the interface)
+- `⇥`: Toggle hiding interface
+- `⇧⇥`: Toggle hiding tools sidebar
+
 ## Missing Tools
 
 - Toggle back on `Window > Tools`
