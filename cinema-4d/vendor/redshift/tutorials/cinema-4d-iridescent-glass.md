@@ -3,7 +3,7 @@
 ## Sphere
 
 1. Add a sphere (optionally switch to `Gouraud Shading (Lines)` with `nb`)
-2. Right-click the sphere and choose `Render Tags > RS Object`
+2. Right-click the sphere and choose `Render Tags > RS Object` ("The Redshift Object Tag is similar to the Cinema 4D Compositing Tag, but can also control tessellation for displacement as well as rendering splines and particles with Redshift.")
 
 ## Deformer
 
