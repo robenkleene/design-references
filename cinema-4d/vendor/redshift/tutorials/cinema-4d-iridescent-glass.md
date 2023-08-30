@@ -15,3 +15,7 @@
 ## Sphere
 
 1. Under `Sphere > Attributes > Object > Object Properties`, set `Type: Icosahedron`, and `Segments: 67`
+
+### Material
+
+1. Show the Material Manager (`⇧F2`), and choose `Create > Redshift > Materials > Standard`
