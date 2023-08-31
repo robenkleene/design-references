@@ -19,3 +19,6 @@
 ### Material
 
 1. Show the Material Manager (`⇧F2`), and choose `Create > Redshift > Materials > Standard`
+2. Drag the `RS Standard` material to the `Sphere`
+3. Double-clock the `RS Standard` in the `Material Manager` to open the shader graph
+4. Set `RS Standard > Attributes > Tag > Base Properties > Transmission > Weight: 100`
