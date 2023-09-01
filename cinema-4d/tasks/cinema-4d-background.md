@@ -4,4 +4,4 @@
 
 ## White Background
 
-- Using Redshift, add a `RS Dome Light` with the `Background` option checked
+- Using Redshift, add a `RS Light`, and set `Type: Dome` and toggle on `Background`
