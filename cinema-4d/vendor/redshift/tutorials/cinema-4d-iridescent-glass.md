@@ -25,4 +25,4 @@
     - `Transmission > Weight: 100`
     - `Transmission > Dispersion (Abbe): 1.15` *The lower the dispersion value, the more colorful the result*
 5. In the `Node Editor` for `RS Standard`, create a `Ramp` (`c` then type `Ramp`, then hit enter, no need to hit the down arrow first)
-6. Connect the output of the Ramp to `RS Standard > Base Properties > Transmission > Depth` (drag the output cable onto the node to get a menu to select inputs that aren't already visible)
+6. Connect the output of the Ramp to `RS Standard > Base Properties > Transmission > Disperssion (Abbe)` (drag the output cable onto the node to get a menu to select inputs that aren't already visible)
