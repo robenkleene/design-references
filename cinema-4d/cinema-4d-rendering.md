@@ -1,7 +1,11 @@
 # Cinema 4D Rendering
 
 - `⌘R`: Render view
-- `⇧R`: Render to Picture Viewer
+- `⇧R`: Render to `Picture Viewer`
+
+## Saving
+
+- To save a render as an image, just render to the `Picture Viewer` (`⇧R`) then use `File > Save Image as...` (`⌘⇧S`) to save it to a file
 
 ## Frames
 
