@@ -28,3 +28,5 @@
 6. Connect the output of the `Ramp` to `RS Standard > Base Properties > Transmission > Dispersion (Abbe)` (drag the output cable onto the node to get a menu to select inputs that aren't already visible)
 7. By using the `Ramp > General > Ramp: Gradient`, the white section of the gradient will be where the dispersion effect is active (and the black inactive)
 8. Also connect the output of the `Ramp` to `RS Standard > Base Properties > Transmission > Depth`
+9. (Optional) Make the `Ramp > General > Ramp: Gradient` go from 75% turquoise to 10% black to 15% white
+10. (Optional) Play with the `RS Standard > Base Properties > Reflection > IOR` which has a large effect on how the refraction appears
