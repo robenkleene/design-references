@@ -18,3 +18,7 @@ When the `Automatic Keyframing` icon is enabled (below the viewport, looks like 
 
 - `⌘F9`: Toggle Automatic Keyframing
 - `F9`: Create a keyframe
+
+## Troubleshooting
+
+- If you're keyframe values aren't "sticking" they change after moving off the current keyframe, then try clicking the `Automatic Keyframing` icon above the timeline.
