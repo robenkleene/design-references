@@ -1,3 +1,3 @@
 # 3D Glossary
 
-- **IPR:** Interactive render preview
+- **IPR:** Interactive preview rendering
