@@ -4,6 +4,7 @@
 
 - `⌃⌘M` / `Composition > Add to Render Queue`: Add to render queue
 - `⌥⌘S` / `Composition > Save Frame As > File...`: Save a single frame
+- `↩`: Render (when the `Render Queue` is visible)
 
 ## Transparency
 
