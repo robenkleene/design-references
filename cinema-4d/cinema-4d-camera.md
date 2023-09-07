@@ -16,3 +16,7 @@
 
 - `Create > Camera > Standard`
 - To view through a created camera, click the icon in the Object Manager that looks like a target for the camera.
+
+## Tags
+
+- `Rigging Tags > Protection`: Prevent the camera from being moved
