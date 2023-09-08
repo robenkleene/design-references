@@ -51,6 +51,7 @@ The visible columns in the layers panel can be changed by right-clicking the hea
 ## Position
 
 - There's an `Align` panel that can be added to the sidebar with `Window > Align`, this has options to center a layer horizontally and vertically or left or right justify it.
+- `⌘HOME`: Center layer (align horizontally and vertically)
 
 ## Resizing
 
