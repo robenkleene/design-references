@@ -11,3 +11,10 @@
 ## Frames
 
 - To render just the current frame, set `Render Settings > Output > Frame Range: Current Frame`
+
+### All Frames
+
+1. Set the `Render Settings > Output > Frame Range`
+2. Choose `Render > Add to Render Queue...`
+3. Choose `Render > Render Queue...`
+4. Click `Start Rendering` button
