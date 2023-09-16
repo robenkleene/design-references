@@ -30,7 +30,3 @@
 8. Also connect the output of the `Ramp` to `RS Standard > Base Properties > Transmission > Depth`
 9. (Optional) Make the `Ramp > General > Ramp: Gradient` go from 75% turquoise to 10% black to 15% white
 10. (Optional) Play with the `RS Standard > Base Properties > Reflection > IOR` which has a large effect on how the refraction appears
-
-## Light
-
-1. Add a 
