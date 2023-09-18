@@ -1,5 +1,7 @@
 # Final Cut Pro File Management
 
+- Use one `Library` per project.
+
 ## Startup
 
 1. On startup, if it can't find the previous library, Final Cut will prompt you to choose an existing `fcpbundle` or create a new one (`Untitled.fcpbundle` in `~/Movies`). Rename the library after your project.
