@@ -19,3 +19,7 @@ In my experience, which exports PNG Image Sequences are smaller than `Apple ProR
 ## Tips
 
 - You can delete items from the `Render Queue` by selecting them and hitting `⌫`.
+
+## Codecs
+
+When exporting to import into another NLE, use QuickTime, and set `Format Options... > Apple ProRes 422`
