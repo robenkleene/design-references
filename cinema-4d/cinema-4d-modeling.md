@@ -10,3 +10,8 @@
 ## Tips
 
 - An easy way to create a rounded cube is to check `Object > Fillet` and set the `Fillet Radius` and `Fillet Subdivision`
+
+## Modeling
+
+- By default, most Cinema 4D objects are not editable because they are parametric. To convert them to an editable object, choose `Tools > Convert > Make Editable` (`C`)
+- Snapping icon is along the top toolbar
