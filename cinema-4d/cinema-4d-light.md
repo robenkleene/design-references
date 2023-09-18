@@ -1,5 +1,9 @@
 # Cinema 4D Light
 
+By default, Cinema 4D adds a light to the scene called `Auto Light`, it automatically gets disabled when you add a light to the scene.
+
+## Creating
+
 - `Create > Light`
 
 ## HDRI
