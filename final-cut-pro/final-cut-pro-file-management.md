@@ -1,6 +1,7 @@
 # Final Cut Pro File Management
 
-- Use one `Library` per project.
+- Use one `Library` per project
+- Final Cut Pro can't store a Library on an iCloud volume
 
 ## Startup
 
