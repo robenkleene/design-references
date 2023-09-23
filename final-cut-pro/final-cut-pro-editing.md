@@ -2,7 +2,7 @@
 
 - `⌥(`: Delete before playhead
 - `⌥)`: Delete after playhead
-- `⌘B`: Split clip where hovering
+- `⌘B`: Split clip at playhead
 
 ## Speed
 
