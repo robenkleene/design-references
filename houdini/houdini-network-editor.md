@@ -1,6 +1,6 @@
 # Houdini Network Editor
 
-- `⇥`: Add a node
+- `⇥`: Add a node (hit `␣` after to view all nodes)
 - `I` / `↩`: Jump down
 - `U`: Jump up
 - `⌥←` / `⌥→`: Jump backward / forward
