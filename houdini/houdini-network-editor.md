@@ -1,15 +1,22 @@
 # Houdini Network Editor
 
+## Editing
+
 - `⇥`: Add a node (hit `␣` after to view all nodes)
+- `F2`: Rename node
+- `Y+drag`: Draw a line to cut wires
+- `8`: Drag a node without connecting to nearby wires
+
+## Navigation
+
 - `I` / `↩`: Jump down
 - `U`: Jump up
 - `⌥←` / `⌥→`: Jump backward / forward
 - `Two-Finger-Drag` / `␣Drag`: Zoom
 - `Right-Drag`: Pan
-- `⇧H` / `F` / `⇧F` / `G` / `⇧H`: Home seleced
+- `⇧H` / `F` / `⇧F` / `G` / `⇧H`: Home selection (zoom to fit)
 - `H`: Home in on nodes (zoom to fit)
 - `⇧W`: Toggle tree view
-- `F2`: Rename node
 
 ## Search
 
