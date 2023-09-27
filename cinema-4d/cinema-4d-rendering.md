@@ -18,3 +18,9 @@
 2. Choose `Render > Add to Render Queue...`
 3. Choose `Render > Render Queue...`
 4. Click `Start Rendering` button
+
+## Settings
+
+- `Output > Frame Range: All Frames`
+- `Save > Alpha Channel`
+- `Redshift > Denoising`
