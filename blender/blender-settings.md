@@ -1,5 +1,9 @@
 # Blender Settings
 
+- Preferences are under `Edit > Preferences...` (`⌘,`)
+
+## Settings
+
 - Toggle off `Blender Preferences > Interface > Splash Screen`
 - `Blender Preferences > Input > Emulate Numpad` to use number keys as there numpad equivalents
 
