@@ -9,6 +9,7 @@ Blender doesn't support opening multiple documents at the same time, but you can
 - `z`: Bring up options for switching between rendered preview and wireframe
 - `⌘click`: Select object
 - `F3`: Bring up search menu
+- `↩` / `A`: Expand / collapse any collapsible menu
 
 ## Common
 

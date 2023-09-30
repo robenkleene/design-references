@@ -1,7 +1,9 @@
 # Blender Window Management
 
 - `⌃␣`: Toggle maximize the view that your window is over
-- `^PgUp` / `^PgDn`: Switch Workspaces (tabs along the top)
+- `⌃PgUp` / `^PgDn`: Switch Workspaces (tabs along the top)
+- `^⇥` / `⇧⌃⇥`: Switch sidebar tabs (e.g., `Render`, `Output`, etc...) (only works while hovering the sidebar)
+- `A`, `↩`: Toggle expand or collapse menu (only works while hovering a menu)
 
 ## Splits
 

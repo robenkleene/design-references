@@ -2,7 +2,7 @@
 
 ## Rendering
 
-1. Go to "Render" > "Render Image" (`F12`).
+1. Go to `Render` > `Render Image` (`F12`).
 2. Type `S` to save the image
 
 ### In Viewport
@@ -11,7 +11,7 @@ Just switch to `Viewport Shading > Rendered` (`z r`)
 
 ## Rendering Engines
 
-The rendering engine is set under "Render Properties".
+The rendering engine is set under `Render > Render Engine`.
 
 - **Eevee**: A real-time rendering engine. A biased rendering engine Really fast renders for working on long animations. It's comparable to a game rendering engine like Unreal Engine. It uses rasterization in OpenGL.
 - **Cycles**: An unbiased, ray-traced, rendering engine. Animated movies like Toy Story use unbiased, ray-tracing, rendering engines. It uses path tracing.
@@ -30,5 +30,5 @@ Rasterization works by projecting the faces of a model onto the pixels that make
 
 ## Notes
 
-- To remove specific objects from the render, click the "Filter" icon in the upper-right object hierarchy, and toggle on "Disable in Renders". This will add an additional camera icon to the tree view that toggles whether the object will appear in the render.
+- To remove specific objects from the render, click the `Filter` icon in the upper-right object hierarchy, and toggle on `Disable in Renders`. This will add an additional camera icon to the tree view that toggles whether the object will appear in the render.
 - To make a layer transparent, toggle on `Render Properties > Film > Transparent`.
