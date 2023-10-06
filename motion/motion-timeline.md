@@ -1,4 +1,4 @@
-# Final Cut Pro Timeline
+# Motion Timeline
 
 - `␣`: Play
 - `HOME` / `END`: Move to the beginning / end
