@@ -4,3 +4,4 @@
 2. Under `Render Properties`, toggle on `Ambient Occlusion`, `Bloom`, and `Screen Space Reflections`. Under `Shadows` set `Cube Size: 1024px` and toggle on `High Bit Depth`. Set `Color Management > Look: High Contrast`
 3. Select `Suzanne` and click `Material > New`
 4. Switch to the `Sculpting` tab
+5. (Optional) remove the background by clicking the `Viewport Shading` dropdown in the upper right, and set the `World Opacity: 0`
