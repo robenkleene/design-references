@@ -5,3 +5,4 @@
 3. Select `Suzanne` and click `Material > New`
 4. Switch to the `Sculpting` tab
 5. (Optional) remove the background by clicking the `Viewport Shading` dropdown in the upper right, and set the `World Opacity: 0`
+6. Add a `Noise Texture` node (`⇧A` then search for `Noise Texture`), and connect its `Color` output to the `Principled BSDF > Color` input
