@@ -10,4 +10,6 @@
 8. Add a `Mix Color` node on top of the cable connecting `Hue Saturation Value` and `Principled BSDF`, to insert it in between
 9. Add a `Fresnel` and attach its output to the `Mix > B` input
 10. Add a `Layer Weight` and attach its `Facing` output to the `Mix > Factor` input
-11. Set `Principled BSDF > Metallic: 1`
+11. Under `Principled BSDF`, set `Metallic: 1` and `Roughness: 0.91`
+
+![Iridescent Texture](assets/blender-iridescent-texture-nodes.png)
