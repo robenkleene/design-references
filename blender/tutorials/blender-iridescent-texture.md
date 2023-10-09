@@ -8,3 +8,6 @@
 6. Add a `Noise Texture` node (`⇧A` then search for `Noise Texture`), and connect its `Color` output to the `Principled BSDF > Color` input
 7. Add a `Hue/Saturation/Value` node on top of the cable connecting `Noise Texture` and `Principled BSDF`, to insert it in between
 8. Add a `Mix Color` node on top of the cable connecting `Hue Saturation Value` and `Principled BSDF`, to insert it in between
+9. Add a `Fresnel` and attach its output to the `Mix > B` input
+10. Add a `Layer Weight` and attach its `Facing` output to the `Mix > Factor` input
+11. Set `Principled BSDF > Metallic: 1`
