@@ -7,5 +7,5 @@
 5. Switch to the `Shading` tab
 6. (Optional) remove the background by clicking the `Viewport Shading` dropdown in the upper right, and set the `World Opacity: 0`
 7. Delete the `Principled BSDF`
-
+8. Add a `Glass BSDF` and attach its `BSDF` output to the `Material Output > Surface` input
 
