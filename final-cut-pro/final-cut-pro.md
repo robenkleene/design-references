@@ -5,7 +5,7 @@
 
 ## Clean Caches
 
-- "File" > "Delete Generated Project Files"
+- `File > Delete Generated Project Files`
 
 ## Notes
 
