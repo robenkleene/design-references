@@ -2,4 +2,8 @@
 
 To set the project settings, select `Project` in layers and use the `Properties` panel (`F1`).
 
-Project properties is where the aspect ration can be set (via `Width` and `Height`, e.g., after choosing preset `Custom`).
+## Project Properties
+
+- Aspect ratio via `Width` and `Height` (after choosing preset `Custom`)
+- Duration via `Start Timecode` and `Duration`
+
