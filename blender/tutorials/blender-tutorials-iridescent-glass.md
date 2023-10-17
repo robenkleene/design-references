@@ -26,3 +26,8 @@
 1. Duplicate (`⇧D`) the `Mix` and `Glass BSDF` nodes twice
 2. Connect the `Separate Color` `G` and `B` to the `A` inputs of the two new `Mix` nodes
 3. Set the first new `Mix > B > Color > Hex` to `00FF00`, and the second to `0000FF`
+
+### Imperfections
+
+1. Add a `Bump` node
+2. Connect the `Bump > Normal` output to the `Normal` input on the three color `Glass BSDF`
