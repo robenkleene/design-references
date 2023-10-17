@@ -31,3 +31,7 @@
 
 1. Add a `Bump` node
 2. Connect the `Bump > Normal` output to the `Normal` input on the three color `Glass BSDF`
+3. Add a `Noise Texture` node and connect its `Fac` output to the `Bump > Height` input
+4. Set `Noise Texture > Scale: 50`
+5. Add a `Color Ramp` between the `Noise Texture` and `Bump`
+6. Move the `Color Ramp` first gradient stop until the gradient starts at about 70% black (this will make a relatively small number of imperfections)
