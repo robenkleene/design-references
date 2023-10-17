@@ -5,6 +5,12 @@
 - `⇧D`: Duplicate a node
 - `⌃drag` an output to move it to another socket
 
+## Frames
+
+- `⇧A` then `Layout > Frame`
+- Use `N` sidebar menu to give the frame a name
+- Add nodes to the frame by selecting them and dragging them onto the frame
+
 ## Sockets
 
 - To remove a socket, hit `n` to bring up the editor. Select the "Node" tab. Select the socket you want to remove, and click the "X" button to the right of "Name:" to remove it.

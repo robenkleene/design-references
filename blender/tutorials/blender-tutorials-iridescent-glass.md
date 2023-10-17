@@ -35,3 +35,4 @@
 4. Set `Noise Texture > Scale: 50`
 5. Add a `Color Ramp` between the `Noise Texture` and `Bump`
 6. Move the `Color Ramp` first gradient stop until the gradient starts at about 70% black (this will make a relatively small number of imperfections)
+7. Add the `Color Ramp`, `Noise Texture`, and `Bump` to a frame and name it `Imperfections`
