@@ -1,4 +1,4 @@
-# Lightroom CC Alignment
+# Lightroom Alignment
 
 ## Guided Upright
 
