@@ -1,5 +1,7 @@
 # Houdini Window Management
 
+- `⇧/` (`?`): Quick open node (to quickly jump between networks, like `/obj` and `/mat`, select all with `⌘A` then type `/`)
+
 ## Splits
 
 - The GUI button in the upper right (white square if there's a single view) lets you choose a window arrangement
