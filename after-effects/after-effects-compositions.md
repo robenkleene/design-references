@@ -10,7 +10,7 @@
 
 ### Rendering
 
-To pre-render a nested composition
+To pre-render a nested composition, select the composition in the `Project Panel` and choose `Composition > Pre-Render...`, configure the render settings, and then render. The layer will be replaced by the result of the render, to update the rendered version, just re-render that composition.
 
 ## Tips
 
