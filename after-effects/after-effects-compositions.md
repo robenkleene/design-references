@@ -2,9 +2,15 @@
 
 - `⇧⌥,` / `⇧⌥.`: Move left / right through open compositions (with layers focused, hit `\` to toggle focus between the viewport and layers
 
-## Nesting
+## Precomposition & Nesting
 
+- Precomposition is a name for a nested composition
 - To nest a composition, just right-click and choose `New Composition...` in the `Project` panel, then drag that composition to another composition and it'll appear as a layer in that composition
+- To precompose the layers (move them to a new composition), select the layers, right-click and choose `Precomposition...` (`⇧⌘C`)
+
+### Rendering
+
+To pre-render a nested composition
 
 ## Tips
 
