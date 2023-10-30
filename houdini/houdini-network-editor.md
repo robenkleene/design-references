@@ -3,6 +3,7 @@
 ## Editing
 
 - `⇥`: Add a node (hit `␣` after to view all nodes)
+- Drag from an output and then hit tab to automatically connect the output to the new node quickly
 - `F2`: Rename node
 - `Y+drag`: Draw a line to cut wires
 - `8`: Drag a node without connecting to nearby wires
