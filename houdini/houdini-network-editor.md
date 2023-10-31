@@ -32,6 +32,10 @@
 
 - `C`: Bring up a color palette that can be used to color nodes
 
+## Promote Parameter
+
+The usual way to promote a parameter is to middle mouse button click the parameter and choose `Promote Parameter`, but you can also promote the parameter by selecting the node and clicking the gear icon to the right of the parameter in the properties panel and choosing `Promote Parameter`.
+
 ## Notes
 
 - When naming a node, space just enters an underscore because nodes can't have spaces in there names.
