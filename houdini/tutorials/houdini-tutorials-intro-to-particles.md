@@ -18,4 +18,5 @@
 ## `sphere1`
 
 1. (Optional, this just changes the noise pattern) Set the `Frequency: 0.6 0.6 0.6`
+2. Set `Offset: 0 $F*.02 0` (this adds animation to the noise)
 
