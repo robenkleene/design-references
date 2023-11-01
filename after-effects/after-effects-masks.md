@@ -5,4 +5,4 @@
 
 ## Creating
 
-When drawing using the shape tools, e.g., `Rectangle Tool` or `Ellipse Tool`, if you're drawing over a solid layer, a mask will automatically be created.
+- When using the shape tool (e.g., `Rectangle Tool` or `Ellipse Tool`), if a layer is selected, a mask will automatically be created on that layer (otherwise a shape layer will be created)
