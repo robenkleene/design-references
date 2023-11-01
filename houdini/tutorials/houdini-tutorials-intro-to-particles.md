@@ -13,3 +13,6 @@
 4. Connect the `fit1 > Shift` output to the `geometryvopoutput1 > Cd` input
 5. Select the `aanoise1`, and in the properties panel, click the gear icon and choose `Promote Parameter` for `3D Position`, `3D Frequency`, `3D Offset`, `Amplitude`, and `Roughness`
 6. Select the `fit1`, and in the properties panel, click the gear icon and choose `Promote Parameter` for `Destination Min` and `Destination Max`
+7. Go up a level (`u`) to return to `sphere1`
+
+## `sphere1`
