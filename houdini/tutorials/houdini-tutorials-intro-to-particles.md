@@ -16,3 +16,6 @@
 7. Go up a level (`u`) to return to `sphere1`
 
 ## `sphere1`
+
+1. (Optional, this just changes the noise pattern) Set the `Frequency: 0.6 0.6 0.6`
+
