@@ -17,6 +17,8 @@
 
 ## `sphere1`
 
-1. (Optional, this just changes the noise pattern) Set the `Frequency: 0.6 0.6 0.6`
-2. Set `Offset: 0 $F*.02 0` (this adds animation to the noise)
+1. (Optional, this just changes the noise pattern) Set the `sphere1 > Frequency: 0.6 0.6 0.6`
+2. Set `sphere1 > Offset: 0 $F*.02 0` (this adds animation to the noise)
+3. Set `sphere1 > Roughness: 0.304`
+4. Set `sphere1 > Minimum Value in Source Range: 0.109`
 
