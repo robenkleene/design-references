@@ -21,4 +21,5 @@
 2. Set `sphere1 > Offset: 0 $F*.02 0` (this adds animation to the noise)
 3. Set `sphere1 > Roughness: 0.304`
 4. Set `sphere1 > Minimum Value in Source Range: 0.109`
+5. Add an `Attribute Blur` and connect the output of `pointvop1` to its leftmost input. Set `attribblur1 > Cd` (this smooths out the noise)
 
