@@ -34,7 +34,7 @@
 
 ## Promote Parameter
 
-The usual way to promote a parameter is to middle mouse button click the parameter and choose `Promote Parameter`, but you can also promote the parameter by selecting the node and clicking the gear icon to the right of the parameter in the properties panel and choosing `Promote Parameter`.
+The usual way to promote a parameter is to middle mouse button click the parameter and choose `Promote Parameter`, but you can also promote the parameter by selecting the node and clicking the gear icon to the right of the parameter in the properties panel and choosing `Promote Parameter` (or just control-click the gear icon).
 
 ## Notes
 

@@ -22,4 +22,10 @@
 3. Set `sphere1 > Roughness: 0.304`
 4. Set `sphere1 > Minimum Value in Source Range: 0.109`
 5. Add an `Attribute Blur` and connect the output of `pointvop1` to its leftmost input. Set `attribblur1 > Cd` (this smooths out the noise)
+6. Rename `pointvop1` to `color`
+7. Connect the output of `attribblur1` to a new `Point VOP`, and rename the new node to `vel` (toggle on `Display/Render` for `vel`)
+8. Double-click to enter `vel`
 
+## `vel`
+
+1. Connect `geometryvopglobal1 > P` to a new `Anti-Aliased Noise`, and promote its `freq`, `offset`, `amp`, and `rough`
