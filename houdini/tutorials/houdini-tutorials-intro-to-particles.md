@@ -32,3 +32,9 @@
 2. Add a `Parameter` node, set its type to `3 Floats (vector)`, set `Name: dir`
 3. Add an `Add` node, and set the output of `aanoise1` to its `input1` and `dir > dir` to its `input2`
 4. Connect the `add1 > sum` output to the `geometryvopoutput1 > v` input
+5. Go back up to `sphere1`
+
+## `sphere1`
+
+1. (Optional) Toggle on `Display point trails` in the viewport sidebar
+2. With `vel` selected, set `Offset: 0 $F*0.03 0`, `Frequency: 0.7 0.7 0.7`, `dir: 0 6 0
