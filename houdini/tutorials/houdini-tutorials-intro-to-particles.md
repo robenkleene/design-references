@@ -29,3 +29,6 @@
 ## `vel`
 
 1. Connect `geometryvopglobal1 > P` to a new `Anti-Aliased Noise`, and promote its `freq`, `offset`, `amp`, and `rough`
+2. Add a `Parameter` node, set its type to `3 Floats (vector)`, set `Name: dir`
+3. Add an `Add` node, and set the output of `aanoise1` to its `input1` and `dir > dir` to its `input2`
+4. Connect the `add1 > sum` output to the `geometryvopoutput1 > v` input
