@@ -82,3 +82,4 @@ Change color settings in `File > Project Settings...`, 8-bit is `0-255`
 
 - To change a layers size (as opposed to scaling it), go to .Layer. -> `Layer Settings`
 - To move a gradient fill, select one of its properties in the timeline (like `Start Point`). You'll then be able to move the start and end points of the gradient.
+- The `Anchor Point` is the point a layer will scale or rotate around
