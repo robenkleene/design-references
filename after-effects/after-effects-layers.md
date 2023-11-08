@@ -48,6 +48,10 @@ The visible columns in the layers panel can be changed by right-clicking the hea
     2. Hide all currently visible properties (`u`)
     3. Search for the property to edit (`⌘F`)
 
+## Anchor Point
+
+- To move the `Anchor Point` first switch to the `Pan-Behind Tool`, this allows moving the `Anchor Point` without changing the layer's position
+
 ## Position
 
 - There's an `Align` panel that can be added to the sidebar with `Window > Align`, this has options to center a layer horizontally and vertically or left or right justify it.
