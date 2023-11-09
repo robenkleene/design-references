@@ -1,10 +1,18 @@
 # After Effects Graph Editor
 
 - `⇧F3` / click the `Graph Editor` icon above layers: Toggle `Graph Editor`
-- `F9`: Apply easy ease to keyframes
 - `⌘`-click keyframe: Switch keyframe back to linear
 - `-`: Zoom out
 - `=`: Zoom in
+
+## Easy Ease
+
+Select some keyframes in the `Graph Editor` first.
+
+- `F9` / `Animation > Keyframe Assistant > Easy Ease`
+- `⇧F9` / `Animation > Keyframe Assistant > Easy Ease In`
+- `⇧⌘F9` / `Animation > Keyframe Assistant > Easy Ease Out`
+- To switch back to linear, there's a button below the graph editor to `Convert selected keyframes to linear`
 
 ## Points
 
