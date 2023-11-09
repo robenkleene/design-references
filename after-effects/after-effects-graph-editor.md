@@ -1,6 +1,6 @@
 # After Effects Graph Editor
 
-- `⇧F3` / click the `Graph Editor` icon above layers (): Toggle `Graph Editor`
+- `⇧F3` / click the `Graph Editor` icon above layers: Toggle `Graph Editor`
 - `F9`: Apply easy ease to keyframes
 - `⌘`-click keyframe: Switch keyframe back to linear
 - `-`: Zoom out
