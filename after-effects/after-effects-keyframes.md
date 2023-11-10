@@ -11,6 +11,7 @@
 - `⌥T`: Add a opacity keyframe
 - `⌥S`: Add a scale keyframe
 - `⌥R`: Add a rotation keyframe
+- There's no keyboard shortcut to add a keyframe for the currently selected property
 
 ## Tips
 
