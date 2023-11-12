@@ -18,7 +18,7 @@
 - `[` / `]`: Set the current layers in or out point to the playhead
 - `⌥[` / `⌥]`: Trim the current layers in or out point to the playhead (this will preserve keyframe positions)
 - `⇧F3` (or click the graph icon above the layers list): Toggle graph editor
-- `j` / `k`: Move to previous / next key frame
+- `J` / `K`: Move to previous / next key frame
 - `⌥`-Page Down / `⌥`-Page Down: Offset the start of the current layer by one frame backward / forward.
 
 ## Work Area

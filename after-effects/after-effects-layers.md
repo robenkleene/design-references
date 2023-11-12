@@ -24,6 +24,8 @@ To change a solid's size, choose `Layer > Solid Settings...` (`⇧⌘Y`).
 
 #### Properties
 
+Toggle show / hide for properties, these operate on the selected layer, or all layers if none are selected. So to toggle visibility for all modified properties, first `⇧⌘A` to deselect all then, `uu` to show all modified properties.
+
 - `u`: Key frames
 - `uu`: Modified
 - `a`: Anchor point
