@@ -12,7 +12,7 @@
 - `⌘←` / `⌘→`: Forward or backward one frame
 - `⇧⌘←` / `⇧⌘→`: Forward or backward ten frames
 - `J` / `K`: Move to previous / next key frame
-- `I` / `O`: Move to previous / next key frame
+- `I` / `O`: Move to in / out point of the selected layer
 - Hold `⇧` when dragging the playhead to snap to keyframes
 - `⇧⌥J`: Go to time
 
