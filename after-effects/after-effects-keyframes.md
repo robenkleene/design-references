@@ -5,6 +5,10 @@
 - `⌥⌘A`: Select all visible keyframes
 - Select all keyframes for a property by clicking the property name in the layer panel
 
+## Moving Keyframes
+
+- There's no way to move a keyframe to a specific time code, but moving the playhead to a specific time code, and then dragging the keyframe to the playhead while holding `⇧` (to snap to the playhead) works pretty well.
+
 ## Properties
 
 - `⌥P`: Add a position keyframe
