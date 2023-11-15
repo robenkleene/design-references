@@ -7,6 +7,10 @@
 
 ## Moving Keyframes
 
+- `⌥←` / `⌥→`: Shift selected keyframes left / right one frame
+- `⇧⌥←` / `→⇧⌥`: Shift selected keyframes left / right 10 frames
+### Notes
+
 - There's no way to move a keyframe to a specific time code, but moving the playhead to a specific time code, and then dragging the keyframe to the playhead while holding `⇧` (to snap to the playhead) works pretty well.
 
 ## Properties
