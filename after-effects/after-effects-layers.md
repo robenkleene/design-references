@@ -1,13 +1,32 @@
 # After Effects Layers
 
+- `⌥⌘V`: Paste at the current playhead position (e.g., to paste between compositions)
+
+## Selecting
+
 - `⌘↓` / `⌘↑`: Select next or previous layer
-- `⌘[` / `⌘]`: Move a layer forward / backward (in front or behind other layers)
-- `⌘⇧[` / `⌘⇧]`: Move a layer to top / bottom
-- `[` / `]`: Move a layer to the start or end at the playhead
-- `⌥[` / `⌥]`: Clip a layer so it starts or ends at the playhead
-- `i` / `o`: Move the playhead to the start or end of a layer
+
+## Adding
+
 - `⌘Y`: Add solid
 - `⌘⌥Y`: Add a new adjustment layer
+
+## Navigating
+
+- `i` / `o`: Move the playhead to the start or end of a layer
+
+## Editing
+
+- `⌥[` / `⌥]`: Clip a layer so it starts or ends at the playhead
+
+## Moving
+
+- `[` / `]`: Move a layer to the start or end at the playhead
+- `⌘[` / `⌘]`: Move a layer forward / backward (in front or behind other layers)
+- `⌘⇧[` / `⌘⇧]`: Move a layer to top / bottom
+
+## Columns
+
 - `F4`: Toggle visibility of many columns in the layers panel (e.g., `TrkMat`)
 
 ## Properties
