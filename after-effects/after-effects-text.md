@@ -24,4 +24,3 @@
 
 - Words are then revealed by changing the `Start`, e.g., `Start: 100` will show all the words.
 - `Range Selector1 > Advanced > Smoothness: 0` makes characters appear instantly (instead of fading in)
-

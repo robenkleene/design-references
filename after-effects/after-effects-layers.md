@@ -69,10 +69,6 @@ The visible columns in the layers panel can be changed by right-clicking the hea
     2. Hide all currently visible properties (`u`)
     3. Search for the property to edit (`⌘F`)
 
-## Anchor Point
-
-- To move the `Anchor Point` first switch to the `Pan Behind (Anchor Point) Tool` (`Y`), this allows moving the `Anchor Point` without changing the layer's position
-
 ## Position
 
 - There's an `Align` panel that can be added to the sidebar with `Window > Align`, this has options to center a layer horizontally and vertically or left or right justify it.
@@ -91,7 +87,6 @@ The visible columns in the layers panel can be changed by right-clicking the hea
 ## Transforming
 
 - `W`: Rotation tool
-- `⌘⌥HOME` / `Layer > Transform > Center Anchor Point in Layer Content`: Center the anchor point on a layer (if when you move a layer, it's also changing shape, then you probably need to do this)
 
 ### Fitting a Layer to a Composition
 
@@ -107,4 +102,3 @@ Change color settings in `File > Project Settings...`, 8-bit is `0-255`
 
 - To change a layers size (as opposed to scaling it), go to .Layer. -> `Layer Settings`
 - To move a gradient fill, select one of its properties in the timeline (like `Start Point`). You'll then be able to move the start and end points of the gradient.
-- The `Anchor Point` is the point a layer will scale or rotate around
