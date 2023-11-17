@@ -71,7 +71,7 @@ The visible columns in the layers panel can be changed by right-clicking the hea
 
 ## Anchor Point
 
-- To move the `Anchor Point` first switch to the `Pan-Behind Tool`, this allows moving the `Anchor Point` without changing the layer's position
+- To move the `Anchor Point` first switch to the `Pan Behind (Anchor Point) Tool` (`Y`), this allows moving the `Anchor Point` without changing the layer's position
 
 ## Position
 
