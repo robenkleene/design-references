@@ -13,5 +13,13 @@ HOUDINI_PATH = "/Applications/redshift/redshift4houdini/${HOUDINI_VERSION};&"
 
 When the Redshift Houdini plugin is successfully installed:
 
+## Confirming Installation
+
 - Houdini will have a `Redshift` menu item between `Windows` and `Help`
 - Adding a geometry node (like a sphere), there will be a `Redshift OBJ` tab to the right of `Misc` when the node is selected
+
+## Removing the quarantine flag
+
+```
+xattr -r -d com.apple.quarantine
+```
