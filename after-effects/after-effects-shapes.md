@@ -14,3 +14,7 @@
 ## Paths
 
 - To convert a path to a Bézier Path (so that each point can be edited independently with the `Pen` [`G`] tool), right-click the path under `Contents` and choose `Convert To Bezier Path`
+
+## Crop
+
+To crop a layer, select the layer and use the `Rectangle Tool` (`Q`) to draw a shape over over it (with a layer selected, drawing a shape layer will create a mask
