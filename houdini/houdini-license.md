@@ -2,6 +2,8 @@
 
 Houdini on Steam can be used on multiple computers.
 
+- Probably a good idea to reboot after installing a new Houdini version
+
 ## Fixing License
 
 ### Option 1
