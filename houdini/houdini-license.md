@@ -20,3 +20,10 @@ Houdini on Steam can be used on multiple computers.
 ### Option 2
 
 1. `System Settings > General > Login Items`, make sure `Houdini FX` is toggled on
+
+### Restarting the License Server
+
+```
+sudo launchctl unload -F /Library/LaunchDaemons/com.sidefx.sesinetd.plist
+sudo launchctl load -F /Library/LaunchDaemons/com.sidefx.sesinetd.plist
+```
