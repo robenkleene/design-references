@@ -1,6 +1,7 @@
 # Houdini Redshit Rendering
 
 - `Redshift > ViewportIPR`: Start an IPR render view in the viewport
+- Add the `Redshift` shelve if it's missing by clicking the `+` icon to the right of the list of shelves
 
 ## Setup
 
