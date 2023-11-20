@@ -21,6 +21,6 @@ Put the playhead where you want your freeze frame and right-click and select:
 
 ### Freeze a Specific Frame
 
-Freeze frames in After Effects work just like any other keyframes using the `Time Remap` property. So just create a keyframe that holds the time where you want to clip to freeze.
+Freeze frames in After Effects work just like any other keyframes using the `Time Remap` (`⌃⌥T`) property. So just create a keyframe that holds the time where you want to clip to freeze.
 
 - Right-click the layer, and choose `Time > Enable Time Remapping` (`⌃⌥T`)
