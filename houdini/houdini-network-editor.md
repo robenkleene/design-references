@@ -1,5 +1,7 @@
 # Houdini Network Editor
 
+- `⇧C` / `Actios > Collapse to Subnet`: Move selection under new parent node
+
 ## Editing
 
 - `⇥`: Add a node (hit `␣` after to view all nodes)
