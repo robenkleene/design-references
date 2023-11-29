@@ -1,4 +1,4 @@
-# Houdini Solaris
+# Houdini Solaris & Karma
 
 - Choose `Desktop > Solaris`
 
