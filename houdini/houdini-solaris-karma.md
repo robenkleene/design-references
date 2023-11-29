@@ -22,3 +22,4 @@
 
 1. Add a `Karma Render Settings` and attach the output of the camera to its leftmost input
 2. Drag out a `USD Render Rop` from the output of the `Karma Render Settings` node
+3. In the viewport, in the `Perspective` drop-down in the upper right, choose either `Karma XPU` or `Karma CPU` (whichever is faster)
