@@ -21,9 +21,9 @@ To pre-render a nested composition, select the composition in the `Project Panel
 - The checker box icon at the bottom of the viewport toggles the visibility of the composition's background.
 - To change the composition's background color, right-click the composition and select `Composition Settings...`.
 
-## Resizing
+## Cropping
 
-- Click the little box icon below the viewport for "Region of Interest" and draw a region of interest, then select "Composition > Crop Comp to Region of Interest".
+- Click the little box icon below the viewport for `Region of Interest` and draw a region of interest, then select `Composition > Crop Comp to Region of Interest`.
 
 ## Duration
 
