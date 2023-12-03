@@ -27,13 +27,13 @@
 - You can always add a keyframe (e.g., to insert a keyframe at the same value) by clicking the diamond keyframe icon to the far left.
 - Select all the keyframes and `⌥-drag` the first or last keyframe to scale them.
 - To temporarily disable a keyframe, just add an expression by `⌥`-clicking the stopwatch.
-- "Hold Keyframe" makes a keyframe jump to the new value instantly instead of interpolating.
+- `Hold Keyframe` makes a keyframe jump to the new value instantly instead of interpolating.
 
 ## Keyframe Assistant
 
 ### Sequence Layers
 
-Select layers, right-click "Keyframe Assistant > Sequence Layers..."
+Select layers, right-click `Keyframe Assistant > Sequence Layers...`
 
 - **Duration**: The duration of the transition. E.g., to have a layer show for a second, and transition for half a second, start with the layers showing for two seconds, then set the duration to half a second (this means the last number in the time code should be frames per second `/ 2`).
 
