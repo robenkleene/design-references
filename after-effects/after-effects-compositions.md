@@ -29,12 +29,11 @@ To pre-render a nested composition, select the composition in the `Project Panel
 
 ### Shorter
 
-1. Get to your new start point and hit `b`
-2. Go to your endpoint and hit `n`
-3. Select "Composition > Trim Composition to Work Area" (`⇧⌘X`)
+1. Use `b` to set the beginning of the work area and `n` to set the end
+2. Select `Composition > Trim Composition to Work Area` (`⇧⌘X`)
 
 ### Longer
 
-1. Right-click the Composition and select "Composition Settings..." (`⌘K`), and extend the length of the composition
-2. Use `b` and `n` to set the beginning and end of the work area
-3. Select "Composition > Trim Composition to Work Area" (`⇧⌘X`)
+1. Right-click the Composition and select `Composition Settings...` (`⌘K`), and extend the length of the composition
+2. Use `b` to set the beginning of the work area and `n` to set the end
+3. Select `Composition > Trim Composition to Work Area` (`⇧⌘X`)
