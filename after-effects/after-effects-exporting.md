@@ -10,7 +10,7 @@
 
 ### Single Frame
 
-- Select `Composition > Save Frame As > File...`, this will add it to the `Render Queue", then click "Render`.
+- Select `Composition > Save Frame As > File...` (note that this prompts for a file name, and the dialog has Photoshop as the file format selected, but you can change that after submitting the file dialog) this will add it to the `Render Queue", then click "Render`.
 - To export with Photoshop layers, simple select `Composition > Save Frame As > Photoshop Layers...` (this also exports instantly, without having to click `Render`)
 - If the frame is too small relative to the composition size, that's probably because the composition is set to be scaled down. Change the `Composition Settings` to `Resolution: Full` to export full size.
 
