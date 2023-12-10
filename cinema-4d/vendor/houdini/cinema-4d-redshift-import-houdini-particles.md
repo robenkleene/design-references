@@ -8,4 +8,4 @@
 
 ## Tags
 
-1. In the `Object Hierarchy`, right-click the particles and choose `Render Tags > RS Object`
+1. In the `Object Manager`, right-click the particles and choose `Render Tags > RS Object`
