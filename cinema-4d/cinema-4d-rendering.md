@@ -6,13 +6,22 @@
 ## Saving
 
 - The default render view (i.e., without Redshift) does not provide an IPR (interactive preview render)
-- To save a render as an image, just render to the `Picture Viewer` (`⇧R`) then use `File > Save Image as...` (`⌘⇧S`) to save it to a file
 
-## Frames
+## Current Frame
 
-- To render just the current frame, set `Render Settings > Output > Frame Range: Current Frame`
+### Picture Viewer
 
-### All Frames
+1. Open `Picture Viewer` (`⇧R`)
+2. `File > Save Image as...` (`⌘⇧S`) to save it to a file
+
+### Render Queue
+
+1. To render just the current frame, set `Render Settings > Output > Frame Range: Current Frame`
+2. Choose `Render > Add to Render Queue...`
+3. Choose `Render > Render Queue...`
+4. Click `Start Rendering` button
+
+## All Frames
 
 1. Set the `Render Settings > Output > Frame Range`
 2. Choose `Render > Add to Render Queue...`
@@ -21,6 +30,5 @@
 
 ## Settings
 
-- `Output > Frame Range: All Frames`
 - `Save > Alpha Channel`
 - `Redshift > Denoising`
