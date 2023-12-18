@@ -1,6 +1,6 @@
 # Cinema 4D X Particles Tasks Freeze
 
-To freeze geometry to working on materials and lighting without having to playback to the particle simulation.
+To freeze geometry to working on rendering without having to playback to the particle simulation.
 
 1. Go to the frame to freeze
 2. Select `xpSystem > Generators` in the `Object Manager`, and choose `Attributes > Object Properties > Generators > xpOpenVDBMesher`
