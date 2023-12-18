@@ -1,4 +1,4 @@
-# Cinema 4D X Particles Freeze
+# Cinema 4D X Particles Tasks Freeze
 
 To freeze geometry to working on materials and lighting without having to playback to the particle simulation.
 
