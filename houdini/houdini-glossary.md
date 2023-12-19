@@ -1,5 +1,6 @@
 # Houdini Glossary
 
+- `Cd` is color diffuse
 - **ROP**: Render node network
 
 ## Variables
