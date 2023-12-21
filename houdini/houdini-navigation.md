@@ -1,12 +1,12 @@
 # Houdini Navigation
 
-## Basic
-
-If none of these are working you might be in `Edit` mode, hit `⎋` to switch back to `View` mode.
-
 - `Drag`: Orbit
 - `Scroll`: Zoom
 - `Right-Drag`: Pan (this only works if the `HOUDINI_MMB_PAN = 0` environment variable is set
+
+## Troubleshooting
+
+If none of these are working you might be in `Edit` mode, hit `⎋` to switch back to `View` mode.
 
 ## Shortcuts
 
