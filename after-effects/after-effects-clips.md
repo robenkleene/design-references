@@ -1,4 +1,4 @@
-# After Effects Video
+# After Effects Clips
 
 ## Cutting Footage
 
