@@ -2,6 +2,7 @@
 
 - To view through a camera, use the camera menu in the upper right of the viewport.
 - `\`: Restore previous camera view (so you can switch back to it after you've selected it once)
+- `⌘\`: Lock camera or light to view (this only works if the camera is selected in the `Network Editor`)
 
 ## Frustum
 
@@ -18,6 +19,5 @@ The Camera Frustum can be seen for a selected camera with the `Show Handle` view
 
 ## Lock Camera
 
-The lock icon in the `Display options` (toolbar along the right of the `3D Scene View`) locks the view port to the camera, so that navigating the scene also moves the camera.
+The lock icon (or `⌘\`) in the `Display options` (toolbar along the right of the `3D Scene View`) locks the view port to the camera, so that navigating the scene also moves the camera.
 
-- `⌘\`: Lock camera or light to view (this only works if the camera is selected in the `Network Editor`)
