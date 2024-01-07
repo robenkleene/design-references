@@ -12,7 +12,7 @@
 To start the IPR (`KarmaViewer`):
 
 1. With the `out > Karma` node selected, click `Karma Viewport` (Karma is not compatible with the normal Houdini `Render View` tab)
-2. In the `Persp` drop-down choose Karma XPU
+2. In the `Persp` drop-down choose `Karma XPU`
 
 ## Troubleshooting
 
