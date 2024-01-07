@@ -4,9 +4,15 @@
 
 1. Go to the `/out` context
 2. Add a `Karma` node
-3. With the `Karma` node selected, click `Karma Viewport` (Karma is not compatible with the normal Houdini `Render View` tab)
-4. To preview, in the `Karma RenderView` choose, in the `Persp` drop-down choose Karma XPU
-5. To render, click `Render to Disk`
+3. With the `Karma` node selected, set `Common Settings > Rendering Engine: XPU Engine`
+4. To render, click `Render to Disk`
+
+## IPR
+
+To start the IPR (`KarmaViewer`):
+
+1. With the `out > Karma` node selected, click `Karma Viewport` (Karma is not compatible with the normal Houdini `Render View` tab)
+2. In the `Persp` drop-down choose Karma XPU
 
 ## Troubleshooting
 
