@@ -44,7 +44,7 @@ Select layers, right-click `Keyframe Assistant > Sequence Layers...`
 
 ## Speed Up or Slow Down
 
-To quickly 
+To quickly speed up a clip, just right-click and choose `Time > Time Stretch...`. This will bring up a dialog box where a `Stretch Factor` can be set. `100` is normal speed, `200` is half speed, and `50` is double speed.
 
 ### Speeding Up Sections of Clips
 
