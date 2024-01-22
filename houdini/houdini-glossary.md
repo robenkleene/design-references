@@ -37,3 +37,7 @@ Along with `int` and `float`, Houdini has some other types.
 ## Simulations
 
 - **FLIP Fluids**: "Fluid Implicit Particle", A hybrid method of particle and grids improved from PIC (Particle-In-Cell) method for fluid dynamics simulation.
+
+## Geometry
+
+- **Primitive** vs. **Polygons**: Primitive geometry use an algorithm to construct draw the geometry whereas polygons use flat faces.
