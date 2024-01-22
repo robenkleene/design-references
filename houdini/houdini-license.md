@@ -29,3 +29,9 @@ Houdini on Steam can be used on multiple computers.
 sudo launchctl unload -F /Library/LaunchDaemons/com.sidefx.sesinetd.plist
 sudo launchctl load -F /Library/LaunchDaemons/com.sidefx.sesinetd.plist
 ```
+
+One command:
+
+```
+sudo launchctl unload -F /Library/LaunchDaemons/com.sidefx.sesinetd.plist && sudo launchctl load -F /Library/LaunchDaemons/com.sidefx.sesinetd.plist
+```
