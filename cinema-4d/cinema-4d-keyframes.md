@@ -19,6 +19,11 @@ When the `Automatic Keyframing` icon is enabled (below the viewport, looks like 
 - `⌘F9`: Toggle Automatic Keyframing
 - `F9`: Create a keyframe
 
+## Timeline
+
+- `Window > Timeline (Dope Sheet)...` is a good way to edit all the keyframes at once
+- In the `Timeline` window if the frame range doesn't match your project frame range, set `Frame > Frame Range...` in that menu
+
 ## Troubleshooting
 
 - If you're keyframe values aren't "sticking" they change after moving off the current keyframe, then try clicking the `Automatic Keyframing` icon above the timeline.
