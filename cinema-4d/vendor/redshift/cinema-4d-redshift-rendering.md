@@ -21,3 +21,11 @@ Redshift calls it's IPR view `RenderView`.
 - `Render Settings > Redshift > Advanced > Unified Sampling` (`⌘B`): The higher the threshold the faster it will render but the more noise there will be
     - You can mediate the noise under  `Render Settings > Redshift > Basic > Denoising`
     - Uncheck `Random Noise Pattern` to get rid of noise-related flickering during animation
+
+## Fast Preview Render Settings
+
+1. Under `Render Settings`, click `Render Settings...` to make a new render settings preset
+2. Under `Redshift > Basic`, set `Progressive Passes: 1`, disable `Global Illumination`, set `Bucket Quality > Threshold: 1`
+3. Under `Redshift > Basic`, under `Unified Sampling`, disable `Automatic Sampling`, set `Threshold: 1`, `Samples Min: 4`, and `Samples Max: 8`
+
+To use this faster render preview, under `Render Settings` click the checkbox icon to the left of the preview preset name.
