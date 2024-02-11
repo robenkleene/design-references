@@ -1,4 +1,4 @@
-# Cinema 4D Redshift Daily
+# Cinema 4D Redshift Tasks Daily
 
 1. `Edit Render Settings...` (`⌘B`) and set to `Redshift`
 2. `⇧C` then `RS RenderView`
