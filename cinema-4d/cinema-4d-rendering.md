@@ -36,3 +36,7 @@
 # Quick Renders
 
 - `Viewport Renderer` render engine renders what's in the viewport
+
+# Output
+
+- `$frame-$YYYY-$MM-$DD-$ss`: A good output filename that includes the frame, date, and seconds
