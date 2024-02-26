@@ -1,5 +1,6 @@
 # Cinema 4D Object Manager
 
+- To duplicate an object, just use `⌘C` then `⌘V`
 - The two dots to the right of an object name change it's visibility (top is for the workspace, bottom is for the renderer): grey means same as parent, red means off, green means on. Hold `⌥` when clicking to change both dots at once
 - `S`: Scroll to first active in object manager
 - Objects colored purple will manipulate or distort objects or data
