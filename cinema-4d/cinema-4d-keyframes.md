@@ -25,6 +25,7 @@ When the `Automatic Keyframing` icon is enabled (below the viewport, looks like 
 - In the `Timeline` window if the frame range doesn't match your project frame range, set `Frame > Frame Range...` in that menu
 - To switch between `Dope Sheet` and `F-Curve` under the `View` menu
 - To add a point to a spline, `⌘` click *anywhere on an existing spline*
+- To zoom horizontally, hold `⇧` while zooming
 
 ## Troubleshooting
 
