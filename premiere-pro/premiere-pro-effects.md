@@ -7,7 +7,7 @@
 
 ## Multiple Clips
 
-- Nest clips to apply an effect over multiple clips. Select the clips in the timeline, right-click and select "Nest...".
+- Nest clips to apply an effect over multiple clips. Select the clips in the timeline, right-click and select `Nest...`.
 - To speed up or slowdown a clip, right-click the clip and select `Speed/Duration...` and change the `Speed` percentage.
 
 ## Creative Effects
