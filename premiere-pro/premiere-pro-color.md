@@ -2,7 +2,12 @@
 
 - Switch to the `Color` tab
 - To get other scopes, like a vectorscope, right-click the scope and toggle them on.
-- `HSL Secondary` is for precise control over a specific color, not the overall image.
+- `Lumetri Color > HSL Secondary` is for precise control over a specific color, not the overall image.
+
+## Replacing a Color
+
+- `Lumetri Color > HSL Secondary` can be used to replace a color, under `Key > Set Color` use the eye dropper to select the color to replace, then use the sliders to change that color
+- `Color Replace` can also be used, use the eye dropper next to `Target Color` to choose the color to replace, then `Replace Color` for the replacement
 
 ## Adjustment Layers
 
