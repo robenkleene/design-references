@@ -16,6 +16,6 @@ E.g., for upload.
 
 ## Steps
 
-1. Select the sequence and hit `⌘M` (`File > Export > Media...`)
+1. Select the sequence (this menu item does nothing if a sequence isn't selected) and hit `⌘M` (`File > Export > Media...`)
 2. Select settings and hit return, this will open "Adobe Media Encoder"
 3. Hit return again when Adobe Media Encoder has started to start the rendering queue
