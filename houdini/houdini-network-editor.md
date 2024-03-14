@@ -23,7 +23,7 @@
 
 ## Search
 
-- `?`: Quickly type node name to jump to it (you can also use this to quickly switch between other networks by first hitting
+- `?`: Quickly type node name to jump to it (you can also use this to quickly switch between other networks by first hitting backspace
 
 ## Layout / Clean-Up
 
