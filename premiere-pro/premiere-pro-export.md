@@ -1,4 +1,4 @@
-# Premiere Pro Exporting
+# Premiere Pro Export
 
 - Clip lengths are automatic, e.g., the export will be until the media ends
 

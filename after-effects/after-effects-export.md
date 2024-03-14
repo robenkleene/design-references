@@ -1,4 +1,4 @@
-# After Effects Exporting
+# After Effects Export
 
 ## Video
 
