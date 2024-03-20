@@ -9,7 +9,7 @@
 
 ## Key Bindings
 
-- `⌘⇧⌥K`: "Edit > Keyboard Shortcuts..."
+- `⌘⇧⌥K`: `Edit > Keyboard Shortcuts...`
 
 ## Notes
 
