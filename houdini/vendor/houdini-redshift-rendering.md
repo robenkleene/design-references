@@ -22,3 +22,6 @@
 2. `Redshift_ROP1 > Valid Frame Range: Render Current Frame` can be changed to a frame range
 3. Click `Redshift_ROP1 > Render to Disk` to render to disk
 
+## Troubleshooting
+
+If nothing is showing up, try a polygon rather than a primitive. Redshift needs polygons to render.
