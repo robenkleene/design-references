@@ -21,7 +21,7 @@
 
 ### Side-by-Side
 
-- To put the `RenderView` in a `Tab Pane` spilt, click the disclosure arrow to the upper right of any pane and choose `Split Pane Left/Right` (or `Top/Bottom`), then choose right click the pane tab title and choose `Redshift RenderView`
+- To put the `RenderView` in a tab pane spilt, click the disclosure arrow to the upper right of any pane and choose `Split Pane Left/Right` (or `Top/Bottom`), then choose right click the pane tab title and choose `Redshift RenderView`
 
 ## Output
 
