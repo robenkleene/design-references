@@ -4,12 +4,24 @@
 
 ## Splits
 
-- The GUI button in the upper right (white square if there's a single view) lets you choose a window arrangement
+There are two types of splits.
+
+### Viewport Splits
+
+Viewport splits allow viewing the same scene from multiple angles at once.
+
+- Splitting the viewport is done by clicking the square icon in the upper right (the icon shows the current number of viewport splits)
 - `⌘1`: Single view
 - `⌘2`: Two splits side-by-side
 - `⌘4`: Four splits
 
-### Other
+### Tab Pane Splits
+
+Tab pane splits can be any pane type.
+
+- To create a tab pane split click the disclosure arrow to the upper right of any pane and choose `Split Pane Left/Right` (or `Top/Bottom`)
+
+### Notes
 
 - There's little arrow icons that can be hovered at the edges of the viewport that can be used to expand or collapse splits
 

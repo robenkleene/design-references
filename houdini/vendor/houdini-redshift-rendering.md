@@ -13,8 +13,15 @@
 
 ## Render View
 
-1. Under the `Redshift` shelf, click `RenderView` to see the render
-    - Or you can just switch to the Render View (`⌥9`, switch back with `⌥1`) and click `Render`
+- Under the `Redshift` shelf, click `RenderView` to see the render (or you can just switch to the Render View (`⌥9`, switch back with `⌥1`) and click `Render`)
+
+### IPR
+
+- The `RenderView` can be an IPR just buy clicking the `Start/Stop IPR` button
+
+### Side-by-Side
+
+- To put the `RenderView` in a `Tab Pane` spilt, click the disclosure arrow to the upper right of any pane and choose `Split Pane Left/Right` (or `Top/Bottom`), then choose right click the pane tab title and choose `Redshift RenderView`
 
 ## Output
 
