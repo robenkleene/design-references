@@ -20,6 +20,8 @@ Viewport splits allow viewing the same scene from multiple angles at once.
 Tab pane splits can be any pane type.
 
 - To create a tab pane split click the disclosure arrow to the upper right of any pane and choose `Split Pane Left/Right` (or `Top/Bottom`)
+- `⌥[`: `Split Pane Left/Right`
+- `⌥]`: `Split Pane Top/Bottom`
 
 ### Notes
 
