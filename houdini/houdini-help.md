@@ -1,6 +1,7 @@
 # Houdini Help
 
 - Hover a parameter to see a tooltip, then hit `F1` to open a help pane for that parameter
+- Right-click a node and choose `Help...`
 
 ## Help Pane
 
