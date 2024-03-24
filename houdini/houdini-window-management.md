@@ -1,6 +1,7 @@
 # Houdini Window Management
 
 - `⇧/` (`?`): Quick open node (to quickly jump between networks, like `/obj` and `/mat`, select all with `⌘A` then type `/`)
+- `⌘B`: Maximize pane
 
 ## Splits
 
