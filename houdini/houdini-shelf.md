@@ -42,3 +42,7 @@ subprocess.run(["open", dir_path])
 ```
 
 ## Export & Import
+
+Copy the `.shelf` file to/from the `~/Library/Preferences/houdini/<houdini-version>/toolbar` directory.
+
+If it doesn't show up automatically, you might need to toggle it on under the shelf list by clicking the shelf `+` button and navigating to `Shelves`.
