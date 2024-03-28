@@ -18,4 +18,4 @@ To debug an attribute before and after a node in a `VEX Builder` network.
 2. Give the `Bind Export` node a clear name like `value_before`
 3. Make a second `Bind Export` for the after value, similarly named `value_after`
 4. Go up to the geometry level and right-click the node and choose `Spreadsheet...`
-5. To easily show just the two columns, in the `Geometry Spreadsheet` choose `Hide All Attributes` then only show the before and after values
+5. To easily show just the two columns, in the `Geometry Spreadsheet` choose `Hide All Attributes` then only show  before and after values
