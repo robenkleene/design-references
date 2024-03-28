@@ -39,6 +39,8 @@
 
 The usual way to promote a parameter is to middle mouse button click the parameter and choose `Promote Parameter`, but you can also promote the parameter by selecting the node and clicking the gear icon to the right of the parameter in the properties panel and choosing `Promote Parameter` (or just control-click the gear icon).
 
+- You can also promote a parameter with `^LMB` on the gear icon
+
 ## Notes
 
 - When naming a node, space just enters an underscore because nodes can't have spaces in there names.

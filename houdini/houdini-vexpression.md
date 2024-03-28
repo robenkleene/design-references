@@ -7,3 +7,4 @@
 - `@P`: Current position
 - `$PI`: Pi
 - `@TimeInc`: Current frame
+- `ch()`: Access the value of a channel parameter (e.g., `f@radius = ch("radius");`)
