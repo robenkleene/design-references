@@ -7,3 +7,7 @@
 ## Timeline
 
 - `⇧-drag`: Select multiple keyframes in the timeline
+
+## User Interface
+
+- A dotted line connecting nodes means a non-standard data flow
