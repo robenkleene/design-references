@@ -12,10 +12,10 @@ In Preferences, set `Global UI Scale: 2`
 
 ## Notes
 
-- Don't use "Native Choosers", too many bugs where the file picker gets stuck and Houdini needs to be restarted.
+- Don't use `Native Choosers` in the file dialog, too many bugs where the file picker gets stuck and Houdini needs to be restarted.
 
 ## Hotkeys
 
 Keyboard Shortcuts
 
-- `Edit > Hotkeys..."
+- `Edit > Hotkeys...`
