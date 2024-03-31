@@ -8,3 +8,7 @@
 ## Viewport
 
 - When the group node is set to `Display/Render` (blue tab), the viewport will highlight all the points in the group orange
+
+## Deleting
+
+- To delete particles in a group, use a `Delete` node, be use to set the `Entity` to match the type of geometry to delete (otherwise there's a warning message about an invalid group)
