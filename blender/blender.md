@@ -18,7 +18,7 @@ Blender doesn't support opening multiple documents at the same time, but you can
 ## Common
 
 - `⌥A`: Deselect
-- `⇧D`: Duplicate
+- `⇧D`: Duplicate (then click to place the object or hit `↩` to place it at the same location as the original)
 
 ## Object Mode
 
