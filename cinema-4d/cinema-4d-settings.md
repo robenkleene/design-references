@@ -5,3 +5,7 @@
 ## Cinema 4D Light
 
 - There used to be an option to disable the `Quick Start Dialog` under `Preferences > Communication`, but it appears to be missing now. (This might be a restriction on the "Lite" and trial versions.)
+
+## Keyboard Shortcuts
+
+- `Window > Customization > Command Manager`, `⇧F12`: Customize keyboard shortcuts

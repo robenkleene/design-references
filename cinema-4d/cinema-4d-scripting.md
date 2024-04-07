@@ -1,6 +1,7 @@
 # Cinema 4D Scripting
 
 - Scripts are added in `Extensions > Script Manager...`
+- `⇧F11`: Open the `Script Manager` (a relatively fast way to run scripts)
 
 ## Reveal in Finder
 
