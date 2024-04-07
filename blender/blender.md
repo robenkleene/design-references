@@ -48,9 +48,11 @@ Blender doesn't play nice with the "Scroll direction: natural" enabled, so turn 
 
 ## Modeling
 
-- `g`: Move
-- `s`: Scale
-- `r`: Rotate
+With all of these operations you can drag to determine the result of the operation, or just start typing a new value (e.g., a scaling factor) and it will display the result at the top of the viewport). `↩` to accept the new value and `⎋` to cancel.
+
+- `G`: Move
+- `S`: Scale
+- `R`: Rotate
 
 ### Notes
 
