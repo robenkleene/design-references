@@ -1,7 +1,7 @@
 # Cinema 4D Navigation
 
-- `Scroll`: Pan
 - `⌥Drag`: Orbit
+- `Scroll`: Pan
 - `⌥RDrag` / `Pinch`: Zoom
 - `Hold 1 + click-and-drag`: Pan
 - `Hold 2 + click-and-drag`: Zoom

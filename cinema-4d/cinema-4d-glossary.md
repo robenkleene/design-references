@@ -4,9 +4,9 @@
 
 Cinema 4D's coordinates system uses "heading", "pitch", and "bank".
 
-- **Heading**: Bank is relative to the object.
-- **Pitch**: Pitch is up/down rotate (like nodding your head "yes").
-- **Bank**:  Rotation along the center axis.
+- `H`, **Heading** (Y-axis): Bank is relative to the object.
+- `P`, **Pitch** (X-axis): Pitch is up/down rotate (like nodding your head "yes").
+- `B` **Bank** (Z-axis):  Rotation along the center axis.
 
 Rotations around the Z-axis (Bank), use the object system, whereas rotations around the Y and X axes (heading and pitch) use the world system.
 
