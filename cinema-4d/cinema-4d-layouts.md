@@ -1,6 +1,11 @@
 # Cinema 4D Layouts
 
+- A `Layout` is a collection of `Palettes`
+
 ## Palettes
+
+- Create a `Palette` under `Window > Customization > New Palette`
+
 
 ## Adding to Toolbar
 
