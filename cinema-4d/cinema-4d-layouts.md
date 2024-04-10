@@ -4,8 +4,15 @@
 
 ## Palettes
 
-- Create a `Palette` under `Window > Customization > New Palette`
+### Creating
 
+1. Create a `Palette` under `Window > Customization > New Palette`
+2. Add items to a palette by opening `Window Customization > Command Manager` (`⇧F12`)
+3. Search for the item to add, then drag it into the palette
+
+### Positioning
+
+- By default, palettes appear as floating windows, but they can be dragged anywhere into the interface by dragging the grab handles
 
 ## Adding to Toolbar
 
