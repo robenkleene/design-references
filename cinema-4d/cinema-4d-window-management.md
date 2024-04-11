@@ -1,5 +1,12 @@
 # Cinema 4D Window Management
 
+- Drag the hamburger button to move a panel
+- `⌘click` the tab or hamburger button on a panel to fold it
+- Folded panels leave a thin bar, clicking that bar unfolds the panel
+- Right-click and choose `Undock` to undock a panel
+
+## Panels
+
 - `Panel > New View Panel`: Create a new floating window
 - The `Cameras` menu has the various camera options like `Perspective`, `Top`, etc...
 - Views, these are actually four different views that can be configured to be different camera views, the below are just the defaults
