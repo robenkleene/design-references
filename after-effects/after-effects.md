@@ -9,10 +9,6 @@ Pre-compose (`⇧⌘C` or "Layer > Pre-Compose...") is After Effects' equivalent
 
 To reverse a pre-compose, just copy and paste the layers back into the main composition.
 
-## Cache
-
-You can clear After Effects' Cache under "After Effects > Preferences > Media & Disk Cache...", "Empty Disk Cache..."
-
 ## Previews & RAM
 
 The green line is the RAM preview. The blue line is the disk cache. You can adjust the preview resolution under the preview, e.g., change "Full" to "Half" or "Quarter".
