@@ -1,6 +1,10 @@
 # Cinema 4D Scripting
 
 - Scripts are added in `Extensions > Script Manager...`
+
+## Running Scripts
+
+- The easiest way to run scripts is to just use the command palette (`⇧C`)
 - `⇧F11`: Open the `Script Manager` (a relatively fast way to run scripts)
 - Scripts can be added to `Palettes` to make them easier to run.
 
