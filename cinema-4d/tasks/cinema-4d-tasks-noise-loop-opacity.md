@@ -7,7 +7,11 @@
 
 ## Settings
 
+- `Speed: 1`
+- `Loop Period: 4`
 - `Input > Overall Scale: 700`
+- `Output > Brightness: -0.1`
+- `Output > Contrast: 0.8`
 
 ## Other Settings
 
