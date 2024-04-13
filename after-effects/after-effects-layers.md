@@ -13,7 +13,7 @@
 
 ## Navigating
 
-- `i` / `o`: Move the playhead to the start or end of a layer
+- `I` / `O`: Move the playhead to the start or end of a layer
 
 ## Editing
 
