@@ -5,7 +5,10 @@
 3. Connect the `Maxon Noise > outColor` output to `RS Standard > Opacity` input
 4. Set the `Speed` and `Loop Period` to loop the noise
 
+## Settings
+
+- `Input > Overall Scale: 700`
+
 ## Other Settings
 
 - `General > Type`
-- `Input > Overall Scale`
