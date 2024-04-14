@@ -9,7 +9,7 @@
 
 ### Splitting
 
-- You can also create splits just by right-clicking a boundary and selecting "Vertical Split" or "Horizontal Split". After selecting a split type, the cursor will change and you'll be able to choose the size of the split.
+- You can create splits by right-clicking a boundary (look for the cursor to change to either a boundary resize icon [between two splits], or a cross [at a corner]) and selecting `Vertical Split` or `Horizontal Split`. After selecting a split type, the cursor will change and you'll be able to choose the size of the split.
 - You can split from the right or left by moving your cursor to one of the corners until you see a `+` shaped cursor, and drag the split out.
 
 ### Joining
