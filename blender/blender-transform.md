@@ -12,11 +12,11 @@ When the mode menu is visible, use these shortcuts to change modes.
 
 The following can also just be hit directly to immediately start doing the corresponding action:
 
-- `g`: Move ("grab")
-- `r`: Tilt
-    - `r r`: Rotate
-- `s`: Scale
-- `b`: Select
+- `G`: Move ("grab")
+- `R`: Tilt
+    - `R R`: Rotate
+- `S`: Scale
+- `B`: Select
 
 ## Meshes
 

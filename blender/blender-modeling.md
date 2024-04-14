@@ -1,4 +1,4 @@
-# Blender Scaling
+# Blender Modeling
 
 - By default, if you create a cube, it's origin will be the center of the object. This means if you scale an object, it will it's size in all directions.
 - The easiest way to scale an object in one direction (e.g., to have a cube sit on a plane and continue to sit on that plane when scaled) is to put the object in an `empty` (e.g., null object), and then move the object up within the `empty`. When the `empty` is then scaled, the object will continue to sit on the plane.
