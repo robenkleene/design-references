@@ -2,6 +2,10 @@
 
 Choose Redshift as the renderer with `Render Settings > Redshift`.
 
+## Transparency
+
+To render with transparency, just toggle on `Render Settings > Redshift > Save > Alpha Channel`
+
 ## IPR
 
 Redshift calls it's IPR view `RenderView`.
