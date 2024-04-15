@@ -34,3 +34,14 @@ The `Default Light` editor shows a sphere, dragging the sphere changes the angle
 - `Object > Environment > Background`: Toggle on and off the background
 - `Object > General > Saturation`: Use to make the light less colorful
 - `Object > General > Gamma`: Reduce to make the light less harsh
+
+### Area Light
+
+#### Back Light
+
+Can be made into a nice back light to provide a halo-like glow.
+
+- `Object > Spread: 0.7`
+- `Object > Size: 0.3`
+- `Object > Intensity: 30`
+- Switch to top view and drag it behind the object to light
