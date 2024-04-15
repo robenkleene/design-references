@@ -21,3 +21,15 @@ The `Default Light` editor shows a sphere, dragging the sphere changes the angle
 
 - To add an HDRI image to a light, set it at `Attributes > Object > General > Texture`
 - Cinema 4D has HDRI images in the `Asset Browser`
+
+## Light Types
+
+### RS Dome Light
+
+- This light starts really bright, a good first step for it is to lower the `Object > General > Intensity: 0.084`
+
+#### HDRI
+
+- `Object > General > Texture > Image` is where an HDRI can be loaded (there are some in the `Asset Browser`)
+- `Object > Environment > Background`: Toggle on and off the background
+- `Object > General > Saturation`: Use to make the light less colorful`
