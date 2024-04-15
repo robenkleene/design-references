@@ -26,7 +26,7 @@ The `Default Light` editor shows a sphere, dragging the sphere changes the angle
 
 ### RS Dome Light
 
-- This light starts really bright, a good first step for it is to lower the `Object > General > Intensity: 0.084`
+- This light starts really bright, a good first step for it is to lower the `Object > General > Intensity`
 
 #### HDRI
 
@@ -37,11 +37,4 @@ The `Default Light` editor shows a sphere, dragging the sphere changes the angle
 
 ### Area Light
 
-#### Back Light
-
-Can be made into a nice back light to provide a halo-like glow.
-
-- `Object > Spread: 0.7`
-- `Object > Size: 0.3`
-- `Object > Intensity: 30`
-- Switch to top view and drag it behind the object to light
+- Can be made into a nice back light to provide a halo-like glow (switch to top view and drag it behind the object to light)
