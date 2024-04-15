@@ -6,6 +6,8 @@ Three point lighting system uses three lights:
 2. `RS Area Light`: Back light subject
 3. `RS Spot Light`: Accentuate subject from the front
 
+- Also remember to add a `Backdrop` object behind the subject
+
 ## RS Dome Light
 
 1. Lower the intensity `Object > General > Intensity: 0.084`
@@ -37,6 +39,7 @@ Highlights the object from the front.
 
 1. Manually move the camera in front and offset from the object (it looks more interesting if it's not straight on)
 2. Add the `Animation Tags > Target` tag to the `RS Spotlight`, and drag the subject to the `Target > Tag > Tag Properties > Target Object`, this will point the spotlight at the cube
+3. Prevent the `RS Spotlight` from casting light on the `Backdrop` by dragging the `Backdrop` under `RS Spotlight > Project > Objects` (`RS Spotlight > Project > Mode: Exclude` should already be set)
 
 ### Settings
 
