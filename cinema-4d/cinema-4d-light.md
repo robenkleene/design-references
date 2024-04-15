@@ -32,4 +32,5 @@ The `Default Light` editor shows a sphere, dragging the sphere changes the angle
 
 - `Object > General > Texture > Image` is where an HDRI can be loaded (there are some in the `Asset Browser`)
 - `Object > Environment > Background`: Toggle on and off the background
-- `Object > General > Saturation`: Use to make the light less colorful`
+- `Object > General > Saturation`: Use to make the light less colorful
+- `Object > General > Gamma`: Reduce to make the light less harsh
