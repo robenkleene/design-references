@@ -32,3 +32,8 @@ Used as a back light.
 - `Object > Intensity: 30`
 
 ### RS Spotlight
+
+Highlights the object from the front.
+
+1. Manually move the camera in front and offset from the object (it looks more interesting if it's not straight on)
+2. Add the `Animation Tags > Target` tag to the `RS Spotlight`, and drag the subject to the `Target > Tag > Tag Properties > Target Object`, this will point the spotlight at the cube
