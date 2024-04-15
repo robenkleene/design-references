@@ -8,22 +8,27 @@ Three point lighting system uses three lights:
 
 ## RS Dome Light
 
-- This light starts really bright, a good first step for it is to lower the `Object > General > Intensity: 0.084`
+1. Lower the intensity `Object > General > Intensity: 0.084`
 
 ### HDRI
+
+Add an HDRI.
 
 1. Load an HDRI under `Object > General > Texture > Image` (there are some in the `Asset Browser`)
 2. Toggle off the background `Object > Environment > Background`
 3. Reduce the saturation to remove any color from the HDRI `Object > General > Saturation`
 4. Reduce the gamma to make the light less harsh `Object > General > Gamma`
 
-## Area Light
+## RS Area Light
 
-### Back Light
+Used as a back light.
 
-Can be made into a nice back light to provide a halo-like glow.
+1. Switch to top view and drag it behind the object to light
+
+### Settings
 
 - `Object > Spread: 0.7`
 - `Object > Size: 0.3`
 - `Object > Intensity: 30`
-- Switch to top view and drag it behind the object to light
+
+### RS Spotlight
