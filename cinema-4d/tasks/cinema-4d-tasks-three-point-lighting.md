@@ -10,7 +10,8 @@ Three point lighting system uses three lights:
 
 ## RS Dome Light
 
-1. Lower the intensity `Object > General > Intensity: 0.084`
+1. Position the Dome Light below the subject
+2. Lower the exposure `Object > General > Exposure`
 
 ### HDRI
 
@@ -29,9 +30,9 @@ Used as a back light.
 
 ### Settings
 
-- `Object > Spread: 0.7`
-- `Object > Size: 27cm 27cm`
-- `Object > Intensity: 30`
+- `Object > Spread`
+- `Object > Size`
+- `Object > Exposure`
 
 ## RS Spotlight
 

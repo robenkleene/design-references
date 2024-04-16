@@ -4,7 +4,7 @@
 
 By default, Cinema 4D adds a light to the scene called `Auto Light`, it automatically gets disabled when you add a light to the scene.
 
-You can edit the default light by choosing `Default Light...` from the `Command Palette` (`⇧C`).
+You can edit the default light by choosing `Default Light...` from the `Commander...` (`⇧C`).
 
 ### Default Light Editor
 
