@@ -4,7 +4,7 @@
 
 - `E`: Move
 - `R`: Rotate
-- `T`: Scale
+- `T`: Scale (if an object is scaling in all dimensions [instead of one dimension], switch from model mode to object mode [icon next to `Points`, `Edges`, `Vertices`)
 
 ## More
 
