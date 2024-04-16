@@ -30,7 +30,7 @@ Used as a back light.
 ### Settings
 
 - `Object > Spread: 0.7`
-- `Object > Size: 0.3`
+- `Object > Size: 27cm 27cm`
 - `Object > Intensity: 30`
 
 ## RS Spotlight
