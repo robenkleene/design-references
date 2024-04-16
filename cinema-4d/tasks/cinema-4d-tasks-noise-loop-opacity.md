@@ -5,6 +5,10 @@
 3. Connect the `Maxon Noise > outColor` output to `RS Standard > Opacity` input
 4. Set the `Speed` and `Loop Period` to loop the noise
 
+## Preview
+
+Once the opacity setting is setup, the IPR will be slow, so it's good to get the noise, speed, and loop period settings right by projecting the noise on onto the object as a color for the material to test those values before switching it to opacity.
+
 ## Settings
 
 - `Speed: 1`
@@ -15,4 +19,5 @@
 
 ## Other Settings
 
-- `General > Type`
+- `General > Type`: `Luka`, `Naki`, `Nutous`, `Ober`, `Pezo`, `Stupl`, `Vornoi 2`, `Fire`, `Electric`, `Gaseous`, `Ridged Multi Fractal`
+
