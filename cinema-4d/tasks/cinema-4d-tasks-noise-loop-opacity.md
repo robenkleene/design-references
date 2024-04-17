@@ -13,7 +13,7 @@ Once the opacity setting is setup, the IPR will be slow, so it's good to get the
 
 - `Speed: 1`
 - `Loop Period: 4`
-- `Input > Overall Scale: 700`
+- `Input > Overall Scale: 1000`
 - `Output > Brightness: -0.1`
 - `Output > Contrast: 0.8`
 
