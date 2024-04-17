@@ -17,9 +17,6 @@ from typing import Optional
 import c4d
 from subprocess import call
 
-doc: c4d.documents.BaseDocument  # The active document
-op: Optional[c4d.BaseObject]  # The active object, None if unselected
-
 def main() -> None:
     filepath = doc.GetDocumentPath()
 
@@ -28,12 +25,27 @@ def main() -> None:
     else:
         c4d.gui.MessageDialog("Project file has not been saved.")
 
-"""
-def state():
-    # Defines the state of the command in a menu. Similar to CommandData.GetState.
-    return c4d.CMD_ENABLED
-"""
-
 if __name__ == '__main__':
+    main()
+```
+
+### Open Bug Reports
+
+To get recovery projects.
+
+``` python
+import c4d
+import os
+
+def main():
+    prefs_path = c4d.storage.GeGetC4DPath(c4d.C4D_PATH_PREFS)
+    parent_path = os.path.dirname(prefs_path)
+    bug_reports_path = os.path.join(parent_path, "_bugreports")
+    if os.path.exists(bug_reports_path):
+        os.system(f"open '{bug_reports_path}'")
+    else:
+        c4d.gui.MessageDialog("Bugreports folder does not exist.")
+
+if __name__=='__main__':
     main()
 ```
