@@ -1,6 +1,6 @@
 # Cinema 4D Viewport
 
-- `PgUp`: Toggle active view (toggle the four direction panels)
+- `PgUp`: Toggle active view (toggle the four direction panels, note the viewport needs to be focused)
 - `⇧V`: Toggle view settings
 - On each viewport you can choose between `Top`, `Bottom`, `Perspective`, etc... under `Cameras`.
 
