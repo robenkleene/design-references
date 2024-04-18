@@ -26,8 +26,8 @@
 
 ## Trim the Composition to a Layer
 
-1. With the layer selected, hit `I` to go to the start of the layer, then hit `N` to make the composition end at that layer.
-2. If you need to use the start as well, go to the beginning of the layer with `O`, then hit `B` to hit the start of the work area
+1. With the layer selected, hit `O` to go to the end of the layer, then hit `N` to make the composition end at that layer.
+2. If you need to use the start as well, go to the beginning of the layer with `I`, then hit `B` to hit the start of the work area
 3. Hit `⇧⌘X` to trim the composition to the work area
 
 ## Work Area
