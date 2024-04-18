@@ -2,6 +2,7 @@
 
 - `^F` / `^G`: Go to previous / next keyframe
 - `F9` / `Record Active Objects`: Make the active keyframe changes the setting for the current keyframe (e.g., click the yellow diamond indicator to make it red) (note this activates keyframes for all position, scale, and rotation properties)
+- Add a keyframe by clicking the diamond next to the attribute
 
 ## Key
 
