@@ -15,6 +15,7 @@
 ### Adding Assets
 
 - To add assets to a database, just drag the assets to the `Databases` panel (you'll be prompted for which database to add them to, and for setting metadata)
+- After dragging the asset to the database, it seems to also require right-clicking it and choosing `Copy to Database...` to actually save the material to the database
 
 ### Searching
 
