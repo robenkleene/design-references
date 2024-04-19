@@ -4,6 +4,10 @@
 - When hovering, Redshift assets will have a Redshift icon over them
 - You can also search for `redshift` to assets of that type
 
+## Saving Projects With Assets
+
+
+
 ## Databases
 
 - Databases are managed from the `Database` panel opened by clicking the icon in the upper right above the `Asset Browser`
