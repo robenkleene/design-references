@@ -5,6 +5,12 @@ The `Redshift Shader Graph` is an older way of creating Redshift materials that 
 - Hold `1`, and one finger click and drag to pan
 - There are two ways to add nodes, either by right-clicking or by dragging from the sidebar. These two places seem to have different nodes available as well.
 
-## Color
+## Sidebar Nodes
 
-- The sidebar `Color > Color Correct` node allows changing the hue, saturation, and contrast
+### Color
+
+- `Color Correct`: Allows changing the hue, saturation, and contrast
+
+### Texture
+
+- `Ramp`: Ramp
