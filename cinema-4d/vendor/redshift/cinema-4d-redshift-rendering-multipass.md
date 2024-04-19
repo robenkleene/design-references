@@ -15,6 +15,7 @@
 
 - If the passes are rendered in Photoshop, open the file in Photoshop and compare the visibility of all the passes versus the beauty pass, they should look identical
 - If you have a `Shadows` pass, disable that when comparing to the beauty pass. That's because the `Shadows` pass is meant to be used as a mask instead of a layer in additive mode (like the other passes). To setup the shadows pass as a mask, make a new `Levels` adjustment layer, click the shadows layer and use the marquee tool to select and copy the entire canvas. `⌥`-click the mask thumbnail next to the adjustment layer in the `Layers` palette and paste in the contents of the shadows layer. Now the `Levels` adjustment layer will only affect the shadows.
+- The AOV passes ending in `Filter` (e.g., `Diffuse Filter` and `Refractions Filter` are used to affect those original layers (e.g., multiply `Diffuse Filter` by `Diffuse Lighting`, then apply color correction or transparency to the filter layer)
 
 ### AOV
 
