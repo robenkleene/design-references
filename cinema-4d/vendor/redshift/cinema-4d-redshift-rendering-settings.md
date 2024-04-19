@@ -14,10 +14,6 @@ To render with transparency, just toggle on `Render Settings > Redshift > Save >
 
 ## Fast Preview Render
 
-### Creating & Selecting
-
-- To make a separate set of rendering settings for fast previews, under `Rendering Settings` (`⌘B`), select the current render settings in the bottom pane click `Render Settings...` and choose `New` (or use copy [`⌘C`] and paste [`⌘V`] to duplicate an existing setting, both options duplicate the current render settings)
-
 ### Settings
 
 1. Under `Redshift > Redshift > Basic`, set `Bucket Quality > Threshold: 1`, `Progressive Passes: 1` (this will greatly reduce detail, so might need to be adjusted manually with the IPR visible), `Global Illumination: Off`

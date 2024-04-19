@@ -6,7 +6,9 @@
 
 ## Saving Projects With Assets
 
+When using Asset Database assets, some assets are referenced in the asset database directly, which means the project is no longer self-contained (e.g., so it can't be rendered by a render farm).
 
+To resolve this, choose `File > Save Project with Assets...`, this will prompt 
 
 ## Databases
 
