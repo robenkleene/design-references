@@ -7,3 +7,4 @@
 - `⌘⇧[` / `⌘⇧]`: Send layer to back / front
 - `⌥[` / `⌥]`: Select next / previous layer
 - `⌫`: Delete a layer
+- `⌥`-click eye icon: Toggle on this layer and off all other layers
