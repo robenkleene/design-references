@@ -17,6 +17,16 @@
 - New scripts in the user scripts folder (`~/Library/Preferences/Maxon/<Cinema 4D Version>/library/scripts/`) won't be detected until restart
 - To load new scripts without restarting, use either `Open Script...` or `Import Script...` (it's unclear if there's a difference between these commands for this use case)
 
+## Snippets
+
+Print all attributes on the `c4d` object:
+
+``` python
+attributes = dir(c4d)
+for attr in attributes:
+	print(attr)
+```
+
 ## Examples
 
 ### Reveal in Finder
