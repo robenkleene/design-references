@@ -1,6 +1,7 @@
 # Cinema 4D Redshift Rendering Settings
 
 - To choose which render settings to use, under `Render Settings` toggle on the checkbox icon to the left of the render setting
+- Settings set in `Render Settings > Redshift > Advanced` mode still apply when `Basic` mode is selected
 
 ## Transparency
 
