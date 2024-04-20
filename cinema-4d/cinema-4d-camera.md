@@ -29,3 +29,9 @@
 
 1. `Commander > Reset Transform (Reset PSR, Reset PSR)`
 2. Only set the `P.Z` to position the camera
+
+## Settings
+
+### Optical
+
+- `Exposure Type`: `EV Only` (the default) stands for "Exposure Value Only", `Filmic` simulates real cameras more closely. `EV Only` offers more technical control, `Filmic` offers artistic benefits.
