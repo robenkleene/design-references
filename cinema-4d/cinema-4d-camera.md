@@ -30,8 +30,6 @@
 1. `Commander > Reset Transform (Reset PSR, Reset PSR)`
 2. Only set the `P.Z` to position the camera
 
-## Settings
+## Lens Effects
 
-### Optical
-
-- `Exposure Type`: `EV Only` (the default) stands for "Exposure Value Only", `Filmic` simulates real cameras more closely. `EV Only` offers more technical control, `Filmic` offers artistic benefits.
+By default, these are controlled under `RS RenderView > Settings`, but can be enabled per camera instead here.
