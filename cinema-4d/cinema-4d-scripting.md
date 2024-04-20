@@ -8,6 +8,10 @@
 - `⇧F11`: Open the `Script Manager` (a relatively fast way to run scripts)
 - Scripts can be added to `Palettes` to make them easier to run.
 
+### Console Output
+
+- `Extensions > Console`: Show the console where Python scripts `print` to
+
 ## Importing Scripts
 
 - New scripts in the user scripts folder (`~/Library/Preferences/Maxon/<Cinema 4D Version>/library/scripts/`) won't be detected until restart
