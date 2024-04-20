@@ -8,6 +8,11 @@
 - `⇧F11`: Open the `Script Manager` (a relatively fast way to run scripts)
 - Scripts can be added to `Palettes` to make them easier to run.
 
+## Importing Scripts
+
+- New scripts in the user scripts folder (`~/Library/Preferences/Maxon/<Cinema 4D Version>/library/scripts/`) won't be detected until restart
+- To load new scripts without restarting, use either `Open Script...` or `Import Script...` (it's unclear if there's a difference between these commands for this use case)
+
 ## Examples
 
 ### Reveal in Finder
