@@ -1,4 +1,4 @@
-# Cinema 4D Multi Pass
+# Cinema 4D Multipass
 
 ## Adding
 
