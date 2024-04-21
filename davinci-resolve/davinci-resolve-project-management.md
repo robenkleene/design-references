@@ -2,6 +2,7 @@
 
 - To close a project, click the home button in the lower right to bring up the project picker, then right-click the project in the picker and choose `Close`
 - Closed projects can be deleted on the right click menu
+- Right-click to rename a project, you can't rename the `Untitled Project`
 
 ## Notes
 
