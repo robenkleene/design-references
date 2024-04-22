@@ -1,5 +1,6 @@
 # Premiere Pro Export
 
+- `⌘M` / `File > Export > Media...`
 - Clip lengths are automatic, e.g., the export will be until the media ends
 
 ## Quick Export

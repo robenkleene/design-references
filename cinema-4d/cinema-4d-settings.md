@@ -1,5 +1,9 @@
 # Cinema 4D Settings
 
+## General
+
+## Units
+
 - `Units > Hexadecimal`: Enable hexadecimal in the color picker (doesn't seem to show up in the color picker itself, but if there's a disclosure triangle around the color property, look for the `#` to see the hexadecimal value)
 
 ## Cinema 4D Light
