@@ -1,6 +1,8 @@
 # Cinema 4D Settings
 
-## General
+## Interface
+
+- Toggle off `Interface > Show Mac Menu Bar` to instead show the menu bar in the Cinema 4D window (the Cinema 4D menu bar is so long that macOS ends up distorting the fonts to fit it in, and all the menu bar items on the right are inaccessible)
 
 ## Units
 
