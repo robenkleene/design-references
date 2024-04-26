@@ -17,6 +17,10 @@
 - New scripts in the user scripts folder (`~/Library/Preferences/Maxon/<Cinema 4D Version>/library/scripts/`) won't be detected until restart
 - To load new scripts without restarting, use either `Open Script...` or `Import Script...` (it's unclear if there's a difference between these commands for this use case)
 
+## Renaming Scripts
+
+- There doesn't appear to be a way to do this easily in the UI, the best method is to rename them on the file system, then in the `Script Manager` select the script with the old name, and decline the dialog to re-save it. The script can then be opened or imported with the new name.
+
 ## Snippets
 
 Print all attributes on the `c4d` object:
