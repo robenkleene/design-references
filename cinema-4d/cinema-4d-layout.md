@@ -2,6 +2,11 @@
 
 - A `Layout` is a collection of `Palettes`
 
+## Layout
+
+- A new `Layout` can be created by choosing the three dots in the upper right of the window and choosing `Save Layout as...`
+- User layouts are shown to the right of the built in layouts across the top of the window
+
 ## Palettes
 
 ### Creating
