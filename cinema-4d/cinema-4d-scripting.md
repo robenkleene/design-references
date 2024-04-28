@@ -1,5 +1,6 @@
 # Cinema 4D Scripting
 
+- Use the `Script` layout to edit scripts, which sets up the `Script Manager` and `Console`
 - Scripts are added in `Extensions > Script Manager...`
 
 ## Running Scripts
