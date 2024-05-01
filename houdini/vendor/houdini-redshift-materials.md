@@ -6,4 +6,4 @@
 ## `RS Material` vs. `RS Material Builder`
 
 - `RS Material`: Simple pre-built shader that can be quickly configured
-- `RS Material Builder`: Complex, Build materials using a node network
+- `RS Material Builder`: Build materials using a node network
