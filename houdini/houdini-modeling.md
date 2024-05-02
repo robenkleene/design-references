@@ -1,5 +1,7 @@
 # Houdini Transform
 
+- Drag the center of a manipulator to scale in all three directions at once
+
 ## Manipulators
 
 - `T`: Move
