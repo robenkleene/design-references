@@ -30,4 +30,5 @@ Three point lighting system uses three lights:
 1. Add a `RSLight`
 2. Set `rslight2 > Light > Light Type: Spot`
 3. Position the light in front of the subject, offset to one side
-2. Lower `rslight1 > Light > Exposure`
+4. Set `rslight2 > Transform > Lookat Options > Look At` to the subject (to point the spot light at the subject)
+5. Lower `rslight2 > Light > Exposure`
