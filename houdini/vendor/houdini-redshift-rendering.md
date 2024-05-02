@@ -1,6 +1,6 @@
 # Houdini Redshift Rendering
 
-- `Redshift > ViewportIPR`: Start an IPR render view in the viewport
+- In the shelf, choose `Redshift > ViewportIPR` to start an IPR render view in the viewport
 - Add the `Redshift` shelve if it's missing by clicking the `+` icon to the right of the list of shelves
 
 ## Render View
@@ -13,5 +13,5 @@
 
 ### Side-by-Side
 
-- To put the `RenderView` in a tab pane spilt, click the disclosure arrow to the upper right of any pane and choose `Split Pane Left/Right` (or `Top/Bottom`), then choose right click the pane tab title and choose `Redshift RenderView`
+- To put the `RenderView` in a tab pane spilt, click the disclosure arrow to the upper right of any pane and choose `Split Pane Left/Right` (`⌥[`), or `Top/Bottom` (`⌥]`), then choose right click the pane tab title and choose `Redshift RenderView`
 
