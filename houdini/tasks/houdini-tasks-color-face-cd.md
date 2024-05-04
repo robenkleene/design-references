@@ -18,3 +18,7 @@ else if (@primnum == 3) @Cd = {1, 1, 0};  // Yellow
 else if (@primnum == 4) @Cd = {1, 0, 1};  // Magenta
 else @Cd = {0, 1, 1};  // Cyan
 ```
+
+## Redshift
+
+The `Cd` color can then be used in Redshift by adding a `RS Color User Data` node, it should be set to pickup the `Cd` `Attribute name` by default.
