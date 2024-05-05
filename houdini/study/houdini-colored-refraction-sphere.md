@@ -18,7 +18,7 @@
 2. Add a `RS Material Builder` for the cube
 3. In the cube material, delete the `RS Standard` and replace it with an `RS Material`
 4. Add a `RS User Data Color` and attach it's output to the `Refraction Color` input
-5. Under `Material1`, set `Diffuse > Weight: 0` and `Refraction/Transmission > Weight: 1`
+5. Under `Material1`, set `Diffuse > Weight: 0` (so the cube is clear) and `Refraction/Transmission > Weight: 1` (so the cube refracts light) `Reflection > Weight: 0` (so the cube doesn't have light artifacts from the lights)
 
 ## `/obj`
 
