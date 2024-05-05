@@ -14,7 +14,7 @@
 
 ## `/mat`
 
-1. Add a simple material for the sphere and assign it to it
+1. Add a simple material for the sphere (e.g., `Maxon Noise` with `General > Type: Stupl` and `Input > Overall Scale: 7`)
 2. Add a `RS Material Builder` for the cube
 3. In the cube material, delete the `RS Standard` and replace it with an `RS Material`
 4. Add a `RS User Data Color` and attach it's output to the `Refraction Color` input
@@ -24,4 +24,3 @@
 
 1. Add three area lights around the objects
 2. In the toolbar, add `Constraints > Look At` constraints to the three lights so they look at the cube
-3. Adjust the intensity of the lights
