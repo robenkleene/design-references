@@ -14,3 +14,4 @@
 ## Lighting
 
 1. Add three `Area Light`, each pointing at the subject from a different direction, use `Animation Tags > Target` to point them at the subject
+2. For each `Area Light`, under `Details > Contribution`, set `Reflection: 0` and `Transmission: 0` (to prevent reflections from the lights from appearing on the surface of the cube)
