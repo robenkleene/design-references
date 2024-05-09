@@ -32,6 +32,6 @@ Get an object by name:
 ``` python
 import bpy
 
-obj = bpy.context.active_object
+obj = bpy.data.objects.get("Cylinder")
 print("obj", obj)
 ```
