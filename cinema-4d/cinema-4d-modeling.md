@@ -3,7 +3,7 @@
 ## Basic
 
 - `E`: Move
-- `R`: Rotate
+- `R`: Rotate (hold `⌥` and click the canvas to free-form rotate)
 - `T`: Scale (if an object is scaling in all dimensions [instead of one dimension], switch from model mode to object mode [icon next to `Points`, `Edges`, `Vertices`)
 
 ## More
