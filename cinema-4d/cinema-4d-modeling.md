@@ -3,7 +3,7 @@
 ## Basic
 
 - `E`: Move
-- `R`: Rotate
+- `R`: Rotate (while the rotate tool is active, the arrow keys can be used to rotate the object (`↑` / `↓` control `P`, `←` / `→` control `H`, and holding `⇧` controls `B` along either axis)
 - `T`: Scale (if an object is scaling in all dimensions [instead of one dimension], switch from model mode to object mode [icon next to `Points`, `Edges`, `Vertices`)
 
 ## More
