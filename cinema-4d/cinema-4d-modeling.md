@@ -3,8 +3,13 @@
 ## Basic
 
 - `E`: Move
-- `R`: Rotate (while the rotate tool is active, the arrow keys can be used to rotate the object (`↑` / `↓` control `P`, `←` / `→` control `H`, and holding `⇧` controls `B` along either axis)
+- `R`: Rotate
 - `T`: Scale (if an object is scaling in all dimensions [instead of one dimension], switch from model mode to object mode [icon next to `Points`, `Edges`, `Vertices`)
+
+## Rotate
+
+- While the rotate tool is active, the arrow keys can be used to rotate the object (`↑` / `↓` control `P`, `←` / `→` control `H`, and holding `⇧` controls `B` along either axis)
+- With the mouse, click the canvas to rotate perpendicular to the viewport, and click *inside the black sphere* to free-form rotate
 
 ## More
 
