@@ -25,8 +25,15 @@ When the `Automatic Keyframing` icon is enabled (below the viewport, looks like 
 - `Window > Timeline (Dope Sheet)...` is a good way to edit all the keyframes at once
 - In the `Timeline` window if the frame range doesn't match your project frame range, set `Frame > Frame Range...` in that menu
 - To switch between `Dope Sheet` and `F-Curve` under the `View` menu
+
+## Timeline (F-Curve)
+
+Edit keyframes in a graph.
+
 - To add a point to a spline, `⌘` click *anywhere on an existing spline*
-- To zoom horizontally, hold `⇧` while zooming
+- To zoom horizontally, hold `⇧` while scrollingg
+- `S`: zoom to show all selected curves in the viewport (`⌘A` to select all first, to zoom to all curves)
+- To set the easing curve for a property, right-click the label for that property and select `Animation > Show F-Curve`
 
 ## Troubleshooting
 
