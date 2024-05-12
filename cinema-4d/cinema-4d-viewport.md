@@ -14,3 +14,7 @@ To switch between shading and wireframes.
 
 - `N A` / `Display > Gouraud Shading`: Gouraud Shading
 - `N G` / `Display > Lines`: Lines
+
+## Troubleshooting
+
+- If the little camera indicator at the top of the viewport is missing, that might be because the wrong panel is selected. Try choosing `Panel > View 1`.
