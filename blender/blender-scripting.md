@@ -23,6 +23,16 @@ Blender prints its console output to the system console. There's a couple of way
 
 ## Examples
 
+Delete the default cube:
+
+``` python
+import bpy
+
+if bpy.data.objects.get("Cube"):
+    bpy.data.objects["Cube"].select_set(True)
+    bpy.ops.object.delete()
+```
+
 Print the selected object:
 
 ``` python
