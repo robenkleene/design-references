@@ -70,3 +70,12 @@ bpy.ops.mesh.primitive_cube_add()
 cube = bpy.data.objects["Cube"]
 cube.matrix_world = matrix
 ```
+
+Reset an object back to default rotation, location, and scale
+
+```
+obj = bpy.context.active_object
+obj.rotation_euler = (0, 0, 0)
+obj.location = (0, 0, 0)
+obj.scale = (1, 1, 1)
+```
