@@ -2,6 +2,10 @@
 
 - To assign a material to an object, select that object, then go to the `Material` tab and click the world icon and choose the material
 
+## Delete Materials
+
+To delete materials from a `.blend` file (e.g., unused materials), in the sidebar, choose `Display Mode > Blender File`, then right-click and delete the material (to switch back, the default view mode is `View Layer`)
+
 ## Copying Materials
 
 To copy a material from one object to another.
