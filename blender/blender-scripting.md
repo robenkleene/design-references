@@ -10,7 +10,12 @@
 Blender prints its console output to the system console. There's a couple of ways to see the output:
 
 1. Blender from the terminal, then Blender will print to the terminal that it was launched from
-1. Run `bpy.data.texts[0].as_module()` from the `Python Console` in Blender (visible by default on the `Scripting` workspace) (this command assumes there's only a single script associated with the `.blend` file, if there's more `texts[0]` will have to be updated)
+2. Run `bpy.data.texts[0].as_module()` from the `Python Console` in Blender (visible by default on the `Scripting` workspace) (this command assumes there's only a single script associated with the `.blend` file, if there's more `texts[0]` will have to be updated)
+3. Here's a one-line to run `exec(compile(open(bpy.data.filepath[:-len(".blend")] + ".py").read(), bpy.data.filepath[:-len(".blend")] + ".py", 'exec'))` a script named the same name as the current Blender file
+
+## Python Console
+
+- `⇥`: Show autocomplete menu 
 
 ## Edit Externally
 
