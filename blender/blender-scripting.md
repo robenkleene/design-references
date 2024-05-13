@@ -50,3 +50,23 @@ import bpy
 obj = bpy.data.objects.get("Cylinder")
 print("obj", obj)
 ```
+
+Apply a transformation matrix:
+
+``` python
+import bpy
+from mathutils import Matrix
+
+matrix_rows = [[0.5, 0, 0.5, -0.5],
+               [0, 1, 0, 0],
+               [0.5, 0, 0.5,  0.5],
+               [0, 0, 0, 1]]
+matrix = Matrix(matrix_rows)
+if bpy.data.objects.get("Cube"):
+    bpy.data.objects["Cube"].select_set(True)
+    bpy.ops.object.delete()
+
+bpy.ops.mesh.primitive_cube_add()
+cube = bpy.data.objects["Cube"]
+cube.matrix_world = matrix
+```
