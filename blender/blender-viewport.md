@@ -8,6 +8,6 @@
 
 `Object Color` mode is a quick way to give objects in the viewport colors without having to assign them materials.
 
-To enable object color mode, switch to `Viewport Shading: Solid` (`Z 6` while hovering the viewport).
+To enable object color mode, switch to `Viewport Shading: Solid` (`Z 6` while hovering the viewport). Then open the disclosure arrow next to `Viewport Shading` and choose `Color: Object` (this option won't be available in other `Viewport Shading` modes).
 
 To assign a color to an object, select it, then set `Object > Viewport Display > Color`.
