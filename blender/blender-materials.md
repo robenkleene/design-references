@@ -1,5 +1,7 @@
 # Blender Materials
 
+- To assign a material to an object, select that object, then go to the `Material` tab and click the world icon and choose the material
+
 ## Copying Materials
 
 To copy a material from one object to another.
