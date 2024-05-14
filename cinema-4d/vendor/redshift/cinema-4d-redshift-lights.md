@@ -14,6 +14,8 @@ If `Redshift` is selected as the renderer in `Render Settings`, then all the lig
 2. Click the blue square on `RS Dome Light` to add an input for `General > Tex 0`
 3. Select the `C4D Shader` and set `Node Properties > Shader > Gradient`
 
+## HDRI
+
 ## Troubleshooting
 
 - Redshift is really dark by default, just adding an `RS Area Light` usually resolves this
