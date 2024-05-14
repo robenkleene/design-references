@@ -16,6 +16,8 @@ If `Redshift` is selected as the renderer in `Render Settings`, then all the lig
 
 ## HDRI
 
+- `Object > General > Texture > Image > Path` (Drag an HDRI asset to the path, the `Asset Browser` has HDRIs)
+
 ## Troubleshooting
 
 - Redshift is really dark by default, just adding an `RS Area Light` usually resolves this
