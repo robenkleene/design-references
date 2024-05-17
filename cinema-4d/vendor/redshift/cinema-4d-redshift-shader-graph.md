@@ -9,7 +9,8 @@ The `Redshift Shader Graph` is a way of creating Redshift materials that was rep
 
 ## Creating
 
-- If preference `Preferences > Renderer > Redshift > General > Node Materials for Presets` is turned on the `Node Editor` is used (it's turned on by default)
+- If preference `Preferences > Renderer > Redshift > General > Node Materials for Presets` is turned on the `Node Editor` is used by default (it's turned on by default)
+- There's also an option `Material > Material Manager > Default Material`, to use the `Redshift Shader Graph`, this should be set to `RS Shader Graph`
 
 ## Sidebar Nodes
 
