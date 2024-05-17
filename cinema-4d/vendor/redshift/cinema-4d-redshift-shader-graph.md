@@ -7,6 +7,10 @@ The `Redshift Shader Graph` is a way of creating Redshift materials that was rep
 - To connect an output to an input that isn't visible, drag from the output to the blue square to the right of a node title (the wire should change color to green). A menu will pop-up where any input can be chosen.
 - There are two ways to add nodes, either by right-clicking or by dragging from the sidebar. These two places seem to have different nodes available as well.
 
+## Creating
+
+- If preference `Preferences > Renderer > Redshift > General > Node Materials for Presets` is turned on the `Node Editor` is used (it's turned on by default)
+
 ## Sidebar Nodes
 
 ### Color
