@@ -1,6 +1,6 @@
 # Cinema 4D Redshift Shader Graph
 
-The `Redshift Shader Graph` is an older way of creating Redshift materials that was replaced by the `Node Editor`.
+The `Redshift Shader Graph` is a way of creating Redshift materials that was replaced by the `Node Editor`. `Redshift Shader Graph` was created by Redshift and the `Node Editor` was created by Maxon.
 
 - **Pan**: Hold `1`
 - Click a wire to delete it
