@@ -7,3 +7,7 @@
 
 - `RS Material`: Simple pre-built shader that can be quickly configured
 - `RS Material Builder`: Build materials using a node network
+
+## Troubleshooting
+
+- A glass cube in rendered with Redshift in Houdini looks very strange, with a weird banded gradient, until it goes through a `PolyBevel` node
