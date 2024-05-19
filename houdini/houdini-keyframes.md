@@ -1,6 +1,7 @@
 # Houdini Keyframes
 
 - `⌥`-click a parameter to add a keyframe
+- Click the label (e.g., `Rotate`) to switch between showing the interpolation method and the actual value
 
 ## Animation Editor
 
@@ -35,3 +36,7 @@ The background color of a parameter tells it's keyframe state.
 These can be used when setting properties to the results of expressions.
 
 - `$F`: Current frame number
+
+## Troubleshooting
+
+- If the parameter field is saying the interpolation method instead of the actual value, click the label (e.g., `Rotate`) to switch to showing the value
