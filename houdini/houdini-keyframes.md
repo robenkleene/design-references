@@ -29,3 +29,9 @@ The background color of a parameter tells it's keyframe state.
 ## Notes
 
 - To start playback from a frame in the future, just bring up the `Global Animation Options...` (`⇧⌥G`) and set the starting key frame to one in the future
+
+## Global Variables
+
+These can be used when setting properties to the results of expressions.
+
+- `$F`: Current frame number
