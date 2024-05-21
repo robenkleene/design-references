@@ -13,3 +13,4 @@
 - `U Q`, `Outline Selection`: Select the edges that outline the selected polygon (automatically switches to `Edges` mode)
 - `U F`, `Fill Selection`: Creates a polygon selection from an edge selection (automatically switches to `Polygon` mode)
 - `U M`, `Path Selection`: Select edges or points by clicking on points (only work in `Edges` or `Points` mode)
+- `U N`, `Phong Break Selection`: Select phong edge breaks and polygons
