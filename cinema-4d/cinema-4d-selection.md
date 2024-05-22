@@ -16,3 +16,7 @@
 - `U F`, `Fill Selection`: Creates a polygon selection from an edge selection (automatically switches to `Polygon` mode)
 - `U M`, `Path Selection`: Select edges or points by clicking on points (only work in `Edges` or `Points` mode)
 - `U N`, `Phong Break Selection`: Select phong edge breaks and polygons
+
+## Selection Tags
+
+- To update a selection, load it by double-clicking the selection, then add to the selection by holding `⇧`, then click the `Attributes > Update` button
