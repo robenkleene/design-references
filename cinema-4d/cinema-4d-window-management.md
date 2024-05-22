@@ -1,8 +1,9 @@
 # Cinema 4D Window Management
 
 - Drag the hamburger button to move a panel
-- `⌘`-click the tab (or hamburger button) on a panel to fold it
-- `⌥`-click the tab (or hamburger button) on a panel to maximize it (e.g., fold others)
+- `⌘`-click anywhere in panel title bar to collapse it
+- `⌥`-click anywhere in panel title bar to collapse it
+- A collapsed panel leaves a blank bar, clicking that expands the panel
 - Folded panels leave a thin bar, clicking that bar unfolds the panel
 - Right-click and choose `Undock` to undock a panel
 

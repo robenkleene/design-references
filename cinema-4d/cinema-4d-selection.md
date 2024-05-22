@@ -2,6 +2,8 @@
 
 - `⌃`-click to deselect
 - Some selection tools have options that can be set in the `Attribute Manager`
+- `⌘A`: Select All
+- `⇧⌘A`: Deselect All
 
 ## Selection Modes
 
