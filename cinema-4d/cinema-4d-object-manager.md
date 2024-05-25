@@ -1,9 +1,7 @@
 # Cinema 4D Object Manager
 
-- : , red means off, green means on. Hold `⌥` when clicking to change both dots at once
-
-
 - To duplicate an object, just use `⌘C` then `⌘V`
+- `⌥G`: Wrap current selection in a `null`
 - `S`: Scroll to first active in object manager
 - Objects colored purple will manipulate or distort objects or data
 - Deformers need to be children of object to deform
@@ -21,6 +19,7 @@ The two dots to the right of an object name change it's visibility.
 
 - **Top:** Workspace
 - **Bottom:** Renderer
+- Red means off, green means on, hold `⌥` when clicking to change both dots at once
 
 #### Dot Colors
 
