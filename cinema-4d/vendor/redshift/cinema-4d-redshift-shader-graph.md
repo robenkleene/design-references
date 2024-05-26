@@ -25,7 +25,3 @@ The `RS Shader Graph` is a way of creating Redshift materials that was replaced 
 ### Color
 
 - `Color Correct`: Allows changing the hue, saturation, and contrast
-
-### Texture
-
-- `Ramp`: Ramp
