@@ -3,6 +3,7 @@
 - `^F` / `^G`: Go to previous / next keyframe
 - `F9` / `Record Active Objects`: Make the active keyframe changes the setting for the current keyframe (e.g., click the yellow diamond indicator to make it red) (note this activates keyframes for all position, scale, and rotation properties)
 - To add a keyframe, go to the starting frame, set the starting value then clicking the diamond next to the attribute, then go to the ending frame, set the ending value, and click the diamond again (each time clicking the diamond will become filled in red)
+- `⌘F9`, "A" with a circle around it timeline icon: Toggle `Autokeying` (with `Autokeying` active, and parameter changes are automatically recorded as keyframe changes, i.e., without needing to click the diamond icon) (the viewport is outline in red when this option is active)
 
 ## Key
 
