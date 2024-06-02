@@ -1,6 +1,13 @@
 # DaVinci Resolve Effects
 
-- Click the effects tab along the top
+- Choose the `Effects` tab along the top
+- Apply an effect to a clip by dragging it onto the clip
+- The effect's setting are in the inspector on the right (choose `Inspector` in the toolbar, then choose the `Effects` tab)
+
+## Glossary
+
+- `Effects` are applied to footage
+- `Generators` get added to the timeline
 
 ## Grid
 
