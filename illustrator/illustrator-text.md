@@ -3,6 +3,7 @@
 - `⇧⌘<` / `⇧⌘>`: Decrease / increase font size
 - `⌘↩`: Stop editing a text field
 - `⌘T`: Show `Character` panel
+- `⇧⌘O`, `Type > Create Outlines`:
 
 ## Notes
 
