@@ -9,7 +9,7 @@
 ## Rotate
 
 - While the rotate tool is active, the arrow keys can be used to rotate the object (`↑` / `↓` control `P`, `←` / `→` control `H`, and holding `⇧` controls `B` along either axis)
-- With the mouse, click the canvas to rotate perpendicular to the viewport, and click *inside the black sphere* to free-form rotate
+- With the mouse, click the canvas to rotate perpendicular to the viewport, and click *inside the manipulator sphere* to free-form rotate
 
 ## More
 
