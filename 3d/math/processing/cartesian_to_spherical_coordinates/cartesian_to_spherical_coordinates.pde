@@ -1,16 +1,20 @@
-float r = 100;
-float theta = PI/4;
-float phi = PI/6;
+float r = 400;
+float theta = PI/2;
+float phi = 3 * PI/2;
 
 // Life Cycle
 
 void setup() {
   size(400, 400, P3D);
   noLoop();
-  background(255);
 }
 
 void draw() {
+  camera(800, -200, 0, 0, -200, 0, 0, 1, 0);
+  background(255);
+  drawGrid(800, 40);
+  drawAxes(400);
+
   translate(width/2, height/2);
   float[] cartesian = sphericalToCartesian(r, theta, phi);
   noStroke();
@@ -28,4 +32,24 @@ float[] sphericalToCartesian(float r, float theta, float phi) {
   float y = r * sin(theta) * sin(phi);
   float z = r * cos(theta);
   return new float[] {x, y, z};
+}
+
+void drawAxes(float length) {
+  stroke(255, 0, 0);
+  line(0, 0, 0, length, 0, 0);
+  stroke(0, 255, 0);
+  line(0, 0, 0, 0, -length, 0);
+  stroke(0, 0, 255);
+  line(0, 0, 0, 0, 0, length);
+}
+
+void drawGrid(float size, float step) {
+  stroke(150);
+  strokeWeight(1);
+  for (float z = -size/2; z <= size/2; z += step) {
+    line(-size/2, 0, z, size/2, 0, z);
+  }
+  for (float x = -size/2; x <= size/2; x += step) {
+    line(x, 0, -size/2, x, 0, size/2);
+  }
 }
