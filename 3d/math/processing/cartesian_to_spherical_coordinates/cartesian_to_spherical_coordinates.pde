@@ -2,6 +2,10 @@ float r = 400;
 float theta = PI/2;
 float phi = 3 * PI/2;
 
+float r2 = 300;
+float theta2 = PI/2;
+float phi2 = 3 * PI/2;
+
 // Life Cycle
 
 void setup() {
@@ -14,13 +18,21 @@ void draw() {
   background(255);
   drawGrid(800, 40);
   drawAxes(400);
-
   translate(width/2, height/2);
-  float[] cartesian = sphericalToCartesian(r, theta, phi);
+
   noStroke();
+  
   fill(255, 0, 0);
+  float[] cartesian = sphericalToCartesian(r, theta, phi);
   pushMatrix();
   translate(cartesian[0], cartesian[1], cartesian[2]);
+  sphere(5);
+  popMatrix();
+
+  fill(0, 255, 0);
+  float[] cartesian2 = sphericalToCartesian(r2, theta2, phi2);
+  pushMatrix();
+  translate(cartesian2[0], cartesian2[1], cartesian2[2]);
   sphere(5);
   popMatrix();
 }
