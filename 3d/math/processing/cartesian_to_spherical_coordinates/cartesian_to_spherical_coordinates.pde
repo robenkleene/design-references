@@ -1,10 +1,10 @@
 float r = 300;
-float theta = ; // 90 degrees
-float phi = 3 * PI/2; // 270 degrees
+float theta = degreesToRadians(90);
+float phi = degreesToRadians(270);
 
 float r2 = 100;
-float theta2 = PI/2;
-float phi2 = 3 * PI/2;
+float theta2 = degreesToRadians(90);
+float phi2 = degreesToRadians(270);
 
 // Life Cycle
 
