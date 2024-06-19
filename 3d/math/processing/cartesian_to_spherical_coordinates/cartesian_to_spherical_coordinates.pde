@@ -1,6 +1,6 @@
 float r = 300;
-float theta = PI/2;
-float phi = 3 * PI/2;
+float theta = ; // 90 degrees
+float phi = 3 * PI/2; // 270 degrees
 
 float r2 = 100;
 float theta2 = PI/2;
@@ -21,7 +21,6 @@ void draw() {
 
   noStroke();
 
-  
   fill(255, 0, 0);
   float[] cartesian = sphericalToCartesian(r, theta, phi);
   println("cartesian");
@@ -44,6 +43,10 @@ void draw() {
 }
 
 // Custom
+
+float degreesToRadians(float degrees) {
+  return degrees * (PI / 180);
+}
 
 float[] sphericalToCartesian(float r, float theta, float phi) {
   float x = r * sin(theta) * cos(phi);

@@ -4,7 +4,9 @@
 
 A radian is the angle subtended at the center of a circle by an arc that is equal in length to the radius.
 
-- $\frac{2 \pi r}{r}$ or $2 \pi$ rad is $360^\circ$
+- $2 \pi$ rad is $360^\circ$
+- $\pi$ rad is $180^\circ$
+- $\frac{\pi}{2}$ rad is $90^\circ$
 
 ### Explanation
 
