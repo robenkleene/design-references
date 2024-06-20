@@ -1,13 +1,3 @@
-// theta: Rotation along the X axis
-// phi: Rotation around the Z axis
-
-float r = 300;
-float theta = degreesToRadians(135);  
-float phi = degreesToRadians(270);
-
-float r2 = 100;
-float theta2 = degreesToRadians(45);
-float phi2 = degreesToRadians(0);
 
 // Life Cycle
 
@@ -23,6 +13,15 @@ void draw() {
   drawAxes(400);
 
   noStroke();
+
+  // theta: Rotation along the X axis
+  // phi: Rotation around the Z axis
+  float r = 300;
+  float theta = degreesToRadians(135);
+  float phi = degreesToRadians(270);
+  float r2 = 100;
+  float theta2 = degreesToRadians(45);
+  float phi2 = degreesToRadians(0);
 
   fill(255, 0, 0);
   float[] cartesian = sphericalToCartesian(r, theta, phi);

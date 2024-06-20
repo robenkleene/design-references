@@ -13,20 +13,15 @@ void draw() {
 
   stroke(0);
   fill(127, 127, 127);
-  box(200);
-}
 
-// Custom
+  int cubeSize = 200;
+  float translateY = - cubeSize * sqrt(3) / 2;
+  translate(0, translateY);
 
-float degreesToRadians(float degrees) {
-  return degrees * (PI / 180);
-}
+  rotateX(PI / 4);
+  rotateY(PI / 4);
 
-float[] sphericalToCartesian(float r, float theta, float phi) {
-  float x = r * sin(theta) * cos(phi);
-  float y = r * sin(theta) * sin(phi);
-  float z = r * cos(theta);
-  return new float[] {x, y, z};
+  box(cubeSize);
 }
 
 void drawAxes(float length) {
