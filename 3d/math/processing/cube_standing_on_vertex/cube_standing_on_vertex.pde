@@ -11,7 +11,9 @@ void draw() {
   drawGrid(800, 40);
   drawAxes(400);
 
-  noStroke();
+  stroke(0);
+  fill(127, 127, 127);
+  box(200);
 }
 
 // Custom
