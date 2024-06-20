@@ -16,10 +16,10 @@ void draw() {
 
   int cubeSize = 200;
   float translateY = - cubeSize * sqrt(3) / 2;
-  translate(0, translateY);
+  translate(0, translateY, 0);
 
-  rotateX(PI / 4);
-  rotateY(PI / 4);
+  rotateX(atan(sqrt(2)));
+  rotateZ(PI / 4);
 
   box(cubeSize);
 }
