@@ -18,7 +18,7 @@ void draw() {
   float translateY = - cubeSize * sqrt(3) / 2;
   translate(0, translateY, 0);
 
-  rotateX(-atan(sqrt(2)));
+  rotateX(-atan(1/sqrt(2)));
   rotateZ(PI / 4);
 
   box(cubeSize);
