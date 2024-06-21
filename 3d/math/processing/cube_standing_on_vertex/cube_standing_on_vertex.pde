@@ -25,6 +25,8 @@ void draw() {
   printBoxVertices(cubeSize);
 }
 
+// Custom
+
 void drawAxes(float length) {
   stroke(255, 0, 0);
   line(0, 0, 0, length, 0, 0);
