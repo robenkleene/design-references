@@ -1,7 +1,7 @@
 // Life Cycle
 
 void setup() {
-  camera(800, -200, 0, 0, -200, 0, 0, 1, 0);
+  camera(0, -200, 800, 0, -200, 0, 0, 1, 0);
   size(400, 400, P3D);
   noLoop();
 }
