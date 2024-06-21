@@ -22,7 +22,6 @@ void draw() {
   rotateZ(PI / 4);
 
   box(cubeSize);
-  printBoxVertices(cubeSize);
 }
 
 // Custom
@@ -44,27 +43,5 @@ void drawGrid(float size, float step) {
   }
   for (float x = -size/2; x <= size/2; x += step) {
     line(x, 0, -size/2, x, 0, size/2);
-  }
-}
-
-void printBoxVertices(float size) {
-  float hs = size / 2.0;
-  
-  PVector[] vertices = new PVector[8];
-  vertices[0] = new PVector(-hs, -hs, -hs);
-  vertices[1] = new PVector( hs, -hs, -hs);
-  vertices[2] = new PVector( hs,  hs, -hs);
-  vertices[3] = new PVector(-hs,  hs, -hs);
-  vertices[4] = new PVector(-hs, -hs,  hs);
-  vertices[5] = new PVector( hs, -hs,  hs);
-  vertices[6] = new PVector( hs,  hs,  hs);
-  vertices[7] = new PVector(-hs,  hs,  hs);
-
-  for (int i = 0; i < vertices.length; i++) {
-    PVector v = vertices[i];
-    float tx = modelX(v.x, v.y, v.z);
-    float ty = modelY(v.x, v.y, v.z);
-    float tz = modelZ(v.x, v.y, v.z);
-    println("Vertex " + i + ": (" + tx + ", " + ty + ", " + tz + ")");
   }
 }
