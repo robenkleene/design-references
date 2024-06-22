@@ -2,7 +2,8 @@
 
 ## Rotation Matrices
 
-To rotate a cube, we use rotation matrices. Here are the basic rotation matrices for rotating around the x, y, and z axes.
+To rotate a cube, we use rotation matrices. Here are the basic rotation matrices for rotating around the X, Y, and Z
+ axes.
 
 ### Rotation Around X-Axis
 
@@ -37,13 +38,13 @@ R_{xyz} = R_z(\gamma) R_y(\beta) R_x(\alpha)
 $$
 
 Where:
-- $\alpha$ is the angle of rotation around the x-axis,
-- $\beta$ is the angle of rotation around the y-axis,
-- $\gamma$ is the angle of rotation around the z-axis.
+- $\alpha$ is the angle of rotation around the X-axis,
+- $\beta$ is the angle of rotation around the Y-axis,
+- $\gamma$ is the angle of rotation around the Z-axis.
 
 ## Example Calculation
 
-Consider a cube rotated by 30 degrees around the x-axis, 45 degrees around the y-axis, and 60 degrees around the z-axis.
+Consider a cube rotated by 30 degrees around the X-axis, 45 degrees around the Y-axis, and 60 degrees around the Z-axis.
 
 $$
 R_x(30^\circ) = \begin{pmatrix}
