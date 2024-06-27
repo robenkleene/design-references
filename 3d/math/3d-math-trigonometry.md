@@ -5,25 +5,37 @@ The `arc-` prefix indicates inverse, so `arctan` is inverse tanget.
 ![Trigonometry triangle](assets/3d-math-trigonometry-triangle.png)
 
 $$
-\sin \theta ={\frac {\mathrm {opposite} }{\mathrm {hypotenuse} }}
+\sin A = {\frac a c}
 $$
 
 $$
-\cos \theta ={\frac {\mathrm {adjacent} }{\mathrm {hypotenuse} }}
+\cos A = {\frac b c}
 $$
 
 $$
-\csc \theta ={\frac {\mathrm {hypotenuse} }{\mathrm {opposite} }}
+\tan A = {\frac a b}
 $$
 
 $$
-\sec \theta ={\frac {\mathrm {hypotenuse} }{\mathrm {adjacent} }}
+\sin \theta ={\frac {\mathrm{opposite} }{\mathrm {hypotenuse} }}
 $$
 
 $$
-\tan \theta ={\frac {\mathrm {opposite} }{\mathrm {adjacent} }}
+\cos \theta ={\frac {\mathrm{adjacent} }{\mathrm {hypotenuse} }}
 $$
 
 $$
-\cot \theta ={\frac {\mathrm {adjacent} }{\mathrm {opposite} }}
+\csc \theta ={\frac {\mathrm{hypotenuse} }{\mathrm {opposite} }}
+$$
+
+$$
+\sec \theta ={\frac {\mathrm{hypotenuse} }{\mathrm {adjacent} }}
+$$
+
+$$
+\tan \theta ={\frac {\mathrm{opposite} }{\mathrm {adjacent} }}
+$$
+
+$$
+\cot \theta ={\frac {\mathrm{adjacent} }{\mathrm {opposite} }}
 $$
