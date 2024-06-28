@@ -2,6 +2,8 @@
 
 ## Why Not Just $45^\circ$?
 
+Rotating $X$ by $45^\circ$
+
 ## Solution
 
 $$
