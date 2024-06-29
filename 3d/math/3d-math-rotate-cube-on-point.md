@@ -2,7 +2,7 @@
 
 ## Why Not Just $45^\circ$?
 
-Rotating $X$ by $45^\circ$
+Rotating $X$ by $45^\circ$, and $Y$ by $45^\circ$ stands it up on its point, but 
 
 ## Solution
 
