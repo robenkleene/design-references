@@ -5,9 +5,10 @@
 3. Open the material and add a `TriPlanar` node and uncheck `Same Image On Each Axis`
 4. Connect the `TriPlanar > outColor` to the `RS Standard > color`
 
-With the default colors, which are solid, this will work fine because no artifacts occur when resizing a solid color to the face of the cube.
-
 ## Adding Gradients
+
+With the default colors, which are solid, this will work fine because no artifacts occur when resizing a solid color to the face of the cube. Once gradients are used, the `TriPlanar` `Scale` and `Offset` will need to be adjusted to map the gradients to each face.
 
 1. Create three `Ramp` nodes with different presets loaded for each one
 2. Connect the `outColor` of each `Ramp` to the `TriPlanar > Texture` `Image X`, `Image Y`, and `Image Z` inputs
+3. For the `TriPlanar > Coordinates`, set `Scale: 0.005 0.005 0.005` and `Offset: 100 100 100`.
