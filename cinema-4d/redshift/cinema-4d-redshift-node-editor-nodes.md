@@ -10,7 +10,7 @@ Node that's used to create a color gradient.
 
 ### Scale
 
-- The scale is `0.1 0.1 0.1` by default most likely so that a texture is scaled down to be applied small and repeating, instead of covering an entire face at its full size
+- The scale is `0.01 0.01 0.01` by default most likely so that a texture is scaled down to be applied small and repeating, instead of covering an entire face at its full size
 - `Scale` is the scale of the UV projection (i.e., not the scale of the texture itself)
 - `Projection Space Type` has three options: `World`, `Object`, and `Reference`
 - `Reference` uses the object's reference pose (reference pose is for character animation, it's set by adding a `Rigging Tags > Character Definition Tag` and clicking `Set Reference Pose`)
