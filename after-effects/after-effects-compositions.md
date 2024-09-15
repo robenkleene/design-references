@@ -41,5 +41,5 @@ To pre-render a nested composition, select the composition in the `Project Panel
 ### Trim the Composition to a Layer
 
 1. With the layer selected (if there's only one layer, `⌘A` will select it), hit `O` to go to the end of the layer, then hit `N` to make the composition end at that layer.
-2. If you need to use the start as well, go to the beginning of the layer with `I`, then hit `B` to hit the start of the work area
-3. Hit `⇧⌘X` to trim the composition to the work area
+2. If you need to use the start as well, go to the beginning of the layer with `I`, then hit `B` to hit the start of the `Work Area`
+3. Hit `⇧⌘X` to trim the composition to the `Work Area`
