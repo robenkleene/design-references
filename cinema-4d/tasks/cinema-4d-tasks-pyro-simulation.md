@@ -14,3 +14,7 @@ It's recommended to use the export approach, where the pyro simulation output is
 
 1. In the `Material Manager`, add a `Pyro Volume`
 2. Drag the material to the `Pyro Output` in the `Object Manager` (at this point the pyro simulation should start showing up in the `Redshift RenderView`)
+
+## Adjusting
+
+The color of the flame can be adjusted by choosing `Scatter > Channel > temperature`, and then adjusting the `Tint`.
