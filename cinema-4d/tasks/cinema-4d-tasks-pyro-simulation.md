@@ -17,4 +17,4 @@ It's recommended to use the export approach, where the pyro simulation output is
 
 ## Adjusting
 
-The color of the flame can be adjusted by choosing `Scatter > Channel > temperature`, and then adjusting the `Tint`.
+The color of the flame can be adjusted by changing the `Pyro Volume` material. The `Absorbtion`, `Scatter`, and `Emission` all control the color of different aspects of the simulation.

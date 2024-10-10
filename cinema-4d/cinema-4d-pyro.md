@@ -27,6 +27,6 @@ If the scene is cached, then changing parameters under the `Pyro Emitter` tag wi
 
 ## Adjustments
 
-### Changing the Fire Simulation Color
+### Color
 
 The color of the flame can be adjusted by choosing `Scatter > Channel > temperature`, and then adjusting the `Tint`.
