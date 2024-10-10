@@ -2,6 +2,7 @@
 
 - `Blackbody`: A method of simulating light and heat based on physics. Cooler temperatures emit red or orange colors, hotter temperatures emit white or bluish light.
 - There doesn't seem to be a way to make the pyro simulation start on an earlier frame
+- To confine the pyro simulation inside another object, add the `Simulation > Collider` tag to the other object
 
 ## Cache
 
@@ -12,7 +13,11 @@ It's recommended to use the export approach, where the pyro simulation output is
 
 ### Updates
 
-If the scene is cached, then changing parameters under the `Pyro Emitter` tag will no longer update the simulation. To make changes, first go to `Object Manager > Pyro Output > Cache` and choose `Delete Selected Caches`.
+If the scene is cached, then changing parameters under the `Pyro Emitter` tag will no longer update the simulation.
+
+To see updates again, toggle off `Object Manager > Pyro Output > Cache > Enabled`.
+
+To make changes, first go to `Object Manager > Pyro Output > Cache` and choose `Delete Selected Caches`.
 
 ## Rendering
 
