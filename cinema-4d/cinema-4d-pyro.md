@@ -11,13 +11,12 @@ It's recommended to use the export approach, where the pyro simulation output is
 1. Under `Object Manager > Pyro Output > Object` turn on the options to export (e.g., `Density` for smoke, `Temperature` for fire, `Velocity` for motion blur)
 2. Under `Object Manager > Pyro Output > Cache`, choose `Cache Scene` to export the simulation (by default it's cached in a `vol` directory at the project root, note that even a small simulation can be over a gigabyte)
 
-### Updates
+### Making Changes With the Scene Cached
 
 If the scene is cached, then changing parameters under the `Pyro Emitter` tag will no longer update the simulation.
 
-To see updates again, toggle off `Object Manager > Pyro Output > Cache > Enabled`.
-
-To make changes, first go to `Object Manager > Pyro Output > Cache` and choose `Delete Selected Caches`.
+- To see updates again, toggle off `Object Manager > Pyro Output > Cache > Enabled`.
+- After updating, go to `Object Manager > Pyro Output > Cache` and choose `Delete Selected Caches`, then `Cache` to re-generate the cache
 
 ## Rendering
 
