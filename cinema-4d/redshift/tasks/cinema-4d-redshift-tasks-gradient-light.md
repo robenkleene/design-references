@@ -5,3 +5,7 @@
 3. Add a `Ramp` node to the shader graph
 4. Connect the `RS Ramp > outColor` output to the `RS Physical Light > General Color` input
 5. Set the gradient under `RS Ramp > Ramp > Ramp`
+
+## Adjustments
+
+- To use another gradient orientation, e.g., for a radial gradient, set the `RS Ramp > Input > Mapping`
