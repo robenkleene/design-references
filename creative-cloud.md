@@ -11,3 +11,9 @@
 4. Activated fonts are available in the font menu system wide, they aren't available in Font Book
 
 (It's not clear to me how this is implemented)
+
+## Uninstalling Old Versions of Apps
+
+1. Choose `Apps`
+2. Click the three dot disclosure for the app, and choose `Other versions`
+3. Click `Uninstall` next to the older version
