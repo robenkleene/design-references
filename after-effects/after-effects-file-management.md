@@ -7,3 +7,5 @@ tell application "Adobe After Effects Render Engine 2023"
 	«event miscdosc» "app.project.file.parent.execute()"
 end tell
 ```
+
+You can reveal files within your project by right-clicking them and choosing `Reveal in Finder`.
