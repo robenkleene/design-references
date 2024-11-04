@@ -18,7 +18,8 @@
 
 Setting the project duration to the duration of media:
 
-1. Move the playhead to the end of the media by holding shift and drag near the end of the media so the playhead snaps to the end.
-2. Double click the `Current Time` and cut and paste it
-3. Click the disclosure arrow to `Show Project Time`
-4. Paste in the time
+1. Use `Mark` commands to delete the unwanted portions of the media
+2. Move the playhead to the end of the media by holding shift and drag near the end of the media so the playhead snaps to the end.
+3. Double click the `Current Time` and cut and paste it
+4. Click the disclosure arrow to `Show Project Time`
+5. Paste in the time
