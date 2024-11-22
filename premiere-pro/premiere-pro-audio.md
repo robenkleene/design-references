@@ -4,4 +4,4 @@
 
 1. Select the clip in the timeline
 2. Drag an `Effects > Audio Transtions > Crossfade > Constant Power` effect to the beginning and end of the audio clip (Note you can only drag this to the beginning and end of the clip)
-3. Adjust the duration under the `Effect Controls` panel (with the `Constant Power` effect selected on the audio clip in the timeline)
+3. Adjust the duration under the `Effect Controls` panel (with the `Constant Power` effect selected on the audio clip in the timeline) (Alternatively, there are also just drag handles on the effect in directly in the timeline that can be moved to change the duration.)
