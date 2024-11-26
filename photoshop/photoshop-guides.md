@@ -1,5 +1,7 @@
 # Photoshop Grids & Guidelines
 
+## Grid
+
 - `⌘'`: Toggle grid
 
 ## Grid Settings
@@ -14,4 +16,4 @@
 
 ### Centering
 
-- With snap turned on, guidelines will snap to the center. This isn't linked to any of the specific snap options, so choosing `View > Snap To > None` first will help with noise from other snap targets.
+- `View > Snap To > Guides`: Toggle on snapping to the center
