@@ -16,3 +16,8 @@
 
 - `⌘⇧J`: Set to half resolution
 - `⌘⌥⇧J`: Set to quarter resolution
+
+## Viewer
+
+- `View > New Viewer`, `⌥⇧⌘N`: Create a new viewer
+- Both Viewers will follow the select composition by default, to view a specific composition in a `Viewer`, select it and then click the lock icon text to the `Viewer` title tab.
