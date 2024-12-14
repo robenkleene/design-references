@@ -1,47 +1,15 @@
 # After Effects Layers
 
-- `⌥⌘V`: Paste at the current playhead position (e.g., to paste between compositions)
-
-## Selecting
+## Layers Panel
 
 - `⌘↓` / `⌘↑`: Select next or previous layer
-
-## Adding
-
-- `⌘Y`: Add solid
-- `⌘⌥Y`: Add a new adjustment layer
-
-## Navigating
-
-- `I` / `O`: Move the playhead to the start or end of a layer
-
-## Editing
-
-- `⌥[` / `⌥]`: Clip a layer so it starts or ends at the playhead
-
-## Moving
-
-- `[` / `]`: Move a layer to the start or end at the playhead
 - `⌘[` / `⌘]`: Move a layer forward / backward (in front or behind other layers)
 - `⌘⇧[` / `⌘⇧]`: Move a layer to top / bottom
-
-## Columns
-
-- `F4`: Toggle visibility of many columns in the layers panel (e.g., `TrkMat`)
-
-## Properties
-
-### Solids
-
-To change a solid's size, choose `Layer > Solid Settings...` (`⇧⌘Y`).
-
-### Layers Panel
-
 - `⇧⌘A`: Deselect all
 - `⌘D`: Duplicate
 - To collapse all layers, `u` with none selected (or `uu`), so `⌘⇧A` then `u` will deselect all layers and then collapse all
 
-#### Properties
+### Properties
 
 Toggle show / hide for properties, these operate on the selected layer, or all layers if none are selected. So to toggle visibility for all modified properties, first `⇧⌘A` to deselect all then, `uu` to show all modified properties.
 
@@ -55,6 +23,32 @@ Toggle show / hide for properties, these operate on the selected layer, or all l
 - `t`: Opacity
 
 Holding shift, and then hitting multiple of these keys in succession will reveal all of those properties (e.g., `⇧P ⇧R` will show position and velocity). Holding `⌥` will add a keyframe for that property.
+
+## Timeline
+
+- `⌥⌘V`: Paste at the current playhead position (e.g., to paste between compositions)
+
+### Navigating
+
+- `I` / `O`: Move the playhead to the start or end of a layer
+
+### Editing
+
+- `⌥[` / `⌥]`: Clip a layer so it starts or ends at the playhead
+- `[` / `]`: Move a layer to the start or end at the playhead
+
+## Adding
+
+- `⌘Y`: Add solid
+- `⌘⌥Y`: Add a new adjustment layer
+
+## Columns
+
+- `F4`: Toggle visibility of many columns in the layers panel (e.g., `TrkMat`)
+
+## Solids
+
+To change a solid's size, choose `Layer > Solid Settings...` (`⇧⌘Y`).
 
 ## Columns
 
@@ -82,7 +76,7 @@ The visible columns in the layers panel can be changed by right-clicking the hea
 
 ### Resizing
 
-- A shape layer's dimensions can be changed in their properties, e.g., for a rectangle layer, it's under `Shape Layer > Contents > Rectangle 1 > Rectangle Path 1 > Size`. 
+- A shape layer's dimensions can be changed in their properties, e.g., for a rectangle layer, it's under `Shape Layer > Contents > Rectangle 1 > Rectangle Path 1 > Size`.
 
 ## Transforming
 
