@@ -9,6 +9,11 @@
 - `⌘D`: Duplicate
 - To collapse all layers, `u` with none selected (or `uu`), so `⌘⇧A` then `u` will deselect all layers and then collapse all
 
+### Columns
+
+- Click the Solo icon (circle) in the Layers panel to solo a layer
+- The video icon (eye) determines the layer visibility (if the eye icon pupil is filled in [instead of black] then that means something is affecting the layers visibility [e.g., usually either a matte or blend mode])
+
 ### Properties
 
 Toggle show / hide for properties, these operate on the selected layer, or all layers if none are selected. So to toggle visibility for all modified properties, first `⇧⌘A` to deselect all then, `uu` to show all modified properties.
