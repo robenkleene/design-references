@@ -6,6 +6,7 @@
 
 - Toggle off `Blender Preferences > Interface > Splash Screen`
 - `Blender Preferences > Input > Emulate Numpad` to use number keys as there numpad equivalents
+- `Blender Preferences > Input > Emulate 3 Button Mouse` to use `⌥-click` as middle mouse button click
 
 ## Notes
 

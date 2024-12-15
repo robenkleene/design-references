@@ -4,6 +4,7 @@
 - `⇧A s`: Quickly search for a node to add
 - `⇧D`: Duplicate a node
 - `⌃drag` an output to move it to another socket
+- **Pan:** `⇧Scroll` (or `⇧⌥Drag` only works with `Preferences > Input > Emulate 3 Button Mouse` enabled)
 
 ## Frames
 
