@@ -1,3 +1,3 @@
 # Cinema 4D File Management
 
-- Right-click a tab to `Show in Finder`
+- Right-click a tab to `Show in Finder` (reveal in finder)
