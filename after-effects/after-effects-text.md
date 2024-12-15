@@ -7,6 +7,10 @@
 - `⌥↑` / `⌥↓`: Decrease / increase leading by 2 px
 - `⌥⌘↑` / `⌥⌘↓`: Decrease / increase leading by 10 px
 
+## Character Panel
+
+- `Window > Character`: Change the font
+
 ## Paragraph vs. Point Text
 
 - Click and drag with the text tool to create paragraph text
