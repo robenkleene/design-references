@@ -15,6 +15,8 @@
 
 ### Delete
 
+It's called "ripple" because the effect of the edit "ripples" to affect other clips.
+
 - `Q`: Ripple delete before playhead
 - `W`: Ripple delete after playhead
 - `'` or `⇧⌦`: Extract (ripple delete marked)
