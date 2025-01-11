@@ -2,7 +2,8 @@
 
 - `⇧-drag`: Select multiple nodes
 - `drag`: Pan
-- `⇥`: Add new node (hit `⇥` while dragging to create a node and connection simultaneously)
+- `⇥`: Add new node (`⇥` again will cycle through operator types)
+- `drag` then `⇥`: Create a node and connection simultaneously)
 - `P`: Toggle showing parameters for the node
 - `I`: Go into a node
 - `U`: Go up a node
