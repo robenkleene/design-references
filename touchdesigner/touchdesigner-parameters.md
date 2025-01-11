@@ -2,4 +2,4 @@
 
 The parameter window is called the `Parameters Dialog`
 
-- `⇥`: Go between fields
+- `⇥` / `⇧⇥`: Go next / previous fields
