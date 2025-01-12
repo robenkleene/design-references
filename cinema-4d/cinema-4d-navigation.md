@@ -2,15 +2,17 @@
 
 ## Mouse Controls
 
+- `⌥LMB`: Orbit
+- `⌥⌘LMB`: Orbit
+- `⌥RMB`: Pan
+- `⌥MMB`, `Scroll Wheel`: Zoom
+
+## Trackpad Controls
+
 - `⌥One-Finger-Click-Drag`: Orbit
 - `Two-Finger-Drag`: Pan
 - `⌥Two-Finger-Click-Drag` / `Pinch`: Zoom
 
-## Trackpad Controls
-
-- `⌥LMB`: Orbit
-- `⌥RMB`: Pan
-- `⌥MMB`, `Scroll Wheel`: Zoom
 
 ## Other
 
