@@ -63,10 +63,11 @@ The visible columns in the layers panel can be changed by right-clicking the hea
 
 ### Tips
 
-- Often the fastest way to edit properties is to use the search field above the layers panel (`⌘F`). Here's what the workflow looks like:
-    1. Select the layers to edit
-    2. Hide all currently visible properties (`u`)
-    3. Search for the property to edit (`⌘F`)
+Often the fastest way to edit properties is to use the search field above the layers panel (`⌘F`). Here's what the workflow looks like:
+
+1. Select the layers to edit
+2. Hide all currently visible properties (`u`)
+3. Search for the property to edit (`⌘F`)
 
 ## Position
 

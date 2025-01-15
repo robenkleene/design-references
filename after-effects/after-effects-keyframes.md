@@ -53,7 +53,6 @@ To quickly speed up a clip, just right-click and choose `Time > Time Stretch...`
 2. If you need to use the start as well, go to the beginning of the layer with `I`, then hit `B` to hit the start of the `Work Area`
 3. Hit `⇧⌘X` to trim the composition to the `Work Area`
 
-
 ### Speeding Up Sections of Clips
 
 1. Turn on `Frame Blending` for the composition and each track to change the speed of (it's the icon that looks like two pieces of film overlapping)
