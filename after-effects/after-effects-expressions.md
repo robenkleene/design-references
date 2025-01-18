@@ -27,3 +27,9 @@ The "Pick Whip" (the spiral icon to the right of properties in the timeline) is 
 Fluctuate between two values, `freq` is changes per second, and `amp` is size of the change:
 
     wiggle(freq,amp);
+
+## Examples
+
+### Fluctuate Between Two Values
+
+Set a keyframe for the first value, then a keyframe for the second value after the desired duration, then add a `loopOut("pingpong")` expression.
