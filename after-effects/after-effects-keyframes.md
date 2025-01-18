@@ -46,13 +46,6 @@ Select layers, right-click `Keyframe Assistant > Sequence Layers...`
 
 To quickly speed up a clip, just right-click and choose `Time > Time Stretch...`. This will bring up a dialog box where a `Stretch Factor` can be set. `100` is normal speed, `200` is half speed, and `50` is double speed.
 
-### Setting the Composition Length to Match the New Clip Length
-
-1. If the clip is longer than the composition, than first right-click the Composition and select `Composition Settings...` (`⌘K`), and extend the length of the composition
-1. With the layer selected (if there's only one layer, `⌘A` will select it), hit `O` to go to the end of the layer, then hit `N` to make the `Work Area` end at that layer.
-2. If you need to use the start as well, go to the beginning of the layer with `I`, then hit `B` to hit the start of the `Work Area`
-3. Hit `⇧⌘X` to trim the composition to the `Work Area`
-
 ### Speeding Up Sections of Clips
 
 1. Turn on `Frame Blending` for the composition and each track to change the speed of (it's the icon that looks like two pieces of film overlapping)

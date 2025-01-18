@@ -4,6 +4,7 @@
 
 - Scripts are stored at `/Applications/Adobe After Effects 2024/Scripts/`, as a best practice, add a `User` directory in that directory to store user scripts.
 - Scripts usually require `After Effeccts > Settings... > Scripting & Expressions... > Allow Scripts to Write Files and Access Network` to be toggled on
+- Scripts do not update automatically, After Effects needs to be restarted before they will be found
 
 ## Running
 

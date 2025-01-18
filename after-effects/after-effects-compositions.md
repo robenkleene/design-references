@@ -27,19 +27,8 @@ To pre-render a nested composition, select the composition in the `Project Panel
 
 ## Duration
 
-### Shorter
-
-1. Use `b` to set the beginning of the work area and `n` to set the end
-2. Select `Composition > Trim Composition to Work Area` (`⇧⌘X`)
-
-### Longer
-
-1. Right-click the Composition and select `Composition Settings...` (`⌘K`), and extend the length of the composition
-2. Use `b` to set the beginning of the work area and `n` to set the end
-3. Select `Composition > Trim Composition to Work Area` (`⇧⌘X`)
-
 ### Trim the Composition to a Layer
 
-1. With the layer selected (if there's only one layer, `⌘A` will select it), hit `O` to go to the end of the layer, then hit `N` to make the composition end at that layer.
+1. With the layer selected (if there's only one layer, `⌘A` will select it), hit `O` to go to the end of the layer (`I` goes to the beginning), then hit `N` to set the end of the `Work Area` (`B` sets the beginning) (note this will only work if the layer is shorter than the length of the composition, if it's longer, than you first need to extend the duration of the composition under `Composition > Composition Settings...` (`⌘K`)
 2. If you need to use the start as well, go to the beginning of the layer with `I`, then hit `B` to hit the start of the `Work Area`
 3. Hit `⇧⌘X` to trim the composition to the `Work Area`
