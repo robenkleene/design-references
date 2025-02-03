@@ -1,11 +1,13 @@
 # Photoshop Settings
 
-## Preferences
+- `⌘K`: Show preferences
 
-- Disable the home screen with `Preferences (⌘K) > General > Auto show the Home Screen`
-- To invert `⇧` with transform, toggle on `Preferences (⌘K) > General > Use Legacy Free Transform`
-- Toggle on `Preferences (⌘K) > General > Export Clipboard` to help export the clipboard
+## Preferences
+- Disable the home screen with `Preferences > General > Auto show the Home Screen`
+- To invert `⇧` with transform, toggle on `Preferences > General > Use Legacy Free Transform`
+- Toggle on `Preferences > General > Export Clipboard` to help export the clipboard
 - Toggle off `Preferences > Tools > Show Rich Tooltips` to get rid of the big tool tips
+- Toggle off `Preferences > General > Resize Image During Place` to make it easier to drop multiple screenshots together for compositing at their original size
 
 ## Other
 
