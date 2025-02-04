@@ -14,6 +14,8 @@
 
 ## Uninstalling Old Versions of Apps
 
+Creative Cloud uninstalls old versions by default.
+
 1. Choose `Apps`
 2. Click the three dot disclosure for the app, and choose `Other versions`
 3. Click `Uninstall` next to the older version
