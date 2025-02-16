@@ -5,6 +5,8 @@
 3. Connect the `Maxon Noise > outColor` output to `RS Standard > Opacity` input
 4. Set the `Speed` and `Loop Period` to loop the noise
 
+![Looped Noise Opacity](assets/cinema-4d-redshift-tasks-noise-loop-opacity.png)
+
 ## Preview
 
 Once the opacity setting is setup, the IPR will be slow, so it's good to get the noise, speed, and loop period settings right by projecting the noise on onto the object as a color for the material to test those values before switching it to opacity.
@@ -20,4 +22,3 @@ Once the opacity setting is setup, the IPR will be slow, so it's good to get the
 ## Other Settings
 
 - `General > Type`: `Luka`, `Naki`, `Nutous`, `Ober`, `Pezo`, `Stupl`, `Vornoi 2`, `Fire`, `Electric`, `Gaseous`, `Ridged Multi Fractal`
-
