@@ -11,7 +11,7 @@ To reverse a pre-compose, just copy and paste the layers back into the main comp
 
 ## Previews & RAM
 
-The green line is the RAM preview. The blue line is the disk cache. You can adjust the preview resolution under the preview, e.g., change "Full" to "Half" or "Quarter".
+The green line is the RAM preview. The blue line is the disk cache. You can adjust the preview resolution under the preview, e.g., change `Full`  to `Half` or `Quarter`.
 
 - `⌃⌫` / "Edit" -> "Purge" -> "All Memory": Delete the RAM cache
 
