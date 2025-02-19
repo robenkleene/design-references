@@ -9,3 +9,7 @@ When using lights and cameras, turn on the "Adaptive Resolution" preview prefere
 ## 3D Layer
 
 - `3D Layer` can be turned on for a layer (cube icon, if it's not visible use `F4`, or click the icon in the lower left, to show `Layer Switches`)
+- Once toggled on the rotation of the layer can be changed in the `Layer Transform` (panel in the upper right)
+- Lights and cameras can also be controlled in 3D space using the their `Layer Transform`
+- `Layer > New > Camera...`: Add a camera
+- `Layer > New > Light...`: Add a light
