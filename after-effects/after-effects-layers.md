@@ -49,7 +49,7 @@ Holding shift, and then hitting multiple of these keys in succession will reveal
 
 ## Columns
 
-- `F4`: Toggle visibility of many columns in the layers panel (e.g., `TrkMat`)
+- `F4` (or icons in lower left): Toggle between `Layer Switches` and `Transfer Controls` (toggles visibility for many columns in the layers panel, e.g., `TrkMat` `3D Layer`)
 
 ## Solids
 
