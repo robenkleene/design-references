@@ -17,3 +17,4 @@ When using lights and cameras, turn on the "Adaptive Resolution" preview prefere
 ### Cinema 4D Renderer
 
 - Enabled with `Composition > Composition Settings... > 3D Renderer > Renderer: Cinema 4D`
+- When the `Cinema 4D` renderer is enabled, in the layer panel, shape layers will have `Geometry Options` (where a bevel can be controlled), and `Material Options` (where material light properties can be controlled)
