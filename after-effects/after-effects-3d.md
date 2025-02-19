@@ -13,3 +13,7 @@ When using lights and cameras, turn on the "Adaptive Resolution" preview prefere
 - Lights and cameras can also be controlled in 3D space using the their `Layer Transform`
 - `Layer > New > Camera...`: Add a camera
 - `Layer > New > Light...`: Add a light
+
+### Cinema 4D Renderer
+
+- Enabled with `Composition > Composition Settings... > 3D Renderer > Renderer: Cinema 4D`
