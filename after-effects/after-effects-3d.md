@@ -14,6 +14,10 @@ When using lights and cameras, turn on the "Adaptive Resolution" preview prefere
 - `Layer > New > Camera...`: Add a camera
 - `Layer > New > Light...`: Add a light
 
+## 3D Gizmo
+
+A 3D gizmo appears to manipulate objects in 3D space, it's only usable with the `Selection` tool (`V`) selected.
+
 ### Cinema 4D Renderer
 
 - Enabled with `Composition > Composition Settings... > 3D Renderer > Renderer: Cinema 4D`
