@@ -15,6 +15,7 @@ Lights and cameras have a `Point of Interest` key property that determines where
 ### Cameras
 
 - `Enable Depth of Field` is available in the camera settings (double-click the camera layer), but it only works if `Composition Settings (`⌘K`) > 3D Renderer: Classic 3D` is set.
+- Once `Depath of Field` is toggled on, adjust the `Aperture` and `Focus Distance` to control the depth of field effect.
 
 ## 3D Layer
 
