@@ -2,13 +2,19 @@
 
 - `C`: Cycle through various camera tools
 
-## Preview
+## Lights & Cameras
+
+### Preview
 
 When using lights and cameras, the `Adaptive Resolution` preview preference (click and hold the lightning bolt icon below viewport) so you can see what you are doing as you make changes.
 
-## Lights & Cameras
+### Points of Interest
 
 Lights and cameras have a `Point of Interest` key property that determines where to point.
+
+### Cameras
+
+- `Enable Depth of Field` is available in the camera settings (double-click the camera layer), but it only works if `Composition Settings (`⌘K`) > 3D Renderer: Classic 3D` is set.
 
 ## 3D Layer
 
