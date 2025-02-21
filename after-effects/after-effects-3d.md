@@ -2,9 +2,13 @@
 
 - `C`: Cycle through various camera tools
 
+## Preview
+
+When using lights and cameras, the `Adaptive Resolution` preview preference (click and hold the lightning bolt icon below viewport) so you can see what you are doing as you make changes.
+
 ## Lights & Cameras
 
-When using lights and cameras, turn on the "Adaptive Resolution" preview preference so you can see what you are doing as you make changes.
+Lights and cameras have a `Point of Interest` key property that determines where to point.
 
 ## 3D Layer
 
