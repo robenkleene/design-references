@@ -16,8 +16,7 @@
 
 ### Properties
 
-Toggle show / hide for properties, these operate on the selected layer, or all layers if none are selected. So to toggle visibility for all modified properties, first `⇧⌘A` to deselect all then, `uu` to show all modified properties.
-
+Toggle show / hide for properties, these operate on the selected layer, or all layers if none are selected (deselect all with `⇧⌘A`). 
 - `uu`: All key frames
 - `u`: Modified
 - `a`: Anchor point
@@ -27,7 +26,10 @@ Toggle show / hide for properties, these operate on the selected layer, or all l
 - `s`: Scale
 - `t`: Opacity
 
-Holding shift, and then hitting multiple of these keys in succession will reveal all of those properties (e.g., `⇧P ⇧R` will show position and velocity). Holding `⌥` will add a keyframe for that property.
+#### Notes
+
+- To show just modified properties, first `⇧⌘A` to deselect all, then `uu` to show all modified properties.
+- Holding `⇧`, and then hitting multiple of these keys in succession will reveal all of those properties (e.g., `⇧P ⇧R` will show position and velocity). Holding `⌥` will add a keyframe for that property.
 
 ## Timeline
 
