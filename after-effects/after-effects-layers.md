@@ -17,14 +17,20 @@
 ### Properties
 
 Toggle show / hide for properties, these operate on the selected layer, or all layers if none are selected (deselect all with `⇧⌘A`). 
-- `uu`: All key frames
-- `u`: Modified
-- `a`: Anchor point
-- `e`: Effects
-- `p`: Position
-- `r`: Rotation
-- `s`: Scale
-- `t`: Opacity
+
+- `A`: Anchor point
+- `AA`: Material & light options
+- `E`: Effects
+- `F`: Mask feather
+- `MM`: Mask property
+- `P`: Position
+- `R`: Rotation & orientation
+- `RR`: Time remap
+- `S`: Scale
+- `SS`: Selected properties & groups
+- `T`: Opacity
+- `U`: Key frame properties
+- `UU`: Modified properties
 
 #### Notes
 
