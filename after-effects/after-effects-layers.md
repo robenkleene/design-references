@@ -34,8 +34,13 @@ Toggle show / hide for properties, these operate on the selected layer, or all l
 
 #### Notes
 
+- A more predictable way to find the layer property to edit is to use search.
 - To show just modified properties, first `⇧⌘A` to deselect all, then `uu` to show all modified properties.
 - Holding `⇧`, and then hitting multiple of these keys in succession will reveal all of those properties (e.g., `⇧P ⇧R` will show position and velocity). Holding `⌥` will add a keyframe for that property.
+
+## Search
+
+- You can separate multiple search terms with commas in the layer search field, e.g., `point, elli` will find both `Point of Interest` and `Ellipse` properties.
 
 ## Timeline
 
