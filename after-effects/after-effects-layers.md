@@ -79,8 +79,9 @@ Often the fastest way to edit properties is to use the search field above the la
 
 ## Position
 
-- There's an `Align` panel that can be added to the sidebar with `Window > Align`, this has options to center a layer horizontally and vertically or left or right justify it.
+- There's an `Align` panel that can be added to the sidebar with `Window > Align`, this has options to center a layer horizontally and vertically or left or right justify it. To move the layer's anchor point, switch to the Anchor tool (`Y`) (although the `Align` panel can't be used to center the anchor point so using `⌥⌘HOME` is probably better).
 - `⌘HOME`: Center layer (align horizontally and vertically)
+- `⌥⌘HOME`: Center the layer's anchor point
 
 ## Resizing
 
