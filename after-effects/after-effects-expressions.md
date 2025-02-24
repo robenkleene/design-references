@@ -4,6 +4,10 @@
 - `enter` to finish editing an expression (`fn↩` on a MacBook), or just click to the right of the expression in the parameters area.
 - Properties in the layer panel are shown in red when they are determined by expressions (if this is unintentional, `⌥LMB` will remove it)
 
+## Expression Editor
+
+- `⌘L`: Delete line
+
 ## Linking Properties
 
 The "Pick Whip" (the spiral icon to the right of properties in the timeline) is used to "link" properties, i.e., to have a property change the value of another property. To use it, drag from the Pick Whip icon of the property to change, to the property to link to. This will create an expression on the property to change.
@@ -34,3 +38,17 @@ Fluctuate between two values, `freq` is changes per second, and `amp` is size of
 ### Fluctuate Between Two Values
 
 Set a keyframe for the first value, then a keyframe for the second value after the desired duration, then add a `loopOut("pingpong")` expression.
+
+### Randomizing an Array of Values
+
+```
+seedRandom(index, true);
+freq = 0.3;
+amp = 250;
+
+x = amp * Math.sin(time * freq * Math.PI * 2) + amp * (noise(time * freq) - 0.5);
+y = amp * Math.cos(time * freq * Math.PI * 2) + amp * (noise(time * freq + 50) - 0.5);
+z = amp * Math.sin(time * freq * Math.PI * 2 + Math.PI/4) + amp * (noise(time * freq + 100) - 0.5);
+
+[x, y, z]
+```
