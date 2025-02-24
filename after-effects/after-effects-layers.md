@@ -37,6 +37,7 @@ Toggle show / hide for properties, these operate on the selected layer, or all l
 - A more predictable way to find the layer property to edit is to use search.
 - To show just modified properties, first `⇧⌘A` to deselect all, then `uu` to show all modified properties.
 - Holding `⇧`, and then hitting multiple of these keys in succession will reveal all of those properties (e.g., `⇧P ⇧R` will show position and velocity). Holding `⌥` will add a keyframe for that property.
+- Properties shown in red means they are being set by expressions (if this is unintentional `⌥LMB` to remove it)
 
 ## Search
 
