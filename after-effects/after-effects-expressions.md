@@ -1,7 +1,8 @@
 # After Effects Expressions
 
-- `⌥`-click the stopwatch for a property to add an expression. `⌥`-click the stopwatch again to remove it.
+- `⌥LMB` the stopwatch for a property to add an expression. `⌥`-click the stopwatch again to remove it.
 - `enter` to finish editing an expression (`fn↩` on a MacBook), or just click to the right of the expression in the parameters area.
+- Properties in the layer panel are shown in red when they are determined by expressions (if this is unintentional, `⌥LMB` will remove it)
 
 ## Linking Properties
 
