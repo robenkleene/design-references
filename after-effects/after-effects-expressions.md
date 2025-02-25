@@ -41,6 +41,8 @@ Set a keyframe for the first value, then a keyframe for the second value after t
 
 ### Randomizing an Array of Values
 
+#### Camera Movement Using Oscillatory Motion & Noise
+
 ```
 seedRandom(index, true);
 // Cycles per second
@@ -53,6 +55,24 @@ angle = time * freq * Math.PI * 2;
 x = amp * Math.sin(angle) + amp * (noise(time * freq) - 0.5);
 y = amp * Math.cos(angle) + amp * (noise(time * freq + 50) - 0.5);
 z = amp * Math.sin(angle + Math.PI / 4) + amp * (noise(time * freq + 100) - 0.5);
+
+[x, y, z]
+```
+
+#### Camera Movement Using Oscillatory Motion
+
+```
+seedRandom(index, true);
+// Cycles per second
+freq = 0.3;
+amp = 250;
+
+// The sine function takes an angle in radians, `Math.PI * 2` is one complete
+angle = time * freq * Math.PI * 2;
+
+x = 540 - amp * Math.sin(angle);
+y = 540 - amp * Math.cos(angle);
+z = -720;
 
 [x, y, z]
 ```
