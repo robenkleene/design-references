@@ -43,12 +43,16 @@ Set a keyframe for the first value, then a keyframe for the second value after t
 
 ```
 seedRandom(index, true);
+// Cycles per second
 freq = 0.3;
 amp = 250;
 
-x = amp * Math.sin(time * freq * Math.PI * 2) + amp * (noise(time * freq) - 0.5);
-y = amp * Math.cos(time * freq * Math.PI * 2) + amp * (noise(time * freq + 50) - 0.5);
-z = amp * Math.sin(time * freq * Math.PI * 2 + Math.PI/4) + amp * (noise(time * freq + 100) - 0.5);
+// The sine function takes an angle in radians, `Math.PI * 2` is one complete
+angle = time * freq * Math.PI * 2;
+
+x = amp * Math.sin(angle) + amp * (noise(time * freq) - 0.5);
+y = amp * Math.cos(angle) + amp * (noise(time * freq + 50) - 0.5);
+z = amp * Math.sin(angle + Math.PI / 4) + amp * (noise(time * freq + 100) - 0.5);
 
 [x, y, z]
 ```
