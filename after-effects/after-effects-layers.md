@@ -22,6 +22,7 @@ Toggle show / hide for properties, these operate on the selected layer, or all l
 - `A`: Anchor point
 - `AA`: Material & light options
 - `E`: Effects
+- `EE`: Show properties with expressions
 - `F`: Mask feather
 - `MM`: Mask property
 - `P`: Position

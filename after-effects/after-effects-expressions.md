@@ -63,8 +63,10 @@ z = amp * Math.sin(angle + Math.PI / 4) + amp * (noise(time * freq + 100) - 0.5)
 
 ```
 seedRandom(index, true);
+// Duration of the composition
+duration = 6;
 // Cycles per second
-freq = 0.3;
+freq = 1 / duration;
 amp = 250;
 
 // The sine function takes an angle in radians, `Math.PI * 2` is one complete
