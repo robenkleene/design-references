@@ -2,6 +2,8 @@
 
 - Hold `⇧` and a hit a binding to rotate between tools for that binding
 
+- `V`: Move tool (note that the `Artboard` tool now also shares this shortcut, so `⇧V` might be required to choose the move tool)
+
 ## Crop Tool
 
 - Hold shift after you start resizing a side in order to snap to the pixel grid.
