@@ -29,6 +29,14 @@ valueAtTime(time - offset);
 
 Here we're calculating an offset based on the layer `index`, than offsetting it by a constant (`0.2` seconds in this case), then returning the keyframed property value offset by that amount of time.
 
+## Random
+
+Make a random seed constant between frames:
+
+```
+seedRandom(seed, true);
+```
+
 ## Linking Properties
 
 The "Pick Whip" (the spiral icon to the right of properties in the timeline) is used to "link" properties, i.e., to have a property change the value of another property. To use it, drag from the Pick Whip icon of the property to change, to the property to link to. This will create an expression on the property to change.
