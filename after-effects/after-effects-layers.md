@@ -7,6 +7,7 @@
 - `⌘⇧[` / `⌘⇧]`: Move a layer to top / bottom
 - `⇧⌘A`: Deselect all
 - `⌘D`: Duplicate
+- `↩`: Rename layer
 - To collapse all layers, `u` with none selected (or `uu`), so `⌘⇧A` then `u` will deselect all layers and then collapse all
 
 ### Columns
