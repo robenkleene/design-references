@@ -6,6 +6,7 @@
 - `⇧/`: Re-center composition view
 - `⌥'`: Toggle grid
 - `⇧⌘A`: Deselect all
+- `⇧,` / `⇧.`: Switch between multiple open compositions (with the viewport focused [`\`])
 
 ## Zoom
 
