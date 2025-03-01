@@ -4,8 +4,8 @@
 
 - `⌥LMB`: Orbit
 - `⌥⌘LMB`: Orbit
-- `⌥RMB`: Pan
-- `⌥MMB`, `Scroll Wheel`: Zoom
+- `⌥MMB`: Pan
+- `⌥RMB`, `Scroll Wheel`: Zoom
 
 ## Trackpad Controls
 
