@@ -4,3 +4,4 @@ Essential Graphics are a to have a main composition that is then customized to c
 
 - `Window > Essential Graphics`
 - Right-click a property (either in the `Effects` panel or `Layers` panel) and choose `Add Property to Essential Graphics`
+- `Essential Properties` are visible in a parent composition layer properties
