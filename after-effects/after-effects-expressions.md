@@ -64,6 +64,20 @@ Fluctuate between two values, `freq` is changes per second, and `amp` is size of
 
 ## Examples
 
+### Sliders
+
+1. Add an `Effects & Presets > Expression Controls > Slider Control` to a shape layer
+2. Rename the `Slider Control` to `Wiggle Amount`
+3. Set the `Position` property of the layer to the following expression to control the wiggle amount via the slider
+
+```
+// Uses the pick-whip to create the "effect(...)" link to the Slider 
+var wiggleAmount = effect("Wiggle Amount")("Slider"); 
+ 
+// Wiggles 4 times per second by the amount set by the Slider 
+wiggle( 4, wiggleAmount );
+```
+
 ### Fluctuate Between Two Values
 
 Set a keyframe for the first value, then a keyframe for the second value after the desired duration, then add a `loopOut("pingpong")` expression.
