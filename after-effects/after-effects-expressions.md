@@ -78,6 +78,12 @@ var wiggleAmount = effect("Wiggle Amount")("Slider");
 wiggle( 4, wiggleAmount );
 ```
 
+#### From Another Layer
+
+```
+seed = thisComp.layer("<layername>").effect("<slidername>")("Slider");
+```
+
 ### Fluctuate Between Two Values
 
 Set a keyframe for the first value, then a keyframe for the second value after the desired duration, then add a `loopOut("pingpong")` expression.
