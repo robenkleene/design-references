@@ -10,6 +10,7 @@
 - `↩`: Rename layer
 - `⌘F`: Search layers (focus search bar)
 - To collapse all layers, `u` with none selected (or `uu`), so `⌘⇧A` then `u` will deselect all layers and then collapse all
+- `⇧⌘C`: Pre-compose layer (bring up the `Pre-compose...` dialog)
 
 ### Columns
 
