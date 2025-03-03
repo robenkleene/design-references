@@ -131,7 +131,7 @@ z = -720;
 ### Generating a Path
 
 1. Create a shape layer `Layer > New > Shape Layer`
-2. `⌥LMB`: Add the expression
+2. `⌥LMB` on the shape layer's path property to add the expression
 
 #### Sine Wave
 
