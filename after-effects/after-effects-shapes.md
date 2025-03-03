@@ -1,6 +1,7 @@
 # After Effects Shapes
 
 - If a layer is selected, the shape will automatically mask that layer, otherwise it'll create a shape layer
+- The `Puppet Tool` (`⌘P`) can be used to warp shapes, add multiple pins and adjust them
 
 ## Resizing & Moving
 
