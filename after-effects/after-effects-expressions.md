@@ -127,3 +127,22 @@ z = -720;
 
 [x, y, z]
 ```
+
+### Generating a Path
+
+1. Create a shape layer `Layer > New > Shape Layer`
+2. `⌥LMB`: Add the expression
+
+#### Sine Wave
+
+```
+freq = 3; // Number of waves
+amp = 100; // Amplitude
+points = [];
+for (i = 0; i <= 100; i++) {
+    x = i * 10;
+    y = Math.sin(i * freq * Math.PI / 50) * amp;
+    points.push([x, y]);
+}
+createPath(points, [], [], false);
+```
