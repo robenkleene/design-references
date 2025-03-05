@@ -7,6 +7,8 @@
 ## Video Timeline
 
 - `Hamburger menu > Convert to Video Timeline` will convert it to a video, this is a one way operation
+- `File > Export > Render Video` should export but it typically hangs
+- To convert an animated GIF to a video file, just drag and drop it to Adobe Media Composer
 
 ## Timeline
 
