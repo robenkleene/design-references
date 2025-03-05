@@ -4,6 +4,7 @@
 - `⇧V`: Toggle view settings
 - On each viewport you can choose between `Top`, `Bottom`, `Perspective`, etc... under `Cameras`.
 - `View > Frame Default`: Reset the camera to the default position
+- `S`: Center the selected object in the viewport
 
 ## Grid
 

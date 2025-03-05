@@ -1,5 +1,7 @@
 # Cinema 4D Modeling
 
+- `⌥C`: Access `Create` pop-up
+
 ## Basic
 
 - `E`: Move
