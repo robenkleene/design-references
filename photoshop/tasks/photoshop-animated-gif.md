@@ -4,6 +4,16 @@
 2. `Window > Timeline` to preview the animated GIF
 3. `File > Export > Save for Web (Legacy)...` (`⇧⌥⌘S`) to export, make sure `GIF` is chosen as output format. You can also see the file size here.
 
+## Video Timeline
+
+- `Hamburger menu > Convert to Video Timeline` will convert it to a video, this is a one way operation
+
+## Timeline
+
+Keyboard shortcuts with the timeline focused.
+
+- `␣`: Play / pause
+
 ## Playback Speed
 
 To change the playback speed:
