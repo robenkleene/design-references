@@ -1,6 +1,8 @@
 # Cinema 4D Pen Tool
 
-- `⌘-click`: Add point
+- `⌘LMB`: Remove point
+- `Double-click` a point to add the curve handles
+- `RMB` then choose a curve (e.g., `Soft Tangents` to add the curve handles)
 - Click and hold shows the handles
 - Hold shift to only move one of the handles
 
