@@ -1,5 +1,7 @@
 # Cinema 4D Navigation
 
+- `View > Frame Default` reset/re-align view
+
 ## Mouse Controls
 
 - `⌥LMB`: Orbit
@@ -12,7 +14,6 @@
 - `⌥One-Finger-Click-Drag`: Orbit
 - `Two-Finger-Drag`: Pan
 - `⌥Two-Finger-Click-Drag` / `Pinch`: Zoom
-
 
 ## Other
 
