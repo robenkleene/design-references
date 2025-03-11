@@ -1,6 +1,7 @@
 # Cinema 4D Xpresso
 
 - Right-click to add a node
+- The selected node has attributes that can be changed in the main `Attributes` panel
 
 ## Opening
 
