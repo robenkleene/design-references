@@ -1,9 +1,15 @@
-# Cinema 4d Xpresso
+# Cinema 4D Xpresso
+
+- Right-click to add a node
+
+## Opening
 
 - Add a `Programming Tags > Xpresso` to open the `Xpresso Editor`
 - Double-click the `Xpresso Expression` tag to re-open `Xpresso Editor`
 
-## Linking Attributes Between Objects
+## Examples
+
+### Linking Attributes Between Objects
 
 Sync objects so changing an attribute on one object (e.g., position) also updates the other object.
 
