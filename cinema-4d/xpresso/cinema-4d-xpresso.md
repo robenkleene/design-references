@@ -1,5 +1,6 @@
 # Cinema 4D XPresso
 
+- `⇥`: Focus node search
 - Right-click to add a node
 - The selected node has attributes that can be changed in the main `Attributes` panel
 - `View > Align to Grid` to clean up (note this doesn't align to the closest line, it aligns to closest upper left corner, so place nodes just to the right and below an intersection point to align to that point)
