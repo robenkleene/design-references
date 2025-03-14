@@ -7,6 +7,11 @@
 - Right-click and choose `Delete Port`
 - Click the colored squares to add an input port (blue) or output port (red)
 
+## Navigation
+
+- `⌥RMB`: Zoom
+- `⌥MMB`: Pan
+
 ## Opening
 
 - Add a `Programming Tags > XPresso` to open the `XPresso Editor`
@@ -24,4 +29,5 @@ Sync objects so changing an attribute on one object (e.g., position) also update
 
 ## Troubleshooting
 
-Be careful about choosing the right `Data Type` for nodes, for example vector won't work properly in a `Math` node unless `Vector` is chosen as the data type
+- Be careful about choosing the right `Data Type` for nodes, for example vector won't work properly in a `Math` node unless `Vector` is chosen as the data type
+- In XPresso, rotation values are in radians, not degrees, to convert to degrees use a `degree` node set to `Function: Degree to Radians`
