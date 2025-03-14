@@ -22,3 +22,6 @@ Sync objects so changing an attribute on one object (e.g., position) also update
 2. This will open the `XPresso Editor`, drag each object into the `XPresso Editor` to create  a node for each one
 3. Click the color square to the right of the node name from the source object and choose an attribute (e.g., `Coordinates > Global Position > Position`) and connect that same attribute to the colored square to the left of the destination object and choose the same attribute
 
+## Troubleshooting
+
+Be careful about choosing the right `Data Type` for nodes, for example vector won't work properly in a `Math` node unless `Vector` is chosen as the data type
