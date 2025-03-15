@@ -30,4 +30,4 @@ Sync objects so changing an attribute on one object (e.g., position) also update
 ## Troubleshooting
 
 - Be careful about choosing the right `Data Type` for nodes, for example vector won't work properly in a `Math` node unless `Vector` is chosen as the data type
-- In XPresso, rotation values are in radians, not degrees, to convert to degrees use a `degree` node set to `Function: Degree to Radians`
+- In XPresso, rotation values are in radians, not degrees, to convert to degrees use a `degree` node set to `Function: Degree to Radians` (note that this doesn't work on vectors, so the vector will have to be split into separate outputs first). But it's easier just to only work in radians.
