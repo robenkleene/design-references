@@ -16,6 +16,8 @@ There are two types of license servers: local or SideFX.
 4. To set the machine's hashname use `sudo scutil --set HostName <hostname>`
 5. To remove a license from a hostname visit [SideFX Licenses](https://www.sidefx.com/services/licenses/), and right-click any license that's assigned to a `hostname` to remove it from a `hostname`
 
+- macOS lets router's set the hostname, so over time Houdini licenses will naturally become broken under normal usage if this isn't addressed. `sudo scutil --set HostName <hostname>` should avoid this.
+
 ## SideFX Server
 
 You can only switch to the SideFX Server if your licenses have been removed from all hostnames by right-clicking them here [SideFX Licenses](https://www.sidefx.com/services/licenses/), and removing them.
