@@ -1,5 +1,7 @@
 # Houdini Properties
 
+- `⌃MMB`: Revert to default value (or right-click the property and choose `Revert to Defaults`)
+
 ## Relative References
 
 To make a value of one node match another node, right-click the source property and choose `Copy Parameter`, then right-click the destination property and choose `Paste Relative References`.
