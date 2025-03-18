@@ -4,6 +4,12 @@
 - `Scroll`: Zoom
 - `Right-Drag`: Pan (this only works if the `HOUDINI_MMB_PAN = 0` environment variable is set
 
+## Mouse
+
+- `⌥LMB`: Orbit
+- `⌥MMB`: Pan
+- `⌥RMB`: Zoom
+
 ## Troubleshooting
 
 If none of these are working you might be in `Edit` mode, hit `⎋` to switch back to `View` mode.
