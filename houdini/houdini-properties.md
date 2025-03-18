@@ -1,6 +1,6 @@
 # Houdini Properties
 
-- `⌃MMB`: Revert to default value (or right-click the property and choose `Revert to Defaults`)
+- `⌃MMB` on the parameter name: Revert to default value (or right-click the property and choose `Revert to Defaults`) (Note that `⌃MMB` on a slider or similar control will show the ladder instead, this only works on the parameter name)
 
 ## Relative References
 
