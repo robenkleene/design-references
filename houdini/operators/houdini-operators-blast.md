@@ -1,4 +1,4 @@
-# Houdini Nodes Blast
+# Houdini Operators Blast
 
 ## Troubleshooting
 

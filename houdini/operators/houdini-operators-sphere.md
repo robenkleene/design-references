@@ -1,4 +1,4 @@
-# Houdini Nodes Sphere
+# Houdini Operators Sphere
 
 ## `Sphere (Polygon)` vs. `Sphere (Primitive)`
 

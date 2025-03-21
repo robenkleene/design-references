@@ -1,4 +1,4 @@
-# Houdini Nodes Group
+# Houdini Operators Group
 
 ## Spreadsheet
 

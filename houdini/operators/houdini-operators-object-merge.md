@@ -1,4 +1,4 @@
-# Houdini Nodes Object Merge
+# Houdini Operators Object Merge
 
 Used to reference the same object in two different networks.
 

@@ -1,4 +1,4 @@
-# Houdini Nodes PolyBevel
+# Houdini Operators PolyBevel
 
 Used to add a bevel (e.g., like `Fillet` in Cinema 4D)
 
