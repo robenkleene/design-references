@@ -24,14 +24,6 @@ Along with `int` and `float`, Houdini has some other types.
 
 ## Acronyms
 
-- **DOP**: "Dynamic Operator", construct simulations, read geometry from SOPs
-- **POP**: "Particle Operator", these are DOPs now.
-- **SOP**: "Surface Operator", construct and modify geometry.
-- **VEX**: A language for writing shaders and custom nodes.
-
-- **COP**: "Composite Operator", composite image sequences, such as images behind VFX, or combine FX.
-- **VOP**: "Vector Operator", this can modify almost anything, e.g., shaders, geo, volumes, VDBs, and points.
-
 - **RBD**: Rigid body
 
 ## Simulations

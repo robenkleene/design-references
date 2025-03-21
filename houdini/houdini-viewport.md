@@ -9,6 +9,7 @@
 - `⇧W`: Toggle wire shaded (show wireframe with shading)
 - Shading can also be set by clicking the cube in the top right of the viewport
 - `G` / `␣F`: Frame currently selected object
+- `⌤`: Show handles for current node (e.g., manipulate current node in viewport, showing the bounding box and shortcuts for the ndoe)
 
 ## X-Ray
 
