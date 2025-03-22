@@ -8,3 +8,4 @@
 
 - `Rigging Tags > Protection`: Prevent an object from being moved
 - `Animation Tags > Target`: Keep an object (e.g., camera or light) pointed at another object
+- `Modeling Tags > Phong`: Smooths lighting across polygon edges so the object looks less faceted and more organic
