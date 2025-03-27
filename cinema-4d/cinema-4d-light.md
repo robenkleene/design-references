@@ -28,6 +28,10 @@ The `Default Light` editor shows a sphere, dragging the sphere changes the angle
 
 - This light starts really bright, a good first step for it is to lower the `Object > General > Intensity`
 
+#### Background
+
+A Dome Light will brighten the background, often making it white, to remove this, and all have the geometry affected by the light, set `RS Dome Light > Details > Contribution > Camera : 0`
+
 #### HDRI
 
 - `Object > General > Texture > Image` is where an HDRI can be loaded (there are some in the `Asset Browser`)
