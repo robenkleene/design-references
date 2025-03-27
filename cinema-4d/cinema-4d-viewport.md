@@ -6,6 +6,10 @@
 - `View > Frame Default`: Reset the camera to the default position
 - `S`: Center the selected object in the viewport
 
+## Hiding UI
+
+- The `Filter` menu can toggle individual parts of the UI, to hide everything and just see the geometry, toggle on `Filter > Geometry Only`.
+
 ## Grid
 
 - Toggle the grid under view settings (`⇧V`), `Filter`, `Workplane`
