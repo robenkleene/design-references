@@ -4,9 +4,13 @@
 
 ### Trackpad
 
-- **Orbit:** `Scroll` (or `⌥Drag`)
-- **Pan:** `⇧Scroll` (or `⇧⌥Drag`)
-- **Zoom:** `Pinch` (or `^Scroll` or `⌘Scroll` or or `⌃⌥drag`)
+- `Scroll` (or `⌥Drag`): Orbit
+- `⇧Scroll` (or `⇧⌥Drag`): Pan
+- `Pinch` (or `^Scroll` or `⌘Scroll` or or `⌃⌥drag`): Zoom
+
+### Mouse
+
+- `MMB`: Orbit
 
 ## Shortcuts
 
