@@ -12,7 +12,7 @@
 
 - `⌘⌥Z`: Toggle overlays
 - `Numpad .`, `~, View Selected (S)`, `View > Frame Selected`: Center the select object in the viewport
-- `Numpad 5`, `View > Perspective/Orthographic`: Switch between perspective and orthographic views. Perspective is the normal view, orthographic is a view where the the lines are more geometric. Orthographic removes perspective distortion.
+- `Numpad 5`, `View > Perspective/Orthographic`: Switch between perspective and orthographic views. Perspective is the normal view, orthographic is a view where the lines are more geometric. Orthographic removes perspective distortion.
 
 ## Walk Navigation
 
