@@ -11,6 +11,8 @@
 ### Mouse
 
 - `MMB`: Orbit
+- `⇧MMB`: Pan
+- `Scroll` or `⌃MMB`: Zoom
 
 ## Shortcuts
 
