@@ -2,6 +2,8 @@
 
 ## Basic
 
+### Trackpad
+
 - **Orbit:** `Scroll` (or `⌥Drag`)
 - **Pan:** `⇧Scroll` (or `⇧⌥Drag`)
 - **Zoom:** `Pinch` (or `^Scroll` or `⌘Scroll` or or `⌃⌥drag`)
