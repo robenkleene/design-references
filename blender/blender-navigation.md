@@ -4,13 +4,13 @@
 
 ### Trackpad
 
-- `Scroll` (or `⌥Drag`): Orbit
-- `⇧Scroll` (or `⇧⌥Drag`): Pan
-- `Pinch` (or `^Scroll` or `⌘Scroll` or or `⌃⌥drag`): Zoom
+- `Scroll`, `⌥Drag`: Orbit
+- `⇧Scroll`, `⇧⌥Drag`: Pan
+- `Pinch`, `^Scroll`, `⌘Scroll`, `⌃⌥drag`: Zoom
 
 ### Mouse
 
-- `MMB`: Orbit
+- `MMB`, `⌥LMB`: Orbit
 - `⇧MMB`: Pan
 - `Scroll` or `⌃MMB`: Zoom
 
