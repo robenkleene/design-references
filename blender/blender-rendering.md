@@ -5,15 +5,11 @@
 1. Go to `Render` > `Render Image` (`F12`).
 2. Type `S` to save the image
 
-### In Viewport
-
-Just switch to `Viewport Shading > Rendered` (`z r`)
-
 ## Rendering Engines
 
 The rendering engine is set under `Render > Render Engine`.
 
-- **Eevee**: A real-time rendering engine. A biased rendering engine Really fast renders for working on long animations. It's comparable to a game rendering engine like Unreal Engine. It uses rasterization in OpenGL.
+- **Eevee**: A real-time rendering engine. A biased rendering engine Really fast renders for working on long animations. It's comparable to a game rendering engine like Unreal Engine. It uses rasterisation in OpenGL.
 - **Cycles**: An unbiased, ray-traced, rendering engine. Animated movies like Toy Story use unbiased, ray-tracing, rendering engines. It uses path tracing.
 
 ### Terminology
@@ -24,9 +20,9 @@ Path tracing applies the Monte Carlo Method of using random samples to rendering
 
 ![Path Tracing](assets/blender-path-tracing.gif)
 
-#### Rasterization
+#### Rasterisation
 
-Rasterization works by projecting the faces of a model onto the pixels that make up a 2D image. Rasterization isn't as accurate because it works with pixel information rather than simulating light. Rasterization is fast.
+Rasterisation works by projecting the faces of a model onto the pixels that make up a 2D image. Rasterisation isn't as accurate because it works with pixel information rather than simulating light. Rasterisation is fast.
 
 ## Notes
 
