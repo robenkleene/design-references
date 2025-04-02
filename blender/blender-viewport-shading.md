@@ -29,6 +29,8 @@ Shared settings between `Material Preview` & `Rendered`
 
 ### Material Preview
 
-Doesn't use scene lights or world settings unless `Scene World` is enabled.
+By default, `Scene Lights` and `Scene World` are off, and `World Opacity: 1`.
 
 ### Rendered
+
+By default, `Scene Lights` and `Scene World` are on, and `World Opacity: 0`.
