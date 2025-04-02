@@ -27,4 +27,7 @@ Most performant, focus on modeling, layout, and animation without materials or l
 
 Doesn't use scene lights or world settings unless `Scene World` is enabled.
 
+- `Viewport Shading > Lighting > Scene Lights`: Use actual scene lighting
+- `Viewport Shading > Lighting`: Use lighting and environment
+
 ### Rendered
