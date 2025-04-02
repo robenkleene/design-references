@@ -4,9 +4,18 @@
 
 ## Radial Menu
 
-- `Z R`: Show rendered
+- `M`, `2`: Material preview
+- `W`, `4`: Wireframe
+- `S`, `6`: Solid
+- `R`, `8`: Show rendered
 
-## Object Color Mode
+## Notes
+
+- To remove the background, click the `Viewport Shading` drop-down in the upper right, and set the `World Opacity: 0`
+
+## Modes
+
+### Object Color Mode
 
 `Object Color` mode is a quick way to give objects in the viewport colors without having to assign them materials.
 
