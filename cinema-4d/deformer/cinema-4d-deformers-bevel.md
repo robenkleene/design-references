@@ -1,4 +1,4 @@
-# Cinema 4D Operators Deformers Bevel
+# Cinema 4D Deformers Bevel
 
 - `Mesh > Bevel`: Destructive bevel
 - `Create > Deformer > Generate > Bevel`: Non-destructive bevel

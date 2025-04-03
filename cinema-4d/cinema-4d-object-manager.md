@@ -4,8 +4,6 @@
 - `⌥G`: Wrap current selection in a `null`
 - `S`: Scroll to first active in object manager
 - Objects colored purple will manipulate or distort objects or data
-- Deformers need to be children of object to deform
-- Deformer properties have a `fit to parent` that sizes to parent
 
 ## Create
 

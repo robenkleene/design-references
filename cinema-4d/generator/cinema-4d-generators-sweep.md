@@ -1,4 +1,4 @@
-# Cinema 4d Operators Generators Sweep
+# Cinema 4d Generators Sweep
 
 Sweep takes two splines and runs the first along the second to create an mesh.
 
