@@ -12,10 +12,13 @@
 - `Panel > New View Panel`: Create a new floating window
 - The `Cameras` menu has the various camera options like `Perspective`, `Top`, etc...
 - Views, these are actually four different views that can be configured to be different camera views, the below are just the defaults
-    - `F1`: Default camera
-    - `F2`: Perspective
-    - `F3`: Right
-    - `F4`: Front
+
+### Views
+
+- `F1`: Default camera
+- `F2`: Perspective
+- `F3`: Right
+- `F4`: Front
 
 ## Splits
 
