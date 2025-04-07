@@ -11,9 +11,9 @@
 
 ## Trackpad
 
-- `⌥One-Finger-Click-Drag`: Orbit
-- `Two-Finger-Drag`: Pan
-- `⌥Two-Finger-Click-Drag` / `Pinch`: Zoom
+- `1+LMB`, `Two-Finger-Drag`: Pan
+- `2+LMB`, `⌥Two-Finger-Click-Drag` (this isn't working?), `Pinch`: Zoom
+- `3+LMB`, `⌥One-Finger-Click-Drag`: Orbit
 
 ## Other
 
