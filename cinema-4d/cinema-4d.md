@@ -6,7 +6,7 @@
 - `⌘Drag` to duplicate (instead of the usual `⌥Drag` on macOS)
 - Menu items that look like `N~A` mean type `N` then `A`
 - `⇧F2` / Icon in upper-right that looks like a crystal ball: Toggle `Material Manager`
-- Right-click a parameters label and choose `Reset to Default` to reset a parameter to its default value
+- Right-click a parameters *label* (not the control or value entry field) and choose `Reset to Default` to reset a parameter to its default value
 
 ## Transport
 

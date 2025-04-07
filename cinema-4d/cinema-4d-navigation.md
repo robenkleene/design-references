@@ -2,14 +2,14 @@
 
 - `View > Frame Default` reset/re-align view
 
-## Mouse Controls
+## Mouse
 
 - `⌥LMB`: Orbit
 - `⌥⌘LMB`: Orbit
 - `⌥MMB`: Pan
 - `⌥RMB`, `Scroll Wheel`: Zoom
 
-## Trackpad Controls
+## Trackpad
 
 - `⌥One-Finger-Click-Drag`: Orbit
 - `Two-Finger-Drag`: Pan

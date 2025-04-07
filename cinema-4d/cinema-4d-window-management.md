@@ -6,6 +6,8 @@
 - A collapsed panel leaves a blank bar, clicking that expands the panel
 - Folded panels leave a thin bar, clicking that bar unfolds the panel
 - Right-click and choose `Undock` to undock a panel
+- `⇧W`: Close selected panel (the selected panel shows the hamburger button in the upper left white)
+- To create a new view panel, use the `Command Manager` (`⌘C`) and choose `New View Panel`
 
 ## Panels
 
@@ -52,7 +54,3 @@ To setup a window for editing and another beside it showing a preview.
 ## Tabs
 
 There's no built-in keyboard shortcuts to switch tabs, the commands are `Next Project` / `Previous Project`
-
-## Bottom Manager
-
-- `⇧W`: Close bottom manager view
