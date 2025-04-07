@@ -11,6 +11,8 @@
 
 ## Trackpad
 
+Probably better to use the numbers because they're better supported.
+
 - `1+LMB`, `Two-Finger-Drag`: Pan
 - `2+LMB`, `⌥Two-Finger-Click-Drag` (this isn't working?), `Pinch`: Zoom
 - `3+LMB`, `⌥One-Finger-Click-Drag`: Orbit

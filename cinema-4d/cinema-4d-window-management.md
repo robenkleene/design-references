@@ -7,7 +7,7 @@
 - Folded panels leave a thin bar, clicking that bar unfolds the panel
 - Right-click and choose `Undock` to undock a panel
 - `⇧W`: Close selected panel (the selected panel shows the hamburger button in the upper left white)
-- To create a new view panel, use the `Command Manager` (`⌘C`) and choose `New View Panel`
+- To create a new view panel, use the `Command Manager` (`⌘C`) and choose `New View Panel` (*this doesn't appear to have a menu item?*)
 
 ## Panels
 
