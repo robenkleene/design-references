@@ -1,21 +1,13 @@
-# Cinema 4D Node Editor Nodes
+# Cinema 4D Node Editor Nodes TriPlanar
 
-## Ramp
-
-Node that's used to create a color gradient.
-
-- There are two ways to adjust the color of a `knot`, either click the double-click the knot itself, or click the knot once to select it, then click the color well. The color well approach allows the color change to be previewed live.
-
-## TriPlanar
-
-### Scale
+## Scale
 
 - The scale is `0.01 0.01 0.01` by default most likely so that a texture is scaled down to be applied small and repeating, instead of covering an entire face at its full size
 - `Scale` is the scale of the UV projection (i.e., not the scale of the texture itself)
 - `Projection Space Type` has three options: `World`, `Object`, and `Reference`
 - `Reference` uses the object's reference pose (reference pose is for character animation, it's set by adding a `Rigging Tags > Character Definition Tag` and clicking `Set Reference Pose`)
 
-### Scaling Textures 1-to-1 to Faces
+## Scaling Textures 1-to-1 to Faces
 
 It seems like the scale is always relative to world space rather than object space (regardless of whether `Projection Space Type` is set to `Object`). This makes it difficult to scale an texture so it appears the same size as a face (for example, if you align a face and then scale an object up the texture will become smaller relative to the object rather than the texture getting larger along with the object).
 
