@@ -6,6 +6,8 @@ By default, Cinema 4D adds a light to the scene called `Auto Light`, it automati
 
 You can edit the default light by choosing `Default Light...` from the `Commander...` (`⇧C`).
 
+Just adding an `RS Infinite Light` gives a similar result to the `Default Light`.
+
 ### Default Light Editor
 
 The `Default Light` editor shows a sphere, dragging the sphere changes the angle of the light
@@ -42,3 +44,7 @@ A Dome Light will brighten the background, often making it white, to remove this
 ### Area Light
 
 - Can be made into a nice back light to provide a halo-like glow (switch to top view and drag it behind the object to light)
+
+### RS Infinite Light
+
+- Changing the `Coordinates` of an `Infinite Light` has no effect.
