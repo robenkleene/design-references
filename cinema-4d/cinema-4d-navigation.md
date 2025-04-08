@@ -14,7 +14,7 @@
 Probably better to use the numbers because they're better supported.
 
 - `1+LMB`, `Two-Finger-Drag`: Pan
-- `2+LMB`, `⌥Two-Finger-Click-Drag` (this isn't working?), `Pinch`: Zoom
+- `2+LMB`, `⌥Two-Finger-Click-Drag` (note this needs to actually *click*, which is weird for a two-finger gesture), `Pinch`: Zoom
 - `3+LMB`, `⌥One-Finger-Click-Drag`: Orbit
 
 ## Other
