@@ -10,3 +10,4 @@
 Below the viewport, there's an icon that represents `Choose grid and guide options`, there's several built-in options under this:
 
 - `Proportional Grid`: Useful for a quick grid
+- `Title/Action Safe`: Useful to quickly center an object that should take up most of the canvas, but not entirely
