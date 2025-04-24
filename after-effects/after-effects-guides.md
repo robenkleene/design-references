@@ -7,4 +7,6 @@
 
 ## More
 
-Below the viewport, there's an icon that represents `Choose grid and guide options`, there's several built-in options under this, including `Proportional Grid`, which is useful for a quick grid.
+Below the viewport, there's an icon that represents `Choose grid and guide options`, there's several built-in options under this:
+
+- `Proportional Grid`: Useful for a quick grid

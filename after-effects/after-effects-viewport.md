@@ -7,6 +7,7 @@
 - `⌥'`: Toggle grid
 - `⇧⌘A`: Deselect all
 - `⇧,` / `⇧.`: Switch between multiple open compositions (with the viewport focused [`\`])
+- `⇧⌘H` (or the icon that looks like a shape layer below the viewport): Show / hide UI, e.g., selection boxes
 
 ## Zoom
 
