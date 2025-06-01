@@ -5,7 +5,7 @@
 - `⌘↓` / `⌘↑`: Select next or previous layer
 - `⌘[` / `⌘]`: Move a layer forward / backward (in front or behind other layers)
 - `⌘⇧[` / `⌘⇧]`: Move a layer to top / bottom
-- `⇧⌘A`: Deselect all
+- `⇧⌘A`/ `F2`: Deselect all
 - `⌘D`: Duplicate
 - `↩`: Rename layer
 - `⌘F`: Search layers (focus search bar)
