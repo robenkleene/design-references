@@ -1,5 +1,6 @@
 # After Effects Shape Layers
 
+- Double-click a shape layers icon to create a shape matching the comp size
 - If a layer is selected, the shape will automatically mask that layer, otherwise it'll create a shape layer
 - The `Puppet Tool` (`⌘P`) can be used to warp shapes, add multiple pins and adjust them
 
