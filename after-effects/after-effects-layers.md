@@ -39,14 +39,18 @@ Toggle show / hide for properties, these operate on the selected layer, or all l
 
 #### Notes
 
-- A more predictable way to find the layer property to edit is to use search.
 - To show just modified properties, first `⇧⌘A` to deselect all, then `uu` to show all modified properties.
 - Holding `⇧`, and then hitting multiple of these keys in succession will reveal all of those properties (e.g., `⇧P ⇧R` will show position and velocity). Holding `⌥` will add a keyframe for that property.
 - Properties shown in red means they are being set by expressions (if this is unintentional `⌥LMB` to remove it)
 
 ## Search
 
+- The search field is at the top of the layers panel
 - You can separate multiple search terms with commas in the layer search field, e.g., `point, elli` will find both `Point of Interest` and `Ellipse` properties.
+
+## Copying Properties
+
+You can copy a property and paste it to apply to many layers at once. Just select only the property to copy and copy (`⌘C`), then select all the layers to copy to and paste (`⌘V`)
 
 ## Timeline
 
