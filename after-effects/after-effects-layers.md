@@ -67,7 +67,7 @@ You can copy a property and paste it to apply to many layers at once. Just selec
 
 ## Adding
 
-- `⌘Y`: Add solid
+- `⌘Y`: Add a new solid layer
 - `⌘⌥Y`: Add a new adjustment layer
 
 ## Columns
