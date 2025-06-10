@@ -12,7 +12,7 @@
 
 Expressions run on top of existing layer property values (including those that are modified by keyframes). Normally, the value of the property is *replaced* by the value returned by an expression, but the property values can also be referenced by the expression and returned.
 
-The following expression just returns the existing propery values:
+The following expression just returns the existing property values:
 
 ```
 value;
@@ -20,7 +20,7 @@ value;
 
 If the property is an array (e.g., like size and position) then `value[0]`, `value[1]`, etc... can be used to access each value in the array.
 
-Here's an example that will vary a keyframed property slighly between instances:
+Here's an example that will vary a keyframed property slightly between instances:
 
 ```
 offset = index * 0.2;
