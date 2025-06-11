@@ -20,6 +20,7 @@ To pre-render a nested composition, select the composition in the `Project Panel
 
 - The checker box icon at the bottom of the viewport toggles the visibility of the composition's background.
 - To change the composition's background color, right-click the composition and select `Composition Settings...`.
+- The composition's background color just controls which color the background is displayed as (which can be toggled on and off with the `Toggle Transparency Grid` button below the viewport), or used when exporting, the compositions background is in reality transparent
 
 ## Cropping
 
