@@ -19,7 +19,7 @@
 
 ### Properties
 
-Toggle show / hide for properties, these operate on the selected layer, or all layers if none are selected (deselect all with `⇧⌘A`). 
+Toggle show / hide for properties, these operate on the selected layer, or all layers if none are selected (deselect all with `⇧⌘A`).
 
 - `⌃backtick`: Show all layer properties
 - `A`: Anchor point
