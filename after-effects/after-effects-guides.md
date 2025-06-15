@@ -11,3 +11,9 @@ Below the viewport, there's an icon that represents `Choose grid and guide optio
 
 - `Proportional Grid`: Useful for a quick grid
 - `Title/Action Safe`: Useful to quickly center an object that should take up most of the canvas, but not entirely
+
+## Grid
+
+- `⌘'`: Toggle showing the grid
+- A grid can be configured in `Settings... > Grids & Guides`
+- The `Snap to Grid` option seems to only work when drawing layers, e.g., not resizing
