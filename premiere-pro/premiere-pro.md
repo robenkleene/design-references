@@ -19,7 +19,7 @@ When entering values, e.g., for a slider.
 
 ## Notes
 
-- Zoom is under "Effect Controls" add keyframes like After Effects
-- You set the aspect ratio by right-clicking a sequence and selecting "Sequence Settings.."
-- You can move and resize the video when "Motion" (or any child parameter) is selected in "Effect Controls".
-    - You can't zoom the monitor with the keyboard, but you can select from several zoom levels in the select box below the monitor.
+- Zoom is under `Effect Controls` (add keyframes like in After Effects)
+- You set the aspect ratio by right-clicking a sequence and selecting `Sequence Settings...`
+- You can move and resize the video when `Motion` (or any child parameter) is selected in `Effect Controls"`
+- You can't zoom the monitor with the keyboard, but you can select from several zoom levels in the select box below the monitor.
