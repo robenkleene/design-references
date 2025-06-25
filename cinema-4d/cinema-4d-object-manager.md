@@ -8,7 +8,7 @@
 ## Create
 
 - Hold `⇧` to add an object as a child
-- Hold `⌥` to add an object as the parent
+- Hold `⌥` to add an object as the parent (note that if multiple objects are selected, a parent will be added to each object in the selection, i.e., instead of one parent for several children)
 
 ## UI
 
