@@ -1,5 +1,7 @@
 # Cinema 4D Light
 
+- To evenly increase the brightness of the entire scene, the *camera's* exposure can be set under `Camera > Optical Exposure > Exposure`
+
 ## Default Light
 
 By default, Cinema 4D adds a light to the scene called `Auto Light`, it automatically gets disabled when you add a light to the scene.
