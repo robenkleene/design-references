@@ -1,5 +1,9 @@
 # Cinema 4D Attribute Manager
 
+## Coordinates
+
+- Right-click the `P`, `R`, or `S` and choose `Copy` to copy all three coordinates, which can then be pasted together by right-clicking the `P`, `R`, or `S` on another object and choosing `Paste`
+
 ## Adjusting Values
 
 - `⌥`-drag: Adjust by smaller increments
