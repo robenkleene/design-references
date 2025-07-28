@@ -17,11 +17,11 @@
 - `Top`
 - `Bottom`
 
-Only the `Perspective` camera has `Display > Gouraud Shading` turn on by default, that's why the other cameras sometimes look like just wireframes and only the `Perspective` camera has shading
+Only the `Perspective` camera has `Display > Gouraud Shading` turn on by default, that's why the other cameras sometimes look like just wireframes and only the `Perspective` camera has shading.
 
 ## Default Camera
 
-To see the coordinates of the default camera, choose `Cameras > Show Camera Attributes`
+To see the coordinates of the default camera, choose `Cameras > Show Camera Attributes`.
 
 ## Tags
 
