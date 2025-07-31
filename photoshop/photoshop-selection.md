@@ -12,5 +12,5 @@
 
 ### Selecting Objects
 
-- The "Object Selection Tool", grouped with the Magic Wand, allows you to draw a marquee that Photoshop then tries to select the object within.
+- The `Object Selection Tool`, grouped with the `Magic Wand`, allows you to draw a marquee that Photoshop then tries to select the object within.
 

@@ -1,15 +1,6 @@
 # Photoshop
 
-- `⌘~`, `⌃⇥`: Switch tabs
-- `⌘R`: Toggle rulers
 - `⌘F`: Search, Photoshop's command palette
-- `⇧⌘D`: Restore last selection
-- `⌫`: Delete layer
-
-### Fill
-
-- `⌘⌫`: Fill with background color
-- `⌥⌫`: Fill with foreground color
 
 ## Toolbar
 
