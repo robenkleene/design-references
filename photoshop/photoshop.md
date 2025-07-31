@@ -11,33 +11,6 @@
 - `⌘⌫`: Fill with background color
 - `⌥⌫`: Fill with foreground color
 
-## Selection
-
-- Hold shift to transform without scaling.
-- `q`: Highlight (color red) selection
-- Expand or contract a selection under "Select > Modify".
-
-### Selecting Objects
-
-- The "Object Selection Tool", grouped with the Magic Wand, allows you to draw a marquee that Photoshop then tries to select the object within.
-
-## Settings
-
-- Disable "Window" -> "Application Frame"
-- Set everything to pixels in "Preferences" -> "Units & Rules"
-- In the right sidebar, drag out most of the tabs, just leave swatches and layers
-- Under "Edit" -> "Color Settings", set color settings to `sRBG`, for a conflict, ask when opening or pasting
-- Set the `N` shortcut to "Foreground Color Picker" in "Edit > Keyboard Shortcuts..."
-
-## Layers
-
-- The feature where you can create a single reference copy of an object and then edit all instances of it, is called "Smart Objects".
-- To make an independent copy of a Smart Object, right-click a smart object and select "New Smart Object via Copy"
-
-## Text
-
-- "Type > Convert to Paragraph Text"
-
 ## Toolbar
 
 If any tools are missing you might have to drag them back into the toolbar under "Edit > Toolbar...".

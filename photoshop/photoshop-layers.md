@@ -8,3 +8,9 @@
 - `⌥[` / `⌥]`: Select next / previous layer
 - `⌫`: Delete a layer
 - `⌥`-click eye icon: Toggle on this layer and off all other layers
+
+## Smart Objects
+
+The feature where you can create a single reference copy of an object and then edit all instances of it, is called `Smart Objects`
+
+- To make an independent copy of a Smart Object, right-click a smart object and select `New Smart Object via Copy`
