@@ -10,16 +10,6 @@ If any tools are missing you might have to drag them back into the toolbar under
 
 Just do "File > New..." and select the "Clipboard" template then paste.
 
-### Tools
-
-- `z`: Zoom tool, to drag a marquee, unselect "Scrubby Zoom"
-- `U`: Shape Tool
-- `⇧U`: Next shape tool
-
-### Polygonal Lasso
-
-- `⌫`: Delete most recent segment
-
 ## Swatches
 
 To delete all swatches, just go to the "Preset Manager" and delete all from there.
