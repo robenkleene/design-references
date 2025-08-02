@@ -14,4 +14,5 @@ The `Preview` panel shows the result of the fill, and the main work area shows t
 
 #### Sampling Brush Tool
 
-Acts as a `Sampling Area` eraser by default, hold `⌥` and click-and-drag to add to the `Sampling Are
+- Hold `⌥` and click-and-drag to add to the `Sampling Area` (the brush acts as an eraser by default)
+- `[` / `]`: Increase / decrease the size of the brush
