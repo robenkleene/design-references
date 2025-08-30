@@ -35,6 +35,7 @@ The Work Area is the portion that will loop if you hit play (in contrast to the 
 ## Zoom
 
 - `-` / `=`: Zoom out / in
+- `;`, `⇧;`: Zoom timeline to fit
 
 ### Glossary
 
