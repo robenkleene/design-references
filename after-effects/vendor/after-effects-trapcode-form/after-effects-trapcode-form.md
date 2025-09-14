@@ -5,7 +5,7 @@ In Trapcode Form, hit `c` to change the 3D camera tool (switch from orbit to pan
 ## Starting
 
 1. Make a new composition
-2. Right-click in timeline panel and choose "New" -> "Solid", and click "Make Comp Size"
+2. Right-click in timeline panel and choose `New > Solid`, and click `Make Comp Size`
 3. Right-click the solid and add the Trapcode Form affect to it
 
 ## Tips
@@ -19,12 +19,12 @@ In Trapcode Form, hit `c` to change the 3D camera tool (switch from orbit to pan
 
 ## Blend Mode
 
-- There's no longer a blend mode option under "Rendering", so instead make a separate layer and change the blend mode of the new layer.
-- To set a blend mode, right-click a layer and select it under "Blending Mode".
+- There's no longer a blend mode option under `Rendering`, so instead make a separate layer and change the blend mode of the new layer.
+- To set a blend mode, right-click a layer and select it under `Blending Mode`.
 
 ## Opacity
 
-- "Opacity Curve" has presets to the right (you might have to drag the size of the panel larger).
+- `Opacity Curve` has presets to the right (you might have to drag the size of the panel larger).
 
 ## Fractal Field
 

@@ -80,7 +80,7 @@ To change a solid's size, choose `Layer > Solid Settings...` (`⇧⌘Y`).
 
 ## Columns
 
-The visible columns in the layers panel can be changed by right-clicking the header, some options that can be toggled on for each layer:
+- To show the `Mode` column (for `Blending Mode`), click the `Expand or Collapse the Transfer Controls pane` toggle in the lower left (looks like two shape layers overlapping)
 
 - `Mode`: Blend modes
 
