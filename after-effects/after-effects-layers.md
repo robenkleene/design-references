@@ -15,7 +15,7 @@
 ### Columns
 
 - Click the Solo icon (circle) in the Layers panel to solo a layer
-- The video icon (eye) determines the layer visibility (if the eye icon pupil is filled in [instead of black] then that means something is affecting the layers visibility [e.g., usually either a matte or blend mode])
+- The video icon (eye) determines the layer visibility (if the eye icon pupil is filled in [instead of black] then that means something is affecting the layers visibility [e.g., usually either a matte or blending mode])
 
 ### Properties
 
