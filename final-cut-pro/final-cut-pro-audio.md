@@ -1,6 +1,6 @@
 # Final Cut Pro Audio
 
-- `⇧S` / `View > Audio Skimming`: Toggle audio preview
+- `⇧S` / `View > Audio Skimming`: Toggle audio preview (e.g., toggle whether the audio plays while scrubbing)
 
 ## Editing
 
