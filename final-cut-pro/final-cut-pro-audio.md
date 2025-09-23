@@ -1,12 +1,16 @@
 # Final Cut Pro Audio
 
-- `Modify > Adjust Audio Fades > Apply Fades`: Apply audio fades to the beginning and end of the audio
 - `⇧S` / `View > Audio Skimming`: Toggle audio preview
 
 ## Editing
 
 - `⌘B`: Split audio at playhead (just like editing video)
 
-## Adding Audio
+## Adding
 
-To add an audio track, just drag it directly into the timeline. Sometimes the audio becomes `Rejected` and it won't appear in `Events` to see it, choose `All Clips` from the dropdown menu in the upper right of the `Events Panel`.
+To add an audio track, just drag it directly into the timeline. Sometimes the audio becomes `Rejected` and it won't appear in `Events` to see it, choose `All Clips` from the drop-down menu in the upper right of the `Events Panel`.
+
+## Fade In / Out
+
+- `Modify > Adjust Audio Fades > Apply Fades`: Apply audio fades to the beginning and end of the audio
+- To adjust the fade in / out duration, hover the audio clip and a location indicator will appear that can be dragged to adjust the timing.
