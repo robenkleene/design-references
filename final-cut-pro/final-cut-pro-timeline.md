@@ -7,4 +7,4 @@
 
 ## Zoom
 
-- `Z`: Switch to Zoom Tool then click to zoom in or `⌥`-click to zoom out (`A` to switch back the the default `Select` tool)
+- `Z`: Switch to Zoom Tool then click to zoom in or `⌥`-click to zoom out (`A` to switch back the default `Select` tool)
