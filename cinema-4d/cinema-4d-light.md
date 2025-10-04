@@ -23,8 +23,16 @@ The `Default Light` editor shows a sphere, dragging the sphere changes the angle
 
 ## HDRI
 
+- HDRIs typically work well with a `Dome Light` because dome lights are inifinite environmental lights, it surrounds the scene with light coming from all directions (unlike point or area lights, which have a specific size and position) ensuring the object is evenly illuminated from all angles.
 - To add an HDRI image to a light, set it at `Attributes > Object > General > Texture`
 - Cinema 4D has HDRI images in the `Asset Browser`
+
+### Settings
+
+- `Object > General > Texture > Image` is where an HDRI can be loaded (there are some in the `Asset Browser`)
+- `Object > Environment > Background`: Toggle on and off the background
+- `Object > General > Saturation`: Use to make the light less colorful
+- `Object > General > Gamma`: Reduce to make the light less harsh
 
 ## Light Types
 
@@ -35,13 +43,6 @@ The `Default Light` editor shows a sphere, dragging the sphere changes the angle
 #### Background
 
 A Dome Light will brighten the background, often making it white, to remove this, and all have the geometry affected by the light, set `RS Dome Light > Details > Contribution > Camera : 0`
-
-#### HDRI
-
-- `Object > General > Texture > Image` is where an HDRI can be loaded (there are some in the `Asset Browser`)
-- `Object > Environment > Background`: Toggle on and off the background
-- `Object > General > Saturation`: Use to make the light less colorful
-- `Object > General > Gamma`: Reduce to make the light less harsh
 
 ### Area Light
 
