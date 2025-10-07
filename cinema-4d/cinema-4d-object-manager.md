@@ -5,6 +5,29 @@
 - `S`: Scroll to first active in object manager
 - Objects colored purple will manipulate or distort objects or data
 
+## Evaluation Order
+
+Every object in your scene is evaluated from top to bottom in the Object Manager and from parent to child in the hierarchy.
+
+This means *generators should usually come first* (because these create geometry) and *deformers last* (because these manipulate on geometry).
+
+E.g., using the below outline, higher numbered items are applied later:
+
+## Example
+
+```
+- Sphere (Mesh)
+ - Displacer (Deformer)
+ - Subdivision Surface (Generator)
+```
+
+1. **Sphere:** Generates a low-poly mesh (e.g., 48 segments)
+2. **Displacer:** Moves the vertices in the mesh based on the noise pattern
+3. **Subdivision Surface:** Smooths the displaced geometry by creating new subdivided faces that average between displaced vertices
+
+- **Deformers:** Modify the geometry of their parent
+- **Generator:** Take their children’s output as input and create new geometry from that
+
 ## Create
 
 - Hold `⌥` / `⇧` to add an object as a parent / child of an object (when adding a parent, if multiple objects are selected, a parent will be added to each object in the selection [i.e., instead of one parent for several children])
