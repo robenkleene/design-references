@@ -4,10 +4,11 @@
 - `⌥G`: Wrap current selection in a `null`
 - `S`: Scroll to first active in object manager
 - Objects colored purple will manipulate or distort objects or data
+- `⌘-drag`: Duplicate an object to the dragged to location (note that this is what `⌥-drag` usually does on macOS)
 
 ## Order
 
-As a general rule of thumb, the hierarcy should be organized this way:
+As a general rule of thumb, the hierarchy should be organized this way:
 
 ```
 - Generator
