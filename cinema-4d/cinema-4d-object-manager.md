@@ -41,7 +41,13 @@ The two dots to the right of an object name change it's visibility.
 
 - **Top:** Workspace
 - **Bottom:** Renderer
-- Red means off, green means on, hold `⌥` when clicking to change both dots at once
+- Hold `⌥` when clicking to change both dots at once
+
+#### Colors
+
+- **Grey (default):** Same as parent
+- **Red:** Off
+- **Green:** On
 
 #### Dot Colors
 
