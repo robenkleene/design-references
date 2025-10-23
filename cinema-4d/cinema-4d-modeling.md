@@ -16,7 +16,7 @@
 ## More
 
 - `C`, icon on right toolbar: Make editable (converts a parametric object to polygons)
-- `↩`: Switch between `Points`, `Edges`, `Polygons`
+- `↩`: Switch between `Points`, `Edges`, `Polygons` (only works when the Viewport has focus)
 - `␣`: Switch between most recent selection tool and modeling tool
 - `⇧⌘A`: Is supposed to deselect all but doesn't work, only way to deselect in object is to click empty space in the Object Manager
 
