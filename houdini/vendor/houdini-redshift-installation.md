@@ -20,7 +20,7 @@ When the Redshift Houdini plugin is successfully installed:
 
 ## Removing the quarantine flag
 
-Cd to the plugin directory, and then:
+`cd` to the plugin directory, and then:
 
 ```
 xattr -r -d com.apple.quarantine **/*

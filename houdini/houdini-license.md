@@ -8,6 +8,14 @@ Houdini on Steam can be used on multiple computers.
 
 There are two types of license servers: local or SideFX.
 
+## SideFX Server
+
+You can only switch to the SideFX Server if your licenses have been removed from all hostnames by right-clicking them here [SideFX Licenses](https://www.sidefx.com/services/licenses/), and removing them.
+
+After doing that, choose `File > Use SideFX as My License Server` to switch to SideFX.
+
+To switch back, use `File > Install Licenses...`.
+
 ## Local
 
 1. A license is hashed to a "hostname"
@@ -18,15 +26,7 @@ There are two types of license servers: local or SideFX.
 
 - macOS lets router's set the hostname, so over time Houdini licenses will naturally become broken under normal usage if this isn't addressed. `sudo scutil --set HostName <hostname>` should avoid this.
 
-## SideFX Server
-
-You can only switch to the SideFX Server if your licenses have been removed from all hostnames by right-clicking them here [SideFX Licenses](https://www.sidefx.com/services/licenses/), and removing them.
-
-After doing that, choose `File > Use SideFX as My License Server` to switch to SideFX.
-
-To switch back, use `File > Install Licenses...`.
-
-## Fixing License
+## Fixing Local License
 
 ### Option 1
 
