@@ -1,6 +1,6 @@
 # Cinema 4d Redshift Shader Graph Nodes
 
-Nodes are added from the sidebar.
+- `⇧C`: Create a node
 
 ## Texture
 
