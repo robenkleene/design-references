@@ -28,7 +28,7 @@ This is because `Generators` act on their children and `Deformers` act on their 
 
 ## Create
 
-- Hold `⌥` / `⇧` to add an object as a parent / child of an object (when adding a parent, if multiple objects are selected, a parent will be added to each object in the selection [i.e., instead of one parent for several children])
+- Hold `⌥` / `⇧` to add an object as a parent / child (mnemonic "option over [the child]" and "shift down [the new object]") of an object (when adding a parent, if multiple objects are selected, a parent will be added to each object in the selection [i.e., instead of one parent for several children])
 
 ## UI
 
