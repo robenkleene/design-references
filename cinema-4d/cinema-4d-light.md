@@ -35,6 +35,8 @@ The `Default Light` editor shows a sphere, dragging the sphere changes the angle
 
 To remove the HDRI background, select the camera, and set `Background > Background > Override`.
 
+- To also remove the HDRI background in the viewport, a quick fix is to set `RS Dome Light > Basic > Viewport Visibility: Off`
+
 ## Light Types
 
 ### RS Dome Light
