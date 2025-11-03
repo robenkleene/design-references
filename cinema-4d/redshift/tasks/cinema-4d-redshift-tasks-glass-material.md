@@ -1,9 +1,7 @@
 # Cinema 4D Redshift Tasks Glass Material
 
-- `Base > Weight: 0`
 - `Transmission > Weight: 1`
-- `Reflections > Weight: 1`
-- `Dispersion (Abbe): 0.35` This is what adds the refraction
+- `Transmission > Dispersion (Abbe): 0.35` This is what adds the refraction
 
 ## Adjustments
 
