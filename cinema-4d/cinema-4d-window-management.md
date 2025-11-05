@@ -11,9 +11,10 @@
 
 ## Panels
 
+- Clicking the middle mouse button in the viewport toggles between showing all four views, and the view clicked on
 - `Panel > New View Panel`: Create a new floating window
 - The `Cameras` menu has the various camera options like `Perspective`, `Top`, etc...
-- Views, these are actually four different views that can be configured to be different camera views, the below are just the defaults
+- `Panel > View 1` always uses the active camera (this means that `View 1` can be set to the rendering camera, and another view can be used to navigate the scene, e.g., to prevent having to change the camera for rendering)
 
 ### Views
 
