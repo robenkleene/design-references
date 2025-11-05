@@ -1,4 +1,4 @@
-# Cinema 4D Workflow
+# Cinema 4D Tasks Workflow
 
 1. Add lighting and an (optional) backdrop (this is done first so we don't spend time adjusting materials to match the default lighting setup and then have to redo them when we add our final lighting)
 2. Modeling

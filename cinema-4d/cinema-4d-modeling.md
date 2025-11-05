@@ -1,7 +1,5 @@
 # Cinema 4D Modeling
 
-- `⌥C`: Access `Create` pop-up
-
 ## Basic
 
 - `E`: Move
@@ -27,14 +25,21 @@
 ## Modeling
 
 - By default, most Cinema 4D objects are not editable because they are parametric. To convert them to an editable object, choose `Tools > Convert > Make Editable` (`C`)
+- The `Scale` tool (e.g., `T`) can't change the dimensions of parametric objects (e.g., dragging the handle for a specific axes will scale the object in all axes). Some objects, like the `Cube` have separate handles (yellow spheres), that can change the `Object Properties` of the object, allowing it's dimensions to be changed independently (this changes the `Object Properties > Size` attributes).
 - Snapping icon is along the top toolbar
 
-## Extrude
+## Modes
 
-- `M T`: Extrude tool (pull or push geometry in)
-- `M W`: Inset tool (select a polygon or face, and create smaller or larger geometry from it)
-- `9` / `Brush Selection`: Useful for interactively selecting an entire face of many polygons (e.g., to extrude a face of complex geometry, use brush selection to select all the polygons that make up the face, then use the `Inset` tool [`M W`] to make a smaller version of the face, then the `Extrude` tool [`M T`] to just extrude that smaller version)
+- `↩`: Switch between `Points`, `Edges`, `Polygons`
 
-## Bevel
+### Point
 
-- `M s`: Bevel
+- To see the coordinates of a point, or select a point based on its coordinates, open the `Structure Manager` (`Window > Structure Manager`, `⇧F9`)
+
+### Edge
+
+### Polygon
+
+### Model
+
+### Texture

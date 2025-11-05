@@ -2,7 +2,7 @@
 
 ## Interface
 
-- Toggle off `Interface > Show Mac Menu Bar` to instead show the menu bar in the Cinema 4D window (the Cinema 4D menu bar is so long that macOS ends up distorting the fonts to fit it in, and all the menu bar items on the right are inaccessible)
+- Toggle off `Interface > Show Mac Menu Bar` to instead show the menu bar in the Cinema 4D window (the Cinema 4D menu bar is so long that macOS ends up distorting the fonts to fit it in, and all the menu bar items on the right are inaccessible). Note that one of the benefits of leaving this on, to use the macOS menu bar, is it makes the search available.
 
 ### Customization
 

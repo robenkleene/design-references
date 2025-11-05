@@ -1,6 +1,7 @@
 # Cinema 4D
 
 - `⇧C`: Show the commander to type commands
+- `⌥C`: Access `Create` pop-up (add `Mesh`, `Generator`, `Deformer`, `Spline`, `Camera`, `Light`)
 - `V`: Bring up radial menu, including an option to switch between open projects
 - To duplicate an object, just use `⌘C ⌘V`
 - `⌘Drag` to duplicate (instead of the usual `⌥Drag` on macOS)
