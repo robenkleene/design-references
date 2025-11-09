@@ -1,7 +1,7 @@
 # Cinema 4D Object Manager
 
 - To duplicate an object, just use `⌘C` then `⌘V`
-- `⌥G`: Wrap current selection in a `null`
+- `⌥G`: Wrap current selection in a `Null`
 - `S`: Scroll to first active in object manager
 - Objects colored purple will manipulate or distort objects or data
 - `⌘-drag`: Duplicate an object to the dragged to location (note that this is what `⌥-drag` usually does on macOS)

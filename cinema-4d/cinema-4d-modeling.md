@@ -1,5 +1,7 @@
 # Cinema 4D Modeling
 
+- Hold `⇧` to snap to increments (first start the editing operation, then start holding shift)
+
 ## Basic
 
 - `E`: Move
