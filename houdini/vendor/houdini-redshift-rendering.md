@@ -1,7 +1,6 @@
 # Houdini Redshift Rendering
 
-- In the shelf, choose `Redshift > ViewportIPR` to start an IPR render view in the viewport
-- Add the `Redshift` shelve if it's missing by clicking the `+` icon to the right of the list of shelves
+- In the shelf, choose `Redshift > ViewportIPR` to start an IPR render view in the viewport (add the `Redshift` shelve if it's missing by clicking the `+` icon to the right of the list of shelves)
 
 ## Render View
 

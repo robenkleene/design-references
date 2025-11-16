@@ -1,6 +1,6 @@
 # Houdini Network Editor
 
-- `⇧C` / `Actios > Collapse to Subnet`: Move selection under new parent node
+- `⇧C` / `Actions > Collapse to Subnet`: Move selection under new parent node
 - Click the `i` when hovering a node (or right-click a node and choose `Show Node Information...`) to see additional metadata (this is the same as middle-mouse clicking a node)
 
 ## Mouse
