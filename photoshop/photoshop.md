@@ -1,6 +1,7 @@
 # Photoshop
 
 - `⌘F`: Search, Photoshop's command palette
+- `⌃⌘H`, `View > Extras`: Toggle extras, e.g., user-interface elements like marquee and shape layer boundaries (this used to be `⌘H`, but in modern versions of Photoshop, the first time `⌘H` is entered Photoshop will prompt for whether `⌘H` should hide Photoshop or extras, if Photoshop is chosen then the `⌃⌘H` keyboard shortcut is used to toggle visibility of extras)
 
 ## Toolbar
 

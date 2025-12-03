@@ -3,6 +3,7 @@
 - `⌘K`: Show preferences
 
 ## Preferences
+
 - Disable the home screen with `Preferences > General > Auto show the Home Screen`
 - To invert `⇧` with transform, toggle on `Preferences > General > Use Legacy Free Transform`
 - Toggle on `Preferences > General > Export Clipboard` to help export the clipboard
