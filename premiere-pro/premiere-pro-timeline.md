@@ -9,8 +9,8 @@
 
 ## Secondary
 
-- `j` / `l`: Move forward or backward
-- `k`: Pause
+- `J` / `L`: Move backward or forward
+- `K`: Pause
 - `'` or `⇧⌦`: Extract (ripple delete marked)
 
 ### Delete
@@ -23,11 +23,11 @@ It's called "ripple" because the effect of the edit "ripples" to affect other cl
 
 ### In & Out Point
 
-- `i`: Mark in point 
-- `o`: Mark out point
-- `⌥i`: Clear in point 
-- `⌥o`: Clear out point 
-- `⌥x`: Clear in and out point 
+- `I`: Mark in point 
+- `O`: Mark out point
+- `⌥I`: Clear in point 
+- `⌥O`: Clear out point 
+- `⌥X`: Clear in and out point 
 
 Using a combination of `j` / `l`, `←` / `→`, and `i`, `o`, `,` to make quick fine-grained edits.
 
