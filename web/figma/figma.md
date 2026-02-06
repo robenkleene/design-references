@@ -4,6 +4,7 @@
 - `⇧⌃?`: Show keyboard shortcuts
 - `⌘/`: Command Palette (e.g., search menus)
 - Hold `⌘` to resize while ignoring constraints
+- `⌘L`: Copy link to current Figma (in desktop app)
 
 ## Shapes
 
