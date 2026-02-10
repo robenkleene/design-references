@@ -6,7 +6,7 @@
 
 ## Grid Settings
 
-- `Photoshop > Preferences > Guides, Grids & Slices...`: Change grid settings
+- `Preferences > Guides, Grids & Slices...`: Change grid size and color
 
 ## Tips
 
