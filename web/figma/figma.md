@@ -38,7 +38,7 @@ With a team selected, the "New Project" button is far in the upper right.
 
 ## Snap
 
-- Snap settings are under "Preferences".
+- Snap settings are under `Preferences`.
 - Snapping to the grid only works for direct children of the element the grid is applied to. The work around to is to also add the grid to child elements.
 - Toggle on "Snap to Objects" in order to align f4am3s.
 
