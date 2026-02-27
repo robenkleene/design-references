@@ -6,7 +6,7 @@
 - `⌘[` / `⌘]`: Send layer backward / forward
 - `⌘⇧[` / `⌘⇧]`: Send layer to back / front
 - `⌥[` / `⌥]`: Select next / previous layer
-- `⌫`: Delete a layer
+- `⌫`: Delete a layer (this also deletes multiple layers, but fails silently if you try to delete the last layer)
 - `⌥`-click eye icon: Toggle on this layer and off all other layers
 
 ## Smart Objects
