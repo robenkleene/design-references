@@ -3,6 +3,12 @@
 - Remember to uninstall `Adobe Genuine Service`
 - Cloud documents are accessed in Photoshop on the desktop by going to `File > Open` and clicking `Open cloud documents`
 
+## Badge
+
+To prevent the Creative Cloud menu bar icon from getting a red badge:
+
+- Toggle off everything under `User > Preferences > Notifications`
+
 ## Fonts
 
 1. Tap the `F` menu in the upper right to access activated fonts
