@@ -2,7 +2,7 @@
 
 - Hold `⇧` and a hit a binding to rotate between tools for that binding
 - `V`: Move tool (note that the `Artboard` tool now also shares this shortcut, so `⇧V` might be required to choose the move tool)
-- `z`: Zoom tool, to drag a marquee, unselect "Scrubby Zoom"
+- `Z`: Zoom tool, to drag a marquee, unselect `Scrubby Zoom`
 - `U`: Shape Tool
 - `⇧U`: Next shape tool
 
