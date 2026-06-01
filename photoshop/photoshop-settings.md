@@ -5,7 +5,7 @@
 ## Preferences
 
 - Toggle on `Preferences > General > Export Clipboard` to help export the clipboard (without this copying the selection with `⇧⌘C` and pasting into another application will fail)
-- When setting up Photoshop for the first time, hit `⌘H` and choose *Hide Photoshop*
+- When setting up Photoshop for the first time, hit `⌘H` and choose *Hide Photoshop* (this will set `⌃⌘H` to `View > Extras`)
 - `Preferences > Tools > Zoom with Scroll Wheel`: . Zooming with the scroll wheel makes it easier to zoom while using another tool (like the crop tool), also the scroll wheel can't scroll horizontally in Photoshop, limiting the usefulness of the default scrolling behavior (better to use `␣` and dragging to pan)
 
 ### Quiet

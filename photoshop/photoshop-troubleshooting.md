@@ -2,7 +2,7 @@
 
 ## Missing Interface
 
-Try one of these keys that may have been hit accidently:
+Try one of these keys that may have been hit accidentally:
 
 - `F`: Toggle between full screen modes (that hide the rest of the interface)
 - `⇥`: Toggle hiding interface
