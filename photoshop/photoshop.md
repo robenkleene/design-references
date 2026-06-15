@@ -7,9 +7,10 @@
 
 If any tools are missing you might have to drag them back into the toolbar under "Edit > Toolbar...".
 
-## New From Clipboard
+## Clipboard
 
-Just do "File > New..." and select the "Clipboard" template then paste.
+- By default, `File > New...` will use the current clipboard dimensions
+- To make a new document from the current clipboard, `File > New...` then return to select the default dimensions, then `⌘V`
 
 ## Swatches
 
