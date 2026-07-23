@@ -1,6 +1,6 @@
 # Premiere Pro Export
 
-- `⌘M` / `File > Export > Media...`
+- `⌘M` / `File > Export > Media...` (with a Sequence to export selected)
 - Clip lengths are automatic, e.g., the export will be until the media ends
 
 ## Quick Export
